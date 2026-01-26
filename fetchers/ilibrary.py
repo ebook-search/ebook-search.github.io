@@ -65,6 +65,10 @@ def fetch_ilibrary_page(work_id, page_id):
     title = content.find("div", class_="title")
     if title: title.decompose()
 
+    # Unknown hidden element (found in "Кому на руси жить хорошо")
+    for eh in content.find_all("eh"):
+        eh.decompose()
+
     if len(content.find_all("h1")) > 0:
         raise Exception("WHAAT :O")
 
