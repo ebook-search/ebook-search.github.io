@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-size: 24px;
+    font-family: Brush Script MT, Georgia, serif;
+    font-weight: 400; /* safari fix */
+}
+
+body {
+	background-color: #fbf1c7;
+	color: #3c3836;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 2em;
+
+    margin: 25px;
+}
+
+#query, #books {
+    width: 100%;
+
+    padding: 6px 12px;
+    background-color: #ebdbb2;
+    color: inherit;
+
+    border: 2px solid #7c6f64;
+}
+
+#query:focus {
+    outline: none;
+    border-color: #d79921;
+}
+
+#books {
+    list-style: none;
+}
+
+li.book {
+    margin: 12px 0;
+}
