@@ -1,6 +1,6 @@
-from fetchers.ilibrary import fetch_ilibrary
 from argparse import ArgumentParser
 from iterfzf import iterfzf
+from fetchers import fetch
 import pickle
 import shutil
 import sys
@@ -26,14 +26,7 @@ def main():
 
     for book in books:
         print(f"Downloading \"{book}\"...")
-
-        meta = db[book]
-
-        # TODO: convert meta to dataclass, meta.source to enum
-        if meta["source"] == "ilibrary":
-            fetch_ilibrary(meta, f"{book}.epub")
-        else:
-            raise Exception(f"invalid source: {source}")
+        fetch(db[book], f"{book}.epub")
 
     print("Done!")
 
