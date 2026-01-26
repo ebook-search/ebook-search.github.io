@@ -1,12 +1,12 @@
-import pickle
+import shutil
 import os
 
 os.makedirs("data", exist_ok=True)
 
-# TODO: move all epubs from ../ to data
+books = [x.removesuffix(".epub") for x in os.listdir("..") if x.endswith(".epub")]
 
-with open("../db.pickle", "rb") as f:
-    db = pickle.load(f)
+for book in books:
+    shutil.move(f"../{book}.epub", f"data/{book}.epub")
 
 template = lambda books: f"""
 <!DOCTYPE html>
@@ -28,15 +28,11 @@ template = lambda books: f"""
 </html>
 """
 
-# <li class="book"><a href="./test2">А. Достоевский - Тестбук1</a></li>
-# <li class="book"><a href="./test">А. Петров - Тестобуко9</a></li>
-
-books = [
-    f'<li class="book"><a href="./UNKNOWNYETSORRY">{name}</a></li>'
-    for name in db.keys()
+book_elements = [
+    f'<li class="book"><a href="./data/{name}.epub">{name}</a></li>'
+    for name in books
 ]
-books = "".join(books)
 
-index = template(books)
+index = template("".join(book_elements))
 with open("index.html", "w") as f:
     f.write(index)
