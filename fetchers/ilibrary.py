@@ -21,6 +21,7 @@ def fetch_ilibrary_meta(work_id):
     toc = content.find("span", id="toc")
     page_count = int(toc.text.split("/")[1]) if toc else 1
 
+    # TODO: should be replaced with a dataclass
     return {
         "authors": authors,
         "title": title,
@@ -99,6 +100,13 @@ def fetch_ilibrary_page(work_id, page_id):
     page_end_dec = content.find("div", class_="i0 tc")
     if page_end_dec: page_end_dec.decompose()
 
+    # Remove all inline styling
+    for x in content.select("[style]"):
+        x.attrs.pop("style")
+
+    # TODO: fix
+    # Повести покойного Ивана Петровича Белкина: epigraphs
+
     # TODO: styles:
     # letter_presignature {
     #     text-align: right;
@@ -107,19 +115,7 @@ def fetch_ilibrary_page(work_id, page_id):
 
     return normalize("".join(str(child) for child in content.contents))
 
-    # for block in content.find_all(["z", "h1", "h2", "h3"]):
-    #     for note in block.find_all("fn"):
-    #         note_id = note.find("a").get("id", "").removeprefix("fnr")
-    #         note.replace_with(f"[^{note_id}]")
-    #
-    # footnotes = content.find("div", class_="fns") or []
-    # for note in footnotes:
-    #     note_id = note.attrs["id"].removeprefix("fnt")
-    #     note = " ".join([x.text for x in note.find_all("z", recursive=False)])
-    #     lines.append(f"[^{note_id}]: {note}")
-    #
-    # return "\n".join(lines)
-
+# TODO: can be "generalized"
 def fetch_ilibrary(meta, output_path):
     work_id = meta["data"]["id"]
 
