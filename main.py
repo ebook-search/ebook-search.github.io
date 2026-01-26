@@ -24,8 +24,10 @@ def main():
         prompt = "(Press Tab for multi-select): "
         books = iterfzf(db.keys(), cycle=True, multi=True, prompt=prompt)
 
-    for book in books:
-        print(f"Downloading \"{book}\"...")
+    book_count = len(books)
+
+    for i, book in enumerate(books):
+        print(f"[{i+1}/{book_count}] Downloading \"{book}\"...")
         fetch(db[book], f"{book}.epub")
 
     print("Done!")
