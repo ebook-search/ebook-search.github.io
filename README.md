@@ -25,5 +25,5 @@ python generate_db.py # (update db every update)
 
 ```console
 source venv/bin/activate
-python main.py
+python downloader.py (tui book downloader)
 ```
