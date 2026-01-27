@@ -1,11 +1,10 @@
-from utils import hash_long
 import pickle
 import os
 
 with open("db.pickle", "rb") as f:
     db = pickle.load(f)
 
-books = [hash_long(x) for x in db.keys()]
+books = db.keys()
 
 template = lambda books: f"""
 <!DOCTYPE html>

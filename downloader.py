@@ -1,5 +1,4 @@
 from argparse import ArgumentParser
-from utils import hash_long
 from iterfzf import iterfzf
 from fetchers import fetch
 from pathlib import Path
@@ -29,16 +28,16 @@ def main():
         books = iterfzf(books, cycle=True, multi=True, prompt=prompt)
 
     # skip all downloaded books
-    books = [x for x in books if not (output_path / f"{hash_long(x)}.epub").exists()]
-
-    book_count = len(books)
+    books = [x for x in books if not (output_path / f"{x}.epub").exists()]
 
     # TODO: for testing github pages
     books = books[:6]
 
+    book_count = len(books)
+
     for i, book in enumerate(books):
         print(f"[{i+1}/{book_count}] Downloading \"{book}\"...")
-        fetch(db[book], output_path / f"{hash_long(book)}.epub")
+        fetch(db[book], output_path / f"{book}.epub")
 
     print("Done!")
 

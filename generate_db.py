@@ -24,11 +24,13 @@ for i in range(ilibrary_last_id, latest_id):
         meta = fetch_ilibrary_meta(current_work)
 
         authors = ", ".join(meta["authors"])
-        if authors == "": authors = "(Неизвестен)"
+        if authors == "": authors = "(Автор неизвестен)"
 
         title = meta["title"]
+        if len(title) > 150: title = title[:150]
 
-        db[f"{authors} - {title}"] = meta
+        entry = f"{authors} - {title}"
+        db[entry] = meta
 
         print(f"[ilibrary]: {current_work}")
     except InvalidURL:
