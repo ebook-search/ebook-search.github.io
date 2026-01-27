@@ -1,4 +1,5 @@
 from argparse import ArgumentParser
+from utils import hash_long
 from iterfzf import iterfzf
 from fetchers import fetch
 from pathlib import Path
@@ -21,19 +22,21 @@ def main():
 
     output_path = Path(args.output)
 
-    if args.all:
-        books = db.keys()
+    books = db.keys()
 
-        # skip all downloaded books
-        books = [x for x in books if not (output_path / f"{x}.epub").exists()]
-
-        # TODO: for testing github pages
-        books = books[:6]
-    else:
+    if not args.all:
         prompt = "(Press Tab for multi-select): "
-        books = iterfzf(db.keys(), cycle=True, multi=True, prompt=prompt)
+        books = iterfzf(books, cycle=True, multi=True, prompt=prompt)
+
+    books = [hash_long(x) for x in books]
+
+    # skip all downloaded books
+    books = [x for x in books if not (output_path / f"{x}.epub").exists()]
 
     book_count = len(books)
+
+    # TODO: for testing github pages
+    books = books[:6]
 
     for i, book in enumerate(books):
         print(f"[{i+1}/{book_count}] Downloading \"{book}\"...")

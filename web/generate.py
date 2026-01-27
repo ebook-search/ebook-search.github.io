@@ -1,6 +1,11 @@
+from utils import hash_long
+import pickle
 import os
 
-books = [x.removesuffix(".epub") for x in os.listdir("data") if x.endswith(".epub")]
+with open("db.pickle", "rb") as f:
+    db = pickle.load(f)
+
+books = [hash_long(x) for x in db.keys()]
 
 template = lambda books: f"""
 <!DOCTYPE html>
