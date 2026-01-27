@@ -1,7 +1,7 @@
 import pickle
 import os
 
-with open("db.pickle", "rb") as f:
+with open("../db.pickle", "rb") as f:
     db = pickle.load(f)
 
 books = db.keys()
