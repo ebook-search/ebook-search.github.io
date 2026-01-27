@@ -1,10 +1,10 @@
 from argparse import ArgumentParser
 from iterfzf import iterfzf
 from fetchers import fetch
+from pathlib import Path
 import pickle
 import shutil
 import sys
-import os
 
 def main():
     if not shutil.which("pandoc"):
@@ -13,13 +13,19 @@ def main():
 
     parser = ArgumentParser()
     parser.add_argument("--all", action="store_true", help="Download everything")
+    parser.add_argument("-o", "--output", default=".", help="downloads path")
     args = parser.parse_args()
 
     with open("db.pickle", "rb") as f:
         db = pickle.load(f)
 
+    output_path = Path(args.output)
+
     if args.all:
         books = db.keys()
+
+        # skip all downloaded books
+        books = [x for x in books if not (output_path / f"{x}.epub").exists()]
     else:
         prompt = "(Press Tab for multi-select): "
         books = iterfzf(db.keys(), cycle=True, multi=True, prompt=prompt)
@@ -28,7 +34,7 @@ def main():
 
     for i, book in enumerate(books):
         print(f"[{i+1}/{book_count}] Downloading \"{book}\"...")
-        fetch(db[book], f"{book}.epub")
+        fetch(db[book], output_path / f"{book}.epub")
 
     print("Done!")
 
