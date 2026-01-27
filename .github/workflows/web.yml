@@ -1,7 +1,8 @@
 name: Deploy to Pages
 
 on:
-  cron: "12 12 * * 1" # at 12:12 every Monday
+  schedule:
+    - cron: "12 12 * * 1" # at 12:12 every Monday
   push:
     branches: ["master"]
   workflow_dispatch:
