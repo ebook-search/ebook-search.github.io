@@ -1,12 +1,6 @@
-import shutil
 import os
 
-os.makedirs("data", exist_ok=True)
-
-books = [x.removesuffix(".epub") for x in os.listdir("..") if x.endswith(".epub")]
-
-for book in books:
-    shutil.move(f"../{book}.epub", f"data/{book}.epub")
+books = [x.removesuffix(".epub") for x in os.listdir("data") if x.endswith(".epub")]
 
 template = lambda books: f"""
 <!DOCTYPE html>
@@ -20,11 +14,10 @@ template = lambda books: f"""
 		<script src="script.js"></script>
 	</head>
 
-	<body>
-		<input type="text" id="query" placeholder="Поиск..." autocomplete="off">
-
-		<ul id="books">{books}</ul>
-	</body>
+    <body class="content">
+        <input type="text" id="query" placeholder="Поиск..." autocomplete="off">
+        <ul id="books">{books}</ul>
+    </body>
 </html>
 """
 
