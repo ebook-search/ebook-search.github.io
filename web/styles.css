@@ -11,13 +11,15 @@
 body {
 	background-color: #fbf1c7;
 	color: #3c3836;
+}
 
+.content {
     display: flex;
     flex-direction: column;
     align-items: center;
-    row-gap: 2em;
+    row-gap: 1em;
 
-    margin: 25px;
+    margin: 1em 1em;
 }
 
 #query, #books {
@@ -28,6 +30,7 @@ body {
     color: inherit;
 
     border: 2px solid #7c6f64;
+    border-radius: 0.5em;
 }
 
 #query:focus {
@@ -40,5 +43,9 @@ body {
 }
 
 li.book {
-    margin: 12px 0;
+    margin: 0.5em 0;
+}
+
+a {
+    color: #076678;
 }
