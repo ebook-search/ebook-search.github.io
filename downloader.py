@@ -28,10 +28,8 @@ def main():
         prompt = "(Press Tab for multi-select): "
         books = iterfzf(books, cycle=True, multi=True, prompt=prompt)
 
-    books = [hash_long(x) for x in books]
-
     # skip all downloaded books
-    books = [x for x in books if not (output_path / f"{x}.epub").exists()]
+    books = [x for x in books if not (output_path / f"{hash_long(x)}.epub").exists()]
 
     book_count = len(books)
 
@@ -40,7 +38,7 @@ def main():
 
     for i, book in enumerate(books):
         print(f"[{i+1}/{book_count}] Downloading \"{book}\"...")
-        fetch(db[book], output_path / f"{book}.epub")
+        fetch(db[book], output_path / f"{hash_long(book)}.epub")
 
     print("Done!")
 
