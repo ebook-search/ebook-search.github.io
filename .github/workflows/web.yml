@@ -33,10 +33,13 @@ jobs:
           sudo apt-get install -y pandoc
           pip install -r requirements.txt
 
-      - name: Restore books+db
-        uses: actions/download-artifact@v7
+      - name: Cache books and DB
+        uses: actions/cache@v4
         with:
-          name: books+db
+          path: |
+            web/data
+            db.pickle
+          key: ${{ runner.os }}-data
 
       - name: Update DB
         run: python generate_db.py
@@ -57,14 +60,6 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         with:
           path: "web"
-
-      - name: Cache books+db
-        uses: actions/upload-artifact@v6
-        with:
-          name: books+db
-          path: |
-            web/data
-            db.pickle
 
       - name: Deploy to GitHub Pages
         id: deployment
