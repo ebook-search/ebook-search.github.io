@@ -26,6 +26,9 @@ def main():
 
         # skip all downloaded books
         books = [x for x in books if not (output_path / f"{x}.epub").exists()]
+
+        # TODO: for testing github pages
+        books = books[:6]
     else:
         prompt = "(Press Tab for multi-select): "
         books = iterfzf(db.keys(), cycle=True, multi=True, prompt=prompt)
