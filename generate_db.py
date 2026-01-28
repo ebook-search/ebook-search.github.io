@@ -38,8 +38,5 @@ for i in range(ilibrary_last_id, latest_id):
 
     current_work += 1
 
-    # TODO: for testing github pages
-    if current_work > 10: break
-
 with open("db.pickle", "wb") as f:
     pickle.dump(db, f, pickle.HIGHEST_PROTOCOL)

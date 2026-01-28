@@ -30,9 +30,6 @@ def main():
     # skip all downloaded books
     books = [x for x in books if not (output_path / f"{x}.epub").exists()]
 
-    # TODO: for testing github pages
-    books = books[:6]
-
     book_count = len(books)
 
     for i, book in enumerate(books):
