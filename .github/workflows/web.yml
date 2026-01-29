@@ -21,7 +21,9 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -37,29 +39,31 @@ jobs:
         uses: actions/cache@v4
         with:
           path: |
-            web/data
+            /w/d
             db.pickle
-          key: ${{ runner.os }}-data
+          key: data2
 
       - name: Update DB
         run: python generate_db.py
 
-      - name: Download all
+      - name: Move web to /w
         run: |
-          mkdir -p web/data
-          python downloader.py -o web/data --all
+          sudo mkdir -m 777 -p /w
+          mv web/* /w
+
+      - name: Download all
+        run: python $GITHUB_WORKSPACE/web/downloader.py -o /w/d --all
 
       - name: Generate index
         run: |
-          pushd web
-            python generate.py
-          popd
-          rm web/generate.py
+          cd /w
+          python generate.py
+          rm generate.py
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: "web"
+          path: "/w"
 
       - name: Deploy to GitHub Pages
         id: deployment

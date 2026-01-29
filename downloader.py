@@ -27,14 +27,6 @@ def main():
         prompt = "(Press Tab for multi-select): "
         books = iterfzf(books, cycle=True, multi=True, prompt=prompt)
 
-    file = (output_path / f"{x}.epub")
-    try:
-        _ = file.exists()
-    except OSError as err:
-        print("File name len: " + len(file))
-        print("Full path: " + file.absolute())
-        raise err
-
     # skip all downloaded books
     books = [x for x in books if not (output_path / f"{x}.epub").exists()]
 
