@@ -46,7 +46,7 @@ jobs:
 
       - name: Download all
         run: |
-          mkdir web/data
+          mkdir -p web/data
           python downloader.py -o web/data --all
 
       - name: Generate index
