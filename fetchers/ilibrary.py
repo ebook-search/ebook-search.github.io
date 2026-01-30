@@ -71,13 +71,6 @@ def fetch_ilibrary_page(work_id, page_id):
     for eh in content.find_all("eh"):
         eh.decompose()
 
-    if len(content.find_all("h1")) > 0:
-        raise Exception("WHAAT :O")
-
-    # Offset all headings
-    for h in content.find_all(["h2", "h3", "h4", "h5", "h6"]):
-        h.name = f"h{int(h.name.removeprefix('h')) - 1}"
-
     # Poetry: wrappers
     for x in content.find_all(["pmm", "pms", "pm"]):
         x.unwrap()
