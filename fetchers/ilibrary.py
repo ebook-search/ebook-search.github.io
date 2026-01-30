@@ -50,7 +50,9 @@ def fetch_ilibrary_page(work_id, page_id):
     content.find("div", id="thdr").decompose()
 
     # Empty tag
-    content.find("div", id="tbd").decompose()
+    tbd = content.find("div", id="tbd")
+    if tbd:
+        tbd.decompose()
 
     for z in content.find_all("z"):
         z.name = "p"
