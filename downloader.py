@@ -4,6 +4,7 @@ from fetchers import fetch
 from pathlib import Path
 import pickle
 import shutil
+import time
 import sys
 
 def main():
@@ -35,6 +36,10 @@ def main():
     for i, book in enumerate(books):
         print(f"[{i+1}/{book_count}] Downloading \"{book}\"...")
         fetch(db[book], output_path / f"{book}.epub")
+
+        if i > 0 and i % 500 == 0:
+            print("Sleeping for 5 minutes...")
+            time.sleep(5 * 60)
 
     print("Done!")
 
