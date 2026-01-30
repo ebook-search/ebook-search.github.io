@@ -52,7 +52,7 @@ jobs:
           mv web/* /w
 
       - name: Download all
-        run: python /w/downloader.py -o /w/d --all
+        run: python downloader.py -o /w/d --all
 
       - name: Generate index
         run: |
