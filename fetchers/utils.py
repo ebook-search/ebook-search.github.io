@@ -20,12 +20,17 @@ def make_book(meta, pages, output_path):
     title = meta["title"]
     authors = ", ".join(meta["authors"])
 
+    lang = "en"
+
+    if meta["source"] == "ilibrary":
+        lang = "ru"
+
     return subprocess.run([
         "pandoc",
 
         f"--metadata=title:{title}",
         f"--metadata=author:{authors}",
-        "--metadata=lang:ru",
+        f"--metadata=lang:{lang}",
 
         "--epub-title-page=false",
 
