@@ -1,7 +1,12 @@
+import argparse
 import pickle
 import os
 
-with open("../db.pickle", "rb") as f:
+parser = ArgumentParser()
+parser.add_argument("--db", default="../db.pickle", help="db path")
+args = parser.parse_args()
+
+with open(args.db, "rb") as f:
     db = pickle.load(f)
 
 books = db.keys()

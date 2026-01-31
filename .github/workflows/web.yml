@@ -57,7 +57,7 @@ jobs:
       - name: Generate index
         run: |
           cd /w
-          python generate.py
+          python generate.py --db $GITHUB_WORKSPACE/db.pickle
           rm generate.py
 
       - name: Upload artifact
