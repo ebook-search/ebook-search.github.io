@@ -10,10 +10,10 @@ class MetaSource(Enum):
 
 @dataclass
 class Meta():
-    authors = list[str]
-    title = str
-    source = MetaSource
-    data = dict
+    authors: list[str]
+    title: str
+    source: MetaSource
+    data: dict
 
     @property
     def entry(self):

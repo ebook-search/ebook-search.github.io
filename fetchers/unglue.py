@@ -1,3 +1,4 @@
+from fetchers.utils import Meta, MetaSource
 from pymarc import parse_xml_to_array
 import requests
 import re
@@ -51,10 +52,13 @@ def fetch_unglue_db(db):
         url = epub_url or mobi_url
         if url == None: continue
 
-        print()
-        print(author)
-        print(title)
-        print(url)
+        meta = Meta(
+            authors = [author],
+            title = title,
+            source = MetaSource.UNGLUE,
+            data = {"url": url},
+        )
+        db[meta.entry] = meta
 
     return db
 
