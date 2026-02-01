@@ -23,9 +23,8 @@ def _fetch_ilibrary_meta(work_id):
     return Meta(
         authors = [authors],
         title = title,
-        page_count = page_count,
         source = MetaSource.ILIBRARY,
-        data = {"id": work_id},
+        data = {"id": work_id, "page_count": page_count},
     )
 
 def fetch_ilibrary_db(db):
@@ -140,7 +139,7 @@ def fetch_ilibrary(meta, output_path):
     with TemporaryDirectory() as tmp:
         pages = []
 
-        for page_index in range(meta.page_count):
+        for page_index in range(meta.data["page_count"]):
             page_id = page_index + 1
             page = _fetch_ilibrary_page(meta.data["id"], page_id)
 

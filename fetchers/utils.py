@@ -12,7 +12,6 @@ class MetaSource(Enum):
 class Meta():
     authors = list[str]
     title = str
-    page_count = int
     source = MetaSource
     data = dict
 
