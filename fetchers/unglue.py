@@ -6,8 +6,8 @@ import requests
 import re
 
 def fetch_unglue_db(db):
-    data = {"format": "xml", "link_target": "direct"}
-    marc = BytesIO(requests.post("https://unglue.it/marc/all", data=data).content)
+    params = {"format": "xml", "link_target": "direct", "submit": "Download+All+Records"}
+    marc = BytesIO(requests.post("https://unglue.it/marc/all", params=params).content)
 
     records = parse_xml_to_array(marc)
 
