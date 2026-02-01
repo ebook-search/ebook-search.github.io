@@ -1,14 +1,15 @@
 from fetchers.utils import Meta, MetaSource
 from urllib.request import urlretrieve
 from pymarc import parse_xml_to_array
+from io import BytesIO
 import requests
 import re
 
 def fetch_unglue_db(db):
     data = {"format": "xml", "link_target": "direct"}
-    # marc = requests.post("https://unglue.it/marc/all", data=data).text
+    marc = BytesIO(requests.post("https://unglue.it/marc/all", data=data).content)
 
-    records = parse_xml_to_array("/home/user/marc")
+    records = parse_xml_to_array(marc)
 
     for record in records:
         title = record.title.removesuffix(" /")
