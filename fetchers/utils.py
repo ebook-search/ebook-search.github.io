@@ -20,7 +20,7 @@ class Meta():
         authors = ", ".join(self.authors)
         if authors == "": authors = "(Автор неизвестен)"
 
-        title = meta["title"][:150]
+        title = self.title[:150]
 
         return f"{authors} - {title}"
 
