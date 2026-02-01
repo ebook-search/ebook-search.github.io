@@ -1,4 +1,4 @@
-from fetchers.utils import get_soup, normalize, make_book
+from fetchers.utils import get_soup, normalize, make_book, Meta, MetaSource
 from tempfile import TemporaryDirectory
 import os
 
@@ -7,7 +7,6 @@ def _get_ilibrary_link(work_id, page_id):
 
 def _fetch_ilibrary_meta(work_id):
     url = _get_ilibrary_link(work_id, 1)
-
     soup = get_soup(url)
 
     data = soup.find("div", id="thdr").find_all("a")
@@ -21,22 +20,18 @@ def _fetch_ilibrary_meta(work_id):
     toc = content.find("span", id="toc")
     page_count = int(toc.text.split("/")[1]) if toc else 1
 
-    # TODO: should be replaced with a dataclass
-    return {
-        "authors": authors,
-        "title": title,
-        "page_count": page_count,
-        "source": "ilibrary",
-        "data": {"id": work_id},
-    }
+    return Meta(
+        authors = [authors],
+        title = title,
+        page_count = page_count,
+        source = MetaSource.ILIBRARY,
+        data = {"id": work_id},
+    )
 
 def fetch_ilibrary_db(db):
-    ilibrary_last_id = 0
-
-    if db != {}:
-        ilibrary_entries = [x for x in db.values() if x["source"] == "ilibrary"]
-        ilibrary_ids = [x["data"]["id"] for x in ilibrary_entries]
-        ilibrary_last_id = max(ilibrary_ids)
+    ilibrary_entries = [x for x in db.values() if x.source == MetaSource.ILIBRARY]
+    ilibrary_ids = [x.data["id"] for x in ilibrary_entries]
+    ilibrary_last_id = max([0, *ilibrary_ids])
 
     soup = get_soup("https://ilibrary.ru")
 
@@ -48,21 +43,11 @@ def fetch_ilibrary_db(db):
 
         try:
             meta = _fetch_ilibrary_meta(current_work)
-
-            authors = ", ".join(meta["authors"])
-            if authors == "": authors = "(Автор неизвестен)"
-
-            title = meta["title"]
-            if len(title) > 150: title = title[:150]
-
-            entry = f"{authors} - {title}"
-            db[entry] = meta
+            db[meta.entry] = meta
 
             print(f"[ilibrary]: {current_work}")
         except InvalidURL:
             continue
-
-        current_work += 1
 
     return db
 
@@ -152,15 +137,12 @@ def _fetch_ilibrary_page(work_id, page_id):
 
 # TODO: can be "generalized"
 def fetch_ilibrary(meta, output_path):
-    work_id = meta["data"]["id"]
-
-    page_count = meta["page_count"]
-
     with TemporaryDirectory() as tmp:
         pages = []
-        for page_index in range(page_count):
+
+        for page_index in range(meta.page_count):
             page_id = page_index + 1
-            page = _fetch_ilibrary_page(work_id, page_id)
+            page = _fetch_ilibrary_page(meta.data["id"], page_id)
 
             path = os.path.join(tmp, f"{page_id}.html")
 

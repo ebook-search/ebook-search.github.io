@@ -1,6 +1,29 @@
+from dataclasses import dataclass
 from bs4 import BeautifulSoup
+from enum import Enum
 import subprocess
 import requests
+
+class MetaSource(Enum):
+    ILIBRARY = 1
+    UNGLUE = 2
+
+@dataclass
+class Meta():
+    authors = list[str]
+    title = str
+    page_count = int
+    source = MetaSource
+    data = dict
+
+    @property
+    def entry(self):
+        authors = ", ".join(self.authors)
+        if authors == "": authors = "(Автор неизвестен)"
+
+        title = meta["title"][:150]
+
+        return f"{authors} - {title}"
 
 def normalize(text):
     table = {
