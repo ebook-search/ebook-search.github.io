@@ -5,7 +5,7 @@ import os
 def _get_ilibrary_link(work_id, page_id):
     return f"https://ilibrary.ru/text/{work_id}/p.{page_id}/index.html"
 
-def fetch_ilibrary_meta(work_id):
+def _fetch_ilibrary_meta(work_id):
     url = _get_ilibrary_link(work_id, 1)
 
     soup = get_soup(url)
@@ -30,7 +30,43 @@ def fetch_ilibrary_meta(work_id):
         "data": {"id": work_id},
     }
 
-def fetch_ilibrary_page(work_id, page_id):
+def fetch_ilibrary_db(db):
+    ilibrary_last_id = 0
+
+    if db != {}:
+        ilibrary_entries = [x for x in db.values() if x["source"] == "ilibrary"]
+        ilibrary_ids = [x["data"]["id"] for x in ilibrary_entries]
+        ilibrary_last_id = max(ilibrary_ids)
+
+    soup = get_soup("https://ilibrary.ru")
+
+    latest = soup.find("div", id="ltstin").find("ul", class_="ltst_l").find("li").a
+    latest_id = int(latest.attrs["href"].split("/")[2])
+
+    for i in range(ilibrary_last_id, latest_id):
+        current_work = i + 1
+
+        try:
+            meta = _fetch_ilibrary_meta(current_work)
+
+            authors = ", ".join(meta["authors"])
+            if authors == "": authors = "(Автор неизвестен)"
+
+            title = meta["title"]
+            if len(title) > 150: title = title[:150]
+
+            entry = f"{authors} - {title}"
+            db[entry] = meta
+
+            print(f"[ilibrary]: {current_work}")
+        except InvalidURL:
+            continue
+
+        current_work += 1
+
+    return db
+
+def _fetch_ilibrary_page(work_id, page_id):
     url = _get_ilibrary_link(work_id, page_id)
 
     lines = []
@@ -124,7 +160,7 @@ def fetch_ilibrary(meta, output_path):
         pages = []
         for page_index in range(page_count):
             page_id = page_index + 1
-            page = fetch_ilibrary_page(work_id, page_id)
+            page = _fetch_ilibrary_page(work_id, page_id)
 
             path = os.path.join(tmp, f"{page_id}.html")
 
