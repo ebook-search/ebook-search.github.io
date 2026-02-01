@@ -21,7 +21,7 @@ def _fetch_ilibrary_meta(work_id):
     page_count = int(toc.text.split("/")[1]) if toc else 1
 
     return Meta(
-        authors = [authors],
+        authors = authors,
         title = title,
         source = MetaSource.ILIBRARY,
         data = {"id": work_id, "page_count": page_count},
