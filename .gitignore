@@ -1,6 +1,7 @@
 __pycache__
+
 db.pickle
 *.epub
 
-web/data
+web/d
 web/index.html

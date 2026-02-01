@@ -31,7 +31,7 @@ template = lambda books: f"""
 """
 
 book_elements = [
-    f'<li class="book"><a href="./data/{name}.epub">{name}</a></li>'
+    f'<li class="book"><a href="./d/{name}.epub">{name}</a></li>'
     for name in books
 ]
 
