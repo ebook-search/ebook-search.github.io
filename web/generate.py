@@ -22,7 +22,7 @@ template = lambda books: f"""
 
 		<link rel="stylesheet" href="styles.css">
 		<script src="script.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.1.0"></script>
+        <script src="https://cdn.jsdelivr.net/npm/fzf@0.5.2/dist/fzf.umd.js"></script>
 	</head>
 
     <body class="content">

@@ -1,11 +1,15 @@
 document.addEventListener("DOMContentLoaded", function() {
+    const FzF = window.fzf.Fzf;
+
     const books = Array.from(document.querySelectorAll("ul#books li a"));
 
-    const fuse = new Fuse(books, { keys: ["textContent"] });
+    const fzf = new FzF(books, {
+      selector: (item) => item.textContent,
+    });
 
     function search() {
         const raw_query = document.getElementById("query").value;
-        const results = fuse.search(raw_query);
+        const results = fzf.find(raw_query);
 
         requestAnimationFrame(() => {
             for (let book of books) {
