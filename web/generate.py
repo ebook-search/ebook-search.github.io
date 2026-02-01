@@ -3,6 +3,7 @@ import pickle
 import os
 
 parser = ArgumentParser()
+parser.add_argument("-o", "--output", default="index.html", help="index path")
 parser.add_argument("--db", default="../db.pickle", help="db path")
 args = parser.parse_args()
 
@@ -36,5 +37,5 @@ book_elements = [
 ]
 
 index = template("".join(book_elements))
-with open("index.html", "w") as f:
+with open(args.output, "w") as f:
     f.write(index)

@@ -56,9 +56,8 @@ jobs:
 
       - name: Generate index
         run: |
-          cd /w
-          python generate.py --db $GITHUB_WORKSPACE/db.pickle
-          rm generate.py
+          python /w/generate-index.py -o /w/index.html --db $GITHUB_WORKSPACE/db.pickle
+          rm /w/generate-index.py
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
