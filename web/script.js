@@ -1,20 +1,23 @@
 document.addEventListener("DOMContentLoaded", function() {
-    const books = Array.from(document.querySelectorAll("ul#books li"));
+    const books = Array.from(document.querySelectorAll("ul#books li a"));
+
+    const fuse = new Fuse(books, { keys: ["textContent"] });
 
     function search() {
         const raw_query = document.getElementById("query").value;
-        const query = raw_query.toLowerCase().trim();
-        const empty_query = query.length === 0;
+        const results = fuse.search(raw_query);
 
         requestAnimationFrame(() => {
             for (let book of books) {
-                const book_name = book.textContent.toLowerCase();
-                const match = book_name.includes(query) || empty_query;
-                book.style.display = match ? "" : "none";
+                book.style.display = "none";
+            }
+
+            for (let result of results) {
+                result.item.style.display = "";
             }
         })
     }
 
-    const query = document.getElementById("query");
-    query.addEventListener("input", search);
+    const search_bar = document.getElementById("query");
+    search_bar.addEventListener("input", search);
 })
