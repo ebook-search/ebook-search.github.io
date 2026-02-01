@@ -1,4 +1,5 @@
 from fetchers.utils import Meta, MetaSource
+from urllib.request import urlretrieve
 from pymarc import parse_xml_to_array
 import requests
 import re
@@ -62,5 +63,6 @@ def fetch_unglue_db(db):
 
     return db
 
-def fetch_unglue():
-    pass
+def fetch_unglue(meta, output_path):
+    url = meta.data["url"]
+    urlretrieve(url, output_path)
