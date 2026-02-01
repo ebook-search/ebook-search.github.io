@@ -1,8 +1,6 @@
 from fetchers.ilibrary import fetch_ilibrary_db
 from fetchers.unglue import fetch_unglue_db
 
-from requests.exceptions import InvalidURL
-from fetchers.utils import get_soup
 import pickle, os
 
 db = {}

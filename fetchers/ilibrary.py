@@ -1,4 +1,5 @@
 from fetchers.utils import get_soup, normalize, make_book, Meta, MetaSource
+from requests.exceptions import InvalidURL
 from tempfile import TemporaryDirectory
 import os
 
