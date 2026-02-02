@@ -1,5 +1,6 @@
 from dataclasses import dataclass
 from bs4 import BeautifulSoup
+from retrying import retry
 from enum import Enum
 import subprocess
 import requests
@@ -35,6 +36,7 @@ def normalize(text):
 
     return text
 
+@retry(stop_max_attempt_number=5, wait_fixed=10000)
 def get_soup(url):
     page_content = requests.get(url).text
     return BeautifulSoup(page_content, features="html.parser")
