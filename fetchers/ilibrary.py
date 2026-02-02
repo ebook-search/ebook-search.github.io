@@ -24,6 +24,7 @@ def _fetch_ilibrary_meta(work_id):
     return Meta(
         authors = authors,
         title = title,
+        language = "ru",
         source = MetaSource.ILIBRARY,
         data = {"id": work_id, "page_count": page_count},
     )

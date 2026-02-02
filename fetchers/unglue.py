@@ -35,8 +35,8 @@ def fetch_unglue_db(db):
 
             # ["Luther", "Martin"] -> "Martin Luther"
             author = " ".join(author_parts[::-1])
-        else:
-            author = "(Неизвестен)"
+
+        authors = [author] if author else []
 
         epub_url = None
         mobi_url = None
@@ -55,8 +55,9 @@ def fetch_unglue_db(db):
         if url == None: continue
 
         meta = Meta(
-            authors = [author],
+            authors = authors,
             title = title,
+            language = None,
             source = MetaSource.UNGLUE,
             data = {"url": url},
         )

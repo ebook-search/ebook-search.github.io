@@ -12,6 +12,7 @@ class MetaSource(Enum):
 class Meta():
     authors: list[str]
     title: str
+    language: str | None
     source: MetaSource
     data: dict
 
@@ -39,23 +40,24 @@ def get_soup(url):
     return BeautifulSoup(page_content, features="html.parser")
 
 def make_book(meta, pages, output_path):
-    title = meta["title"]
-    authors = ", ".join(meta["authors"])
+    title = meta.title
+    authors = ", ".join(meta.authors)
 
-    lang = "en"
+    cmd = ["pandoc"]
 
-    if meta["source"] == "ilibrary":
-        lang = "ru"
-
-    return subprocess.run([
-        "pandoc",
-
+    cmd.extend([
         f"--metadata=title:{title}",
         f"--metadata=author:{authors}",
-        f"--metadata=lang:{lang}",
+    ])
 
+    if meta.language:
+        cmd.append(f"--metadata=lang:{meta.language}")
+
+    cmd.extend([
         "--epub-title-page=false",
 
         "-o", output_path,
         *pages,
     ])
+
+    return subprocess.run(cmd)
