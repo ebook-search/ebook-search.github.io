@@ -1,10 +1,6 @@
 name: Download data and deploy to Pages
 
 on:
-  workflow_run:
-    workflows: ["Update DB"]
-    types:
-      - completed
   workflow_dispatch:
 
 permissions:
