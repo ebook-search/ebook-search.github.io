@@ -1,0 +1,28 @@
+name: Update DB
+
+on:
+  schedule:
+    - cron: "12 12 * * 1" # at 12:12 every Monday
+  push:
+    branches: ["master"]
+  workflow_dispatch:
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Cache DB
+        uses: actions/cache@v4
+        with:
+          path: db.pickle
+          key: db
+
+      - name: Install requirements
+        run: pip install -r requirements.txt
+
+      - name: Update DB
+        run: python generate_db.py

@@ -1,10 +1,10 @@
-name: Deploy to Pages
+name: Download data and deploy to Pages
 
 on:
-  schedule:
-    - cron: "12 12 * * 1" # at 12:12 every Monday
-  push:
-    branches: ["master"]
+  workflow_run:
+    workflows: ["Update DB"]
+    types:
+      - completed
   workflow_dispatch:
 
 permissions:
@@ -17,7 +17,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  deploy:
+  main:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -35,16 +35,17 @@ jobs:
           sudo apt-get install -y pandoc
           pip install -r requirements.txt
 
-      - name: Cache books and DB
+      - name: Cache DB
         uses: actions/cache@v4
         with:
-          path: |
-            /w/d
-            db.pickle
-          key: data2
+          path: db.pickle
+          key: db
 
-      - name: Update DB
-        run: python generate_db.py
+      - name: Cache data
+        uses: actions/cache@v4
+        with:
+          path: /w/d
+          key: data
 
       - name: Move web to /w
         run: |
@@ -56,7 +57,7 @@ jobs:
 
       - name: Generate index
         run: |
-          python /w/generate-index.py -o /w/index.html --db $GITHUB_WORKSPACE/db.pickle
+          python /w/generate-index.py -o /w/index.html --db db.pickle
           rm /w/generate-index.py
 
       - name: Upload artifact
