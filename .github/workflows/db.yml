@@ -28,4 +28,6 @@ jobs:
         run: python generate_db.py
 
       - name: Trigger "Download data and deploy to Pages"
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: gh workflow run "Download data and deploy to Pages"
