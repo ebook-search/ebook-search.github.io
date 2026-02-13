@@ -9,7 +9,9 @@ if os.path.exists("db.pickle"):
     with open("db.pickle", "rb") as f:
         db = pickle.load(f)
 
-db = fetch_ilibrary_db(db)
+print("Generating db...")
+
+# db = fetch_ilibrary_db(db)
 db = fetch_unglue_db(db)
 
 with open("db.pickle", "wb") as f:
