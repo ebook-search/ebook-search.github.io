@@ -56,8 +56,8 @@ def fetch_unglue_db(db):
         if url == None: continue
 
         meta = Meta(
-            authors = authors,
-            title = title,
+            authors = [x.replace("/", "_") for x in authors],
+            title = title.replace("/", "_"),
             language = None,
             source = MetaSource.UNGLUE,
             data = {"url": url},
