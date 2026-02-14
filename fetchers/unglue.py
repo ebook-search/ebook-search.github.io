@@ -1,6 +1,7 @@
 from fetchers.utils import Meta, MetaSource
 from urllib.request import urlretrieve
 from pymarc import parse_xml_to_array
+from urllib.error import HTTPError
 from io import BytesIO
 import requests
 import re
@@ -67,4 +68,12 @@ def fetch_unglue_db(db):
 
 def fetch_unglue(meta, output_path):
     url = meta.data["url"]
-    urlretrieve(url, output_path)
+
+    try:
+        urlretrieve(url, output_path)
+    except HTTPError as e:
+        if e.code != 404:
+            raise e
+        return False
+
+    return True

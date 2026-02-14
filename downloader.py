@@ -35,7 +35,10 @@ def main():
 
     for i, book in enumerate(books):
         print(f"[{i+1}/{book_count}] Downloading \"{book}\"...")
-        fetch(db[book], output_path / f"{book}.epub")
+
+        if not fetch(db[book], output_path / f"{book}.epub"):
+            del db[book]
+
         time.sleep(3)
 
     print("Done!")

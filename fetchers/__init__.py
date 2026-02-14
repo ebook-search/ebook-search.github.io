@@ -9,4 +9,4 @@ def fetch(meta, output_path):
     }
 
     source = meta.source
-    table[source](meta, output_path)
+    return table[source](meta, output_path)

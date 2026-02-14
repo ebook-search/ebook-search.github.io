@@ -153,3 +153,5 @@ def fetch_ilibrary(meta, output_path):
             pages.append(path)
 
         make_book(meta, pages, output_path)
+
+    return True
