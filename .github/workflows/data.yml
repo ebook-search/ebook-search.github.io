@@ -45,7 +45,8 @@ jobs:
 
       - name: Move web to /w
         run: |
-          sudo mkdir -m 777 -p /w
+          sudo mkdir -m 1777 -p /w
+          mkdir -p /w/d
           mv web/* /w
 
       - name: Download all
