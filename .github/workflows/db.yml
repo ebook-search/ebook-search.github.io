@@ -29,5 +29,5 @@ jobs:
 
       - name: Trigger "Download data and deploy to Pages"
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.CLASSIC_TOKEN }}
         run: gh workflow run "Download data and deploy to Pages"
