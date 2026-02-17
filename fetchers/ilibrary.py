@@ -63,8 +63,6 @@ def fetch_ilibrary_db(db):
 def _fetch_ilibrary_page(work_id, page_id):
     url = _get_ilibrary_link(work_id, page_id)
 
-    lines = []
-
     soup = get_soup(url)
     content = soup.find("div", id="text")
 

@@ -1,10 +1,8 @@
 from . import Meta, MetaSource, FetchResult
 from urllib.request import urlretrieve
 from pymarc import parse_xml_to_array
-from urllib.error import HTTPError
 from io import BytesIO
 import requests
-import re
 
 def fetch_unglue_db(db):
     params = {"format": "xml", "link_target": "direct", "submit": "Download+All+Records"}
