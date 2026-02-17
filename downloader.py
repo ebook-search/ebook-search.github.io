@@ -29,14 +29,15 @@ def main():
         books = iterfzf(books, cycle=True, multi=True, prompt=prompt)
 
     # skip all downloaded books
-    books = [x for x in books if not (output_path / f"{x}.epub").exists()]
+    books = [x for x in books if not (output_path / f"{x[:200]}.epub").exists()]
 
     book_count = len(books)
 
     for i, book in enumerate(books):
         print(f"[{i+1}/{book_count}] Downloading \"{book}\"...")
 
-        fetch_result = fetch(db[book], output_path / f"{book}.epub")
+        filename = f"{book[:200]}.epub"
+        fetch_result = fetch(db[book], output_path / filename)
         if fetch_result == FetchResult.NOT_FOUND:
             del db[book]
 
