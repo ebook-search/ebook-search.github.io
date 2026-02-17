@@ -25,7 +25,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Update DB
-        run: python generate_db.py
+        run: python -u generate_db.py
 
       - name: Trigger "Download data and deploy to Pages"
         env:
