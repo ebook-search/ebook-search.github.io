@@ -1,6 +1,6 @@
+from fetchers import fetch, FetchResult
 from argparse import ArgumentParser
 from iterfzf import iterfzf
-from fetchers import fetch
 from pathlib import Path
 import pickle
 import shutil
@@ -36,7 +36,8 @@ def main():
     for i, book in enumerate(books):
         print(f"[{i+1}/{book_count}] Downloading \"{book}\"...")
 
-        if not fetch(db[book], output_path / f"{book}.epub"):
+        fetch_result = fetch(db[book], output_path / f"{book}.epub")
+        if fetch_result == FetchResult.NOT_FOUND:
             del db[book]
 
         time.sleep(3)

@@ -18,6 +18,10 @@ class MetaSource(Enum):
     ILIBRARY = 1
     UNGLUE = 2
 
+class FetchResult(Enum):
+    SUCCESS = 1
+    NOT_FOUND = 2
+
 @dataclass
 class Meta():
     authors: list[str]

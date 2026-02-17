@@ -1,4 +1,4 @@
-from . import Meta, MetaSource
+from . import Meta, MetaSource, FetchResult
 from urllib.request import urlretrieve
 from pymarc import parse_xml_to_array
 from urllib.error import HTTPError
@@ -72,6 +72,6 @@ def fetch_unglue(meta, output_path):
     try:
         urlretrieve(url, output_path)
     except:
-        return False
+        return FetchResult.NOT_FOUND
 
-    return True
+    return FetchResult.SUCCESS

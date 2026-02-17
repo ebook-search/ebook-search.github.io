@@ -1,4 +1,4 @@
-from . import get_soup, make_book, Meta, MetaSource
+from . import get_soup, make_book, Meta, MetaSource, FetchResult
 from requests.exceptions import InvalidURL
 from tempfile import TemporaryDirectory
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -168,4 +168,4 @@ def fetch_ilibrary(meta, output_path):
 
         make_book(meta, pages, output_path)
 
-    return True
+    return FetchResult.SUCCESS
