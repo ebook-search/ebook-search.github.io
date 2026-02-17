@@ -1,4 +1,4 @@
-from . import get_soup, normalize, make_book, Meta, MetaSource
+from . import get_soup, make_book, Meta, MetaSource
 from requests.exceptions import InvalidURL
 from tempfile import TemporaryDirectory
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -142,7 +142,7 @@ def _fetch_ilibrary_page(work_id, page_id):
     #     margin: 0 20;
     # }
 
-    return normalize("".join(str(child) for child in content.contents))
+    return "".join(str(child) for child in content.contents)
 
 # TODO: can be "generalized"
 def fetch_ilibrary(meta, output_path):
