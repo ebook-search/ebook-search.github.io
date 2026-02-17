@@ -9,6 +9,7 @@ def fetch(meta, output_path):
     table = {
         MetaSource.ILIBRARY: fetch_ilibrary,
         MetaSource.UNGLUE:   fetch_unglue,
+        MetaSource.STANDARDEBOOKS: fetch_standardebooks,
     }
 
     source = meta.source
@@ -17,6 +18,7 @@ def fetch(meta, output_path):
 class MetaSource(Enum):
     ILIBRARY = 1
     UNGLUE = 2
+    STANDARDEBOOKS = 3
 
 class FetchResult(Enum):
     SUCCESS = 1

@@ -1,5 +1,6 @@
 from fetchers.ilibrary import fetch_ilibrary_db
 from fetchers.unglue import fetch_unglue_db
+from fetchers.standardebooks import fetch_standardebooks_db
 
 import pickle, os
 
@@ -13,6 +14,7 @@ print("Generating db...")
 
 db = fetch_ilibrary_db(db)
 db = fetch_unglue_db(db)
+db = fetch_standardebooks_db(db)
 
 with open("db.pickle", "wb") as f:
     pickle.dump(db, f, pickle.HIGHEST_PROTOCOL)
