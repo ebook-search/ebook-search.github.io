@@ -1,6 +1,7 @@
 from fetchers.utils import get_soup, normalize, make_book, Meta, MetaSource
 from requests.exceptions import InvalidURL
 from tempfile import TemporaryDirectory
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import os
 
 def _get_ilibrary_link(work_id, page_id):
@@ -39,16 +40,23 @@ def fetch_ilibrary_db(db):
     latest = soup.find("div", id="ltstin").find("ul", class_="ltst_l").find("li").a
     latest_id = int(latest.attrs["href"].split("/")[2])
 
-    for i in range(ilibrary_last_id, latest_id):
-        current_work = i + 1
+    work_ids = range(ilibrary_last_id + 1, latest_id + 1)
 
+    def fetch_one(current_work):
         try:
             meta = _fetch_ilibrary_meta(current_work)
-            db[meta.entry] = meta
-
             print(f"[ilibrary]: {current_work}")
+            return meta
         except InvalidURL:
-            continue
+            return
+
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        futures = {executor.submit(fetch_one, i): i for i in work_ids}
+
+        for future in as_completed(futures):
+            meta = future.result()
+            if meta:
+                db[meta.entry] = meta
 
     return db
 
@@ -140,17 +148,23 @@ def _fetch_ilibrary_page(work_id, page_id):
 def fetch_ilibrary(meta, output_path):
     with TemporaryDirectory() as tmp:
         pages = []
+        page_count = meta.data["page_count"]
 
-        for page_index in range(meta.data["page_count"]):
-            page_id = page_index + 1
+        def fetch_page(page_id):
             page = _fetch_ilibrary_page(meta.data["id"], page_id)
+            return page_id, page
 
-            path = os.path.join(tmp, f"{page_id}.html")
+        with ThreadPoolExecutor(max_workers=5) as executor:
+            futures = {executor.submit(fetch_page, i + 1): i + 1 for i in range(page_count)}
 
-            with open(path, "w") as f:
-                f.write(page)
+            for future in as_completed(futures):
+                page_id, page = future.result()
+                path = os.path.join(tmp, f"{page_id}.html")
+                with open(path, "w") as f:
+                    f.write(page)
+                pages.append(path)
 
-            pages.append(path)
+        pages.sort(key=lambda x: int(os.path.basename(x).replace(".html", "")))
 
         make_book(meta, pages, output_path)
 
