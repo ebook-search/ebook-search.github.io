@@ -48,10 +48,11 @@ jobs:
           sudo mkdir -m 1777 -p /w
           mkdir -p /w/d
           mv web/* /w
-          mv db.json /w
 
       - name: Download all
-        run: python -u downloader.py -o /w/d --all
+        run: |
+          python -u downloader.py -o /w/d --all
+          mv db.json /w
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
