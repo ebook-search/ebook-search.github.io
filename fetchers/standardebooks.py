@@ -1,4 +1,4 @@
-from . import get_soup, Meta, MetaSource, FetchResult
+from fetchers.core import get_soup, Meta, MetaSource, FetchResult
 from urllib.request import urlretrieve
 from urllib.error import HTTPError
 

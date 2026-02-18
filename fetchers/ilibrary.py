@@ -1,4 +1,4 @@
-from . import get_soup, make_book, Meta, MetaSource, FetchResult
+from fetchers.core import get_soup, make_book, Meta, MetaSource, FetchResult
 from requests.exceptions import InvalidURL
 from tempfile import TemporaryDirectory
 from concurrent.futures import ThreadPoolExecutor, as_completed

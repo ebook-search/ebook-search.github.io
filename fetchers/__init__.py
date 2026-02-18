@@ -1,10 +1,14 @@
-from dataclasses import dataclass
-from bs4 import BeautifulSoup
-from retrying import retry
-from enum import Enum
-import subprocess
-import requests
-import json
+from fetchers.core import (
+    get_soup,
+    make_book,
+    Meta,
+    MetaSource,
+    FetchResult,
+    Database,
+)
+from fetchers.ilibrary import fetch_ilibrary
+from fetchers.unglue import fetch_unglue
+from fetchers.standardebooks import fetch_standardebooks
 
 def fetch(meta, output_path):
     table = {
@@ -15,83 +19,3 @@ def fetch(meta, output_path):
 
     source = meta.source
     return table[source](meta, output_path)
-
-class MetaSource(Enum):
-    ILIBRARY = "ilibrary"
-    UNGLUE = "unglue"
-    STANDARDEBOOKS = "standardebooks"
-
-class FetchResult(Enum):
-    SUCCESS = 1
-    NOT_FOUND = 2
-
-@dataclass
-class Meta():
-    authors: list[str]
-    title: str
-    language: str | None
-    source: MetaSource
-    data: dict
-
-    @property
-    def entry(self):
-        authors = ", ".join(self.authors)
-        if authors == "": authors = "(Автор неизвестен)"
-
-        title = self.title[:150]
-
-        return f"{authors} - {title}"
-
-    def to_dict(self):
-        d = self.__dict__.copy()
-        d["source"] = d["source"].name
-        return d
-
-    @classmethod
-    def from_dict(cls, data):
-        data = data.copy()
-        data["source"] = MetaSource[data["source"]]
-        return cls(**data)
-
-@dataclass
-class Database():
-    books: dict[str, Meta]
-
-    def save(self, path):
-        with open(path, "w") as f:
-            json.dump({k: v.to_dict() for k, v in self.books.items()}, f)
-
-    @classmethod
-    def load(cls, path):
-        with open(path, "r") as f:
-            data = json.load(f)
-            return cls({k: Meta.from_dict(v) for k, v in data.items()})
-
-@retry(stop_max_attempt_number=5)
-def get_soup(url):
-    headers = { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" }
-    page_content = requests.get(url, headers=headers).text
-    return BeautifulSoup(page_content, features="html.parser")
-
-def make_book(meta, pages, output_path):
-    title = meta.title
-    authors = ", ".join(meta.authors)
-
-    cmd = ["pandoc"]
-
-    cmd.extend([
-        f"--metadata=title:{title}",
-        f"--metadata=author:{authors}",
-    ])
-
-    if meta.language:
-        cmd.append(f"--metadata=lang:{meta.language}")
-
-    cmd.extend([
-        "--epub-title-page=false",
-
-        "-o", output_path,
-        *pages,
-    ])
-
-    return subprocess.run(cmd)

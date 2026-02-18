@@ -1,4 +1,4 @@
-from . import Meta, MetaSource, FetchResult
+from fetchers.core import Meta, MetaSource, FetchResult
 from urllib.request import urlretrieve
 from pymarc import parse_xml_to_array
 from io import BytesIO
