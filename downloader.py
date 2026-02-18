@@ -6,6 +6,11 @@ import shutil
 import time
 import sys
 
+def truncate_filename(x, max_bytes=240):
+    encoded = x.encode("utf-8")
+    if len(encoded) <= max_bytes: return x
+    return encoded[:max_bytes].decode("utf-8", errors="ignore")
+
 def main():
     if not shutil.which("pandoc"):
         print("Pandoc is required for this :)")
@@ -26,15 +31,14 @@ def main():
         prompt = "(Press Tab for multi-select): "
         books = iterfzf(books, cycle=True, multi=True, prompt=prompt)
 
-    # skip all downloaded books
-    books = [x for x in books if not (output_path / f"{x[:200]}.epub").exists()]
+    books = [x for x in books if not (output_path / f"{truncate_filename(x)}.epub").exists()]
 
     book_count = len(books)
 
     for i, book in enumerate(books):
         print(f"[{i+1}/{book_count}] Downloading \"{book}\"...")
 
-        filename = f"{book[:200]}.epub"
+        filename = f"{truncate_filename(book)}.epub"
         fetch_result = fetch(db.books[book], output_path / filename)
         if fetch_result == FetchResult.NOT_FOUND:
             del db.books[book]

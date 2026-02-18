@@ -1,3 +1,9 @@
+function truncateFilename(s, maxBytes = 240) {
+    const encoded = new TextEncoder().encode(s);
+    if (encoded.length <= maxBytes) return s;
+    return new TextDecoder("utf-8", { errors: "ignore" }).decode(encoded.slice(0, maxBytes));
+}
+
 function display(elem, value) {
     elem.style.display = value ? "revert-layer" : "none";
 }
@@ -41,8 +47,7 @@ async function search(query) {
         li.className = "book";
 
         const a = document.createElement("a");
-        // TODO: strip name to 200 chars
-        a.href = `./d/${encodeURI(name)}.epub`;
+        a.href = `./d/${encodeURI(truncateFilename(name))}.epub`;
         a.textContent = name;
 
         li.appendChild(a);
