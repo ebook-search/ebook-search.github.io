@@ -2,27 +2,41 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
 
+* {
     font-size: 24px;
-    font-family: Brush Script MT, Georgia, serif;
+    font-family: Georgia, serif;
     font-weight: 400; /* safari fix */
 }
 
 body {
 	background-color: #fbf1c7;
 	color: #3c3836;
+	padding: 1em;
 }
 
-.content {
+a { color: #076678; }
+
+.content#search {
+    display: grid;
+    place-items: center;
+
+    /* subtract body padding */
+    min-height: calc(100vh - 2em);
+}
+
+.content#results {
     display: flex;
     flex-direction: column;
     align-items: center;
-    row-gap: 1em;
 
-    margin: 1em 1em;
+    justify-content: center;
+
+    row-gap: 1em;
 }
 
-#query, #books {
+.query, #books {
     width: 100%;
 
     padding: 6px 12px;
@@ -33,19 +47,17 @@ body {
     border-radius: 0.5em;
 }
 
-#query:focus {
+.query:focus {
     outline: none;
     border-color: #076678;
 }
 
-#books {
-    list-style: none;
-}
+#books { list-style: none; }
 
 li.book {
     margin: 0.5em 0;
 }
 
-a {
-    color: #076678;
+.big-query {
+    width: 50%;
 }
