@@ -1,8 +1,7 @@
-from fetchers import fetch, FetchResult
+from fetchers import fetch, FetchResult, Database
 from argparse import ArgumentParser
 from iterfzf import iterfzf
 from pathlib import Path
-import pickle
 import shutil
 import time
 import sys
@@ -17,12 +16,11 @@ def main():
     parser.add_argument("-o", "--output", default=".", help="downloads path")
     args = parser.parse_args()
 
-    with open("db.pickle", "rb") as f:
-        db = pickle.load(f)
+    db = Database.load("db.json")
 
     output_path = Path(args.output)
 
-    books = db.keys()
+    books = db.books.keys()
 
     if not args.all:
         prompt = "(Press Tab for multi-select): "
@@ -37,11 +35,13 @@ def main():
         print(f"[{i+1}/{book_count}] Downloading \"{book}\"...")
 
         filename = f"{book[:200]}.epub"
-        fetch_result = fetch(db[book], output_path / filename)
+        fetch_result = fetch(db.books[book], output_path / filename)
         if fetch_result == FetchResult.NOT_FOUND:
-            del db[book]
+            del db.books[book]
 
         time.sleep(3)
+
+    db.save("db.json")
 
     print("Done!")
 

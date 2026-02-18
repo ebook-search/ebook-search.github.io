@@ -4,6 +4,7 @@ from retrying import retry
 from enum import Enum
 import subprocess
 import requests
+import json
 
 def fetch(meta, output_path):
     table = {
@@ -16,9 +17,9 @@ def fetch(meta, output_path):
     return table[source](meta, output_path)
 
 class MetaSource(Enum):
-    ILIBRARY = 1
-    UNGLUE = 2
-    STANDARDEBOOKS = 3
+    ILIBRARY = "ilibrary"
+    UNGLUE = "unglue"
+    STANDARDEBOOKS = "standardebooks"
 
 class FetchResult(Enum):
     SUCCESS = 1
@@ -40,6 +41,31 @@ class Meta():
         title = self.title[:150]
 
         return f"{authors} - {title}"
+
+    def to_dict(self):
+        d = self.__dict__.copy()
+        d["source"] = d["source"].name
+        return d
+
+    @classmethod
+    def from_dict(cls, data):
+        data = data.copy()
+        data["source"] = MetaSource[data["source"]]
+        return cls(**data)
+
+@dataclass
+class Database():
+    books: dict[str, Meta]
+
+    def save(self, path):
+        with open(path, "w") as f:
+            json.dump({k: v.to_dict() for k, v in self.books.items()}, f)
+
+    @classmethod
+    def load(cls, path):
+        with open(path, "r") as f:
+            data = json.load(f)
+            return cls({k: Meta.from_dict(v) for k, v in data.items()})
 
 @retry(stop_max_attempt_number=5)
 def get_soup(url):
