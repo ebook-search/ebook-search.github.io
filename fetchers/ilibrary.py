@@ -127,18 +127,114 @@ def _fetch_ilibrary_page(work_id, page_id):
     page_end_dec = content.find("div", class_="i0 tc")
     if page_end_dec: page_end_dec.decompose()
 
-    # Remove all inline styling
+    # Navigation elements (empty)
+    for x in content.find_all(["nx1", "nx2"]):
+        x.decompose()
+
+    # Footnotes: extract and convert to endnotes
+    for fn in content.find_all("fn"):
+        sup = fn.find("sup")
+        if sup:
+            fnb = fn.find("fnb")
+            if fnb:
+                fnb.decompose()
+            fn.replace_with(soup.new_string(""))
+
+    # Handle footnotes section
+    fns_div = content.find("div", class_="fns")
+    if fns_div:
+        fns_div.name = "div"
+        fns_div.attrs = {"class": "footnotes"}
+        for fnb in fns_div.find_all("fnb"):
+            fnb.unwrap()
+        for fnn in fns_div.find_all("fnn"):
+            fnn.unwrap()
+        for z in fns_div.find_all("z"):
+            z.name = "p"
+
+    # Fix br tags in headings - convert to spaces
+    for heading in content.find_all(["h1", "h2", "h3"]):
+        for br in heading.find_all("br"):
+            br.replace_with(" ")
+
+    # Remove all inline styling first
     for x in content.select("[style]"):
         x.attrs.pop("style")
 
-    # TODO: fix
-    # Повести покойного Ивана Петровича Белкина: epigraphs
+    # Letter signature
+    for ls in content.find_all("div", class_="letter_signature"):
+        ls["style"] = "text-align: right; margin-top: 0.5em;"
 
-    # TODO: styles:
-    # letter_presignature {
-    #     text-align: right;
-    #     margin: 0 20;
-    # }
+    # Letter presignature
+    for ls in content.find_all("div", class_="letter_presignature"):
+        ls["style"] = "text-align: right;"
+
+    # Letter place and date styling
+    for lp in content.find_all("div", class_="letter_place"):
+        lp["style"] = "margin-bottom: 0.5em;"
+
+    for ld in content.find_all("div", class_="letter_date"):
+        ld["style"] = "text-align: right; margin-bottom: 1em;"
+
+    # Centered text variants
+    for c in content.find_all("div", class_="centered"):
+        c["style"] = "text-align: center;"
+
+    for c in content.find_all("div", class_="centered_italic"):
+        c["style"] = "text-align: center; font-style: italic;"
+
+    for c in content.find_all("div", class_="centered_spaced"):
+        c["style"] = "text-align: center; letter-spacing: 0.1em;"
+
+    # Subtitles
+    for st in content.find_all("div", class_="subtitle"):
+        st.name = "h3"
+
+    for sst in content.find_all("div", class_="subsubtitle"):
+        sst.name = "h4"
+
+    # Epigraphs - handle blockquote-like structure
+    for epigraph in content.find_all("div", class_="epigraph"):
+        epigraph.name = "blockquote"
+
+    for epigraph in content.find_all("div", class_="epigraf"):
+        epigraph.name = "blockquote"
+        for ea in epigraph.find_all("div", class_="epigraf_author"):
+            ea["style"] = "text-align: right; font-style: italic; margin-top: 0.5em;"
+        for es in epigraph.find_all("div", class_="epigraf_source"):
+            es["style"] = "text-align: right; font-style: italic; font-size: 0.9em;"
+
+    # Notes date (often appears before footnotes)
+    for nd in content.find_all("div", class_="notes_date"):
+        nd.unwrap()
+
+    # Play script elements: character names and stage directions
+    for psb in content.find_all("psb"):
+        psb.name = "b"
+
+    for ps in content.find_all("ps"):
+        ps.name = "b"
+
+    for rm in content.find_all("rm"):
+        rm.name = "em"
+
+    for rmi in content.find_all("rmi"):
+        rmi.name = "em"
+        rmi["style"] = "font-style: italic;"
+
+    for st in content.find_all("st"):
+        st.name = "p"
+        st["style"] = "text-align: center; font-style: italic;"
+
+    # Character list elements (for plays)
+    for ci in content.find_all("div", class_="ci"):
+        ci.unwrap()
+
+    for i0 in content.find_all("div", class_="i0"):
+        i0.unwrap()
+
+    for brc in content.find_all("div", class_="brc"):
+        brc.decompose()
 
     return "".join(str(child) for child in content.contents)
 
