@@ -1,3 +1,14 @@
+:root {
+    --bg: #fcfdff;
+
+    --surface: #e2e5ea;
+    --border: #b2bfcf;
+
+    --accent: #6989af;
+
+    --text: #2e4262;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -6,24 +17,26 @@
 
 * {
     font-size: 24px;
-    font-family: Georgia, serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, serif;
     font-weight: 400; /* safari fix */
 }
 
-body {
-	background-color: #fbf1c7;
-	color: #3c3836;
-	padding: 1em;
+* {
+    transition: all 1s ease;
 }
 
-a { color: #076678; }
+body {
+	background-color: var(--bg);
+	color: var(--text);
+	padding: 1em;
+}
 
 .content#search {
     display: grid;
     place-items: center;
 
     /* subtract body padding */
-    min-height: calc(100vh - 2em);
+    min-height: calc(100vh - 4em);
 }
 
 .content#results {
@@ -38,18 +51,33 @@ a { color: #076678; }
 
 .query, #books {
     width: 100%;
+}
 
-    padding: 6px 12px;
-    background-color: #ebdbb2;
-    color: inherit;
+.query, .book {
+    padding: 0.25em 0.5em;
+    background-color: var(--surface);
+    color: var(--text);
 
-    border: 2px solid #7c6f64;
+    border: 2px solid var(--border);
     border-radius: 0.5em;
+}
+
+.book a {
+    text-decoration: none;
+}
+
+.book a::before {
+    content: "📖";
+    margin-right: 0.5rem;
+}
+
+.book a {
+    color: var(--text);
 }
 
 .query:focus {
     outline: none;
-    border-color: #076678;
+    border-color: var(--accent);
 }
 
 #books { list-style: none; }
@@ -60,4 +88,11 @@ li.book {
 
 .big-query {
     width: 50%;
+}
+
+/* whole list item is clickable now */
+.book a {
+    display: block;
+    height: 100%;
+    width: 100%;
 }
