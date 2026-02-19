@@ -4,3 +4,4 @@ db.json
 *.epub
 
 web/d
+web/opds

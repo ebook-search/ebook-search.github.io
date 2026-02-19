@@ -43,6 +43,11 @@ jobs:
           path: /w/d
           key: data
 
+      - name: Generate OPDS feeds
+        run: |
+          pip install -r requirements.txt
+          python generate_opds.py
+
       - name: Move everything to /w
         run: |
           mv web/* /w
