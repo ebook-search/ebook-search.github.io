@@ -1,4 +1,10 @@
-_getRawDB();
+const params = new URLSearchParams(window.location.search);
+const query = params.get("q") || "";
+
+const searchResultsScreen = query.length > 0;
+
+// If on main page, prefetch the db in background to speed up searches
+if (!searchResultsScreen) { _getRawDB(); }
 
 function truncateFilename(s, maxBytes = 240) {
     const encoded = new TextEncoder().encode(s);
@@ -44,42 +50,18 @@ async function search(query) {
 
     const booksList = document.getElementById("books");
 
-    for (const book of books) {
-        const [name, data] = book.item;
-
-        const li = document.createElement("li");
-        li.className = "book";
-
-        const a = document.createElement("a");
-        a.href = `./d/${encodeURI(truncateFilename(name))}.epub`;
-        a.textContent = name;
-
-        li.appendChild(a);
-        booksList.appendChild(li);
-    }
+    booksList.innerHTML = books.map((book) => {
+        const [name] = book.item;
+        return `<li class="book"><a href="./d/${encodeURI(truncateFilename(name))}.epub">${name}</a></li>`;
+    }).join("");
 }
 
 document.addEventListener("DOMContentLoaded", function() {
-    const params = new URLSearchParams(window.location.search);
-    const query = params.get("q") || "";
-
     let elems = document.querySelectorAll("input#query");
-    for (let elem of elems) {
-        elem.value = query;
-    }
+    for (let elem of elems) { elem.value = query; }
 
-    let screen;
+    const screen = (searchResultsScreen) ? "form#results" : "form#search";
+    display(document.querySelector(screen), true);
 
-    const showSearchResults = query.length > 0;
-
-    if (showSearchResults) {
-        screen = "form#results";
-        search(query);
-    } else {
-        screen = "form#search";
-    }
-
-    requestAnimationFrame(() => {
-        display(document.querySelector(screen), true);
-    });
+    if (searchResultsScreen) { search(query); }
 })
