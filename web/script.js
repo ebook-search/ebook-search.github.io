@@ -36,7 +36,7 @@ async function getDB() {
 async function search(query) {
     const db = await getDB();
 
-    const fzf = new window.fzf.AsyncFzf(Object.entries(db));
+    const fzf = new window.fzf.AsyncFzf(db);
     const books = await fzf.find(query);
 
     const booksList = document.getElementById("books");
