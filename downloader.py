@@ -30,8 +30,12 @@ def main():
     if not args.all:
         prompt = "(Press Tab for multi-select): "
         books = iterfzf(books, cycle=True, multi=True, prompt=prompt)
+    else:
+        books = [x for x in books if not (output_path / f"{truncate_filename(x)}.epub").exists()]
 
-    books = [x for x in books if not (output_path / f"{truncate_filename(x)}.epub").exists()]
+        # Github workflow has a limit of 6 hours
+        # So let's download 1k books at a time
+        books = books[:1000]
 
     book_count = len(books)
 
