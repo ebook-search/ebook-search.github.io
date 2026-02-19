@@ -52,9 +52,7 @@ class Database():
         full_db = os.path.join(path, "full.json")
         slugs_db = os.path.join(path, "slugs.json")
 
-        if os.path.exists(path):
-            [os.remove(file) for file in (full_db, slugs_db)]
-            os.rmdir(path)
+        os.makedirs(path, exist_ok=True)
 
         with open(full_db, "w") as f:
             json.dump({k: v.to_dict() for k, v in self.books.items()}, f)
