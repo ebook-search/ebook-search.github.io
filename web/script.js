@@ -6,12 +6,6 @@ const searchResultsScreen = query.length > 0;
 // If on main page, prefetch the db in background to speed up searches
 if (!searchResultsScreen) { _getRawDB(); }
 
-function truncateFilename(s, maxBytes = 240) {
-    const encoded = new TextEncoder().encode(s);
-    if (encoded.length <= maxBytes) return s;
-    return new TextDecoder("utf-8", { errors: "ignore" }).decode(encoded.slice(0, maxBytes));
-}
-
 function display(elem, value) {
     elem.style.display = value ? "revert-layer" : "none";
 }
@@ -29,7 +23,7 @@ async function _getRawDB() {
     const cached = sessionStorage.getItem("db");
     if (cached) { return cached; }
 
-    const raw = await getFileContents("db.json");
+    const raw = await getFileContents("db/slugs.json");
     sessionStorage.setItem("db", raw);
     return raw;
 }
@@ -42,17 +36,14 @@ async function getDB() {
 async function search(query) {
     const db = await getDB();
 
-    const fzf = new window.fzf.AsyncFzf(Object.entries(db), {
-      selector: (x) => x[0],
-    });
-
+    const fzf = new window.fzf.AsyncFzf(Object.entries(db));
     const books = await fzf.find(query);
 
     const booksList = document.getElementById("books");
 
     booksList.innerHTML = books.map((book) => {
-        const [name] = book.item;
-        return `<li class="book"><a href="./d/${encodeURI(truncateFilename(name))}.epub">${name}</a></li>`;
+        const name = book.item;
+        return `<li class="book"><a href="./d/${encodeURI(name)}.epub">${name}</a></li>`;
     }).join("");
 }
 

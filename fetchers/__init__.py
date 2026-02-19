@@ -5,6 +5,7 @@ from fetchers.core import (
     MetaSource,
     FetchResult,
     Database,
+    truncate_filename,
 )
 from fetchers.ilibrary import fetch_ilibrary
 from fetchers.unglue import fetch_unglue

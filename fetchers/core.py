@@ -5,6 +5,7 @@ from enum import Enum
 import subprocess
 import requests
 import json
+import os
 
 class MetaSource(Enum):
     ILIBRARY = "ilibrary"
@@ -48,14 +49,29 @@ class Database():
     books: dict[str, Meta]
 
     def save(self, path):
-        with open(path, "w") as f:
+        full_db = os.path.join(path, "full.json")
+        slugs_db = os.path.join(path, "slugs.json")
+
+        if os.path.exists(path):
+            [os.remove(file) for file in (full_db, slugs_db)]
+            os.rmdir(path)
+
+        with open(full_db, "w") as f:
             json.dump({k: v.to_dict() for k, v in self.books.items()}, f)
+
+        with open(slugs_db, "w") as f:
+            slugs = list(self.books.keys())
+            slugs = [truncate_filename(x) for x in slugs]
+            json.dump(slugs, f)
 
     @classmethod
     def load(cls, path):
-        with open(path, "r") as f:
+        full_db = os.path.join(path, "full.json")
+
+        with open(full_db, "r") as f:
             data = json.load(f)
-            return cls({k: Meta.from_dict(v) for k, v in data.items()})
+
+        return cls({k: Meta.from_dict(v) for k, v in data.items()})
 
 @retry(stop_max_attempt_number=5)
 def get_soup(url):
@@ -85,3 +101,8 @@ def make_book(meta, pages, output_path):
     ])
 
     return subprocess.run(cmd)
+
+def truncate_filename(x, max_bytes=240):
+    encoded = x.encode("utf-8")
+    if len(encoded) <= max_bytes: return x
+    return encoded[:max_bytes].decode("utf-8", errors="ignore")

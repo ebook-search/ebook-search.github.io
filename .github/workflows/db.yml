@@ -18,7 +18,7 @@ jobs:
       - name: Cache DB
         uses: actions/cache@v4
         with:
-          path: db.json
+          path: db
           key: db
 
       - name: Install requirements

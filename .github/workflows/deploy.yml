@@ -34,7 +34,7 @@ jobs:
       - name: Cache DB
         uses: actions/cache@v4
         with:
-          path: db.json
+          path: db
           key: db
 
       - name: Cache data
@@ -51,7 +51,7 @@ jobs:
       - name: Move everything to /w
         run: |
           mv web/* /w
-          mv db.json /w
+          mv db /w
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4

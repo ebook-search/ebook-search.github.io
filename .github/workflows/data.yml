@@ -24,7 +24,7 @@ jobs:
       - name: Cache DB
         uses: actions/cache@v4
         with:
-          path: db.json
+          path: db
           key: db
 
       - name: Cache data
@@ -39,7 +39,7 @@ jobs:
       - name: Download all
         run: |
           python -u downloader.py -o /w/d --all
-          mv db.json /w
+          mv db /w
 
       - name: Trigger "Deploy pages"
         env:

@@ -104,7 +104,7 @@ def make_source_feed(source, books):
 {chr(10).join(entries)}
 </feed>"""
 
-db = Database.load("web/db.json")
+db = Database.load("db")
 
 books_by_author = group_books_by_author(db)
 books_by_source = group_books_by_source(db)

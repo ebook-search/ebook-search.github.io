@@ -1,15 +1,10 @@
-from fetchers import fetch, FetchResult, Database
+from fetchers import fetch, FetchResult, Database, truncate_filename
 from argparse import ArgumentParser
 from iterfzf import iterfzf
 from pathlib import Path
 import shutil
 import time
 import sys
-
-def truncate_filename(x, max_bytes=240):
-    encoded = x.encode("utf-8")
-    if len(encoded) <= max_bytes: return x
-    return encoded[:max_bytes].decode("utf-8", errors="ignore")
 
 def main():
     if not shutil.which("pandoc"):
@@ -21,7 +16,7 @@ def main():
     parser.add_argument("-o", "--output", default=".", help="downloads path")
     args = parser.parse_args()
 
-    db = Database.load("db.json")
+    db = Database.load("db")
 
     output_path = Path(args.output)
 
@@ -49,7 +44,7 @@ def main():
 
         time.sleep(3)
 
-    db.save("db.json")
+    db.save("db")
 
     print("Done!")
 
