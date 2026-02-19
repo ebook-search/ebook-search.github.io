@@ -27,7 +27,7 @@ jobs:
       - name: Update DB
         run: python -u generate_db.py
 
-      - name: Trigger "Download data and deploy to Pages"
+      - name: Trigger "Download data"
         env:
           GH_TOKEN: ${{ secrets.CLASSIC_TOKEN }}
-        run: gh workflow run "Download data and deploy to Pages"
+        run: gh workflow run "Download data"

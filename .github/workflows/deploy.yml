@@ -1,20 +1,30 @@
-name: Download data
+name: Deploy pages
 
 on:
   workflow_dispatch:
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   main:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
         uses: actions/checkout@v6
-
-      - name: Install requirements
-        run: |
-          sudo apt-get install -y pandoc
-          pip install -r requirements.txt
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
 
       - name: Make cache directories
         run: |
@@ -34,14 +44,15 @@ jobs:
           key: data
 
       - name: Move everything to /w
-        run: mv web/* /w
-
-      - name: Download all
         run: |
-          python -u downloader.py -o /w/d --all
+          mv web/* /w
           mv db.json /w
 
-      - name: Trigger "Deploy pages"
-        env:
-          GH_TOKEN: ${{ secrets.CLASSIC_TOKEN }}
-        run: gh workflow run "Deploy pages"
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: "/w"
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
