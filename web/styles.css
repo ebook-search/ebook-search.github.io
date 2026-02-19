@@ -21,8 +21,8 @@
     font-weight: 400; /* safari fix */
 }
 
-* {
-    transition: all 1s ease;
+input#query {
+    transition: all 200ms ease;
 }
 
 body {
@@ -87,7 +87,7 @@ li.book {
 }
 
 .big-query {
-    width: 50%;
+    max-width: 920px;
 }
 
 /* whole list item is clickable now */
