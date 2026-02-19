@@ -1,3 +1,5 @@
+_getRawDB();
+
 function truncateFilename(s, maxBytes = 240) {
     const encoded = new TextEncoder().encode(s);
     if (encoded.length <= maxBytes) return s;
@@ -17,20 +19,22 @@ async function getFileContents(url_path) {
 	return await response.text();
 }
 
-async function fetchDB() {
+async function _getRawDB() {
     const cached = sessionStorage.getItem("db");
-    if (cached) {
-        return JSON.parse(cached);
-    }
+    if (cached) { return cached; }
 
     const raw = await getFileContents("db.json");
     sessionStorage.setItem("db", raw);
+    return raw;
+}
 
-    return JSON.parse(raw);
+async function getDB() {
+    const db = await _getRawDB();
+    return JSON.parse(db);
 }
 
 async function search(query) {
-    const db = await fetchDB();
+    const db = await getDB();
 
     const fzf = new window.fzf.AsyncFzf(Object.entries(db), {
       selector: (x) => x[0],
