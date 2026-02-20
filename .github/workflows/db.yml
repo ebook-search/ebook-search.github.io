@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Cache DB
-        uses: actions/cache@v4
+        uses: MasterworksIO/action-local-cache@2.1.0
         with:
           path: db
           key: db
