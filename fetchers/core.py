@@ -58,7 +58,7 @@ class Database():
             json.dump({k: v.to_dict() for k, v in self.books.items()}, f)
 
         with open(slugs_db, "w") as f:
-            slugs = list(self.books.keys())
+            slugs = sorted(list(self.books.keys()))
             slugs = [truncate_filename(x) for x in slugs]
             json.dump(slugs, f)
 
