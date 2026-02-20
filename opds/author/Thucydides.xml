@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Thucydides</title>
   <id>urn:ebook-search:author:Thucydides</id>
-  <updated>2026-02-20T13:52:15.467853Z</updated>
+  <updated>2026-02-20T18:44:01.738694Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Thucydides - History of the Peloponnesian War</title>
     <id>urn:ebook-search:book:Thucydides - History of the Peloponnesian War</id>
-    <updated>2026-02-20T13:52:15.467853Z</updated>
+    <updated>2026-02-20T18:44:01.738694Z</updated>
     <link href="../../d/Thucydides - History of the Peloponnesian War.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Thucydides</name>

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>M. E. Braddon</title>
   <id>urn:ebook-search:author:M. E. Braddon</id>
-  <updated>2026-02-20T13:52:15.461966Z</updated>
+  <updated>2026-02-20T18:44:01.718812Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>M. E. Braddon - Aurora Floyd</title>
     <id>urn:ebook-search:book:M. E. Braddon - Aurora Floyd</id>
-    <updated>2026-02-20T13:52:15.461966Z</updated>
+    <updated>2026-02-20T18:44:01.718812Z</updated>
     <link href="../../d/M. E. Braddon - Aurora Floyd.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>M. E. Braddon</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>M. E. Braddon - Lady Audley’s Secret</title>
     <id>urn:ebook-search:book:M. E. Braddon - Lady Audley’s Secret</id>
-    <updated>2026-02-20T13:52:15.461966Z</updated>
+    <updated>2026-02-20T18:44:01.718812Z</updated>
     <link href="../../d/M. E. Braddon - Lady Audley’s Secret.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>M. E. Braddon</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>M. E. Braddon - The Cloven Foot</title>
     <id>urn:ebook-search:book:M. E. Braddon - The Cloven Foot</id>
-    <updated>2026-02-20T13:52:15.461966Z</updated>
+    <updated>2026-02-20T18:44:01.718812Z</updated>
     <link href="../../d/M. E. Braddon - The Cloven Foot.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>M. E. Braddon</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>M. E. Braddon - The Trail of the Serpent</title>
     <id>urn:ebook-search:book:M. E. Braddon - The Trail of the Serpent</id>
-    <updated>2026-02-20T13:52:15.461966Z</updated>
+    <updated>2026-02-20T18:44:01.718812Z</updated>
     <link href="../../d/M. E. Braddon - The Trail of the Serpent.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>M. E. Braddon</name>

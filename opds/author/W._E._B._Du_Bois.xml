@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>W. E. B. Du Bois</title>
   <id>urn:ebook-search:author:W. E. B. Du Bois</id>
-  <updated>2026-02-20T13:52:15.464583Z</updated>
+  <updated>2026-02-20T18:44:01.727786Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>W. E. B. Du Bois - Dark Princess</title>
     <id>urn:ebook-search:book:W. E. B. Du Bois - Dark Princess</id>
-    <updated>2026-02-20T13:52:15.464583Z</updated>
+    <updated>2026-02-20T18:44:01.727786Z</updated>
     <link href="../../d/W. E. B. Du Bois - Dark Princess.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>W. E. B. Du Bois</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>W. E. B. Du Bois - Darkwater</title>
     <id>urn:ebook-search:book:W. E. B. Du Bois - Darkwater</id>
-    <updated>2026-02-20T13:52:15.464583Z</updated>
+    <updated>2026-02-20T18:44:01.727786Z</updated>
     <link href="../../d/W. E. B. Du Bois - Darkwater.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>W. E. B. Du Bois</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>W. E. B. Du Bois - The Souls of Black Folk</title>
     <id>urn:ebook-search:book:W. E. B. Du Bois - The Souls of Black Folk</id>
-    <updated>2026-02-20T13:52:15.464583Z</updated>
+    <updated>2026-02-20T18:44:01.727786Z</updated>
     <link href="../../d/W. E. B. Du Bois - The Souls of Black Folk.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>W. E. B. Du Bois</name>

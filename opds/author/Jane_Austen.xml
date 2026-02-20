@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Jane Austen</title>
   <id>urn:ebook-search:author:Jane Austen</id>
-  <updated>2026-02-20T13:52:15.473493Z</updated>
+  <updated>2026-02-20T18:44:01.758332Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Jane Austen - Emma</title>
     <id>urn:ebook-search:book:Jane Austen - Emma</id>
-    <updated>2026-02-20T13:52:15.473493Z</updated>
+    <updated>2026-02-20T18:44:01.758332Z</updated>
     <link href="../../d/Jane Austen - Emma.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Jane Austen</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Jane Austen - Mansfield Park</title>
     <id>urn:ebook-search:book:Jane Austen - Mansfield Park</id>
-    <updated>2026-02-20T13:52:15.473493Z</updated>
+    <updated>2026-02-20T18:44:01.758332Z</updated>
     <link href="../../d/Jane Austen - Mansfield Park.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Jane Austen</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Jane Austen - Northanger Abbey</title>
     <id>urn:ebook-search:book:Jane Austen - Northanger Abbey</id>
-    <updated>2026-02-20T13:52:15.473493Z</updated>
+    <updated>2026-02-20T18:44:01.758332Z</updated>
     <link href="../../d/Jane Austen - Northanger Abbey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Jane Austen</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Jane Austen - Persuasion</title>
     <id>urn:ebook-search:book:Jane Austen - Persuasion</id>
-    <updated>2026-02-20T13:52:15.473493Z</updated>
+    <updated>2026-02-20T18:44:01.758332Z</updated>
     <link href="../../d/Jane Austen - Persuasion.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Jane Austen</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Jane Austen - Pride and Prejudice</title>
     <id>urn:ebook-search:book:Jane Austen - Pride and Prejudice</id>
-    <updated>2026-02-20T13:52:15.473493Z</updated>
+    <updated>2026-02-20T18:44:01.758332Z</updated>
     <link href="../../d/Jane Austen - Pride and Prejudice.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Jane Austen</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Jane Austen - Sense and Sensibility</title>
     <id>urn:ebook-search:book:Jane Austen - Sense and Sensibility</id>
-    <updated>2026-02-20T13:52:15.473493Z</updated>
+    <updated>2026-02-20T18:44:01.758332Z</updated>
     <link href="../../d/Jane Austen - Sense and Sensibility.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Jane Austen</name>

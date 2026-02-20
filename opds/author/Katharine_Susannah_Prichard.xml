@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Katharine Susannah Prichard</title>
   <id>urn:ebook-search:author:Katharine Susannah Prichard</id>
-  <updated>2026-02-20T13:52:15.475304Z</updated>
+  <updated>2026-02-20T18:44:01.765575Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Katharine Susannah Prichard - The Black Opal</title>
     <id>urn:ebook-search:book:Katharine Susannah Prichard - The Black Opal</id>
-    <updated>2026-02-20T13:52:15.475304Z</updated>
+    <updated>2026-02-20T18:44:01.765575Z</updated>
     <link href="../../d/Katharine Susannah Prichard - The Black Opal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Katharine Susannah Prichard</name>

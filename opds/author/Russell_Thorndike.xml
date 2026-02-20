@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Russell Thorndike</title>
   <id>urn:ebook-search:author:Russell Thorndike</id>
-  <updated>2026-02-20T13:52:15.473711Z</updated>
+  <updated>2026-02-20T18:44:01.759174Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Russell Thorndike - Doctor Syn</title>
     <id>urn:ebook-search:book:Russell Thorndike - Doctor Syn</id>
-    <updated>2026-02-20T13:52:15.473711Z</updated>
+    <updated>2026-02-20T18:44:01.759174Z</updated>
     <link href="../../d/Russell Thorndike - Doctor Syn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Russell Thorndike</name>

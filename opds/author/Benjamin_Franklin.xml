@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Benjamin Franklin</title>
   <id>urn:ebook-search:author:Benjamin Franklin</id>
-  <updated>2026-02-20T13:52:15.479202Z</updated>
+  <updated>2026-02-20T18:44:01.780529Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Benjamin Franklin - The Autobiography of Benjamin Franklin</title>
     <id>urn:ebook-search:book:Benjamin Franklin - The Autobiography of Benjamin Franklin</id>
-    <updated>2026-02-20T13:52:15.479202Z</updated>
+    <updated>2026-02-20T18:44:01.780529Z</updated>
     <link href="../../d/Benjamin Franklin - The Autobiography of Benjamin Franklin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Benjamin Franklin</name>

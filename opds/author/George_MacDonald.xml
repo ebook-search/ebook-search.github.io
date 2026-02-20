@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>George MacDonald</title>
   <id>urn:ebook-search:author:George MacDonald</id>
-  <updated>2026-02-20T13:52:15.461457Z</updated>
+  <updated>2026-02-20T18:44:01.717128Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>George MacDonald - At the Back of the North Wind</title>
     <id>urn:ebook-search:book:George MacDonald - At the Back of the North Wind</id>
-    <updated>2026-02-20T13:52:15.461457Z</updated>
+    <updated>2026-02-20T18:44:01.717128Z</updated>
     <link href="../../d/George MacDonald - At the Back of the North Wind.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George MacDonald</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>George MacDonald - Lilith</title>
     <id>urn:ebook-search:book:George MacDonald - Lilith</id>
-    <updated>2026-02-20T13:52:15.461457Z</updated>
+    <updated>2026-02-20T18:44:01.717128Z</updated>
     <link href="../../d/George MacDonald - Lilith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George MacDonald</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>George MacDonald - Phantastes</title>
     <id>urn:ebook-search:book:George MacDonald - Phantastes</id>
-    <updated>2026-02-20T13:52:15.461457Z</updated>
+    <updated>2026-02-20T18:44:01.717128Z</updated>
     <link href="../../d/George MacDonald - Phantastes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George MacDonald</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>George MacDonald - Poetry</title>
     <id>urn:ebook-search:book:George MacDonald - Poetry</id>
-    <updated>2026-02-20T13:52:15.461457Z</updated>
+    <updated>2026-02-20T18:44:01.717128Z</updated>
     <link href="../../d/George MacDonald - Poetry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George MacDonald</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>George MacDonald - Short Fiction</title>
     <id>urn:ebook-search:book:George MacDonald - Short Fiction</id>
-    <updated>2026-02-20T13:52:15.461457Z</updated>
+    <updated>2026-02-20T18:44:01.717128Z</updated>
     <link href="../../d/George MacDonald - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George MacDonald</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>George MacDonald - The Princess and the Goblin</title>
     <id>urn:ebook-search:book:George MacDonald - The Princess and the Goblin</id>
-    <updated>2026-02-20T13:52:15.461457Z</updated>
+    <updated>2026-02-20T18:44:01.717128Z</updated>
     <link href="../../d/George MacDonald - The Princess and the Goblin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George MacDonald</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>George MacDonald - Unspoken Sermons</title>
     <id>urn:ebook-search:book:George MacDonald - Unspoken Sermons</id>
-    <updated>2026-02-20T13:52:15.461457Z</updated>
+    <updated>2026-02-20T18:44:01.717128Z</updated>
     <link href="../../d/George MacDonald - Unspoken Sermons.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George MacDonald</name>

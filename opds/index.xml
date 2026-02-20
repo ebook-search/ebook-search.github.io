@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Книги</title>
   <id>urn:ebook-search:nav</id>
-  <updated>2026-02-20T13:52:15.461110Z</updated>
+  <updated>2026-02-20T18:44:01.716537Z</updated>
   <link rel="start" href="index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link href="author/A._A._Milne.xml" title="A. A. Milne" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
   <link href="author/A._E._W._Mason.xml" title="A. E. W. Mason" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
@@ -641,4 +641,79 @@
   <link href="author/Zora_Neale_Hurston.xml" title="Zora Neale Hurston" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
   <link href="author/Émile_Gaboriau.xml" title="Émile Gaboriau" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
   <link href="author/Émile_Zola.xml" title="Émile Zola" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/А._А._Блок.xml" title="А. А. Блок" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/А._А._Фет.xml" title="А. А. Фет" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/А._В._Кольцов.xml" title="А. В. Кольцов" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/А._И._Куприн.xml" title="А. И. Куприн" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/А._К._Толстой.xml" title="А. К. Толстой" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/А._Н._Майков.xml" title="А. Н. Майков" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/А._Н._Островский.xml" title="А. Н. Островский" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/А._Н._Радищев.xml" title="А. Н. Радищев" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/А._Н._Толстой.xml" title="А. Н. Толстой" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/А._П._Гайдар.xml" title="А. П. Гайдар" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/А._П._Платонов.xml" title="А. П. Платонов" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/А._П._Чехов.xml" title="А. П. Чехов" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/А._С._Грибоедов.xml" title="А. С. Грибоедов" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/А._С._Грин.xml" title="А. С. Грин" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/А._С._Пушкин.xml" title="А. С. Пушкин" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/В._А._Жуковский.xml" title="В. А. Жуковский" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/В._В._Маяковский.xml" title="В. В. Маяковский" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/В._Г._Белинский.xml" title="В. Г. Белинский" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/В._Г._Короленко.xml" title="В. Г. Короленко" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/В._М._Гаршин.xml" title="В. М. Гаршин" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/В._С._Соловьев.xml" title="В. С. Соловьев" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/В._Скотт.xml" title="В. Скотт" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/В._Ф._Одоевский.xml" title="В. Ф. Одоевский" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/В._Я._Брюсов.xml" title="В. Я. Брюсов" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Г._Р._Державин.xml" title="Г. Р. Державин" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Д._В._Григорович.xml" title="Д. В. Григорович" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Д._Дефо.xml" title="Д. Дефо" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Д._И._Писарев.xml" title="Д. И. Писарев" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Д._И._Фонвизин.xml" title="Д. И. Фонвизин" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Д._Лондон.xml" title="Д. Лондон" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Д._Н._Мамин-Сибиряк.xml" title="Д. Н. Мамин-Сибиряк" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Д._С._Мережковский.xml" title="Д. С. Мережковский" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Е._А._Баратынский.xml" title="Е. А. Баратынский" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Е._И._Замятин.xml" title="Е. И. Замятин" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Заклятие_огнем_и_мраком,_1—11.xml" title="Заклятие огнем и мраком, 1—11" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/И._А._Бунин.xml" title="И. А. Бунин" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/И._А._Гончаров.xml" title="И. А. Гончаров" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/И._А._Крылов.xml" title="И. А. Крылов" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/И._В._Гете.xml" title="И. В. Гете" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/И._С._Никитин.xml" title="И. С. Никитин" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/И._С._Тургенев.xml" title="И. С. Тургенев" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/И._С._Шмелев.xml" title="И. С. Шмелев" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/К._Д._Бальмонт.xml" title="К. Д. Бальмонт" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/К._Ф._Рылеев.xml" title="К. Ф. Рылеев" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Л._Н._Андреев.xml" title="Л. Н. Андреев" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Л._Н._Толстой.xml" title="Л. Н. Толстой" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/М._А._Булгаков.xml" title="М. А. Булгаков" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/М._А._Осоргин.xml" title="М. А. Осоргин" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/М._В._Ломоносов.xml" title="М. В. Ломоносов" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/М._Горький.xml" title="М. Горький" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/М._Е._Салтыков-Щедрин.xml" title="М. Е. Салтыков-Щедрин" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/М._И._Цветаева.xml" title="М. И. Цветаева" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/М._М._Пришвин.xml" title="М. М. Пришвин" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/М._Ю._Лермонтов.xml" title="М. Ю. Лермонтов" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Мольер.xml" title="Мольер" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Н._А._Добролюбов.xml" title="Н. А. Добролюбов" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Н._А._Некрасов.xml" title="Н. А. Некрасов" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Н._А._Островский.xml" title="Н. А. Островский" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Н._А._Тэффи.xml" title="Н. А. Тэффи" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Н._В._Гоголь.xml" title="Н. В. Гоголь" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Н._Г._Гарин-Михайловский.xml" title="Н. Г. Гарин-Михайловский" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Н._Г._Чернышевский.xml" title="Н. Г. Чернышевский" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Н._М._Карамзин.xml" title="Н. М. Карамзин" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Н._С._Гумилев.xml" title="Н. С. Гумилев" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Н._С._Лесков.xml" title="Н. С. Лесков" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/О._Генри.xml" title="О. Генри" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/О._Э._Мандельштам.xml" title="О. Э. Мандельштам" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/П._П._Бажов.xml" title="П. П. Бажов" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/П._П._Ершов.xml" title="П. П. Ершов" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/С._А._Есенин.xml" title="С. А. Есенин" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/У._Шекспир.xml" title="У. Шекспир" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ф._И._Тютчев.xml" title="Ф. И. Тютчев" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ф._М._Достоевский.xml" title="Ф. М. Достоевский" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Х._К._Андерсен.xml" title="Х. К. Андерсен" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ш._Перро.xml" title="Ш. Перро" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
 </feed>

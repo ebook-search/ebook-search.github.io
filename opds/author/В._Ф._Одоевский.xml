@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>В. Ф. Одоевский</title>
+  <id>urn:ebook-search:author:В. Ф. Одоевский</id>
+  <updated>2026-02-20T18:44:01.797466Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>В. Ф. Одоевский - Анекдоты о муравьях</title>
+    <id>urn:ebook-search:book:В. Ф. Одоевский - Анекдоты о муравьях</id>
+    <updated>2026-02-20T18:44:01.797466Z</updated>
+    <link href="../../d/В. Ф. Одоевский - Анекдоты о муравьях.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. Ф. Одоевский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. Ф. Одоевский - Бедный Гнедко</title>
+    <id>urn:ebook-search:book:В. Ф. Одоевский - Бедный Гнедко</id>
+    <updated>2026-02-20T18:44:01.797466Z</updated>
+    <link href="../../d/В. Ф. Одоевский - Бедный Гнедко.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. Ф. Одоевский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. Ф. Одоевский - Городок в табакерке</title>
+    <id>urn:ebook-search:book:В. Ф. Одоевский - Городок в табакерке</id>
+    <updated>2026-02-20T18:44:01.797466Z</updated>
+    <link href="../../d/В. Ф. Одоевский - Городок в табакерке.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. Ф. Одоевский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. Ф. Одоевский - Мороз Иванович</title>
+    <id>urn:ebook-search:book:В. Ф. Одоевский - Мороз Иванович</id>
+    <updated>2026-02-20T18:44:01.797466Z</updated>
+    <link href="../../d/В. Ф. Одоевский - Мороз Иванович.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. Ф. Одоевский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. Ф. Одоевский - Серебряный рубль</title>
+    <id>urn:ebook-search:book:В. Ф. Одоевский - Серебряный рубль</id>
+    <updated>2026-02-20T18:44:01.797466Z</updated>
+    <link href="../../d/В. Ф. Одоевский - Серебряный рубль.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. Ф. Одоевский</name>
+    </author>
+  </entry>
+</feed>

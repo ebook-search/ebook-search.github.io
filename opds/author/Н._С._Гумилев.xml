@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Н. С. Гумилев</title>
+  <id>urn:ebook-search:author:Н. С. Гумилев</id>
+  <updated>2026-02-20T18:44:01.797171Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Н. С. Гумилев - Волшебная скрипка («Милый мальчик, ты так весел, так светла твоя улыбка...»)</title>
+    <id>urn:ebook-search:book:Н. С. Гумилев - Волшебная скрипка («Милый мальчик, ты так весел, так светла твоя улыбка...»)</id>
+    <updated>2026-02-20T18:44:01.797171Z</updated>
+    <link href="../../d/Н. С. Гумилев - Волшебная скрипка («Милый мальчик, ты так весел, так светла твоя улыбка...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Гумилев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Гумилев - Жираф («Сегодня, я вижу, особенно грустен твой взгляд...»)</title>
+    <id>urn:ebook-search:book:Н. С. Гумилев - Жираф («Сегодня, я вижу, особенно грустен твой взгляд...»)</id>
+    <updated>2026-02-20T18:44:01.797171Z</updated>
+    <link href="../../d/Н. С. Гумилев - Жираф («Сегодня, я вижу, особенно грустен твой взгляд...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Гумилев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Гумилев - Заблудившийся трамвай («Шел по улице я незнакомой...»)</title>
+    <id>urn:ebook-search:book:Н. С. Гумилев - Заблудившийся трамвай («Шел по улице я незнакомой...»)</id>
+    <updated>2026-02-20T18:44:01.797171Z</updated>
+    <link href="../../d/Н. С. Гумилев - Заблудившийся трамвай («Шел по улице я незнакомой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Гумилев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Гумилев - Камень («Взгляни, как злобно смотрит камень...»)</title>
+    <id>urn:ebook-search:book:Н. С. Гумилев - Камень («Взгляни, как злобно смотрит камень...»)</id>
+    <updated>2026-02-20T18:44:01.797171Z</updated>
+    <link href="../../d/Н. С. Гумилев - Камень («Взгляни, как злобно смотрит камень...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Гумилев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Гумилев - Капитаны, I—IV</title>
+    <id>urn:ebook-search:book:Н. С. Гумилев - Капитаны, I—IV</id>
+    <updated>2026-02-20T18:44:01.797171Z</updated>
+    <link href="../../d/Н. С. Гумилев - Капитаны, I—IV.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Гумилев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Гумилев - Лес («В том лесу белесоватые стволы...»)</title>
+    <id>urn:ebook-search:book:Н. С. Гумилев - Лес («В том лесу белесоватые стволы...»)</id>
+    <updated>2026-02-20T18:44:01.797171Z</updated>
+    <link href="../../d/Н. С. Гумилев - Лес («В том лесу белесоватые стволы...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Гумилев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Гумилев - Носорог («Видишь, мчатся обезьяны...»)</title>
+    <id>urn:ebook-search:book:Н. С. Гумилев - Носорог («Видишь, мчатся обезьяны...»)</id>
+    <updated>2026-02-20T18:44:01.797171Z</updated>
+    <link href="../../d/Н. С. Гумилев - Носорог («Видишь, мчатся обезьяны...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Гумилев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Гумилев - Озеро Чад («На таинственном озере Чад...»)</title>
+    <id>urn:ebook-search:book:Н. С. Гумилев - Озеро Чад («На таинственном озере Чад...»)</id>
+    <updated>2026-02-20T18:44:01.797171Z</updated>
+    <link href="../../d/Н. С. Гумилев - Озеро Чад («На таинственном озере Чад...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Гумилев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Гумилев - Память («Только змеи сбрасывают кожи...»)</title>
+    <id>urn:ebook-search:book:Н. С. Гумилев - Память («Только змеи сбрасывают кожи...»)</id>
+    <updated>2026-02-20T18:44:01.797171Z</updated>
+    <link href="../../d/Н. С. Гумилев - Память («Только змеи сбрасывают кожи...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Гумилев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Гумилев - Помпей у пиратов («От кормы, изукрашенной красным...»)</title>
+    <id>urn:ebook-search:book:Н. С. Гумилев - Помпей у пиратов («От кормы, изукрашенной красным...»)</id>
+    <updated>2026-02-20T18:44:01.797171Z</updated>
+    <link href="../../d/Н. С. Гумилев - Помпей у пиратов («От кормы, изукрашенной красным...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Гумилев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Гумилев - Потомки Каина («Он не солгал нам, дух печально-строгий...»)</title>
+    <id>urn:ebook-search:book:Н. С. Гумилев - Потомки Каина («Он не солгал нам, дух печально-строгий...»)</id>
+    <updated>2026-02-20T18:44:01.797171Z</updated>
+    <link href="../../d/Н. С. Гумилев - Потомки Каина («Он не солгал нам, дух печально-строгий...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Гумилев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Гумилев - Природа («Так вот и вся она, природа...»)</title>
+    <id>urn:ebook-search:book:Н. С. Гумилев - Природа («Так вот и вся она, природа...»)</id>
+    <updated>2026-02-20T18:44:01.797171Z</updated>
+    <link href="../../d/Н. С. Гумилев - Природа («Так вот и вся она, природа...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Гумилев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Гумилев - Слово («В оный день, когда над миром новым...»)</title>
+    <id>urn:ebook-search:book:Н. С. Гумилев - Слово («В оный день, когда над миром новым...»)</id>
+    <updated>2026-02-20T18:44:01.797171Z</updated>
+    <link href="../../d/Н. С. Гумилев - Слово («В оный день, когда над миром новым...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Гумилев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Гумилев - Слоненок («Моя любовь к тебе сейчас — слоненок...»)</title>
+    <id>urn:ebook-search:book:Н. С. Гумилев - Слоненок («Моя любовь к тебе сейчас — слоненок...»)</id>
+    <updated>2026-02-20T18:44:01.797171Z</updated>
+    <link href="../../d/Н. С. Гумилев - Слоненок («Моя любовь к тебе сейчас — слоненок...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Гумилев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Гумилев - Шестое чувство («Прекрасно в нас влюбленное вино...»)</title>
+    <id>urn:ebook-search:book:Н. С. Гумилев - Шестое чувство («Прекрасно в нас влюбленное вино...»)</id>
+    <updated>2026-02-20T18:44:01.797171Z</updated>
+    <link href="../../d/Н. С. Гумилев - Шестое чувство («Прекрасно в нас влюбленное вино...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Гумилев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Гумилев - Я и Вы («Да, я знаю, я Вам не пара...»)</title>
+    <id>urn:ebook-search:book:Н. С. Гумилев - Я и Вы («Да, я знаю, я Вам не пара...»)</id>
+    <updated>2026-02-20T18:44:01.797171Z</updated>
+    <link href="../../d/Н. С. Гумилев - Я и Вы («Да, я знаю, я Вам не пара...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Гумилев</name>
+    </author>
+  </entry>
+</feed>

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>William F. Cody</title>
   <id>urn:ebook-search:author:William F. Cody</id>
-  <updated>2026-02-20T13:52:15.474946Z</updated>
+  <updated>2026-02-20T18:44:01.764173Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>William F. Cody - The Life of Buffalo Bill</title>
     <id>urn:ebook-search:book:William F. Cody - The Life of Buffalo Bill</id>
-    <updated>2026-02-20T13:52:15.474946Z</updated>
+    <updated>2026-02-20T18:44:01.764173Z</updated>
     <link href="../../d/William F. Cody - The Life of Buffalo Bill.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>William F. Cody</name>

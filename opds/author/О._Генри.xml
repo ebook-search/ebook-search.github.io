@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>О. Генри</title>
+  <id>urn:ebook-search:author:О. Генри</id>
+  <updated>2026-02-20T18:44:01.797535Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>О. Генри - Вождь краснокожих</title>
+    <id>urn:ebook-search:book:О. Генри - Вождь краснокожих</id>
+    <updated>2026-02-20T18:44:01.797535Z</updated>
+    <link href="../../d/О. Генри - Вождь краснокожих.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Генри</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Генри - Дары волхвов</title>
+    <id>urn:ebook-search:book:О. Генри - Дары волхвов</id>
+    <updated>2026-02-20T18:44:01.797535Z</updated>
+    <link href="../../d/О. Генри - Дары волхвов.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Генри</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Генри - Дороги, которые мы выбираем</title>
+    <id>urn:ebook-search:book:О. Генри - Дороги, которые мы выбираем</id>
+    <updated>2026-02-20T18:44:01.797535Z</updated>
+    <link href="../../d/О. Генри - Дороги, которые мы выбираем.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Генри</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Генри - Последний лист</title>
+    <id>urn:ebook-search:book:О. Генри - Последний лист</id>
+    <updated>2026-02-20T18:44:01.797535Z</updated>
+    <link href="../../d/О. Генри - Последний лист.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Генри</name>
+    </author>
+  </entry>
+</feed>

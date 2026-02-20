@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Adam Smith</title>
   <id>urn:ebook-search:author:Adam Smith</id>
-  <updated>2026-02-20T13:52:15.468463Z</updated>
+  <updated>2026-02-20T18:44:01.740696Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Adam Smith - The Theory of Moral Sentiments</title>
     <id>urn:ebook-search:book:Adam Smith - The Theory of Moral Sentiments</id>
-    <updated>2026-02-20T13:52:15.468463Z</updated>
+    <updated>2026-02-20T18:44:01.740696Z</updated>
     <link href="../../d/Adam Smith - The Theory of Moral Sentiments.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Adam Smith</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Adam Smith - The Wealth of Nations</title>
     <id>urn:ebook-search:book:Adam Smith - The Wealth of Nations</id>
-    <updated>2026-02-20T13:52:15.468463Z</updated>
+    <updated>2026-02-20T18:44:01.740696Z</updated>
     <link href="../../d/Adam Smith - The Wealth of Nations.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Adam Smith</name>

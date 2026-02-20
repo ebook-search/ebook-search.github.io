@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Mignon G. Eberhart</title>
   <id>urn:ebook-search:author:Mignon G. Eberhart</id>
-  <updated>2026-02-20T13:52:15.462979Z</updated>
+  <updated>2026-02-20T18:44:01.722181Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Mignon G. Eberhart - The Patient in Room 18</title>
     <id>urn:ebook-search:book:Mignon G. Eberhart - The Patient in Room 18</id>
-    <updated>2026-02-20T13:52:15.462979Z</updated>
+    <updated>2026-02-20T18:44:01.722181Z</updated>
     <link href="../../d/Mignon G. Eberhart - The Patient in Room 18.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mignon G. Eberhart</name>

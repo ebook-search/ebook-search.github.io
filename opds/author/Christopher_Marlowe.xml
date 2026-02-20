@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Christopher Marlowe</title>
   <id>urn:ebook-search:author:Christopher Marlowe</id>
-  <updated>2026-02-20T13:52:15.468543Z</updated>
+  <updated>2026-02-20T18:44:01.741006Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Christopher Marlowe - Edward II</title>
     <id>urn:ebook-search:book:Christopher Marlowe - Edward II</id>
-    <updated>2026-02-20T13:52:15.468543Z</updated>
+    <updated>2026-02-20T18:44:01.741006Z</updated>
     <link href="../../d/Christopher Marlowe - Edward II.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Christopher Marlowe</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Christopher Marlowe - The Jew of Malta</title>
     <id>urn:ebook-search:book:Christopher Marlowe - The Jew of Malta</id>
-    <updated>2026-02-20T13:52:15.468543Z</updated>
+    <updated>2026-02-20T18:44:01.741006Z</updated>
     <link href="../../d/Christopher Marlowe - The Jew of Malta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Christopher Marlowe</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Christopher Marlowe - The Tragical History of Doctor Faustus</title>
     <id>urn:ebook-search:book:Christopher Marlowe - The Tragical History of Doctor Faustus</id>
-    <updated>2026-02-20T13:52:15.468543Z</updated>
+    <updated>2026-02-20T18:44:01.741006Z</updated>
     <link href="../../d/Christopher Marlowe - The Tragical History of Doctor Faustus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Christopher Marlowe</name>

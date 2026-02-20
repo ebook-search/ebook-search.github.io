@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Н. С. Лесков</title>
+  <id>urn:ebook-search:author:Н. С. Лесков</id>
+  <updated>2026-02-20T18:44:01.784646Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Н. С. Лесков - Дух госпожи Жанлис</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Дух госпожи Жанлис</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Дух госпожи Жанлис.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Жемчужное ожерелье</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Жемчужное ожерелье</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Жемчужное ожерелье.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Жидовская кувырколлегия</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Жидовская кувырколлегия</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Жидовская кувырколлегия.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Зверь</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Зверь</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Зверь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Левша</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Левша</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Левша.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Леди Макбет Мценского уезда</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Леди Макбет Мценского уезда</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Леди Макбет Мценского уезда.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Маленькая ошибка</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Маленькая ошибка</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Маленькая ошибка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Неразменный рубль</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Неразменный рубль</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Неразменный рубль.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Обман</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Обман</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Обман.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Отборное зерно</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Отборное зерно</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Отборное зерно.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Очарованный странник</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Очарованный странник</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Очарованный странник.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Привидение в Инженерном замке</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Привидение в Инженерном замке</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Привидение в Инженерном замке.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Пугало</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Пугало</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Пугало.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Путешествие с нигилистом</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Путешествие с нигилистом</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Путешествие с нигилистом.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Старый гений</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Старый гений</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Старый гений.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Тупейный художник</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Тупейный художник</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Тупейный художник.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Фигура</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Фигура</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Фигура.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Человек на часах</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Человек на часах</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Человек на часах.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. С. Лесков - Штопальщик</title>
+    <id>urn:ebook-search:book:Н. С. Лесков - Штопальщик</id>
+    <updated>2026-02-20T18:44:01.784646Z</updated>
+    <link href="../../d/Н. С. Лесков - Штопальщик.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. С. Лесков</name>
+    </author>
+  </entry>
+</feed>

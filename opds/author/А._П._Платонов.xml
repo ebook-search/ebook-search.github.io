@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>А. П. Платонов</title>
+  <id>urn:ebook-search:author:А. П. Платонов</id>
+  <updated>2026-02-20T18:44:01.790841Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>А. П. Платонов - В прекрасном и яростном мире</title>
+    <id>urn:ebook-search:book:А. П. Платонов - В прекрасном и яростном мире</id>
+    <updated>2026-02-20T18:44:01.790841Z</updated>
+    <link href="../../d/А. П. Платонов - В прекрасном и яростном мире.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. П. Платонов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. П. Платонов - Возвращение</title>
+    <id>urn:ebook-search:book:А. П. Платонов - Возвращение</id>
+    <updated>2026-02-20T18:44:01.790841Z</updated>
+    <link href="../../d/А. П. Платонов - Возвращение.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. П. Платонов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. П. Платонов - Волшебное кольцо</title>
+    <id>urn:ebook-search:book:А. П. Платонов - Волшебное кольцо</id>
+    <updated>2026-02-20T18:44:01.790841Z</updated>
+    <link href="../../d/А. П. Платонов - Волшебное кольцо.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. П. Платонов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. П. Платонов - Еще мама</title>
+    <id>urn:ebook-search:book:А. П. Платонов - Еще мама</id>
+    <updated>2026-02-20T18:44:01.790841Z</updated>
+    <link href="../../d/А. П. Платонов - Еще мама.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. П. Платонов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. П. Платонов - Иван Великий</title>
+    <id>urn:ebook-search:book:А. П. Платонов - Иван Великий</id>
+    <updated>2026-02-20T18:44:01.790841Z</updated>
+    <link href="../../d/А. П. Платонов - Иван Великий.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. П. Платонов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. П. Платонов - Июльская гроза</title>
+    <id>urn:ebook-search:book:А. П. Платонов - Июльская гроза</id>
+    <updated>2026-02-20T18:44:01.790841Z</updated>
+    <link href="../../d/А. П. Платонов - Июльская гроза.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. П. Платонов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. П. Платонов - Корова</title>
+    <id>urn:ebook-search:book:А. П. Платонов - Корова</id>
+    <updated>2026-02-20T18:44:01.790841Z</updated>
+    <link href="../../d/А. П. Платонов - Корова.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. П. Платонов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. П. Платонов - Котлован</title>
+    <id>urn:ebook-search:book:А. П. Платонов - Котлован</id>
+    <updated>2026-02-20T18:44:01.790841Z</updated>
+    <link href="../../d/А. П. Платонов - Котлован.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. П. Платонов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. П. Платонов - Неизвестный цветок</title>
+    <id>urn:ebook-search:book:А. П. Платонов - Неизвестный цветок</id>
+    <updated>2026-02-20T18:44:01.790841Z</updated>
+    <link href="../../d/А. П. Платонов - Неизвестный цветок.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. П. Платонов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. П. Платонов - Никита</title>
+    <id>urn:ebook-search:book:А. П. Платонов - Никита</id>
+    <updated>2026-02-20T18:44:01.790841Z</updated>
+    <link href="../../d/А. П. Платонов - Никита.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. П. Платонов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. П. Платонов - Песчаная учительница</title>
+    <id>urn:ebook-search:book:А. П. Платонов - Песчаная учительница</id>
+    <updated>2026-02-20T18:44:01.790841Z</updated>
+    <link href="../../d/А. П. Платонов - Песчаная учительница.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. П. Платонов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. П. Платонов - Сокровенный человек</title>
+    <id>urn:ebook-search:book:А. П. Платонов - Сокровенный человек</id>
+    <updated>2026-02-20T18:44:01.790841Z</updated>
+    <link href="../../d/А. П. Платонов - Сокровенный человек.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. П. Платонов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. П. Платонов - Усомнившийся Макар</title>
+    <id>urn:ebook-search:book:А. П. Платонов - Усомнившийся Макар</id>
+    <updated>2026-02-20T18:44:01.790841Z</updated>
+    <link href="../../d/А. П. Платонов - Усомнившийся Макар.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. П. Платонов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. П. Платонов - Фро</title>
+    <id>urn:ebook-search:book:А. П. Платонов - Фро</id>
+    <updated>2026-02-20T18:44:01.790841Z</updated>
+    <link href="../../d/А. П. Платонов - Фро.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. П. Платонов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. П. Платонов - Цветок на земле</title>
+    <id>urn:ebook-search:book:А. П. Платонов - Цветок на земле</id>
+    <updated>2026-02-20T18:44:01.790841Z</updated>
+    <link href="../../d/А. П. Платонов - Цветок на земле.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. П. Платонов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. П. Платонов - Юшка</title>
+    <id>urn:ebook-search:book:А. П. Платонов - Юшка</id>
+    <updated>2026-02-20T18:44:01.790841Z</updated>
+    <link href="../../d/А. П. Платонов - Юшка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. П. Платонов</name>
+    </author>
+  </entry>
+</feed>

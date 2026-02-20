@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Н. А. Тэффи</title>
+  <id>urn:ebook-search:author:Н. А. Тэффи</id>
+  <updated>2026-02-20T18:44:01.798716Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Н. А. Тэффи - Демоническая женщина</title>
+    <id>urn:ebook-search:book:Н. А. Тэффи - Демоническая женщина</id>
+    <updated>2026-02-20T18:44:01.798716Z</updated>
+    <link href="../../d/Н. А. Тэффи - Демоническая женщина.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. А. Тэффи</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. А. Тэффи - Жизнь и воротник</title>
+    <id>urn:ebook-search:book:Н. А. Тэффи - Жизнь и воротник</id>
+    <updated>2026-02-20T18:44:01.798716Z</updated>
+    <link href="../../d/Н. А. Тэффи - Жизнь и воротник.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. А. Тэффи</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. А. Тэффи - Модный адвокат</title>
+    <id>urn:ebook-search:book:Н. А. Тэффи - Модный адвокат</id>
+    <updated>2026-02-20T18:44:01.798716Z</updated>
+    <link href="../../d/Н. А. Тэффи - Модный адвокат.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. А. Тэффи</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. А. Тэффи - Свои и чужие</title>
+    <id>urn:ebook-search:book:Н. А. Тэффи - Свои и чужие</id>
+    <updated>2026-02-20T18:44:01.798716Z</updated>
+    <link href="../../d/Н. А. Тэффи - Свои и чужие.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. А. Тэффи</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. А. Тэффи - Человекообразные</title>
+    <id>urn:ebook-search:book:Н. А. Тэффи - Человекообразные</id>
+    <updated>2026-02-20T18:44:01.798716Z</updated>
+    <link href="../../d/Н. А. Тэффи - Человекообразные.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. А. Тэффи</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. А. Тэффи - Экзамен</title>
+    <id>urn:ebook-search:book:Н. А. Тэффи - Экзамен</id>
+    <updated>2026-02-20T18:44:01.798716Z</updated>
+    <link href="../../d/Н. А. Тэффи - Экзамен.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. А. Тэффи</name>
+    </author>
+  </entry>
+</feed>

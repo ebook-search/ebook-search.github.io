@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>И. А. Крылов</title>
+  <id>urn:ebook-search:author:И. А. Крылов</id>
+  <updated>2026-02-20T18:44:01.795264Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>И. А. Крылов - Басни</title>
+    <id>urn:ebook-search:book:И. А. Крылов - Басни</id>
+    <updated>2026-02-20T18:44:01.795264Z</updated>
+    <link href="../../d/И. А. Крылов - Басни.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>И. А. Крылов</name>
+    </author>
+  </entry>
+</feed>

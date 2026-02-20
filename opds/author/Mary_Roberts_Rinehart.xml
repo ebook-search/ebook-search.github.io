@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Mary Roberts Rinehart</title>
   <id>urn:ebook-search:author:Mary Roberts Rinehart</id>
-  <updated>2026-02-20T13:52:15.465122Z</updated>
+  <updated>2026-02-20T18:44:01.729451Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Mary Roberts Rinehart - The Circular Staircase</title>
     <id>urn:ebook-search:book:Mary Roberts Rinehart - The Circular Staircase</id>
-    <updated>2026-02-20T13:52:15.465122Z</updated>
+    <updated>2026-02-20T18:44:01.729451Z</updated>
     <link href="../../d/Mary Roberts Rinehart - The Circular Staircase.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mary Roberts Rinehart</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Mary Roberts Rinehart - The Man in Lower Ten</title>
     <id>urn:ebook-search:book:Mary Roberts Rinehart - The Man in Lower Ten</id>
-    <updated>2026-02-20T13:52:15.465122Z</updated>
+    <updated>2026-02-20T18:44:01.729451Z</updated>
     <link href="../../d/Mary Roberts Rinehart - The Man in Lower Ten.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mary Roberts Rinehart</name>

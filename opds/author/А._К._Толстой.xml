@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>А. К. Толстой</title>
+  <id>urn:ebook-search:author:А. К. Толстой</id>
+  <updated>2026-02-20T18:44:01.797597Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>А. К. Толстой - «Где гнутся над омутом лозы...»</title>
+    <id>urn:ebook-search:book:А. К. Толстой - «Где гнутся над омутом лозы...»</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - «Где гнутся над омутом лозы...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - «Звонче жаворонка пенье...»</title>
+    <id>urn:ebook-search:book:А. К. Толстой - «Звонче жаворонка пенье...»</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - «Звонче жаворонка пенье...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - «Источник за вишневым садом...»</title>
+    <id>urn:ebook-search:book:А. К. Толстой - «Источник за вишневым садом...»</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - «Источник за вишневым садом...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - «Колокольчики мои...»</title>
+    <id>urn:ebook-search:book:А. К. Толстой - «Колокольчики мои...»</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - «Колокольчики мои...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - «Осень. Обсыпается весь наш бедный сад...»</title>
+    <id>urn:ebook-search:book:А. К. Толстой - «Осень. Обсыпается весь наш бедный сад...»</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - «Осень. Обсыпается весь наш бедный сад...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - «Пусто в покое моем. Один я сижу у камина...»</title>
+    <id>urn:ebook-search:book:А. К. Толстой - «Пусто в покое моем. Один я сижу у камина...»</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - «Пусто в покое моем. Один я сижу у камина...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - «Средь шумного бала, случайно...»</title>
+    <id>urn:ebook-search:book:А. К. Толстой - «Средь шумного бала, случайно...»</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - «Средь шумного бала, случайно...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - «Ты знаешь край, где все обильем дышит...»</title>
+    <id>urn:ebook-search:book:А. К. Толстой - «Ты знаешь край, где все обильем дышит...»</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - «Ты знаешь край, где все обильем дышит...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - «Ты помнишь ли, Мария...»</title>
+    <id>urn:ebook-search:book:А. К. Толстой - «Ты помнишь ли, Мария...»</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - «Ты помнишь ли, Мария...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - «Что ни день, как поломя со влагой...»</title>
+    <id>urn:ebook-search:book:А. К. Толстой - «Что ни день, как поломя со влагой...»</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - «Что ни день, как поломя со влагой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - Благовест («Среди дубравы...»)</title>
+    <id>urn:ebook-search:book:А. К. Толстой - Благовест («Среди дубравы...»)</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - Благовест («Среди дубравы...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - Василий Шибанов</title>
+    <id>urn:ebook-search:book:А. К. Толстой - Василий Шибанов</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - Василий Шибанов.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - Волки</title>
+    <id>urn:ebook-search:book:А. К. Толстой - Волки</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - Волки.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - Илья Муромец</title>
+    <id>urn:ebook-search:book:А. К. Толстой - Илья Муромец</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - Илья Муромец.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - Князь Михайло Репнин</title>
+    <id>urn:ebook-search:book:А. К. Толстой - Князь Михайло Репнин</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - Князь Михайло Репнин.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - Князь Ростислав</title>
+    <id>urn:ebook-search:book:А. К. Толстой - Князь Ростислав</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - Князь Ростислав.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - Князь Серебряный</title>
+    <id>urn:ebook-search:book:А. К. Толстой - Князь Серебряный</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - Князь Серебряный.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - Курган</title>
+    <id>urn:ebook-search:book:А. К. Толстой - Курган</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - Курган.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. К. Толстой - Цыганские песни («Из Индии дальной...»)</title>
+    <id>urn:ebook-search:book:А. К. Толстой - Цыганские песни («Из Индии дальной...»)</id>
+    <updated>2026-02-20T18:44:01.797597Z</updated>
+    <link href="../../d/А. К. Толстой - Цыганские песни («Из Индии дальной...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. К. Толстой</name>
+    </author>
+  </entry>
+</feed>

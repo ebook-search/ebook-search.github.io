@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Peter Kropotkin</title>
   <id>urn:ebook-search:author:Peter Kropotkin</id>
-  <updated>2026-02-20T13:52:15.469275Z</updated>
+  <updated>2026-02-20T18:44:01.743442Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Peter Kropotkin - Memoirs of a Revolutionist</title>
     <id>urn:ebook-search:book:Peter Kropotkin - Memoirs of a Revolutionist</id>
-    <updated>2026-02-20T13:52:15.469275Z</updated>
+    <updated>2026-02-20T18:44:01.743442Z</updated>
     <link href="../../d/Peter Kropotkin - Memoirs of a Revolutionist.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Peter Kropotkin</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Peter Kropotkin - Mutual Aid</title>
     <id>urn:ebook-search:book:Peter Kropotkin - Mutual Aid</id>
-    <updated>2026-02-20T13:52:15.469275Z</updated>
+    <updated>2026-02-20T18:44:01.743442Z</updated>
     <link href="../../d/Peter Kropotkin - Mutual Aid.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Peter Kropotkin</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Peter Kropotkin - The Conquest of Bread</title>
     <id>urn:ebook-search:book:Peter Kropotkin - The Conquest of Bread</id>
-    <updated>2026-02-20T13:52:15.469275Z</updated>
+    <updated>2026-02-20T18:44:01.743442Z</updated>
     <link href="../../d/Peter Kropotkin - The Conquest of Bread.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Peter Kropotkin</name>

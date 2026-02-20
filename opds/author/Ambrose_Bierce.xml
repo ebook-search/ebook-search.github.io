@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Ambrose Bierce</title>
   <id>urn:ebook-search:author:Ambrose Bierce</id>
-  <updated>2026-02-20T13:52:15.472197Z</updated>
+  <updated>2026-02-20T18:44:01.753753Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Ambrose Bierce - Can Such Things Be?</title>
     <id>urn:ebook-search:book:Ambrose Bierce - Can Such Things Be?</id>
-    <updated>2026-02-20T13:52:15.472197Z</updated>
+    <updated>2026-02-20T18:44:01.753753Z</updated>
     <link href="../../d/Ambrose Bierce - Can Such Things Be?.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ambrose Bierce</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Ambrose Bierce - In the Midst of Life</title>
     <id>urn:ebook-search:book:Ambrose Bierce - In the Midst of Life</id>
-    <updated>2026-02-20T13:52:15.472197Z</updated>
+    <updated>2026-02-20T18:44:01.753753Z</updated>
     <link href="../../d/Ambrose Bierce - In the Midst of Life.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ambrose Bierce</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Ambrose Bierce - Poetry</title>
     <id>urn:ebook-search:book:Ambrose Bierce - Poetry</id>
-    <updated>2026-02-20T13:52:15.472197Z</updated>
+    <updated>2026-02-20T18:44:01.753753Z</updated>
     <link href="../../d/Ambrose Bierce - Poetry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ambrose Bierce</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Ambrose Bierce - The Devil’s Dictionary</title>
     <id>urn:ebook-search:book:Ambrose Bierce - The Devil’s Dictionary</id>
-    <updated>2026-02-20T13:52:15.472197Z</updated>
+    <updated>2026-02-20T18:44:01.753753Z</updated>
     <link href="../../d/Ambrose Bierce - The Devil’s Dictionary.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ambrose Bierce</name>

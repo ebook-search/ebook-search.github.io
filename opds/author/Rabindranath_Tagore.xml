@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Rabindranath Tagore</title>
   <id>urn:ebook-search:author:Rabindranath Tagore</id>
-  <updated>2026-02-20T13:52:15.475160Z</updated>
+  <updated>2026-02-20T18:44:01.765056Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Rabindranath Tagore - Gitanjali</title>
     <id>urn:ebook-search:book:Rabindranath Tagore - Gitanjali</id>
-    <updated>2026-02-20T13:52:15.475160Z</updated>
+    <updated>2026-02-20T18:44:01.765056Z</updated>
     <link href="../../d/Rabindranath Tagore - Gitanjali.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Rabindranath Tagore</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Rabindranath Tagore - My Reminiscences</title>
     <id>urn:ebook-search:book:Rabindranath Tagore - My Reminiscences</id>
-    <updated>2026-02-20T13:52:15.475160Z</updated>
+    <updated>2026-02-20T18:44:01.765056Z</updated>
     <link href="../../d/Rabindranath Tagore - My Reminiscences.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Rabindranath Tagore</name>

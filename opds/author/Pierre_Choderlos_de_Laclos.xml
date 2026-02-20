@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Pierre Choderlos de Laclos</title>
   <id>urn:ebook-search:author:Pierre Choderlos de Laclos</id>
-  <updated>2026-02-20T13:52:15.473922Z</updated>
+  <updated>2026-02-20T18:44:01.760047Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Pierre Choderlos de Laclos - Dangerous Liaisons</title>
     <id>urn:ebook-search:book:Pierre Choderlos de Laclos - Dangerous Liaisons</id>
-    <updated>2026-02-20T13:52:15.473922Z</updated>
+    <updated>2026-02-20T18:44:01.760047Z</updated>
     <link href="../../d/Pierre Choderlos de Laclos - Dangerous Liaisons.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Pierre Choderlos de Laclos</name>

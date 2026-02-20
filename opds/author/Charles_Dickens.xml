@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Charles Dickens</title>
   <id>urn:ebook-search:author:Charles Dickens</id>
-  <updated>2026-02-20T13:52:15.463281Z</updated>
+  <updated>2026-02-20T18:44:01.723307Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Charles Dickens - A Christmas Carol</title>
     <id>urn:ebook-search:book:Charles Dickens - A Christmas Carol</id>
-    <updated>2026-02-20T13:52:15.463281Z</updated>
+    <updated>2026-02-20T18:44:01.723307Z</updated>
     <link href="../../d/Charles Dickens - A Christmas Carol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Charles Dickens</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Charles Dickens - A Tale of Two Cities</title>
     <id>urn:ebook-search:book:Charles Dickens - A Tale of Two Cities</id>
-    <updated>2026-02-20T13:52:15.463281Z</updated>
+    <updated>2026-02-20T18:44:01.723307Z</updated>
     <link href="../../d/Charles Dickens - A Tale of Two Cities.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Charles Dickens</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Charles Dickens - Bleak House</title>
     <id>urn:ebook-search:book:Charles Dickens - Bleak House</id>
-    <updated>2026-02-20T13:52:15.463281Z</updated>
+    <updated>2026-02-20T18:44:01.723307Z</updated>
     <link href="../../d/Charles Dickens - Bleak House.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Charles Dickens</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Charles Dickens - David Copperfield</title>
     <id>urn:ebook-search:book:Charles Dickens - David Copperfield</id>
-    <updated>2026-02-20T13:52:15.463281Z</updated>
+    <updated>2026-02-20T18:44:01.723307Z</updated>
     <link href="../../d/Charles Dickens - David Copperfield.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Charles Dickens</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Charles Dickens - Dombey and Son</title>
     <id>urn:ebook-search:book:Charles Dickens - Dombey and Son</id>
-    <updated>2026-02-20T13:52:15.463281Z</updated>
+    <updated>2026-02-20T18:44:01.723307Z</updated>
     <link href="../../d/Charles Dickens - Dombey and Son.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Charles Dickens</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Charles Dickens - Great Expectations</title>
     <id>urn:ebook-search:book:Charles Dickens - Great Expectations</id>
-    <updated>2026-02-20T13:52:15.463281Z</updated>
+    <updated>2026-02-20T18:44:01.723307Z</updated>
     <link href="../../d/Charles Dickens - Great Expectations.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Charles Dickens</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Charles Dickens - Hard Times</title>
     <id>urn:ebook-search:book:Charles Dickens - Hard Times</id>
-    <updated>2026-02-20T13:52:15.463281Z</updated>
+    <updated>2026-02-20T18:44:01.723307Z</updated>
     <link href="../../d/Charles Dickens - Hard Times.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Charles Dickens</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>Charles Dickens - Little Dorrit</title>
     <id>urn:ebook-search:book:Charles Dickens - Little Dorrit</id>
-    <updated>2026-02-20T13:52:15.463281Z</updated>
+    <updated>2026-02-20T18:44:01.723307Z</updated>
     <link href="../../d/Charles Dickens - Little Dorrit.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Charles Dickens</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>Charles Dickens - Martin Chuzzlewit</title>
     <id>urn:ebook-search:book:Charles Dickens - Martin Chuzzlewit</id>
-    <updated>2026-02-20T13:52:15.463281Z</updated>
+    <updated>2026-02-20T18:44:01.723307Z</updated>
     <link href="../../d/Charles Dickens - Martin Chuzzlewit.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Charles Dickens</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>Charles Dickens - Nicholas Nickleby</title>
     <id>urn:ebook-search:book:Charles Dickens - Nicholas Nickleby</id>
-    <updated>2026-02-20T13:52:15.463281Z</updated>
+    <updated>2026-02-20T18:44:01.723307Z</updated>
     <link href="../../d/Charles Dickens - Nicholas Nickleby.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Charles Dickens</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>Charles Dickens - Oliver Twist</title>
     <id>urn:ebook-search:book:Charles Dickens - Oliver Twist</id>
-    <updated>2026-02-20T13:52:15.463281Z</updated>
+    <updated>2026-02-20T18:44:01.723307Z</updated>
     <link href="../../d/Charles Dickens - Oliver Twist.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Charles Dickens</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>Charles Dickens - Our Mutual Friend</title>
     <id>urn:ebook-search:book:Charles Dickens - Our Mutual Friend</id>
-    <updated>2026-02-20T13:52:15.463281Z</updated>
+    <updated>2026-02-20T18:44:01.723307Z</updated>
     <link href="../../d/Charles Dickens - Our Mutual Friend.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Charles Dickens</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>Charles Dickens - The Old Curiosity Shop</title>
     <id>urn:ebook-search:book:Charles Dickens - The Old Curiosity Shop</id>
-    <updated>2026-02-20T13:52:15.463281Z</updated>
+    <updated>2026-02-20T18:44:01.723307Z</updated>
     <link href="../../d/Charles Dickens - The Old Curiosity Shop.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Charles Dickens</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>Charles Dickens - The Pickwick Papers</title>
     <id>urn:ebook-search:book:Charles Dickens - The Pickwick Papers</id>
-    <updated>2026-02-20T13:52:15.463281Z</updated>
+    <updated>2026-02-20T18:44:01.723307Z</updated>
     <link href="../../d/Charles Dickens - The Pickwick Papers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Charles Dickens</name>

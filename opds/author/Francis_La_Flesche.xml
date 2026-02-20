@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Francis La Flesche</title>
   <id>urn:ebook-search:author:Francis La Flesche</id>
-  <updated>2026-02-20T13:52:15.472086Z</updated>
+  <updated>2026-02-20T18:44:01.753334Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Francis La Flesche - The Middle Five</title>
     <id>urn:ebook-search:book:Francis La Flesche - The Middle Five</id>
-    <updated>2026-02-20T13:52:15.472086Z</updated>
+    <updated>2026-02-20T18:44:01.753334Z</updated>
     <link href="../../d/Francis La Flesche - The Middle Five.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Francis La Flesche</name>

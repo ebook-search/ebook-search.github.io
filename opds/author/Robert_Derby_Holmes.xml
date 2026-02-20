@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Robert Derby Holmes</title>
   <id>urn:ebook-search:author:Robert Derby Holmes</id>
-  <updated>2026-02-20T13:52:15.469027Z</updated>
+  <updated>2026-02-20T18:44:01.742608Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Robert Derby Holmes - A Yankee in the Trenches</title>
     <id>urn:ebook-search:book:Robert Derby Holmes - A Yankee in the Trenches</id>
-    <updated>2026-02-20T13:52:15.469027Z</updated>
+    <updated>2026-02-20T18:44:01.742608Z</updated>
     <link href="../../d/Robert Derby Holmes - A Yankee in the Trenches.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Robert Derby Holmes</name>

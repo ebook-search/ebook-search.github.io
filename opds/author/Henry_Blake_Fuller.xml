@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Henry Blake Fuller</title>
   <id>urn:ebook-search:author:Henry Blake Fuller</id>
-  <updated>2026-02-20T13:52:15.468884Z</updated>
+  <updated>2026-02-20T18:44:01.742120Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Henry Blake Fuller - Bertram Cope’s Year</title>
     <id>urn:ebook-search:book:Henry Blake Fuller - Bertram Cope’s Year</id>
-    <updated>2026-02-20T13:52:15.468884Z</updated>
+    <updated>2026-02-20T18:44:01.742120Z</updated>
     <link href="../../d/Henry Blake Fuller - Bertram Cope’s Year.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Henry Blake Fuller</name>

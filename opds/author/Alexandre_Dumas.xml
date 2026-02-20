@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Alexandre Dumas</title>
   <id>urn:ebook-search:author:Alexandre Dumas</id>
-  <updated>2026-02-20T13:52:15.473213Z</updated>
+  <updated>2026-02-20T18:44:01.757317Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Alexandre Dumas - The Black Tulip</title>
     <id>urn:ebook-search:book:Alexandre Dumas - The Black Tulip</id>
-    <updated>2026-02-20T13:52:15.473213Z</updated>
+    <updated>2026-02-20T18:44:01.757317Z</updated>
     <link href="../../d/Alexandre Dumas - The Black Tulip.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Alexandre Dumas</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Alexandre Dumas - The Count of Monte Cristo</title>
     <id>urn:ebook-search:book:Alexandre Dumas - The Count of Monte Cristo</id>
-    <updated>2026-02-20T13:52:15.473213Z</updated>
+    <updated>2026-02-20T18:44:01.757317Z</updated>
     <link href="../../d/Alexandre Dumas - The Count of Monte Cristo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Alexandre Dumas</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Alexandre Dumas - The Three Musketeers</title>
     <id>urn:ebook-search:book:Alexandre Dumas - The Three Musketeers</id>
-    <updated>2026-02-20T13:52:15.473213Z</updated>
+    <updated>2026-02-20T18:44:01.757317Z</updated>
     <link href="../../d/Alexandre Dumas - The Three Musketeers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Alexandre Dumas</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Alexandre Dumas - The Vicomte de Bragelonne</title>
     <id>urn:ebook-search:book:Alexandre Dumas - The Vicomte de Bragelonne</id>
-    <updated>2026-02-20T13:52:15.473213Z</updated>
+    <updated>2026-02-20T18:44:01.757317Z</updated>
     <link href="../../d/Alexandre Dumas - The Vicomte de Bragelonne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Alexandre Dumas</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Alexandre Dumas - Twenty Years After</title>
     <id>urn:ebook-search:book:Alexandre Dumas - Twenty Years After</id>
-    <updated>2026-02-20T13:52:15.473213Z</updated>
+    <updated>2026-02-20T18:44:01.757317Z</updated>
     <link href="../../d/Alexandre Dumas - Twenty Years After.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Alexandre Dumas</name>

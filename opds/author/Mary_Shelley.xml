@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Mary Shelley</title>
   <id>urn:ebook-search:author:Mary Shelley</id>
-  <updated>2026-02-20T13:52:15.463061Z</updated>
+  <updated>2026-02-20T18:44:01.722483Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Mary Shelley - Frankenstein</title>
     <id>urn:ebook-search:book:Mary Shelley - Frankenstein</id>
-    <updated>2026-02-20T13:52:15.463061Z</updated>
+    <updated>2026-02-20T18:44:01.722483Z</updated>
     <link href="../../d/Mary Shelley - Frankenstein.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mary Shelley</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Mary Shelley - Short Fiction</title>
     <id>urn:ebook-search:book:Mary Shelley - Short Fiction</id>
-    <updated>2026-02-20T13:52:15.463061Z</updated>
+    <updated>2026-02-20T18:44:01.722483Z</updated>
     <link href="../../d/Mary Shelley - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mary Shelley</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Mary Shelley - The Last Man</title>
     <id>urn:ebook-search:book:Mary Shelley - The Last Man</id>
-    <updated>2026-02-20T13:52:15.463061Z</updated>
+    <updated>2026-02-20T18:44:01.722483Z</updated>
     <link href="../../d/Mary Shelley - The Last Man.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mary Shelley</name>

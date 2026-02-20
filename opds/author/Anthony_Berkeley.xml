@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Anthony Berkeley</title>
   <id>urn:ebook-search:author:Anthony Berkeley</id>
-  <updated>2026-02-20T13:52:15.461754Z</updated>
+  <updated>2026-02-20T18:44:01.718049Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Anthony Berkeley - The Layton Court Mystery</title>
     <id>urn:ebook-search:book:Anthony Berkeley - The Layton Court Mystery</id>
-    <updated>2026-02-20T13:52:15.461754Z</updated>
+    <updated>2026-02-20T18:44:01.718049Z</updated>
     <link href="../../d/Anthony Berkeley - The Layton Court Mystery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Berkeley</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Anthony Berkeley - The Poisoned Chocolates Case</title>
     <id>urn:ebook-search:book:Anthony Berkeley - The Poisoned Chocolates Case</id>
-    <updated>2026-02-20T13:52:15.461754Z</updated>
+    <updated>2026-02-20T18:44:01.718049Z</updated>
     <link href="../../d/Anthony Berkeley - The Poisoned Chocolates Case.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Berkeley</name>

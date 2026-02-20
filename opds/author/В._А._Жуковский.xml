@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>В. А. Жуковский</title>
+  <id>urn:ebook-search:author:В. А. Жуковский</id>
+  <updated>2026-02-20T18:44:01.791054Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>В. А. Жуковский - Вечер («Ручей, виющийся по светлому песку...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Вечер («Ручей, виющийся по светлому песку...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Вечер («Ручей, виющийся по светлому песку...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Воспоминание &lt;1816&gt; («Прошли, прошли вы, дни очарованья!..»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Воспоминание &lt;1816&gt; («Прошли, прошли вы, дни очарованья!..»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Воспоминание &lt;1816&gt; («Прошли, прошли вы, дни очарованья!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Воспоминание &lt;1821&gt; («О милых спутниках, которые наш свет...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Воспоминание &lt;1821&gt; («О милых спутниках, которые наш свет...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Воспоминание &lt;1821&gt; («О милых спутниках, которые наш свет...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Герой («На лоне облаков румяных...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Герой («На лоне облаков румяных...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Герой («На лоне облаков румяных...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Добродетель («От света светов луч излился...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Добродетель («От света светов луч излился...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Добродетель («От света светов луч излился...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Добродетель («Под звездным кровом тихой нощи...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Добродетель («Под звездным кровом тихой нощи...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Добродетель («Под звездным кровом тихой нощи...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Дружба («Скатившись с горной высоты...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Дружба («Скатившись с горной высоты...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Дружба («Скатившись с горной высоты...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Ивиковы журавли («На Посидонов пир веселый...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Ивиковы журавли («На Посидонов пир веселый...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Ивиковы журавли («На Посидонов пир веселый...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Идиллия («Когда она была пастушкою простой...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Идиллия («Когда она была пастушкою простой...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Идиллия («Когда она была пастушкою простой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - К К. М. С⟨оковнин⟩ой («Протекших радостей уже не возвратить...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - К К. М. С⟨оковнин⟩ой («Протекших радостей уже не возвратить...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - К К. М. С⟨оковнин⟩ой («Протекших радостей уже не возвратить...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - К Тибуллу. На  прошедший век («Он совершил свое теченье...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - К Тибуллу. На  прошедший век («Он совершил свое теченье...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - К Тибуллу. На  прошедший век («Он совершил свое теченье...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - К ней («Имя где для тебя?..»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - К ней («Имя где для тебя?..»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - К ней («Имя где для тебя?..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - К поэзии («Чудесный дар богов!..»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - К поэзии («Чудесный дар богов!..»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - К поэзии («Чудесный дар богов!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Кубок («„Кто, рыцарь ли знатный иль латник простой...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Кубок («„Кто, рыцарь ли знатный иль латник простой...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Кубок («„Кто, рыцарь ли знатный иль латник простой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Лалла Рук («Милый сон, души пленитель...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Лалла Рук («Милый сон, души пленитель...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Лалла Рук («Милый сон, души пленитель...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Лесной царь</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Лесной царь</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Лесной царь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Людмила</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Людмила</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Людмила.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Майское утро («Бело-румяна...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Майское утро («Бело-румяна...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Майское утро («Бело-румяна...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Мир («Проснись, пифийского поэта древня лира...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Мир («Проснись, пифийского поэта древня лира...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Мир («Проснись, пифийского поэта древня лира...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Могущество, слава и благоденствие России («На троне светлом, лучезарном...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Могущество, слава и благоденствие России («На троне светлом, лучезарном...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Могущество, слава и благоденствие России («На троне светлом, лучезарном...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Море</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Море</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Море.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - На смерть А⟨ндрея Тургенева⟩ («О друг мой! неужли твой гроб передо мною!..»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - На смерть А⟨ндрея Тургенева⟩ («О друг мой! неужли твой гроб передо мною!..»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - На смерть А⟨ндрея Тургенева⟩ («О друг мой! неужли твой гроб передо мною!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Невыразимое («Что наш язык земной пред дивною природой?..»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Невыразимое («Что наш язык земной пред дивною природой?..»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Невыразимое («Что наш язык земной пред дивною природой?..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Опустевшая деревня («О родина моя, Обурн благословенный!..»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Опустевшая деревня («О родина моя, Обурн благословенный!..»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Опустевшая деревня («О родина моя, Обурн благословенный!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Певец во стане русских воинов</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Певец во стане русских воинов</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Певец во стане русских воинов.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Перчатка</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Перчатка</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Перчатка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Песнь барда над гробом славян-победителей</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Песнь барда над гробом славян-победителей</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Песнь барда над гробом славян-победителей.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Песня («Когда я был любим, в восторгах, в наслажденье...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Песня («Когда я был любим, в восторгах, в наслажденье...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Песня («Когда я был любим, в восторгах, в наслажденье...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Послание Элоизы к Абеляру («В сих мрачных келиях обители святой...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Послание Элоизы к Абеляру («В сих мрачных келиях обители святой...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Послание Элоизы к Абеляру («В сих мрачных келиях обители святой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Сафина ода («Блажен, кто близ тебя одним тобой пылает...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Сафина ода («Блажен, кто близ тебя одним тобой пылает...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Сафина ода («Блажен, кто близ тебя одним тобой пылает...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Светлана</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Светлана</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Светлана.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Сельское кладбище &lt;1802&gt; («Уже бледнеет день, скрываясь за горою...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Сельское кладбище &lt;1802&gt; («Уже бледнеет день, скрываясь за горою...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Сельское кладбище &lt;1802&gt; («Уже бледнеет день, скрываясь за горою...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Сельское кладбище &lt;1839&gt; («Колокол поздний кончину отшедшего дня возвещает...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Сельское кладбище &lt;1839&gt; («Колокол поздний кончину отшедшего дня возвещает...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Сельское кладбище &lt;1839&gt; («Колокол поздний кончину отшедшего дня возвещает...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Славянка («Славянка тихая, сколь ток приятен твой...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Славянка («Славянка тихая, сколь ток приятен твой...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Славянка («Славянка тихая, сколь ток приятен твой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Стихи на новый, 1800 год («Из недра вечности рожденный...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Стихи на новый, 1800 год («Из недра вечности рожденный...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Стихи на новый, 1800 год («Из недра вечности рожденный...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Стихи, сочиненные в день моего рождения («О лира, друг мой неизменный...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Стихи, сочиненные в день моего рождения («О лира, друг мой неизменный...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Стихи, сочиненные в день моего рождения («О лира, друг мой неизменный...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Теон и Эсхин («Эсхин возвращался к пенатам своим...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Теон и Эсхин («Эсхин возвращался к пенатам своим...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Теон и Эсхин («Эсхин возвращался к пенатам своим...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Торжество победителей («Пал Приамов град священный...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Торжество победителей («Пал Приамов град священный...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Торжество победителей («Пал Приамов град священный...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Ундина</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Ундина</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Ундина.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Хераскову («Ещё, Херасков, друг Минервы...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Хераскову («Ещё, Херасков, друг Минервы...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Хераскову («Ещё, Херасков, друг Минервы...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Человек («„Ничтожный человек! что жизнь твоя? —  Мгновенье...»)</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Человек («„Ничтожный человек! что жизнь твоя? —  Мгновенье...»)</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Человек («„Ничтожный человек! что жизнь твоя? —  Мгновенье...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. А. Жуковский - Эолова арфа</title>
+    <id>urn:ebook-search:book:В. А. Жуковский - Эолова арфа</id>
+    <updated>2026-02-20T18:44:01.791054Z</updated>
+    <link href="../../d/В. А. Жуковский - Эолова арфа.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>В. А. Жуковский</name>
+    </author>
+  </entry>
+</feed>

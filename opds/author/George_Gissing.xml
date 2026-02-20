@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>George Gissing</title>
   <id>urn:ebook-search:author:George Gissing</id>
-  <updated>2026-02-20T13:52:15.465747Z</updated>
+  <updated>2026-02-20T18:44:01.731590Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>George Gissing - New Grub Street</title>
     <id>urn:ebook-search:book:George Gissing - New Grub Street</id>
-    <updated>2026-02-20T13:52:15.465747Z</updated>
+    <updated>2026-02-20T18:44:01.731590Z</updated>
     <link href="../../d/George Gissing - New Grub Street.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Gissing</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>George Gissing - The Private Papers of Henry Ryecroft</title>
     <id>urn:ebook-search:book:George Gissing - The Private Papers of Henry Ryecroft</id>
-    <updated>2026-02-20T13:52:15.465747Z</updated>
+    <updated>2026-02-20T18:44:01.731590Z</updated>
     <link href="../../d/George Gissing - The Private Papers of Henry Ryecroft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Gissing</name>

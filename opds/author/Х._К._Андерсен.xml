@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Х. К. Андерсен</title>
+  <id>urn:ebook-search:author:Х. К. Андерсен</id>
+  <updated>2026-02-20T18:44:01.799198Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Х. К. Андерсен - Аисты</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Аисты</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Аисты.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Ангел</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Ангел</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Ангел.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Воротничок</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Воротничок</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Воротничок.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Гадкий утенок</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Гадкий утенок</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Гадкий утенок.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Гречиха</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Гречиха</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Гречиха.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Девочка со спичками</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Девочка со спичками</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Девочка со спичками.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Дикие лебеди</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Дикие лебеди</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Дикие лебеди.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Дорожный товарищ</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Дорожный товарищ</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Дорожный товарищ.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Дюймовочка</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Дюймовочка</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Дюймовочка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Ель</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Ель</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Ель.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - История одной матери</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - История одной матери</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - История одной матери.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Капля воды</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Капля воды</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Капля воды.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Красные башмаки</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Красные башмаки</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Красные башмаки.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Маленький Клаус и Большой Клаус</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Маленький Клаус и Большой Клаус</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Маленький Клаус и Большой Клаус.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Маленький Тук</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Маленький Тук</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Маленький Тук.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Нехороший мальчик</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Нехороший мальчик</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Нехороший мальчик.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Новые сказки</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Новые сказки</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Новые сказки.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Новый наряд короля</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Новый наряд короля</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Новый наряд короля.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Огниво</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Огниво</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Огниво.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Оле-Лукойе</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Оле-Лукойе</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Оле-Лукойе.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Парочка</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Парочка</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Парочка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Пастушка и трубочист</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Пастушка и трубочист</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Пастушка и трубочист.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Принцесса на горошине</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Принцесса на горошине</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Принцесса на горошине.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Прыгуны</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Прыгуны</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Прыгуны.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Райский сад</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Райский сад</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Райский сад.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Ромашка</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Ромашка</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Ромашка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Русалочка</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Русалочка</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Русалочка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Свинопас</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Свинопас</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Свинопас.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Сказки, рассказанные детям</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Сказки, рассказанные детям</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Сказки, рассказанные детям.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Снежная королева</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Снежная королева</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Снежная королева.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Соловей</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Соловей</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Соловей.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Соседи</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Соседи</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Соседи.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Старый дом</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Старый дом</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Старый дом.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Старый уличный фонарь</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Старый уличный фонарь</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Старый уличный фонарь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Стойкий оловянный солдатик</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Стойкий оловянный солдатик</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Стойкий оловянный солдатик.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Сундук-самолет</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Сундук-самолет</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Сундук-самолет.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Счастливое семейство</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Счастливое семейство</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Счастливое семейство.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Тень</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Тень</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Тень.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Холм лесных духов</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Холм лесных духов</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Холм лесных духов.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Хольгер Датчанин</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Хольгер Датчанин</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Хольгер Датчанин.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Цветы маленькой Иды</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Цветы маленькой Иды</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Цветы маленькой Иды.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Штопальная игла</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Штопальная игла</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Штопальная игла.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Х. К. Андерсен - Эльф розового куста</title>
+    <id>urn:ebook-search:book:Х. К. Андерсен - Эльф розового куста</id>
+    <updated>2026-02-20T18:44:01.799198Z</updated>
+    <link href="../../d/Х. К. Андерсен - Эльф розового куста.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Х. К. Андерсен</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>А. А. Фет</title>
+  <id>urn:ebook-search:author:А. А. Фет</id>
+  <updated>2026-02-20T18:44:01.794391Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>А. А. Фет - Anruf an die Geliebte Бетховена («Пойми хоть раз тоскливое признанье...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Anruf an die Geliebte Бетховена («Пойми хоть раз тоскливое признанье...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Anruf an die Geliebte Бетховена («Пойми хоть раз тоскливое признанье...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Благовонная ночь, благодатная ночь...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Благовонная ночь, благодатная ночь...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Благовонная ночь, благодатная ночь...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «В степной глуши над влагой молчаливой...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «В степной глуши над влагой молчаливой...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «В степной глуши над влагой молчаливой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Вот и летние дни убавляются...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Вот и летние дни убавляются...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Вот и летние дни убавляются...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Всё, как бывало, веселый, счастливый...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Всё, как бывало, веселый, счастливый...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Всё, как бывало, веселый, счастливый...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Глубь небес опять ясна...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Глубь небес опять ясна...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Глубь небес опять ясна...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Давно в любви отрады мало...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Давно в любви отрады мало...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Давно в любви отрады мало...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Ель рукавом мне тропинку завесила...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Ель рукавом мне тропинку завесила...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Ель рукавом мне тропинку завесила...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Еще весна, — как будто неземной...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Еще весна, — как будто неземной...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Еще весна, — как будто неземной...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Еще весны душистой нега...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Еще весны душистой нега...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Еще весны душистой нега...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Еще люблю, еще томлюсь...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Еще люблю, еще томлюсь...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Еще люблю, еще томлюсь...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Еще, еще! Ах, сердце слышит...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Еще, еще! Ах, сердце слышит...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Еще, еще! Ах, сердце слышит...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Заря прощается с землею...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Заря прощается с землею...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Заря прощается с землею...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Зреет рожь над жаркой нивой...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Зреет рожь над жаркой нивой...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Зреет рожь над жаркой нивой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Как беден наш язык! — Хочу и не могу...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Как беден наш язык! — Хочу и не могу...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Как беден наш язык! — Хочу и не могу...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Какая грусть! Конец аллеи...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Какая грусть! Конец аллеи...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Какая грусть! Конец аллеи...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Какая ночь! Как воздух чист...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Какая ночь! Как воздух чист...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Какая ночь! Как воздух чист...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Кот поет, глаза прищуря...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Кот поет, глаза прищуря...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Кот поет, глаза прищуря...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Кричат перепела, трещат коростели...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Кричат перепела, трещат коростели...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Кричат перепела, трещат коростели...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Ласточки пропали...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Ласточки пропали...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Ласточки пропали...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Лесом мы шли по тропинке единственной...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Лесом мы шли по тропинке единственной...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Лесом мы шли по тропинке единственной...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Летний вечер тих и ясен...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Летний вечер тих и ясен...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Летний вечер тих и ясен...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Любо мне в комнате ночью стоять у окошка в потемках...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Любо мне в комнате ночью стоять у окошка в потемках...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Любо мне в комнате ночью стоять у окошка в потемках...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Моего тот безумства желал, кто смежал...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Моего тот безумства желал, кто смежал...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Моего тот безумства желал, кто смежал...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Молчали листья, звезды рдели...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Молчали листья, звезды рдели...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Молчали листья, звезды рдели...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Молятся звезды, мерцают и рдеют...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Молятся звезды, мерцают и рдеют...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Молятся звезды, мерцают и рдеют...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «На заре ты ее не буди...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «На заре ты ее не буди...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «На заре ты ее не буди...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «На кресле отвалясь, гляжу на потолок...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «На кресле отвалясь, гляжу на потолок...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «На кресле отвалясь, гляжу на потолок...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «На стоге сена ночью южной...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «На стоге сена ночью южной...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «На стоге сена ночью южной...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Не могу я слышать этой птички...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Не могу я слышать этой птички...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Не могу я слышать этой птички...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Не отнеси к холодному бесстрастью...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Не отнеси к холодному бесстрастью...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Не отнеси к холодному бесстрастью...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Непогода — осень — куришь...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Непогода — осень — куришь...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Непогода — осень — куришь...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Нет, не жди ты песни страстной...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Нет, не жди ты песни страстной...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Нет, не жди ты песни страстной...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Ныне первый мы слышали гром...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Ныне первый мы слышали гром...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Ныне первый мы слышали гром...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «О, этот сельский день и блеск его красивый...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «О, этот сельский день и блеск его красивый...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «О, этот сельский день и блеск его красивый...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Облаком волнистым...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Облаком волнистым...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Облаком волнистым...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Одним толчком согнать ладью живую...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Одним толчком согнать ладью живую...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Одним толчком согнать ладью живую...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Опять незримые усилья...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Опять незримые усилья...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Опять незримые усилья...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Печальная береза...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Печальная береза...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Печальная береза...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Руку бы снова твою мне хотелось пожать!..»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Руку бы снова твою мне хотелось пожать!..»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Руку бы снова твою мне хотелось пожать!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Свеча нагорела. Портреты в тени...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Свеча нагорела. Портреты в тени...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Свеча нагорела. Портреты в тени...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Сияла ночь. Луной был полон сад. Лежали...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Сияла ночь. Луной был полон сад. Лежали...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Сияла ночь. Луной был полон сад. Лежали...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Солнце садится, и ветер утихнул летучий...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Солнце садится, и ветер утихнул летучий...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Солнце садится, и ветер утихнул летучий...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Страницы милые опять персты раскрыли...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Страницы милые опять персты раскрыли...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Страницы милые опять персты раскрыли...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Ты видишь, за спиной косцов...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Ты видишь, за спиной косцов...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Ты видишь, за спиной косцов...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Уж верба вся пушистая...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Уж верба вся пушистая...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Уж верба вся пушистая...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Устало всё кругом: устал и цвет небес...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Устало всё кругом: устал и цвет небес...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Устало всё кругом: устал и цвет небес...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Учись у них — у дуба, у березы...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Учись у них — у дуба, у березы...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Учись у них — у дуба, у березы...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Хоть счастие судьбой даровано не мне...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Хоть счастие судьбой даровано не мне...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Хоть счастие судьбой даровано не мне...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Целый мир от красоты...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Целый мир от красоты...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Целый мир от красоты...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Что за вечер! А ручей...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Что за вечер! А ручей...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Что за вечер! А ручей...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Что за звук в полумраке вечернем? Бог весть...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Что за звук в полумраке вечернем? Бог весть...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Что за звук в полумраке вечернем? Бог весть...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Чудная картина...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Чудная картина...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Чудная картина...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Шепот, робкое дыханье...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Шепот, робкое дыханье...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Шепот, робкое дыханье...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Это утро, радость эта...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Это утро, радость эта...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Это утро, радость эта...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Я говорю, что я люблю с тобою встречи...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Я говорю, что я люблю с тобою встречи...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Я говорю, что я люблю с тобою встречи...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Я пришел к тебе с приветом...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Я пришел к тебе с приветом...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Я пришел к тебе с приветом...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Я тебе ничего не скажу...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Я тебе ничего не скажу...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Я тебе ничего не скажу...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - «Ярким солнцем в лесу пламенеет костер...»</title>
+    <id>urn:ebook-search:book:А. А. Фет - «Ярким солнцем в лесу пламенеет костер...»</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - «Ярким солнцем в лесу пламенеет костер...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Аполлон Бельведерский («Упрямый лук, с прицела чуть склонён...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Аполлон Бельведерский («Упрямый лук, с прицела чуть склонён...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Аполлон Бельведерский («Упрямый лук, с прицела чуть склонён...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Бал («Когда трепещут эти звуки...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Бал («Когда трепещут эти звуки...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Бал («Когда трепещут эти звуки...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - В альбом («Победа! Безоружна злоба...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - В альбом («Победа! Безоружна злоба...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - В альбом («Победа! Безоружна злоба...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Весенние мысли («Снова птицы летят издалека...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Весенние мысли («Снова птицы летят издалека...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Весенние мысли («Снова птицы летят издалека...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Весенний дождь («Еще светло, — перед окном...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Весенний дождь («Еще светло, — перед окном...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Весенний дождь («Еще светло, — перед окном...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Весна на дворе («Как дышит грудь свежо и емко...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Весна на дворе («Как дышит грудь свежо и емко...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Весна на дворе («Как дышит грудь свежо и емко...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Вечер («Прозвучало над ясной рекою...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Вечер («Прозвучало над ясной рекою...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Вечер («Прозвучало над ясной рекою...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Георгины («Вчера, уж солнце рдело низко...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Георгины («Вчера, уж солнце рдело низко...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Георгины («Вчера, уж солнце рдело низко...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Деревня («Люблю я приют ваш печальный...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Деревня («Люблю я приют ваш печальный...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Деревня («Люблю я приют ваш печальный...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Другу («Когда в груди твоей страданье...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Другу («Когда в груди твоей страданье...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Другу («Когда в груди твоей страданье...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Еще майская ночь («Какая ночь! На всем какая нега!..»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Еще майская ночь («Какая ночь! На всем какая нега!..»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Еще майская ночь («Какая ночь! На всем какая нега!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Колокольчик («Ночь нема, как дух бесплотный...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Колокольчик («Ночь нема, как дух бесплотный...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Колокольчик («Ночь нема, как дух бесплотный...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Ласточки («Природы праздный соглядатай...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Ласточки («Природы праздный соглядатай...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Ласточки («Природы праздный соглядатай...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Месяц и роза («Встал я рано над горой...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Месяц и роза («Встал я рано над горой...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Месяц и роза («Встал я рано над горой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Муза («Ты хочешь проклинать, рыдая и стеня...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Муза («Ты хочешь проклинать, рыдая и стеня...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Муза («Ты хочешь проклинать, рыдая и стеня...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - На железной дороге («Мороз и ночь над далью снежной...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - На железной дороге («Мороз и ночь над далью снежной...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - На железной дороге («Мороз и ночь над далью снежной...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Нельзя («Заря. Сияет край востока...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Нельзя («Заря. Сияет край востока...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Нельзя («Заря. Сияет край востока...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Осень («Как грустны сумрачные дни...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Осень («Как грустны сумрачные дни...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Осень («Как грустны сумрачные дни...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Певице («Уноси мое сердце в звенящую даль...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Певице («Уноси мое сердце в звенящую даль...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Певице («Уноси мое сердце в звенящую даль...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Первый ландыш («О первый ландыш! Из-под снега...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Первый ландыш («О первый ландыш! Из-под снега...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Первый ландыш («О первый ландыш! Из-под снега...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Почему? («Почему, как сидишь озаренной...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Почему? («Почему, как сидишь озаренной...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Почему? («Почему, как сидишь озаренной...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Поэтам («Сердце трепещет отрадно и больно...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Поэтам («Сердце трепещет отрадно и больно...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Поэтам («Сердце трепещет отрадно и больно...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Превращения («Давно, в поре ребяческой твоей...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Превращения («Давно, в поре ребяческой твоей...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Превращения («Давно, в поре ребяческой твоей...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Псовая охота («Последний сноп свезен с нагих полей...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Псовая охота («Последний сноп свезен с нагих полей...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Псовая охота («Последний сноп свезен с нагих полей...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Степь вечером («Клубятся тучи, млея в блеске алом...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Степь вечером («Клубятся тучи, млея в блеске алом...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Степь вечером («Клубятся тучи, млея в блеске алом...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - У окна («К окну приникнув головой...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - У окна («К окну приникнув головой...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - У окна («К окну приникнув головой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. А. Фет - Угасшим звездам («Долго ль впивать мне мерцание ваше...»)</title>
+    <id>urn:ebook-search:book:А. А. Фет - Угасшим звездам («Долго ль впивать мне мерцание ваше...»)</id>
+    <updated>2026-02-20T18:44:01.794391Z</updated>
+    <link href="../../d/А. А. Фет - Угасшим звездам («Долго ль впивать мне мерцание ваше...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. А. Фет</name>
+    </author>
+  </entry>
+</feed>

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Fyodor Sologub</title>
   <id>urn:ebook-search:author:Fyodor Sologub</id>
-  <updated>2026-02-20T13:52:15.476914Z</updated>
+  <updated>2026-02-20T18:44:01.771994Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Fyodor Sologub - Short Fiction</title>
     <id>urn:ebook-search:book:Fyodor Sologub - Short Fiction</id>
-    <updated>2026-02-20T13:52:15.476914Z</updated>
+    <updated>2026-02-20T18:44:01.771994Z</updated>
     <link href="../../d/Fyodor Sologub - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Fyodor Sologub</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Fyodor Sologub - The Created Legend</title>
     <id>urn:ebook-search:book:Fyodor Sologub - The Created Legend</id>
-    <updated>2026-02-20T13:52:15.476914Z</updated>
+    <updated>2026-02-20T18:44:01.771994Z</updated>
     <link href="../../d/Fyodor Sologub - The Created Legend.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Fyodor Sologub</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Fyodor Sologub - The Little Demon</title>
     <id>urn:ebook-search:book:Fyodor Sologub - The Little Demon</id>
-    <updated>2026-02-20T13:52:15.476914Z</updated>
+    <updated>2026-02-20T18:44:01.771994Z</updated>
     <link href="../../d/Fyodor Sologub - The Little Demon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Fyodor Sologub</name>

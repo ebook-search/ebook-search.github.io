@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>И. С. Шмелев</title>
+  <id>urn:ebook-search:author:И. С. Шмелев</id>
+  <updated>2026-02-20T18:44:01.798887Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>И. С. Шмелев - Как я стал писателем</title>
+    <id>urn:ebook-search:book:И. С. Шмелев - Как я стал писателем</id>
+    <updated>2026-02-20T18:44:01.798887Z</updated>
+    <link href="../../d/И. С. Шмелев - Как я стал писателем.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>И. С. Шмелев</name>
+    </author>
+  </entry>
+</feed>

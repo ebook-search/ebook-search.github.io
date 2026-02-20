@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Romain Rolland</title>
   <id>urn:ebook-search:author:Romain Rolland</id>
-  <updated>2026-02-20T13:52:15.464810Z</updated>
+  <updated>2026-02-20T18:44:01.728429Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Romain Rolland - Clerambault</title>
     <id>urn:ebook-search:book:Romain Rolland - Clerambault</id>
-    <updated>2026-02-20T13:52:15.464810Z</updated>
+    <updated>2026-02-20T18:44:01.728429Z</updated>
     <link href="../../d/Romain Rolland - Clerambault.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Romain Rolland</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Romain Rolland - Jean-Christophe</title>
     <id>urn:ebook-search:book:Romain Rolland - Jean-Christophe</id>
-    <updated>2026-02-20T13:52:15.464810Z</updated>
+    <updated>2026-02-20T18:44:01.728429Z</updated>
     <link href="../../d/Romain Rolland - Jean-Christophe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Romain Rolland</name>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>М. М. Пришвин</title>
+  <id>urn:ebook-search:author:М. М. Пришвин</id>
+  <updated>2026-02-20T18:44:01.795209Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>М. М. Пришвин - Кладовая солнца</title>
+    <id>urn:ebook-search:book:М. М. Пришвин - Кладовая солнца</id>
+    <updated>2026-02-20T18:44:01.795209Z</updated>
+    <link href="../../d/М. М. Пришвин - Кладовая солнца.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. М. Пришвин</name>
+    </author>
+  </entry>
+</feed>

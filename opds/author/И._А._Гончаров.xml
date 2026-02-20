@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>И. А. Гончаров</title>
+  <id>urn:ebook-search:author:И. А. Гончаров</id>
+  <updated>2026-02-20T18:44:01.790420Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>И. А. Гончаров - «Мильон терзаний»</title>
+    <id>urn:ebook-search:book:И. А. Гончаров - «Мильон терзаний»</id>
+    <updated>2026-02-20T18:44:01.790420Z</updated>
+    <link href="../../d/И. А. Гончаров - «Мильон терзаний».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>И. А. Гончаров</name>
+    </author>
+  </entry>
+  <entry>
+    <title>И. А. Гончаров - Обломов</title>
+    <id>urn:ebook-search:book:И. А. Гончаров - Обломов</id>
+    <updated>2026-02-20T18:44:01.790420Z</updated>
+    <link href="../../d/И. А. Гончаров - Обломов.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>И. А. Гончаров</name>
+    </author>
+  </entry>
+</feed>

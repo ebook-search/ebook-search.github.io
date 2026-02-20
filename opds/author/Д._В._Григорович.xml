@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Д. В. Григорович</title>
+  <id>urn:ebook-search:author:Д. В. Григорович</id>
+  <updated>2026-02-20T18:44:01.784861Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Д. В. Григорович - Гуттаперчевый мальчик</title>
+    <id>urn:ebook-search:book:Д. В. Григорович - Гуттаперчевый мальчик</id>
+    <updated>2026-02-20T18:44:01.784861Z</updated>
+    <link href="../../d/Д. В. Григорович - Гуттаперчевый мальчик.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Д. В. Григорович</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. М. Достоевский, Д. В. Григорович, Н. А. Некрасов - Приложение: Как опасно предаваться честолюбивым снам</title>
+    <id>urn:ebook-search:book:Ф. М. Достоевский, Д. В. Григорович, Н. А. Некрасов - Приложение: Как опасно предаваться честолюбивым снам</id>
+    <updated>2026-02-20T18:44:01.784861Z</updated>
+    <link href="../../d/Ф. М. Достоевский, Д. В. Григорович, Н. А. Некрасов - Приложение: Как опасно предаваться честолюбивым снам.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Д. В. Григорович</name>
+    </author>
+  </entry>
+</feed>

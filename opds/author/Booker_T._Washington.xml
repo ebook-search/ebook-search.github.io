@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Booker T. Washington</title>
   <id>urn:ebook-search:author:Booker T. Washington</id>
-  <updated>2026-02-20T13:52:15.477076Z</updated>
+  <updated>2026-02-20T18:44:01.772653Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Booker T. Washington - Up from Slavery</title>
     <id>urn:ebook-search:book:Booker T. Washington - Up from Slavery</id>
-    <updated>2026-02-20T13:52:15.477076Z</updated>
+    <updated>2026-02-20T18:44:01.772653Z</updated>
     <link href="../../d/Booker T. Washington - Up from Slavery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Booker T. Washington</name>

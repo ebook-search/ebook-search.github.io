@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Andre Norton</title>
   <id>urn:ebook-search:author:Andre Norton</id>
-  <updated>2026-02-20T13:52:15.465590Z</updated>
+  <updated>2026-02-20T18:44:01.730959Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Andre Norton - Key Out of Time</title>
     <id>urn:ebook-search:book:Andre Norton - Key Out of Time</id>
-    <updated>2026-02-20T13:52:15.465590Z</updated>
+    <updated>2026-02-20T18:44:01.730959Z</updated>
     <link href="../../d/Andre Norton - Key Out of Time.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Andre Norton</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Andre Norton - Plague Ship</title>
     <id>urn:ebook-search:book:Andre Norton - Plague Ship</id>
-    <updated>2026-02-20T13:52:15.465590Z</updated>
+    <updated>2026-02-20T18:44:01.730959Z</updated>
     <link href="../../d/Andre Norton - Plague Ship.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Andre Norton</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Andre Norton - Ralestone Luck</title>
     <id>urn:ebook-search:book:Andre Norton - Ralestone Luck</id>
-    <updated>2026-02-20T13:52:15.465590Z</updated>
+    <updated>2026-02-20T18:44:01.730959Z</updated>
     <link href="../../d/Andre Norton - Ralestone Luck.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Andre Norton</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Andre Norton - Short Fiction</title>
     <id>urn:ebook-search:book:Andre Norton - Short Fiction</id>
-    <updated>2026-02-20T13:52:15.465590Z</updated>
+    <updated>2026-02-20T18:44:01.730959Z</updated>
     <link href="../../d/Andre Norton - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Andre Norton</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Andre Norton - Star Born</title>
     <id>urn:ebook-search:book:Andre Norton - Star Born</id>
-    <updated>2026-02-20T13:52:15.465590Z</updated>
+    <updated>2026-02-20T18:44:01.730959Z</updated>
     <link href="../../d/Andre Norton - Star Born.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Andre Norton</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Andre Norton - Star Hunter</title>
     <id>urn:ebook-search:book:Andre Norton - Star Hunter</id>
-    <updated>2026-02-20T13:52:15.465590Z</updated>
+    <updated>2026-02-20T18:44:01.730959Z</updated>
     <link href="../../d/Andre Norton - Star Hunter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Andre Norton</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Andre Norton - Storm Over Warlock</title>
     <id>urn:ebook-search:book:Andre Norton - Storm Over Warlock</id>
-    <updated>2026-02-20T13:52:15.465590Z</updated>
+    <updated>2026-02-20T18:44:01.730959Z</updated>
     <link href="../../d/Andre Norton - Storm Over Warlock.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Andre Norton</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>Andre Norton - The Defiant Agents</title>
     <id>urn:ebook-search:book:Andre Norton - The Defiant Agents</id>
-    <updated>2026-02-20T13:52:15.465590Z</updated>
+    <updated>2026-02-20T18:44:01.730959Z</updated>
     <link href="../../d/Andre Norton - The Defiant Agents.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Andre Norton</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>Andre Norton - The Time Traders</title>
     <id>urn:ebook-search:book:Andre Norton - The Time Traders</id>
-    <updated>2026-02-20T13:52:15.465590Z</updated>
+    <updated>2026-02-20T18:44:01.730959Z</updated>
     <link href="../../d/Andre Norton - The Time Traders.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Andre Norton</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>Andre Norton - Voodoo Planet</title>
     <id>urn:ebook-search:book:Andre Norton - Voodoo Planet</id>
-    <updated>2026-02-20T13:52:15.465590Z</updated>
+    <updated>2026-02-20T18:44:01.730959Z</updated>
     <link href="../../d/Andre Norton - Voodoo Planet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Andre Norton</name>

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Apuleius</title>
   <id>urn:ebook-search:author:Apuleius</id>
-  <updated>2026-02-20T13:52:15.473003Z</updated>
+  <updated>2026-02-20T18:44:01.756707Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Apuleius - The Golden Ass</title>
     <id>urn:ebook-search:book:Apuleius - The Golden Ass</id>
-    <updated>2026-02-20T13:52:15.473003Z</updated>
+    <updated>2026-02-20T18:44:01.756707Z</updated>
     <link href="../../d/Apuleius - The Golden Ass.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Apuleius</name>

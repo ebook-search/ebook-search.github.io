@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Hugh Lofting</title>
   <id>urn:ebook-search:author:Hugh Lofting</id>
-  <updated>2026-02-20T13:52:15.462144Z</updated>
+  <updated>2026-02-20T18:44:01.719405Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Hugh Lofting - The Story of Doctor Dolittle</title>
     <id>urn:ebook-search:book:Hugh Lofting - The Story of Doctor Dolittle</id>
-    <updated>2026-02-20T13:52:15.462144Z</updated>
+    <updated>2026-02-20T18:44:01.719405Z</updated>
     <link href="../../d/Hugh Lofting - The Story of Doctor Dolittle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Hugh Lofting</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Hugh Lofting - The Voyages of Doctor Dolittle</title>
     <id>urn:ebook-search:book:Hugh Lofting - The Voyages of Doctor Dolittle</id>
-    <updated>2026-02-20T13:52:15.462144Z</updated>
+    <updated>2026-02-20T18:44:01.719405Z</updated>
     <link href="../../d/Hugh Lofting - The Voyages of Doctor Dolittle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Hugh Lofting</name>

@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>О. Э. Мандельштам</title>
+  <id>urn:ebook-search:author:О. Э. Мандельштам</id>
+  <updated>2026-02-20T18:44:01.796875Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>О. Э. Мандельштам - Encyclyca («Есть обитаемая духом...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Encyclyca («Есть обитаемая духом...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Encyclyca («Есть обитаемая духом...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Notre Dame («Где римский судия судил чужой народ...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Notre Dame («Где римский судия судил чужой народ...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Notre Dame («Где римский судия судил чужой народ...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Silentium («Она еще не родилась...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Silentium («Она еще не родилась...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Silentium («Она еще не родилась...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «...Дев полуночных отвага...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «...Дев полуночных отвага...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «...Дев полуночных отвага...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «...На луне не растет...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «...На луне не растет...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «...На луне не растет...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Бессонница. Гомер. Тугие паруса...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Бессонница. Гомер. Тугие паруса...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Бессонница. Гомер. Тугие паруса...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «В огромном омуте прозрачно и темно...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «В огромном омуте прозрачно и темно...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «В огромном омуте прозрачно и темно...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «В разноголосице девического хора...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «В разноголосице девического хора...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «В разноголосице девического хора...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «В спокойных пригородах снег...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «В спокойных пригородах снег...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «В спокойных пригородах снег...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «В таверне воровская шайка...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «В таверне воровская шайка...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «В таверне воровская шайка...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Воздух пасмурный влажен и гулок...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Воздух пасмурный влажен и гулок...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Воздух пасмурный влажен и гулок...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Дано мне тело — что мне делать с ним...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Дано мне тело — что мне делать с ним...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Дано мне тело — что мне делать с ним...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Душный сумрак кроет ложе...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Душный сумрак кроет ложе...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Душный сумрак кроет ложе...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Есть целомудренные чары...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Есть целомудренные чары...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Есть целомудренные чары...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Есть ценностей незыблемая скала...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Есть ценностей незыблемая скала...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Есть ценностей незыблемая скала...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Заснула чернь. Зияет площадь аркой...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Заснула чернь. Зияет площадь аркой...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Заснула чернь. Зияет площадь аркой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Звук осторожный и глухой...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Звук осторожный и глухой...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Звук осторожный и глухой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «И поныне на Афоне...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «И поныне на Афоне...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «И поныне на Афоне...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Из омута злого и вязкого...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Из омута злого и вязкого...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Из омута злого и вязкого...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Как кони медленно ступают...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Как кони медленно ступают...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Как кони медленно ступают...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Как тень внезапных облаков...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Как тень внезапных облаков...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Как тень внезапных облаков...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Когда удар с ударами встречается...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Когда удар с ударами встречается...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Когда удар с ударами встречается...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Медлительнее снежный улей...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Медлительнее снежный улей...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Медлительнее снежный улей...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Мы напряженного молчанья не выносим...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Мы напряженного молчанья не выносим...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Мы напряженного молчанья не выносим...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «На бледно-голубой эмали...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «На бледно-голубой эмали...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «На бледно-голубой эмали...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «На перламутровый челнок...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «На перламутровый челнок...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «На перламутровый челнок...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «На площадь выбежав, свободен...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «На площадь выбежав, свободен...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «На площадь выбежав, свободен...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «На розвальнях, уложенных соломой...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «На розвальнях, уложенных соломой...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «На розвальнях, уложенных соломой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Невыразимая печаль...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Невыразимая печаль...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Невыразимая печаль...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Нежнее нежного...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Нежнее нежного...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Нежнее нежного...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Нет, не луна, а светлый циферблат...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Нет, не луна, а светлый циферблат...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Нет, не луна, а светлый циферблат...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Ни о чем не нужно говорить...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Ни о чем не нужно говорить...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Ни о чем не нужно говорить...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «О временах простых и грубых...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «О временах простых и грубых...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «О временах простых и грубых...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «О свободе небывалой...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «О свободе небывалой...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «О свободе небывалой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «О, небо, небо, ты мне будешь сниться!..»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «О, небо, небо, ты мне будешь сниться!..»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «О, небо, небо, ты мне будешь сниться!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Обиженно уходят на холмы...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Обиженно уходят на холмы...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Обиженно уходят на холмы...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Образ твой, мучительный и зыбкий...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Образ твой, мучительный и зыбкий...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Образ твой, мучительный и зыбкий...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «От вторника и до субботы...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «От вторника и до субботы...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «От вторника и до субботы...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Отравлен хлеб, и воздух выпит...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Отравлен хлеб, и воздух выпит...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Отравлен хлеб, и воздух выпит...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Отчего душа так певуча...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Отчего душа так певуча...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Отчего душа так певуча...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Паденье — неизменный спутник страха...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Паденье — неизменный спутник страха...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Паденье — неизменный спутник страха...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Поговорим о Риме — дивный град!..»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Поговорим о Риме — дивный град!..»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Поговорим о Риме — дивный град!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Природа — тот же Рим и отразилась в нем...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Природа — тот же Рим и отразилась в нем...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Природа — тот же Рим и отразилась в нем...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Пусть имена цветущих городов...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Пусть имена цветущих городов...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Пусть имена цветущих городов...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «С веселым ржанием пасутся табуны...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «С веселым ржанием пасутся табуны...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «С веселым ржанием пасутся табуны...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Сегодня дурной день...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Сегодня дурной день...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Сегодня дурной день...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Скудный луч холодной мерою...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Скудный луч холодной мерою...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Скудный луч холодной мерою...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Слух чуткий парус напрягает...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Слух чуткий парус напрягает...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Слух чуткий парус напрягает...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Смутно-дышащими листьями...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Смутно-дышащими листьями...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Смутно-дышащими листьями...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Сусальным золотом горят...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Сусальным золотом горят...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Сусальным золотом горят...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Только детские книги читать...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Только детские книги читать...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Только детские книги читать...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Уничтожает пламень...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Уничтожает пламень...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Уничтожает пламень...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Я вздрагиваю от холода...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Я вздрагиваю от холода...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Я вздрагиваю от холода...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Я не слыхал рассказов Оссиана...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Я не слыхал рассказов Оссиана...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Я не слыхал рассказов Оссиана...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Я не увижу знаменитой „Федры“...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Я не увижу знаменитой „Федры“...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Я не увижу знаменитой „Федры“...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «Я ненавижу свет...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «Я ненавижу свет...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «Я ненавижу свет...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «„Здесь я стою — я не могу иначе“...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «„Здесь я стою — я не могу иначе“...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «„Здесь я стою — я не могу иначе“...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «„Как этих покрывал и этого убора...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «„Как этих покрывал и этого убора...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «„Как этих покрывал и этого убора...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - «„Мороженно!“ Солнце. Воздушный бисквит...»</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - «„Мороженно!“ Солнце. Воздушный бисквит...»</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - «„Мороженно!“ Солнце. Воздушный бисквит...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Аббат («О, спутник вечного романа...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Аббат («О, спутник вечного романа...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Аббат («О, спутник вечного романа...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Адмиралтейство («В столице северной томится пыльный тополь...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Адмиралтейство («В столице северной томится пыльный тополь...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Адмиралтейство («В столице северной томится пыльный тополь...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Айя-София («Айя-София — здесь остановиться...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Айя-София («Айя-София — здесь остановиться...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Айя-София («Айя-София — здесь остановиться...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Американка («Американка в двадцать лет...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Американка («Американка в двадцать лет...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Американка («Американка в двадцать лет...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Ахматова («Вполоборота, о, печаль...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Ахматова («Вполоборота, о, печаль...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Ахматова («Вполоборота, о, печаль...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Бах («Здесь прихожане — дети праха...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Бах («Здесь прихожане — дети праха...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Бах («Здесь прихожане — дети праха...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Валкирии («Летают валкирии, поют смычки...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Валкирии («Летают валкирии, поют смычки...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Валкирии («Летают валкирии, поют смычки...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Дворцовая площадь («Императорский виссон...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Дворцовая площадь («Императорский виссон...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Дворцовая площадь («Императорский виссон...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Домби и сын («Когда, пронзительнее свиста...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Домби и сын («Когда, пронзительнее свиста...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Домби и сын («Когда, пронзительнее свиста...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Европа («Как средиземный краб или звезда морская...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Европа («Как средиземный краб или звезда морская...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Европа («Как средиземный краб или звезда морская...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Зверинец («Отверженное слово „мир“...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Зверинец («Отверженное слово „мир“...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Зверинец («Отверженное слово „мир“...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Золотой («Целый день сырой осенний воздух...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Золотой («Целый день сырой осенний воздух...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Золотой («Целый день сырой осенний воздух...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Казино («Я не поклонник радости предвзятой...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Казино («Я не поклонник радости предвзятой...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Казино («Я не поклонник радости предвзятой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Камень</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Камень</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Камень.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Кинематограф («Кинематограф. Три скамейки...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Кинематограф («Кинематограф. Три скамейки...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Кинематограф («Кинематограф. Три скамейки...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Лютеранин («Я на прогулке похороны встретил...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Лютеранин («Я на прогулке похороны встретил...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Лютеранин («Я на прогулке похороны встретил...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Ода Бетховену («Бывает сердце так сурово...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Ода Бетховену («Бывает сердце так сурово...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Ода Бетховену («Бывает сердце так сурово...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Петербургские строфы («Над желтизной правительственных зданий...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Петербургские строфы («Над желтизной правительственных зданий...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Петербургские строфы («Над желтизной правительственных зданий...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Пешеход («Я чувствую непобедимый страх...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Пешеход («Я чувствую непобедимый страх...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Пешеход («Я чувствую непобедимый страх...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Посох («Посох мой, моя свобода...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Посох («Посох мой, моя свобода...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Посох («Посох мой, моя свобода...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Равноденствие («Есть иволги в лесах, и гласных долгота...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Равноденствие («Есть иволги в лесах, и гласных долгота...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Равноденствие («Есть иволги в лесах, и гласных долгота...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Раковина («Быть может, я тебе не нужен...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Раковина («Быть может, я тебе не нужен...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Раковина («Быть может, я тебе не нужен...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Соломинка, 1—2</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Соломинка, 1—2</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Соломинка, 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Старик («Уже светло, поет сирена...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Старик («Уже светло, поет сирена...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Старик («Уже светло, поет сирена...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Теннис («Средь аляповатых дач...»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Теннис («Средь аляповатых дач...»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Теннис («Средь аляповатых дач...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О. Э. Мандельштам - Царское Село («Поедем в Царское Село!..»)</title>
+    <id>urn:ebook-search:book:О. Э. Мандельштам - Царское Село («Поедем в Царское Село!..»)</id>
+    <updated>2026-02-20T18:44:01.796875Z</updated>
+    <link href="../../d/О. Э. Мандельштам - Царское Село («Поедем в Царское Село!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>О. Э. Мандельштам</name>
+    </author>
+  </entry>
+</feed>

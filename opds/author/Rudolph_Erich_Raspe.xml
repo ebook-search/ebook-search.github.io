@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Rudolph Erich Raspe</title>
   <id>urn:ebook-search:author:Rudolph Erich Raspe</id>
-  <updated>2026-02-20T13:52:15.479606Z</updated>
+  <updated>2026-02-20T18:44:01.781811Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Rudolph Erich Raspe - The Surprising Adventures of Baron Munchausen</title>
     <id>urn:ebook-search:book:Rudolph Erich Raspe - The Surprising Adventures of Baron Munchausen</id>
-    <updated>2026-02-20T13:52:15.479606Z</updated>
+    <updated>2026-02-20T18:44:01.781811Z</updated>
     <link href="../../d/Rudolph Erich Raspe - The Surprising Adventures of Baron Munchausen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Rudolph Erich Raspe</name>

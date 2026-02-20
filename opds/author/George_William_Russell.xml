@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>George William Russell</title>
   <id>urn:ebook-search:author:George William Russell</id>
-  <updated>2026-02-20T13:52:15.467452Z</updated>
+  <updated>2026-02-20T18:44:01.737318Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>George William Russell - The National Being</title>
     <id>urn:ebook-search:book:George William Russell - The National Being</id>
-    <updated>2026-02-20T13:52:15.467452Z</updated>
+    <updated>2026-02-20T18:44:01.737318Z</updated>
     <link href="../../d/George William Russell - The National Being.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George William Russell</name>

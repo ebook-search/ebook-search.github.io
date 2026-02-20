@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Francisco de Quevedo</title>
   <id>urn:ebook-search:author:Francisco de Quevedo</id>
-  <updated>2026-02-20T13:52:15.478953Z</updated>
+  <updated>2026-02-20T18:44:01.779751Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Francisco de Quevedo - Pablo de Segovia, the Spanish Sharper</title>
     <id>urn:ebook-search:book:Francisco de Quevedo - Pablo de Segovia, the Spanish Sharper</id>
-    <updated>2026-02-20T13:52:15.478953Z</updated>
+    <updated>2026-02-20T18:44:01.779751Z</updated>
     <link href="../../d/Francisco de Quevedo - Pablo de Segovia, the Spanish Sharper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Francisco de Quevedo</name>

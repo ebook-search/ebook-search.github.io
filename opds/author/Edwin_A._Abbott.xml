@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Edwin A. Abbott</title>
   <id>urn:ebook-search:author:Edwin A. Abbott</id>
-  <updated>2026-02-20T13:52:15.478612Z</updated>
+  <updated>2026-02-20T18:44:01.778413Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Edwin A. Abbott - Flatland</title>
     <id>urn:ebook-search:book:Edwin A. Abbott - Flatland</id>
-    <updated>2026-02-20T13:52:15.478612Z</updated>
+    <updated>2026-02-20T18:44:01.778413Z</updated>
     <link href="../../d/Edwin A. Abbott - Flatland.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edwin A. Abbott</name>

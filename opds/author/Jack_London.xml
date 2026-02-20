@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Jack London</title>
   <id>urn:ebook-search:author:Jack London</id>
-  <updated>2026-02-20T13:52:15.471842Z</updated>
+  <updated>2026-02-20T18:44:01.752406Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Jack London - Before Adam</title>
     <id>urn:ebook-search:book:Jack London - Before Adam</id>
-    <updated>2026-02-20T13:52:15.471842Z</updated>
+    <updated>2026-02-20T18:44:01.752406Z</updated>
     <link href="../../d/Jack London - Before Adam.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Jack London</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Jack London - Lost Face</title>
     <id>urn:ebook-search:book:Jack London - Lost Face</id>
-    <updated>2026-02-20T13:52:15.471842Z</updated>
+    <updated>2026-02-20T18:44:01.752406Z</updated>
     <link href="../../d/Jack London - Lost Face.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Jack London</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Jack London - Martin Eden</title>
     <id>urn:ebook-search:book:Jack London - Martin Eden</id>
-    <updated>2026-02-20T13:52:15.471842Z</updated>
+    <updated>2026-02-20T18:44:01.752406Z</updated>
     <link href="../../d/Jack London - Martin Eden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Jack London</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Jack London - The Call of the Wild</title>
     <id>urn:ebook-search:book:Jack London - The Call of the Wild</id>
-    <updated>2026-02-20T13:52:15.471842Z</updated>
+    <updated>2026-02-20T18:44:01.752406Z</updated>
     <link href="../../d/Jack London - The Call of the Wild.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Jack London</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Jack London - The Iron Heel</title>
     <id>urn:ebook-search:book:Jack London - The Iron Heel</id>
-    <updated>2026-02-20T13:52:15.471842Z</updated>
+    <updated>2026-02-20T18:44:01.752406Z</updated>
     <link href="../../d/Jack London - The Iron Heel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Jack London</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Jack London - The Sea-Wolf</title>
     <id>urn:ebook-search:book:Jack London - The Sea-Wolf</id>
-    <updated>2026-02-20T13:52:15.471842Z</updated>
+    <updated>2026-02-20T18:44:01.752406Z</updated>
     <link href="../../d/Jack London - The Sea-Wolf.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Jack London</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Jack London - The Son of the Wolf</title>
     <id>urn:ebook-search:book:Jack London - The Son of the Wolf</id>
-    <updated>2026-02-20T13:52:15.471842Z</updated>
+    <updated>2026-02-20T18:44:01.752406Z</updated>
     <link href="../../d/Jack London - The Son of the Wolf.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Jack London</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>Jack London - When God Laughs</title>
     <id>urn:ebook-search:book:Jack London - When God Laughs</id>
-    <updated>2026-02-20T13:52:15.471842Z</updated>
+    <updated>2026-02-20T18:44:01.752406Z</updated>
     <link href="../../d/Jack London - When God Laughs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Jack London</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>Jack London - White Fang</title>
     <id>urn:ebook-search:book:Jack London - White Fang</id>
-    <updated>2026-02-20T13:52:15.471842Z</updated>
+    <updated>2026-02-20T18:44:01.752406Z</updated>
     <link href="../../d/Jack London - White Fang.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Jack London</name>

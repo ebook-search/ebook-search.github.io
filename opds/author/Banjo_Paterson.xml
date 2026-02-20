@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Banjo Paterson</title>
   <id>urn:ebook-search:author:Banjo Paterson</id>
-  <updated>2026-02-20T13:52:15.475835Z</updated>
+  <updated>2026-02-20T18:44:01.767622Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Banjo Paterson - An Outback Marriage</title>
     <id>urn:ebook-search:book:Banjo Paterson - An Outback Marriage</id>
-    <updated>2026-02-20T13:52:15.475835Z</updated>
+    <updated>2026-02-20T18:44:01.767622Z</updated>
     <link href="../../d/Banjo Paterson - An Outback Marriage.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Banjo Paterson</name>

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Georgette Heyer</title>
   <id>urn:ebook-search:author:Georgette Heyer</id>
-  <updated>2026-02-20T13:52:15.463335Z</updated>
+  <updated>2026-02-20T18:44:01.723431Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Georgette Heyer - Beauvallet</title>
     <id>urn:ebook-search:book:Georgette Heyer - Beauvallet</id>
-    <updated>2026-02-20T13:52:15.463335Z</updated>
+    <updated>2026-02-20T18:44:01.723431Z</updated>
     <link href="../../d/Georgette Heyer - Beauvallet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Georgette Heyer</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Georgette Heyer - Simon the Coldheart</title>
     <id>urn:ebook-search:book:Georgette Heyer - Simon the Coldheart</id>
-    <updated>2026-02-20T13:52:15.463335Z</updated>
+    <updated>2026-02-20T18:44:01.723431Z</updated>
     <link href="../../d/Georgette Heyer - Simon the Coldheart.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Georgette Heyer</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Georgette Heyer - The Black Moth</title>
     <id>urn:ebook-search:book:Georgette Heyer - The Black Moth</id>
-    <updated>2026-02-20T13:52:15.463335Z</updated>
+    <updated>2026-02-20T18:44:01.723431Z</updated>
     <link href="../../d/Georgette Heyer - The Black Moth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Georgette Heyer</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Georgette Heyer - The Great Roxhythe</title>
     <id>urn:ebook-search:book:Georgette Heyer - The Great Roxhythe</id>
-    <updated>2026-02-20T13:52:15.463335Z</updated>
+    <updated>2026-02-20T18:44:01.723431Z</updated>
     <link href="../../d/Georgette Heyer - The Great Roxhythe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Georgette Heyer</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Georgette Heyer - The Masqueraders</title>
     <id>urn:ebook-search:book:Georgette Heyer - The Masqueraders</id>
-    <updated>2026-02-20T13:52:15.463335Z</updated>
+    <updated>2026-02-20T18:44:01.723431Z</updated>
     <link href="../../d/Georgette Heyer - The Masqueraders.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Georgette Heyer</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Georgette Heyer - The Transformation of Philip Jettan</title>
     <id>urn:ebook-search:book:Georgette Heyer - The Transformation of Philip Jettan</id>
-    <updated>2026-02-20T13:52:15.463335Z</updated>
+    <updated>2026-02-20T18:44:01.723431Z</updated>
     <link href="../../d/Georgette Heyer - The Transformation of Philip Jettan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Georgette Heyer</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Georgette Heyer - These Old Shades</title>
     <id>urn:ebook-search:book:Georgette Heyer - These Old Shades</id>
-    <updated>2026-02-20T13:52:15.463335Z</updated>
+    <updated>2026-02-20T18:44:01.723431Z</updated>
     <link href="../../d/Georgette Heyer - These Old Shades.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Georgette Heyer</name>

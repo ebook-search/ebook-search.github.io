@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Marie de France</title>
   <id>urn:ebook-search:author:Marie de France</id>
-  <updated>2026-02-20T13:52:15.471559Z</updated>
+  <updated>2026-02-20T18:44:01.749995Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Marie de France - Lais</title>
     <id>urn:ebook-search:book:Marie de France - Lais</id>
-    <updated>2026-02-20T13:52:15.471559Z</updated>
+    <updated>2026-02-20T18:44:01.749995Z</updated>
     <link href="../../d/Marie de France - Lais.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Marie de France</name>

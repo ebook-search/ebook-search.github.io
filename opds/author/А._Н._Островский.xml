@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>А. Н. Островский</title>
+  <id>urn:ebook-search:author:А. Н. Островский</id>
+  <updated>2026-02-20T18:44:01.790616Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>А. Н. Островский - Бедность не порок</title>
+    <id>urn:ebook-search:book:А. Н. Островский - Бедность не порок</id>
+    <updated>2026-02-20T18:44:01.790616Z</updated>
+    <link href="../../d/А. Н. Островский - Бедность не порок.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. Н. Островский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. Н. Островский - Бесприданница</title>
+    <id>urn:ebook-search:book:А. Н. Островский - Бесприданница</id>
+    <updated>2026-02-20T18:44:01.790616Z</updated>
+    <link href="../../d/А. Н. Островский - Бесприданница.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. Н. Островский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. Н. Островский - Волки и овцы</title>
+    <id>urn:ebook-search:book:А. Н. Островский - Волки и овцы</id>
+    <updated>2026-02-20T18:44:01.790616Z</updated>
+    <link href="../../d/А. Н. Островский - Волки и овцы.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. Н. Островский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. Н. Островский - Гроза</title>
+    <id>urn:ebook-search:book:А. Н. Островский - Гроза</id>
+    <updated>2026-02-20T18:44:01.790616Z</updated>
+    <link href="../../d/А. Н. Островский - Гроза.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. Н. Островский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. Н. Островский - Свои люди — сочтемся</title>
+    <id>urn:ebook-search:book:А. Н. Островский - Свои люди — сочтемся</id>
+    <updated>2026-02-20T18:44:01.790616Z</updated>
+    <link href="../../d/А. Н. Островский - Свои люди — сочтемся.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. Н. Островский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. Н. Островский - Снегурочка</title>
+    <id>urn:ebook-search:book:А. Н. Островский - Снегурочка</id>
+    <updated>2026-02-20T18:44:01.790616Z</updated>
+    <link href="../../d/А. Н. Островский - Снегурочка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. Н. Островский</name>
+    </author>
+  </entry>
+</feed>

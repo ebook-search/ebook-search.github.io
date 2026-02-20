@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Ralph Waldo Emerson</title>
   <id>urn:ebook-search:author:Ralph Waldo Emerson</id>
-  <updated>2026-02-20T13:52:15.466301Z</updated>
+  <updated>2026-02-20T18:44:01.733284Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Ralph Waldo Emerson - Essays</title>
     <id>urn:ebook-search:book:Ralph Waldo Emerson - Essays</id>
-    <updated>2026-02-20T13:52:15.466301Z</updated>
+    <updated>2026-02-20T18:44:01.733284Z</updated>
     <link href="../../d/Ralph Waldo Emerson - Essays.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ralph Waldo Emerson</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Ralph Waldo Emerson - Representative Men</title>
     <id>urn:ebook-search:book:Ralph Waldo Emerson - Representative Men</id>
-    <updated>2026-02-20T13:52:15.466301Z</updated>
+    <updated>2026-02-20T18:44:01.733284Z</updated>
     <link href="../../d/Ralph Waldo Emerson - Representative Men.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ralph Waldo Emerson</name>

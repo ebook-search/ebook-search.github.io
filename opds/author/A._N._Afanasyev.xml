@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>A. N. Afanasyev</title>
   <id>urn:ebook-search:author:A. N. Afanasyev</id>
-  <updated>2026-02-20T13:52:15.468572Z</updated>
+  <updated>2026-02-20T18:44:01.741095Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>A. N. Afanasyev - Russian Folktales</title>
     <id>urn:ebook-search:book:A. N. Afanasyev - Russian Folktales</id>
-    <updated>2026-02-20T13:52:15.468572Z</updated>
+    <updated>2026-02-20T18:44:01.741095Z</updated>
     <link href="../../d/A. N. Afanasyev - Russian Folktales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>A. N. Afanasyev</name>

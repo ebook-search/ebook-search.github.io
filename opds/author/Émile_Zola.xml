@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Émile Zola</title>
   <id>urn:ebook-search:author:Émile Zola</id>
-  <updated>2026-02-20T13:52:15.474696Z</updated>
+  <updated>2026-02-20T18:44:01.763159Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Émile Zola - Germinal</title>
     <id>urn:ebook-search:book:Émile Zola - Germinal</id>
-    <updated>2026-02-20T13:52:15.474696Z</updated>
+    <updated>2026-02-20T18:44:01.763159Z</updated>
     <link href="../../d/Émile Zola - Germinal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Émile Zola</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Émile Zola - His Masterpiece</title>
     <id>urn:ebook-search:book:Émile Zola - His Masterpiece</id>
-    <updated>2026-02-20T13:52:15.474696Z</updated>
+    <updated>2026-02-20T18:44:01.763159Z</updated>
     <link href="../../d/Émile Zola - His Masterpiece.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Émile Zola</name>

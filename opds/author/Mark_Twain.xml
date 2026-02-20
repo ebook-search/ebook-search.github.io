@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Mark Twain</title>
   <id>urn:ebook-search:author:Mark Twain</id>
-  <updated>2026-02-20T13:52:15.465879Z</updated>
+  <updated>2026-02-20T18:44:01.731895Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Mark Twain - A Connecticut Yankee in King Arthur’s Court</title>
     <id>urn:ebook-search:book:Mark Twain - A Connecticut Yankee in King Arthur’s Court</id>
-    <updated>2026-02-20T13:52:15.465879Z</updated>
+    <updated>2026-02-20T18:44:01.731895Z</updated>
     <link href="../../d/Mark Twain - A Connecticut Yankee in King Arthur’s Court.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mark Twain</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Mark Twain - Personal Recollections of Joan of Arc</title>
     <id>urn:ebook-search:book:Mark Twain - Personal Recollections of Joan of Arc</id>
-    <updated>2026-02-20T13:52:15.465879Z</updated>
+    <updated>2026-02-20T18:44:01.731895Z</updated>
     <link href="../../d/Mark Twain - Personal Recollections of Joan of Arc.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mark Twain</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Mark Twain - Pudd’nhead Wilson</title>
     <id>urn:ebook-search:book:Mark Twain - Pudd’nhead Wilson</id>
-    <updated>2026-02-20T13:52:15.465879Z</updated>
+    <updated>2026-02-20T18:44:01.731895Z</updated>
     <link href="../../d/Mark Twain - Pudd’nhead Wilson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mark Twain</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Mark Twain - Roughing It</title>
     <id>urn:ebook-search:book:Mark Twain - Roughing It</id>
-    <updated>2026-02-20T13:52:15.465879Z</updated>
+    <updated>2026-02-20T18:44:01.731895Z</updated>
     <link href="../../d/Mark Twain - Roughing It.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mark Twain</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Mark Twain - The Adventures of Huckleberry Finn</title>
     <id>urn:ebook-search:book:Mark Twain - The Adventures of Huckleberry Finn</id>
-    <updated>2026-02-20T13:52:15.465879Z</updated>
+    <updated>2026-02-20T18:44:01.731895Z</updated>
     <link href="../../d/Mark Twain - The Adventures of Huckleberry Finn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mark Twain</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Mark Twain - The Adventures of Tom Sawyer</title>
     <id>urn:ebook-search:book:Mark Twain - The Adventures of Tom Sawyer</id>
-    <updated>2026-02-20T13:52:15.465879Z</updated>
+    <updated>2026-02-20T18:44:01.731895Z</updated>
     <link href="../../d/Mark Twain - The Adventures of Tom Sawyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mark Twain</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Mark Twain - The Autobiography of Mark Twain</title>
     <id>urn:ebook-search:book:Mark Twain - The Autobiography of Mark Twain</id>
-    <updated>2026-02-20T13:52:15.465879Z</updated>
+    <updated>2026-02-20T18:44:01.731895Z</updated>
     <link href="../../d/Mark Twain - The Autobiography of Mark Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mark Twain</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>Mark Twain - The Innocents Abroad</title>
     <id>urn:ebook-search:book:Mark Twain - The Innocents Abroad</id>
-    <updated>2026-02-20T13:52:15.465879Z</updated>
+    <updated>2026-02-20T18:44:01.731895Z</updated>
     <link href="../../d/Mark Twain - The Innocents Abroad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mark Twain</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>Mark Twain - The Prince and the Pauper</title>
     <id>urn:ebook-search:book:Mark Twain - The Prince and the Pauper</id>
-    <updated>2026-02-20T13:52:15.465879Z</updated>
+    <updated>2026-02-20T18:44:01.731895Z</updated>
     <link href="../../d/Mark Twain - The Prince and the Pauper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mark Twain</name>

@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Ф. И. Тютчев</title>
+  <id>urn:ebook-search:author:Ф. И. Тютчев</id>
+  <updated>2026-02-20T18:44:01.793537Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Ф. И. Тютчев - Cache-cache («Вот арфа ее в обычайном углу...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Cache-cache («Вот арфа ее в обычайном углу...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Cache-cache («Вот арфа ее в обычайном углу...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Silentium! («Молчи, скрывайся и таи...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Silentium! («Молчи, скрывайся и таи...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Silentium! («Молчи, скрывайся и таи...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Великий день Кирилловой кончины...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Великий день Кирилловой кончины...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Великий день Кирилловой кончины...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Вот от моря и до моря...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Вот от моря и до моря...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Вот от моря и до моря...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Две силы есть — две роковые силы...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Две силы есть — две роковые силы...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Две силы есть — две роковые силы...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Душа хотела б быть звездой...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Душа хотела б быть звездой...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Душа хотела б быть звездой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Есть в осени первоначальной...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Есть в осени первоначальной...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Есть в осени первоначальной...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Еще земли печален вид...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Еще земли печален вид...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Еще земли печален вид...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Еще томлюсь тоской желаний...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Еще томлюсь тоской желаний...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Еще томлюсь тоской желаний...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Еще шумел веселый день...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Еще шумел веселый день...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Еще шумел веселый день...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Живым сочувствием привета...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Живым сочувствием привета...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Живым сочувствием привета...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Зима недаром злится...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Зима недаром злится...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Зима недаром злится...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «И чувства нет в твоих очах...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «И чувства нет в твоих очах...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «И чувства нет в твоих очах...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Итак, опять увиделся я с вами...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Итак, опять увиделся я с вами...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Итак, опять увиделся я с вами...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Как дымный столп светлеет в вышине!..»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Как дымный столп светлеет в вышине!..»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Как дымный столп светлеет в вышине!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Как над горячею золой...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Как над горячею золой...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Как над горячею золой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Как хорошо ты, о море ночное...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Как хорошо ты, о море ночное...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Как хорошо ты, о море ночное...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Когда в кругу убийственных забот...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Когда в кругу убийственных забот...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Когда в кругу убийственных забот...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Когда на то нет божьего согласья...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Когда на то нет божьего согласья...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Когда на то нет божьего согласья...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Люблю глаза твои, мой друг...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Люблю глаза твои, мой друг...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Люблю глаза твои, мой друг...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Над русской Вильной стародавной...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Над русской Вильной стародавной...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Над русской Вильной стародавной...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Нам не дано предугадать...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Нам не дано предугадать...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Нам не дано предугадать...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Не верь, не верь поэту, дева...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Не верь, не верь поэту, дева...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Не верь, не верь поэту, дева...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Не знаешь, что лестней для мудрости людской...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Не знаешь, что лестней для мудрости людской...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Не знаешь, что лестней для мудрости людской...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Не то, что мните вы, природа...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Не то, что мните вы, природа...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Не то, что мните вы, природа...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Неохотно и несмело...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Неохотно и несмело...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Неохотно и несмело...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «О чем ты воешь, ветр ночной?..»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «О чем ты воешь, ветр ночной?..»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «О чем ты воешь, ветр ночной?..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «О, как убийственно мы любим...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «О, как убийственно мы любим...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «О, как убийственно мы любим...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Она сидела на полу...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Она сидела на полу...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Она сидела на полу...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Певучесть есть в морских волнах...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Певучесть есть в морских волнах...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Певучесть есть в морских волнах...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Пламя рдеет, пламя пышет...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Пламя рдеет, пламя пышет...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Пламя рдеет, пламя пышет...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Природа — сфинкс. И тем она верней...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Природа — сфинкс. И тем она верней...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Природа — сфинкс. И тем она верней...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «С какою негою, с какой тоской влюбленный...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «С какою негою, с какой тоской влюбленный...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «С какою негою, с какой тоской влюбленный...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «С поляны коршун поднялся...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «С поляны коршун поднялся...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «С поляны коршун поднялся...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Сияет солнце, воды блещут...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Сияет солнце, воды блещут...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Сияет солнце, воды блещут...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Слезы людские, о слезы людские...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Слезы людские, о слезы людские...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Слезы людские, о слезы людские...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Там, где горы, убегая...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Там, где горы, убегая...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Там, где горы, убегая...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Тени сизые смесились...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Тени сизые смесились...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Тени сизые смесились...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Тихой ночью, поздним летом...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Тихой ночью, поздним летом...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Тихой ночью, поздним летом...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Умом Россию не понять...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Умом Россию не понять...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Умом Россию не понять...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Чародейкою Зимою...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Чародейкою Зимою...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Чародейкою Зимою...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Чему молилась ты с любовью...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Чему молилась ты с любовью...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Чему молилась ты с любовью...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Эти бедные селенья...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Эти бедные селенья...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Эти бедные селенья...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Я помню время золотое...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Я помню время золотое...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Я помню время золотое...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - «Яркий снег сиял в долине...»</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - «Яркий снег сиял в долине...»</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - «Яркий снег сиял в долине...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Безумие («Там, где с землею обгорелой...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Безумие («Там, где с землею обгорелой...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Безумие («Там, где с землею обгорелой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Бессонница («Часов однообразный бой...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Бессонница («Часов однообразный бой...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Бессонница («Часов однообразный бой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Весенние воды («Еще в полях белеет снег...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Весенние воды («Еще в полях белеет снег...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Весенние воды («Еще в полях белеет снег...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Весенняя гроза («Люблю грозу в начале мая...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Весенняя гроза («Люблю грозу в начале мая...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Весенняя гроза («Люблю грозу в начале мая...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Весна («Как ни гнетет рука судьбины...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Весна («Как ни гнетет рука судьбины...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Весна («Как ни гнетет рука судьбины...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Видение («Есть некий час, в ночи, всемирного молчанья...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Видение («Есть некий час, в ночи, всемирного молчанья...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Видение («Есть некий час, в ночи, всемирного молчанья...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Два единства («Из переполненной господним гневом чаши...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Два единства («Из переполненной господним гневом чаши...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Два единства («Из переполненной господним гневом чаши...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Декабрьское утро («На небе месяц — и ночная...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Декабрьское утро («На небе месяц — и ночная...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Декабрьское утро («На небе месяц — и ночная...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - День и ночь («На мир таинственный духов...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - День и ночь («На мир таинственный духов...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - День и ночь («На мир таинственный духов...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - К N. N. («Ты любишь! Ты притворствовать умеешь...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - К N. N. («Ты любишь! Ты притворствовать умеешь...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - К N. N. («Ты любишь! Ты притворствовать умеешь...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - К. Б. («Я встретил вас — и всё былое...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - К. Б. («Я встретил вас — и всё былое...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - К. Б. («Я встретил вас — и всё былое...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Конь морской («О рьяный конь, о конь морской...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Конь морской («О рьяный конь, о конь морской...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Конь морской («О рьяный конь, о конь морской...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Лебедь («Пускай орел за облаками...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Лебедь («Пускай орел за облаками...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Лебедь («Пускай орел за облаками...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Летний вечер («Уж солнца раскаленный шар...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Летний вечер («Уж солнца раскаленный шар...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Летний вечер («Уж солнца раскаленный шар...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Листья («Пусть сосны и ели...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Листья («Пусть сосны и ели...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Листья («Пусть сосны и ели...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Олегов щит («„Аллах! пролей на нас твой свет!..»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Олегов щит («„Аллах! пролей на нас твой свет!..»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Олегов щит («„Аллах! пролей на нас твой свет!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Осенний вечер («Есть в светлости осенних вечеров...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Осенний вечер («Есть в светлости осенних вечеров...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Осенний вечер («Есть в светлости осенних вечеров...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Ответ на адрес («Себя, друзья, морочите вы грубо...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Ответ на адрес («Себя, друзья, морочите вы грубо...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Ответ на адрес («Себя, друзья, морочите вы грубо...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - По случаю приезда австрийского эрцгерцога на похороны императора Николая («Нет, мера есть долготерпенью...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - По случаю приезда австрийского эрцгерцога на похороны императора Николая («Нет, мера есть долготерпенью...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - По случаю приезда австрийского эрцгерцога на похороны императора Николая («Нет, мера есть долготерпенью...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Полдень («Лениво дышит полдень мглистый...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Полдень («Лениво дышит полдень мглистый...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Полдень («Лениво дышит полдень мглистый...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Последний катаклизм («Когда пробьет последний час природы...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Последний катаклизм («Когда пробьет последний час природы...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Последний катаклизм («Когда пробьет последний час природы...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Последняя любовь («О, как на склоне наших лет...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Последняя любовь («О, как на склоне наших лет...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Последняя любовь («О, как на склоне наших лет...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Предопределение («Любовь, любовь — гласит преданье...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Предопределение («Любовь, любовь — гласит преданье...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Предопределение («Любовь, любовь — гласит преданье...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Русская география («Москва, и град Петров, и Константинов град...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Русская география («Москва, и град Петров, и Константинов град...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Русская география («Москва, и град Петров, и Константинов град...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Русской женщине («Вдали от солнца и природы...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Русской женщине («Вдали от солнца и природы...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Русской женщине («Вдали от солнца и природы...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Снежные горы («Уже полдневная пора...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Снежные горы («Уже полдневная пора...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Снежные горы («Уже полдневная пора...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Сон на море («И море, и буря качали наш челн...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Сон на море («И море, и буря качали наш челн...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Сон на море («И море, и буря качали наш челн...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Утро в горах («Лазурь небесная смеется...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Утро в горах («Лазурь небесная смеется...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Утро в горах («Лазурь небесная смеется...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Фонтан («Смотри, как облаком живым...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Фонтан («Смотри, как облаком живым...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Фонтан («Смотри, как облаком живым...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - Цицерон («Оратор римский говорил...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - Цицерон («Оратор римский говорил...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - Цицерон («Оратор римский говорил...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ф. И. Тютчев - ⟨Э. Ф. Тютчевой⟩ («Не знаю я, коснется ль благодать...»)</title>
+    <id>urn:ebook-search:book:Ф. И. Тютчев - ⟨Э. Ф. Тютчевой⟩ («Не знаю я, коснется ль благодать...»)</id>
+    <updated>2026-02-20T18:44:01.793537Z</updated>
+    <link href="../../d/Ф. И. Тютчев - ⟨Э. Ф. Тютчевой⟩ («Не знаю я, коснется ль благодать...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ф. И. Тютчев</name>
+    </author>
+  </entry>
+</feed>

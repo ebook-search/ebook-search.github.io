@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>М. А. Булгаков</title>
+  <id>urn:ebook-search:author:М. А. Булгаков</id>
+  <updated>2026-02-20T18:44:01.784061Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>М. А. Булгаков - Белая гвардия</title>
+    <id>urn:ebook-search:book:М. А. Булгаков - Белая гвардия</id>
+    <updated>2026-02-20T18:44:01.784061Z</updated>
+    <link href="../../d/М. А. Булгаков - Белая гвардия.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. А. Булгаков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. А. Булгаков - Вьюга</title>
+    <id>urn:ebook-search:book:М. А. Булгаков - Вьюга</id>
+    <updated>2026-02-20T18:44:01.784061Z</updated>
+    <link href="../../d/М. А. Булгаков - Вьюга.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. А. Булгаков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. А. Булгаков - Дни Турбиных</title>
+    <id>urn:ebook-search:book:М. А. Булгаков - Дни Турбиных</id>
+    <updated>2026-02-20T18:44:01.784061Z</updated>
+    <link href="../../d/М. А. Булгаков - Дни Турбиных.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. А. Булгаков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. А. Булгаков - Записки юного врача</title>
+    <id>urn:ebook-search:book:М. А. Булгаков - Записки юного врача</id>
+    <updated>2026-02-20T18:44:01.784061Z</updated>
+    <link href="../../d/М. А. Булгаков - Записки юного врача.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. А. Булгаков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. А. Булгаков - Звездная сыпь</title>
+    <id>urn:ebook-search:book:М. А. Булгаков - Звездная сыпь</id>
+    <updated>2026-02-20T18:44:01.784061Z</updated>
+    <link href="../../d/М. А. Булгаков - Звездная сыпь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. А. Булгаков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. А. Булгаков - Крещение поворотом</title>
+    <id>urn:ebook-search:book:М. А. Булгаков - Крещение поворотом</id>
+    <updated>2026-02-20T18:44:01.784061Z</updated>
+    <link href="../../d/М. А. Булгаков - Крещение поворотом.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. А. Булгаков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. А. Булгаков - Мастер и Маргарита</title>
+    <id>urn:ebook-search:book:М. А. Булгаков - Мастер и Маргарита</id>
+    <updated>2026-02-20T18:44:01.784061Z</updated>
+    <link href="../../d/М. А. Булгаков - Мастер и Маргарита.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. А. Булгаков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. А. Булгаков - Полотенце с петухом</title>
+    <id>urn:ebook-search:book:М. А. Булгаков - Полотенце с петухом</id>
+    <updated>2026-02-20T18:44:01.784061Z</updated>
+    <link href="../../d/М. А. Булгаков - Полотенце с петухом.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. А. Булгаков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. А. Булгаков - Пропавший глаз</title>
+    <id>urn:ebook-search:book:М. А. Булгаков - Пропавший глаз</id>
+    <updated>2026-02-20T18:44:01.784061Z</updated>
+    <link href="../../d/М. А. Булгаков - Пропавший глаз.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. А. Булгаков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. А. Булгаков - Собачье сердце</title>
+    <id>urn:ebook-search:book:М. А. Булгаков - Собачье сердце</id>
+    <updated>2026-02-20T18:44:01.784061Z</updated>
+    <link href="../../d/М. А. Булгаков - Собачье сердце.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. А. Булгаков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. А. Булгаков - Стальное горло</title>
+    <id>urn:ebook-search:book:М. А. Булгаков - Стальное горло</id>
+    <updated>2026-02-20T18:44:01.784061Z</updated>
+    <link href="../../d/М. А. Булгаков - Стальное горло.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. А. Булгаков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. А. Булгаков - Тьма египетская</title>
+    <id>urn:ebook-search:book:М. А. Булгаков - Тьма египетская</id>
+    <updated>2026-02-20T18:44:01.784061Z</updated>
+    <link href="../../d/М. А. Булгаков - Тьма египетская.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. А. Булгаков</name>
+    </author>
+  </entry>
+</feed>

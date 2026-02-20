@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>E. Phillips Oppenheim</title>
   <id>urn:ebook-search:author:E. Phillips Oppenheim</id>
-  <updated>2026-02-20T13:52:15.478374Z</updated>
+  <updated>2026-02-20T18:44:01.777659Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>E. Phillips Oppenheim - The Great Impersonation</title>
     <id>urn:ebook-search:book:E. Phillips Oppenheim - The Great Impersonation</id>
-    <updated>2026-02-20T13:52:15.478374Z</updated>
+    <updated>2026-02-20T18:44:01.777659Z</updated>
     <link href="../../d/E. Phillips Oppenheim - The Great Impersonation.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>E. Phillips Oppenheim</name>

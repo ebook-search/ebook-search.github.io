@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Заклятие огнем и мраком, 1—11</title>
+  <id>urn:ebook-search:author:Заклятие огнем и мраком, 1—11</id>
+  <updated>2026-02-20T18:44:01.797284Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>А. А. Блок, Заклятие огнем и мраком, 1—11 - </title>
+    <id>urn:ebook-search:book:А. А. Блок, Заклятие огнем и мраком, 1—11 - </id>
+    <updated>2026-02-20T18:44:01.797284Z</updated>
+    <link href="../../d/А. А. Блок, Заклятие огнем и мраком, 1—11 - .epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Заклятие огнем и мраком, 1—11</name>
+    </author>
+  </entry>
+</feed>

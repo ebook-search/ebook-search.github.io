@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Anthony Trollope</title>
   <id>urn:ebook-search:author:Anthony Trollope</id>
-  <updated>2026-02-20T13:52:15.464712Z</updated>
+  <updated>2026-02-20T18:44:01.728180Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Anthony Trollope - Barchester Towers</title>
     <id>urn:ebook-search:book:Anthony Trollope - Barchester Towers</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - Barchester Towers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Anthony Trollope - Can You Forgive Her?</title>
     <id>urn:ebook-search:book:Anthony Trollope - Can You Forgive Her?</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - Can You Forgive Her?.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Anthony Trollope - Cousin Henry</title>
     <id>urn:ebook-search:book:Anthony Trollope - Cousin Henry</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - Cousin Henry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Anthony Trollope - Doctor Thorne</title>
     <id>urn:ebook-search:book:Anthony Trollope - Doctor Thorne</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - Doctor Thorne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Anthony Trollope - Framley Parsonage</title>
     <id>urn:ebook-search:book:Anthony Trollope - Framley Parsonage</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - Framley Parsonage.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Anthony Trollope - Harry Heathcote of Gangoil</title>
     <id>urn:ebook-search:book:Anthony Trollope - Harry Heathcote of Gangoil</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - Harry Heathcote of Gangoil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Anthony Trollope - He Knew He Was Right</title>
     <id>urn:ebook-search:book:Anthony Trollope - He Knew He Was Right</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - He Knew He Was Right.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>Anthony Trollope - Orley Farm</title>
     <id>urn:ebook-search:book:Anthony Trollope - Orley Farm</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - Orley Farm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>Anthony Trollope - Phineas Finn</title>
     <id>urn:ebook-search:book:Anthony Trollope - Phineas Finn</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - Phineas Finn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>Anthony Trollope - Phineas Redux</title>
     <id>urn:ebook-search:book:Anthony Trollope - Phineas Redux</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - Phineas Redux.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>Anthony Trollope - Rachel Ray</title>
     <id>urn:ebook-search:book:Anthony Trollope - Rachel Ray</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - Rachel Ray.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>Anthony Trollope - Short Fiction</title>
     <id>urn:ebook-search:book:Anthony Trollope - Short Fiction</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>Anthony Trollope - The American Senator</title>
     <id>urn:ebook-search:book:Anthony Trollope - The American Senator</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - The American Senator.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>Anthony Trollope - The Claverings</title>
     <id>urn:ebook-search:book:Anthony Trollope - The Claverings</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - The Claverings.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -134,7 +134,7 @@
   <entry>
     <title>Anthony Trollope - The Duke’s Children</title>
     <id>urn:ebook-search:book:Anthony Trollope - The Duke’s Children</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - The Duke’s Children.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -143,7 +143,7 @@
   <entry>
     <title>Anthony Trollope - The Eustace Diamonds</title>
     <id>urn:ebook-search:book:Anthony Trollope - The Eustace Diamonds</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - The Eustace Diamonds.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -152,7 +152,7 @@
   <entry>
     <title>Anthony Trollope - The Last Chronicle of Barset</title>
     <id>urn:ebook-search:book:Anthony Trollope - The Last Chronicle of Barset</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - The Last Chronicle of Barset.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -161,7 +161,7 @@
   <entry>
     <title>Anthony Trollope - The Prime Minister</title>
     <id>urn:ebook-search:book:Anthony Trollope - The Prime Minister</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - The Prime Minister.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -170,7 +170,7 @@
   <entry>
     <title>Anthony Trollope - The Small House at Allington</title>
     <id>urn:ebook-search:book:Anthony Trollope - The Small House at Allington</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - The Small House at Allington.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -179,7 +179,7 @@
   <entry>
     <title>Anthony Trollope - The Vicar of Bullhampton</title>
     <id>urn:ebook-search:book:Anthony Trollope - The Vicar of Bullhampton</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - The Vicar of Bullhampton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -188,7 +188,7 @@
   <entry>
     <title>Anthony Trollope - The Warden</title>
     <id>urn:ebook-search:book:Anthony Trollope - The Warden</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - The Warden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>
@@ -197,7 +197,7 @@
   <entry>
     <title>Anthony Trollope - The Way We Live Now</title>
     <id>urn:ebook-search:book:Anthony Trollope - The Way We Live Now</id>
-    <updated>2026-02-20T13:52:15.464712Z</updated>
+    <updated>2026-02-20T18:44:01.728180Z</updated>
     <link href="../../d/Anthony Trollope - The Way We Live Now.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anthony Trollope</name>

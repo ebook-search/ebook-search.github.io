@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Anne Brontë</title>
   <id>urn:ebook-search:author:Anne Brontë</id>
-  <updated>2026-02-20T13:52:15.473107Z</updated>
+  <updated>2026-02-20T18:44:01.756986Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Anne Brontë - Agnes Grey</title>
     <id>urn:ebook-search:book:Anne Brontë - Agnes Grey</id>
-    <updated>2026-02-20T13:52:15.473107Z</updated>
+    <updated>2026-02-20T18:44:01.756986Z</updated>
     <link href="../../d/Anne Brontë - Agnes Grey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anne Brontë</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Anne Brontë - The Tenant of Wildfell Hall</title>
     <id>urn:ebook-search:book:Anne Brontë - The Tenant of Wildfell Hall</id>
-    <updated>2026-02-20T13:52:15.473107Z</updated>
+    <updated>2026-02-20T18:44:01.756986Z</updated>
     <link href="../../d/Anne Brontë - The Tenant of Wildfell Hall.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anne Brontë</name>

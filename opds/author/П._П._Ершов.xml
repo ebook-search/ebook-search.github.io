@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>П. П. Ершов</title>
+  <id>urn:ebook-search:author:П. П. Ершов</id>
+  <updated>2026-02-20T18:44:01.799355Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>П. П. Ершов - Конек-горбунок</title>
+    <id>urn:ebook-search:book:П. П. Ершов - Конек-горбунок</id>
+    <updated>2026-02-20T18:44:01.799355Z</updated>
+    <link href="../../d/П. П. Ершов - Конек-горбунок.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>П. П. Ершов</name>
+    </author>
+  </entry>
+</feed>

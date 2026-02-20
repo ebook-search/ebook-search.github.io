@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Émile Gaboriau</title>
   <id>urn:ebook-search:author:Émile Gaboriau</id>
-  <updated>2026-02-20T13:52:15.477234Z</updated>
+  <updated>2026-02-20T18:44:01.773308Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Émile Gaboriau - File No. 113</title>
     <id>urn:ebook-search:book:Émile Gaboriau - File No. 113</id>
-    <updated>2026-02-20T13:52:15.477234Z</updated>
+    <updated>2026-02-20T18:44:01.773308Z</updated>
     <link href="../../d/Émile Gaboriau - File No. 113.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Émile Gaboriau</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Émile Gaboriau - Monsieur Lecoq</title>
     <id>urn:ebook-search:book:Émile Gaboriau - Monsieur Lecoq</id>
-    <updated>2026-02-20T13:52:15.477234Z</updated>
+    <updated>2026-02-20T18:44:01.773308Z</updated>
     <link href="../../d/Émile Gaboriau - Monsieur Lecoq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Émile Gaboriau</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Émile Gaboriau - The Lerouge Case</title>
     <id>urn:ebook-search:book:Émile Gaboriau - The Lerouge Case</id>
-    <updated>2026-02-20T13:52:15.477234Z</updated>
+    <updated>2026-02-20T18:44:01.773308Z</updated>
     <link href="../../d/Émile Gaboriau - The Lerouge Case.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Émile Gaboriau</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Émile Gaboriau - The Mystery of Orcival</title>
     <id>urn:ebook-search:book:Émile Gaboriau - The Mystery of Orcival</id>
-    <updated>2026-02-20T13:52:15.477234Z</updated>
+    <updated>2026-02-20T18:44:01.773308Z</updated>
     <link href="../../d/Émile Gaboriau - The Mystery of Orcival.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Émile Gaboriau</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Émile Gaboriau - The Slaves of Paris</title>
     <id>urn:ebook-search:book:Émile Gaboriau - The Slaves of Paris</id>
-    <updated>2026-02-20T13:52:15.477234Z</updated>
+    <updated>2026-02-20T18:44:01.773308Z</updated>
     <link href="../../d/Émile Gaboriau - The Slaves of Paris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Émile Gaboriau</name>

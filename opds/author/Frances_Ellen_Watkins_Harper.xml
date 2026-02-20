@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Frances Ellen Watkins Harper</title>
   <id>urn:ebook-search:author:Frances Ellen Watkins Harper</id>
-  <updated>2026-02-20T13:52:15.468516Z</updated>
+  <updated>2026-02-20T18:44:01.740899Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Frances Ellen Watkins Harper - Iola Leroy</title>
     <id>urn:ebook-search:book:Frances Ellen Watkins Harper - Iola Leroy</id>
-    <updated>2026-02-20T13:52:15.468516Z</updated>
+    <updated>2026-02-20T18:44:01.740899Z</updated>
     <link href="../../d/Frances Ellen Watkins Harper - Iola Leroy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Frances Ellen Watkins Harper</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Frances Ellen Watkins Harper - Poetry</title>
     <id>urn:ebook-search:book:Frances Ellen Watkins Harper - Poetry</id>
-    <updated>2026-02-20T13:52:15.468516Z</updated>
+    <updated>2026-02-20T18:44:01.740899Z</updated>
     <link href="../../d/Frances Ellen Watkins Harper - Poetry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Frances Ellen Watkins Harper</name>

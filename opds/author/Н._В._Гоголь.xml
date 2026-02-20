@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Н. В. Гоголь</title>
+  <id>urn:ebook-search:author:Н. В. Гоголь</id>
+  <updated>2026-02-20T18:44:01.784541Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Н. В. Гоголь - Вечера на хуторе близ Диканьки</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Вечера на хуторе близ Диканьки</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Вечера на хуторе близ Диканьки.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Вий</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Вий</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Вий.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Женитьба</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Женитьба</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Женитьба.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Записки сумасшедшего</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Записки сумасшедшего</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Записки сумасшедшего.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Игроки</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Игроки</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Игроки.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Италия («Италия — роскошная страна!..»)</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Италия («Италия — роскошная страна!..»)</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Италия («Италия — роскошная страна!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Коляска</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Коляска</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Коляска.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Лакейская</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Лакейская</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Лакейская.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Мертвые души</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Мертвые души</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Мертвые души.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Миргород</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Миргород</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Миргород.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Невский проспект</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Невский проспект</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Невский проспект.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Новоселье</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Новоселье</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Новоселье.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Нос</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Нос</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Нос.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Отрывок</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Отрывок</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Отрывок.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Петербургские повести</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Петербургские повести</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Петербургские повести.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Портрет</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Портрет</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Портрет.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Ревизор</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Ревизор</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Ревизор.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Рим</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Рим</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Рим.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Старосветские помещики</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Старосветские помещики</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Старосветские помещики.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Театральный разъезд после представления новой комедии</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Театральный разъезд после представления новой комедии</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Театральный разъезд после представления новой комедии.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Тяжба</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Тяжба</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Тяжба.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Утро делового человека</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Утро делового человека</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Утро делового человека.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Н. В. Гоголь - Шинель</title>
+    <id>urn:ebook-search:book:Н. В. Гоголь - Шинель</id>
+    <updated>2026-02-20T18:44:01.784541Z</updated>
+    <link href="../../d/Н. В. Гоголь - Шинель.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Н. В. Гоголь</name>
+    </author>
+  </entry>
+</feed>

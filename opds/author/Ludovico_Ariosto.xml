@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Ludovico Ariosto</title>
   <id>urn:ebook-search:author:Ludovico Ariosto</id>
-  <updated>2026-02-20T13:52:15.473796Z</updated>
+  <updated>2026-02-20T18:44:01.759491Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Ludovico Ariosto - Orlando Furioso</title>
     <id>urn:ebook-search:book:Ludovico Ariosto - Orlando Furioso</id>
-    <updated>2026-02-20T13:52:15.473796Z</updated>
+    <updated>2026-02-20T18:44:01.759491Z</updated>
     <link href="../../d/Ludovico Ariosto - Orlando Furioso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ludovico Ariosto</name>

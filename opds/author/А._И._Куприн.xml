@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>А. И. Куприн</title>
+  <id>urn:ebook-search:author:А. И. Куприн</id>
+  <updated>2026-02-20T18:44:01.790932Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>А. И. Куприн - Allez!</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Allez!</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Allez!.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Барбос и Жулька</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Барбос и Жулька</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Барбос и Жулька.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Белый пудель</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Белый пудель</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Белый пудель.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Болото</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Болото</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Болото.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Брегет</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Брегет</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Брегет.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Гамбринус</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Гамбринус</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Гамбринус.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Гранатовый браслет</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Гранатовый браслет</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Гранатовый браслет.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Детский сад</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Детский сад</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Детский сад.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Звезда Соломона</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Звезда Соломона</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Звезда Соломона.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Золотой петух</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Золотой петух</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Золотой петух.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Изумруд</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Изумруд</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Изумруд.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Куст сирени</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Куст сирени</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Куст сирени.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Молох</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Молох</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Молох.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - На переломе</title>
+    <id>urn:ebook-search:book:А. И. Куприн - На переломе</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - На переломе.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Одиночество</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Одиночество</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Одиночество.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Олеся</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Олеся</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Олеся.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Осенние цветы</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Осенние цветы</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Осенние цветы.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Поединок</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Поединок</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Поединок.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Последний дебют</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Последний дебют</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Последний дебют.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Путаница</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Путаница</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Путаница.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Сапсан</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Сапсан</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Сапсан.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Синяя звезда</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Синяя звезда</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Синяя звезда.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Сказка</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Сказка</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Сказка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Скворцы</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Скворцы</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Скворцы.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Слон</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Слон</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Слон.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Собачье счастье</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Собачье счастье</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Собачье счастье.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Суламифь</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Суламифь</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Суламифь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Тапер</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Тапер</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Тапер.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Чудесный доктор</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Чудесный доктор</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Чудесный доктор.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Ю-ю</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Ю-ю</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Ю-ю.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>А. И. Куприн - Яма</title>
+    <id>urn:ebook-search:book:А. И. Куприн - Яма</id>
+    <updated>2026-02-20T18:44:01.790932Z</updated>
+    <link href="../../d/А. И. Куприн - Яма.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>А. И. Куприн</name>
+    </author>
+  </entry>
+</feed>

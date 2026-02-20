@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Oscar Wilde</title>
   <id>urn:ebook-search:author:Oscar Wilde</id>
-  <updated>2026-02-20T13:52:15.466113Z</updated>
+  <updated>2026-02-20T18:44:01.732640Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Oscar Wilde - A Woman of No Importance</title>
     <id>urn:ebook-search:book:Oscar Wilde - A Woman of No Importance</id>
-    <updated>2026-02-20T13:52:15.466113Z</updated>
+    <updated>2026-02-20T18:44:01.732640Z</updated>
     <link href="../../d/Oscar Wilde - A Woman of No Importance.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Oscar Wilde</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Oscar Wilde - An Ideal Husband</title>
     <id>urn:ebook-search:book:Oscar Wilde - An Ideal Husband</id>
-    <updated>2026-02-20T13:52:15.466113Z</updated>
+    <updated>2026-02-20T18:44:01.732640Z</updated>
     <link href="../../d/Oscar Wilde - An Ideal Husband.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Oscar Wilde</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Oscar Wilde - Children’s Stories</title>
     <id>urn:ebook-search:book:Oscar Wilde - Children’s Stories</id>
-    <updated>2026-02-20T13:52:15.466113Z</updated>
+    <updated>2026-02-20T18:44:01.732640Z</updated>
     <link href="../../d/Oscar Wilde - Children’s Stories.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Oscar Wilde</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Oscar Wilde - Lady Windermere’s Fan</title>
     <id>urn:ebook-search:book:Oscar Wilde - Lady Windermere’s Fan</id>
-    <updated>2026-02-20T13:52:15.466113Z</updated>
+    <updated>2026-02-20T18:44:01.732640Z</updated>
     <link href="../../d/Oscar Wilde - Lady Windermere’s Fan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Oscar Wilde</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Oscar Wilde - Lord Arthur Savile’s Crime and Other Stories</title>
     <id>urn:ebook-search:book:Oscar Wilde - Lord Arthur Savile’s Crime and Other Stories</id>
-    <updated>2026-02-20T13:52:15.466113Z</updated>
+    <updated>2026-02-20T18:44:01.732640Z</updated>
     <link href="../../d/Oscar Wilde - Lord Arthur Savile’s Crime and Other Stories.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Oscar Wilde</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Oscar Wilde - Poetry</title>
     <id>urn:ebook-search:book:Oscar Wilde - Poetry</id>
-    <updated>2026-02-20T13:52:15.466113Z</updated>
+    <updated>2026-02-20T18:44:01.732640Z</updated>
     <link href="../../d/Oscar Wilde - Poetry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Oscar Wilde</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Oscar Wilde - The Importance of Being Earnest</title>
     <id>urn:ebook-search:book:Oscar Wilde - The Importance of Being Earnest</id>
-    <updated>2026-02-20T13:52:15.466113Z</updated>
+    <updated>2026-02-20T18:44:01.732640Z</updated>
     <link href="../../d/Oscar Wilde - The Importance of Being Earnest.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Oscar Wilde</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>Oscar Wilde - The Picture of Dorian Gray</title>
     <id>urn:ebook-search:book:Oscar Wilde - The Picture of Dorian Gray</id>
-    <updated>2026-02-20T13:52:15.466113Z</updated>
+    <updated>2026-02-20T18:44:01.732640Z</updated>
     <link href="../../d/Oscar Wilde - The Picture of Dorian Gray.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Oscar Wilde</name>

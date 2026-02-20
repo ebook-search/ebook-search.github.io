@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Cicely Hamilton</title>
   <id>urn:ebook-search:author:Cicely Hamilton</id>
-  <updated>2026-02-20T13:52:15.466003Z</updated>
+  <updated>2026-02-20T18:44:01.732284Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Cicely Hamilton - Theodore Savage</title>
     <id>urn:ebook-search:book:Cicely Hamilton - Theodore Savage</id>
-    <updated>2026-02-20T13:52:15.466003Z</updated>
+    <updated>2026-02-20T18:44:01.732284Z</updated>
     <link href="../../d/Cicely Hamilton - Theodore Savage.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Cicely Hamilton</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Cicely Hamilton - William—An Englishman</title>
     <id>urn:ebook-search:book:Cicely Hamilton - William—An Englishman</id>
-    <updated>2026-02-20T13:52:15.466003Z</updated>
+    <updated>2026-02-20T18:44:01.732284Z</updated>
     <link href="../../d/Cicely Hamilton - William—An Englishman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Cicely Hamilton</name>

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Dorothy Canfield Fisher</title>
   <id>urn:ebook-search:author:Dorothy Canfield Fisher</id>
-  <updated>2026-02-20T13:52:15.466153Z</updated>
+  <updated>2026-02-20T18:44:01.732778Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Dorothy Canfield Fisher - The Homemaker</title>
     <id>urn:ebook-search:book:Dorothy Canfield Fisher - The Homemaker</id>
-    <updated>2026-02-20T13:52:15.466153Z</updated>
+    <updated>2026-02-20T18:44:01.732778Z</updated>
     <link href="../../d/Dorothy Canfield Fisher - The Homemaker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Dorothy Canfield Fisher</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Dorothy Canfield Fisher - Understood Betsy</title>
     <id>urn:ebook-search:book:Dorothy Canfield Fisher - Understood Betsy</id>
-    <updated>2026-02-20T13:52:15.466153Z</updated>
+    <updated>2026-02-20T18:44:01.732778Z</updated>
     <link href="../../d/Dorothy Canfield Fisher - Understood Betsy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Dorothy Canfield Fisher</name>

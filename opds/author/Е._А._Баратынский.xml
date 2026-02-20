@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Е. А. Баратынский</title>
+  <id>urn:ebook-search:author:Е. А. Баратынский</id>
+  <updated>2026-02-20T18:44:01.797350Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Е. А. Баратынский - «Весна, весна! как воздух чист!..»</title>
+    <id>urn:ebook-search:book:Е. А. Баратынский - «Весна, весна! как воздух чист!..»</id>
+    <updated>2026-02-20T18:44:01.797350Z</updated>
+    <link href="../../d/Е. А. Баратынский - «Весна, весна! как воздух чист!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Е. А. Баратынский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Е. А. Баратынский - «Взгляните: свежестью младой...»</title>
+    <id>urn:ebook-search:book:Е. А. Баратынский - «Взгляните: свежестью младой...»</id>
+    <updated>2026-02-20T18:44:01.797350Z</updated>
+    <link href="../../d/Е. А. Баратынский - «Взгляните: свежестью младой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Е. А. Баратынский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Е. А. Баратынский - «Где сладкий шепот...»</title>
+    <id>urn:ebook-search:book:Е. А. Баратынский - «Где сладкий шепот...»</id>
+    <updated>2026-02-20T18:44:01.797350Z</updated>
+    <link href="../../d/Е. А. Баратынский - «Где сладкий шепот...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Е. А. Баратынский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Е. А. Баратынский - «Как ревностно ты сам себя дурачишь!..»</title>
+    <id>urn:ebook-search:book:Е. А. Баратынский - «Как ревностно ты сам себя дурачишь!..»</id>
+    <updated>2026-02-20T18:44:01.797350Z</updated>
+    <link href="../../d/Е. А. Баратынский - «Как ревностно ты сам себя дурачишь!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Е. А. Баратынский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Е. А. Баратынский - «Старательно мы наблюдаем свет...»</title>
+    <id>urn:ebook-search:book:Е. А. Баратынский - «Старательно мы наблюдаем свет...»</id>
+    <updated>2026-02-20T18:44:01.797350Z</updated>
+    <link href="../../d/Е. А. Баратынский - «Старательно мы наблюдаем свет...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Е. А. Баратынский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Е. А. Баратынский - «Твой детский вызов мне приятен...»</title>
+    <id>urn:ebook-search:book:Е. А. Баратынский - «Твой детский вызов мне приятен...»</id>
+    <updated>2026-02-20T18:44:01.797350Z</updated>
+    <link href="../../d/Е. А. Баратынский - «Твой детский вызов мне приятен...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Е. А. Баратынский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Е. А. Баратынский - «Чудный град порой сольется...»</title>
+    <id>urn:ebook-search:book:Е. А. Баратынский - «Чудный град порой сольется...»</id>
+    <updated>2026-02-20T18:44:01.797350Z</updated>
+    <link href="../../d/Е. А. Баратынский - «Чудный град порой сольется...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Е. А. Баратынский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Е. А. Баратынский - Авроре Ш…… («Выдь, дохни нам упоеньем...»)</title>
+    <id>urn:ebook-search:book:Е. А. Баратынский - Авроре Ш…… («Выдь, дохни нам упоеньем...»)</id>
+    <updated>2026-02-20T18:44:01.797350Z</updated>
+    <link href="../../d/Е. А. Баратынский - Авроре Ш…… («Выдь, дохни нам упоеньем...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Е. А. Баратынский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Е. А. Баратынский - Разуверение («Не искушай меня без нужды...»)</title>
+    <id>urn:ebook-search:book:Е. А. Баратынский - Разуверение («Не искушай меня без нужды...»)</id>
+    <updated>2026-02-20T18:44:01.797350Z</updated>
+    <link href="../../d/Е. А. Баратынский - Разуверение («Не искушай меня без нужды...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Е. А. Баратынский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Е. А. Баратынский - ⟨В альбом⟩ («По замечанью моему...»)</title>
+    <id>urn:ebook-search:book:Е. А. Баратынский - ⟨В альбом⟩ («По замечанью моему...»)</id>
+    <updated>2026-02-20T18:44:01.797350Z</updated>
+    <link href="../../d/Е. А. Баратынский - ⟨В альбом⟩ («По замечанью моему...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Е. А. Баратынский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Е. А. Баратынский - ⟨Весна⟩ («На звук цевницы голосистой...»)</title>
+    <id>urn:ebook-search:book:Е. А. Баратынский - ⟨Весна⟩ («На звук цевницы голосистой...»)</id>
+    <updated>2026-02-20T18:44:01.797350Z</updated>
+    <link href="../../d/Е. А. Баратынский - ⟨Весна⟩ («На звук цевницы голосистой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Е. А. Баратынский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Е. А. Баратынский - ⟨Водопад⟩ («Шуми, шуми с крутой вершины...»)</title>
+    <id>urn:ebook-search:book:Е. А. Баратынский - ⟨Водопад⟩ («Шуми, шуми с крутой вершины...»)</id>
+    <updated>2026-02-20T18:44:01.797350Z</updated>
+    <link href="../../d/Е. А. Баратынский - ⟨Водопад⟩ («Шуми, шуми с крутой вершины...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Е. А. Баратынский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Е. А. Баратынский - ⟨Мой Элизий⟩ («Не славь, обманутый Орфей...»)</title>
+    <id>urn:ebook-search:book:Е. А. Баратынский - ⟨Мой Элизий⟩ («Не славь, обманутый Орфей...»)</id>
+    <updated>2026-02-20T18:44:01.797350Z</updated>
+    <link href="../../d/Е. А. Баратынский - ⟨Мой Элизий⟩ («Не славь, обманутый Орфей...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Е. А. Баратынский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Е. А. Баратынский - ⟨Муза⟩ («Не ослеплен я музою моею...»)</title>
+    <id>urn:ebook-search:book:Е. А. Баратынский - ⟨Муза⟩ («Не ослеплен я музою моею...»)</id>
+    <updated>2026-02-20T18:44:01.797350Z</updated>
+    <link href="../../d/Е. А. Баратынский - ⟨Муза⟩ («Не ослеплен я музою моею...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Е. А. Баратынский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Е. А. Баратынский - ⟨Признание⟩ («Притворной нежности не требуй от меня...»)</title>
+    <id>urn:ebook-search:book:Е. А. Баратынский - ⟨Признание⟩ («Притворной нежности не требуй от меня...»)</id>
+    <updated>2026-02-20T18:44:01.797350Z</updated>
+    <link href="../../d/Е. А. Баратынский - ⟨Признание⟩ («Притворной нежности не требуй от меня...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Е. А. Баратынский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Е. А. Баратынский - ⟨Рим⟩ («Ты был ли, гордый Рим, земли самовластитель...»)</title>
+    <id>urn:ebook-search:book:Е. А. Баратынский - ⟨Рим⟩ («Ты был ли, гордый Рим, земли самовластитель...»)</id>
+    <updated>2026-02-20T18:44:01.797350Z</updated>
+    <link href="../../d/Е. А. Баратынский - ⟨Рим⟩ («Ты был ли, гордый Рим, земли самовластитель...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Е. А. Баратынский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Е. А. Баратынский - ⟨Родина⟩ («Я возвращуся к вам, поля моих отцов...»)</title>
+    <id>urn:ebook-search:book:Е. А. Баратынский - ⟨Родина⟩ («Я возвращуся к вам, поля моих отцов...»)</id>
+    <updated>2026-02-20T18:44:01.797350Z</updated>
+    <link href="../../d/Е. А. Баратынский - ⟨Родина⟩ («Я возвращуся к вам, поля моих отцов...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Е. А. Баратынский</name>
+    </author>
+  </entry>
+</feed>

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>José da Fonseca</title>
   <id>urn:ebook-search:author:José da Fonseca</id>
-  <updated>2026-02-20T13:52:15.474429Z</updated>
+  <updated>2026-02-20T18:44:01.762056Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Pedro Carolino, José da Fonseca - English as She Is Spoke</title>
     <id>urn:ebook-search:book:Pedro Carolino, José da Fonseca - English as She Is Spoke</id>
-    <updated>2026-02-20T13:52:15.474429Z</updated>
+    <updated>2026-02-20T18:44:01.762056Z</updated>
     <link href="../../d/Pedro Carolino, José da Fonseca - English as She Is Spoke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>José da Fonseca</name>

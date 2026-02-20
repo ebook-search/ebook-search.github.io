@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Edgar Allan Poe</title>
   <id>urn:ebook-search:author:Edgar Allan Poe</id>
-  <updated>2026-02-20T13:52:15.471583Z</updated>
+  <updated>2026-02-20T18:44:01.751377Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Edgar Allan Poe - Poetry</title>
     <id>urn:ebook-search:book:Edgar Allan Poe - Poetry</id>
-    <updated>2026-02-20T13:52:15.471583Z</updated>
+    <updated>2026-02-20T18:44:01.751377Z</updated>
     <link href="../../d/Edgar Allan Poe - Poetry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Allan Poe</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Edgar Allan Poe - Short Fiction</title>
     <id>urn:ebook-search:book:Edgar Allan Poe - Short Fiction</id>
-    <updated>2026-02-20T13:52:15.471583Z</updated>
+    <updated>2026-02-20T18:44:01.751377Z</updated>
     <link href="../../d/Edgar Allan Poe - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Allan Poe</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Edgar Allan Poe - The Narrative of Arthur Gordon Pym of Nantucket</title>
     <id>urn:ebook-search:book:Edgar Allan Poe - The Narrative of Arthur Gordon Pym of Nantucket</id>
-    <updated>2026-02-20T13:52:15.471583Z</updated>
+    <updated>2026-02-20T18:44:01.751377Z</updated>
     <link href="../../d/Edgar Allan Poe - The Narrative of Arthur Gordon Pym of Nantucket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Allan Poe</name>

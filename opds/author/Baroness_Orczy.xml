@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Baroness Orczy</title>
   <id>urn:ebook-search:author:Baroness Orczy</id>
-  <updated>2026-02-20T13:52:15.471661Z</updated>
+  <updated>2026-02-20T18:44:01.751760Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Baroness Orczy - El Dorado</title>
     <id>urn:ebook-search:book:Baroness Orczy - El Dorado</id>
-    <updated>2026-02-20T13:52:15.471661Z</updated>
+    <updated>2026-02-20T18:44:01.751760Z</updated>
     <link href="../../d/Baroness Orczy - El Dorado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Baroness Orczy</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Baroness Orczy - I Will Repay</title>
     <id>urn:ebook-search:book:Baroness Orczy - I Will Repay</id>
-    <updated>2026-02-20T13:52:15.471661Z</updated>
+    <updated>2026-02-20T18:44:01.751760Z</updated>
     <link href="../../d/Baroness Orczy - I Will Repay.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Baroness Orczy</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Baroness Orczy - Lord Tony’s Wife</title>
     <id>urn:ebook-search:book:Baroness Orczy - Lord Tony’s Wife</id>
-    <updated>2026-02-20T13:52:15.471661Z</updated>
+    <updated>2026-02-20T18:44:01.751760Z</updated>
     <link href="../../d/Baroness Orczy - Lord Tony’s Wife.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Baroness Orczy</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Baroness Orczy - Pimpernel and Rosemary</title>
     <id>urn:ebook-search:book:Baroness Orczy - Pimpernel and Rosemary</id>
-    <updated>2026-02-20T13:52:15.471661Z</updated>
+    <updated>2026-02-20T18:44:01.751760Z</updated>
     <link href="../../d/Baroness Orczy - Pimpernel and Rosemary.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Baroness Orczy</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Baroness Orczy - Sir Percy Hits Back</title>
     <id>urn:ebook-search:book:Baroness Orczy - Sir Percy Hits Back</id>
-    <updated>2026-02-20T13:52:15.471661Z</updated>
+    <updated>2026-02-20T18:44:01.751760Z</updated>
     <link href="../../d/Baroness Orczy - Sir Percy Hits Back.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Baroness Orczy</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Baroness Orczy - The Elusive Pimpernel</title>
     <id>urn:ebook-search:book:Baroness Orczy - The Elusive Pimpernel</id>
-    <updated>2026-02-20T13:52:15.471661Z</updated>
+    <updated>2026-02-20T18:44:01.751760Z</updated>
     <link href="../../d/Baroness Orczy - The Elusive Pimpernel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Baroness Orczy</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Baroness Orczy - The First Sir Percy</title>
     <id>urn:ebook-search:book:Baroness Orczy - The First Sir Percy</id>
-    <updated>2026-02-20T13:52:15.471661Z</updated>
+    <updated>2026-02-20T18:44:01.751760Z</updated>
     <link href="../../d/Baroness Orczy - The First Sir Percy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Baroness Orczy</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>Baroness Orczy - The Laughing Cavalier</title>
     <id>urn:ebook-search:book:Baroness Orczy - The Laughing Cavalier</id>
-    <updated>2026-02-20T13:52:15.471661Z</updated>
+    <updated>2026-02-20T18:44:01.751760Z</updated>
     <link href="../../d/Baroness Orczy - The Laughing Cavalier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Baroness Orczy</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>Baroness Orczy - The League of the Scarlet Pimpernel</title>
     <id>urn:ebook-search:book:Baroness Orczy - The League of the Scarlet Pimpernel</id>
-    <updated>2026-02-20T13:52:15.471661Z</updated>
+    <updated>2026-02-20T18:44:01.751760Z</updated>
     <link href="../../d/Baroness Orczy - The League of the Scarlet Pimpernel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Baroness Orczy</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>Baroness Orczy - The Old Man in the Corner</title>
     <id>urn:ebook-search:book:Baroness Orczy - The Old Man in the Corner</id>
-    <updated>2026-02-20T13:52:15.471661Z</updated>
+    <updated>2026-02-20T18:44:01.751760Z</updated>
     <link href="../../d/Baroness Orczy - The Old Man in the Corner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Baroness Orczy</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>Baroness Orczy - The Scarlet Pimpernel</title>
     <id>urn:ebook-search:book:Baroness Orczy - The Scarlet Pimpernel</id>
-    <updated>2026-02-20T13:52:15.471661Z</updated>
+    <updated>2026-02-20T18:44:01.751760Z</updated>
     <link href="../../d/Baroness Orczy - The Scarlet Pimpernel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Baroness Orczy</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>Baroness Orczy - The Triumph of the Scarlet Pimpernel</title>
     <id>urn:ebook-search:book:Baroness Orczy - The Triumph of the Scarlet Pimpernel</id>
-    <updated>2026-02-20T13:52:15.471661Z</updated>
+    <updated>2026-02-20T18:44:01.751760Z</updated>
     <link href="../../d/Baroness Orczy - The Triumph of the Scarlet Pimpernel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Baroness Orczy</name>

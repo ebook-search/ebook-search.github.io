@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>М. Горький</title>
+  <id>urn:ebook-search:author:М. Горький</id>
+  <updated>2026-02-20T18:44:01.790483Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>М. Горький - «Вывод»</title>
+    <id>urn:ebook-search:book:М. Горький - «Вывод»</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - «Вывод».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - «Страсти-мордасти»</title>
+    <id>urn:ebook-search:book:М. Горький - «Страсти-мордасти»</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - «Страсти-мордасти».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Бывшие люди</title>
+    <id>urn:ebook-search:book:М. Горький - Бывшие люди</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Бывшие люди.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - В людях</title>
+    <id>urn:ebook-search:book:М. Горький - В людях</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - В людях.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - В степи</title>
+    <id>urn:ebook-search:book:М. Горький - В степи</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - В степи.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Город желтого дьявола</title>
+    <id>urn:ebook-search:book:М. Горький - Город желтого дьявола</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Город желтого дьявола.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Двадцать шесть и одна</title>
+    <id>urn:ebook-search:book:М. Горький - Двадцать шесть и одна</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Двадцать шесть и одна.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Дело с застежками</title>
+    <id>urn:ebook-search:book:М. Горький - Дело с застежками</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Дело с застежками.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Детство</title>
+    <id>urn:ebook-search:book:М. Горький - Детство</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Детство.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Егор Булычов и другие</title>
+    <id>urn:ebook-search:book:М. Горький - Егор Булычов и другие</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Егор Булычов и другие.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Емельян Пиляй</title>
+    <id>urn:ebook-search:book:М. Горький - Емельян Пиляй</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Емельян Пиляй.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Знахарка</title>
+    <id>urn:ebook-search:book:М. Горький - Знахарка</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Знахарка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Коновалов</title>
+    <id>urn:ebook-search:book:М. Горький - Коновалов</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Коновалов.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Ледоход</title>
+    <id>urn:ebook-search:book:М. Горький - Ледоход</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Ледоход.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Ма-аленькая!..</title>
+    <id>urn:ebook-search:book:М. Горький - Ма-аленькая!..</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Ма-аленькая!...epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Макар Чудра</title>
+    <id>urn:ebook-search:book:М. Горький - Макар Чудра</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Макар Чудра.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Мать</title>
+    <id>urn:ebook-search:book:М. Горький - Мать</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Мать.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Мои университеты</title>
+    <id>urn:ebook-search:book:М. Горький - Мои университеты</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Мои университеты.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - На дне</title>
+    <id>urn:ebook-search:book:М. Горький - На дне</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - На дне.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - На плотах</title>
+    <id>urn:ebook-search:book:М. Горький - На плотах</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - На плотах.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Несвоевременные мысли</title>
+    <id>urn:ebook-search:book:М. Горький - Несвоевременные мысли</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Несвоевременные мысли.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Озорник</title>
+    <id>urn:ebook-search:book:М. Горький - Озорник</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Озорник.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Песня о Буревестнике</title>
+    <id>urn:ebook-search:book:М. Горький - Песня о Буревестнике</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Песня о Буревестнике.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Песня о Соколе</title>
+    <id>urn:ebook-search:book:М. Горький - Песня о Соколе</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Песня о Соколе.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Проходимец</title>
+    <id>urn:ebook-search:book:М. Горький - Проходимец</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Проходимец.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Рождение человека</title>
+    <id>urn:ebook-search:book:М. Горький - Рождение человека</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Рождение человека.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Сказки об Италии</title>
+    <id>urn:ebook-search:book:М. Горький - Сказки об Италии</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Сказки об Италии.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Скуки ради</title>
+    <id>urn:ebook-search:book:М. Горький - Скуки ради</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Скуки ради.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Случай с Евсейкой</title>
+    <id>urn:ebook-search:book:М. Горький - Случай с Евсейкой</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Случай с Евсейкой.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Старуха Изергиль</title>
+    <id>urn:ebook-search:book:М. Горький - Старуха Изергиль</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Старуха Изергиль.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Челкаш</title>
+    <id>urn:ebook-search:book:М. Горький - Челкаш</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Челкаш.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Человек</title>
+    <id>urn:ebook-search:book:М. Горький - Человек</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Человек.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Горький - Ярмарка в Голтве</title>
+    <id>urn:ebook-search:book:М. Горький - Ярмарка в Голтве</id>
+    <updated>2026-02-20T18:44:01.790483Z</updated>
+    <link href="../../d/М. Горький - Ярмарка в Голтве.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>М. Горький</name>
+    </author>
+  </entry>
+</feed>

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Friedrich Engels</title>
   <id>urn:ebook-search:author:Friedrich Engels</id>
-  <updated>2026-02-20T13:52:15.478787Z</updated>
+  <updated>2026-02-20T18:44:01.779131Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Karl Marx, Friedrich Engels - The Communist Manifesto</title>
     <id>urn:ebook-search:book:Karl Marx, Friedrich Engels - The Communist Manifesto</id>
-    <updated>2026-02-20T13:52:15.478787Z</updated>
+    <updated>2026-02-20T18:44:01.779131Z</updated>
     <link href="../../d/Karl Marx, Friedrich Engels - The Communist Manifesto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Friedrich Engels</name>

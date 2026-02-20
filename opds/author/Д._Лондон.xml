@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Д. Лондон</title>
+  <id>urn:ebook-search:author:Д. Лондон</id>
+  <updated>2026-02-20T18:44:01.798780Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Д. Лондон - Белый клык</title>
+    <id>urn:ebook-search:book:Д. Лондон - Белый клык</id>
+    <updated>2026-02-20T18:44:01.798780Z</updated>
+    <link href="../../d/Д. Лондон - Белый клык.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Д. Лондон</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Д. Лондон - Любовь к жизни</title>
+    <id>urn:ebook-search:book:Д. Лондон - Любовь к жизни</id>
+    <updated>2026-02-20T18:44:01.798780Z</updated>
+    <link href="../../d/Д. Лондон - Любовь к жизни.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Д. Лондон</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Д. Лондон - Сказание о Кише</title>
+    <id>urn:ebook-search:book:Д. Лондон - Сказание о Кише</id>
+    <updated>2026-02-20T18:44:01.798780Z</updated>
+    <link href="../../d/Д. Лондон - Сказание о Кише.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Д. Лондон</name>
+    </author>
+  </entry>
+</feed>

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Manly Wade Wellman</title>
   <id>urn:ebook-search:author:Manly Wade Wellman</id>
-  <updated>2026-02-20T13:52:15.466646Z</updated>
+  <updated>2026-02-20T18:44:01.734552Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Manly Wade Wellman - Short Fiction</title>
     <id>urn:ebook-search:book:Manly Wade Wellman - Short Fiction</id>
-    <updated>2026-02-20T13:52:15.466646Z</updated>
+    <updated>2026-02-20T18:44:01.734552Z</updated>
     <link href="../../d/Manly Wade Wellman - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Manly Wade Wellman</name>

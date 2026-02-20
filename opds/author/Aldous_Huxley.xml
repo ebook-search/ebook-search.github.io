@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Aldous Huxley</title>
   <id>urn:ebook-search:author:Aldous Huxley</id>
-  <updated>2026-02-20T13:52:15.466967Z</updated>
+  <updated>2026-02-20T18:44:01.735740Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Aldous Huxley - Antic Hay</title>
     <id>urn:ebook-search:book:Aldous Huxley - Antic Hay</id>
-    <updated>2026-02-20T13:52:15.466967Z</updated>
+    <updated>2026-02-20T18:44:01.735740Z</updated>
     <link href="../../d/Aldous Huxley - Antic Hay.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Aldous Huxley</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Aldous Huxley - Crome Yellow</title>
     <id>urn:ebook-search:book:Aldous Huxley - Crome Yellow</id>
-    <updated>2026-02-20T13:52:15.466967Z</updated>
+    <updated>2026-02-20T18:44:01.735740Z</updated>
     <link href="../../d/Aldous Huxley - Crome Yellow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Aldous Huxley</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Aldous Huxley - Point Counter Point</title>
     <id>urn:ebook-search:book:Aldous Huxley - Point Counter Point</id>
-    <updated>2026-02-20T13:52:15.466967Z</updated>
+    <updated>2026-02-20T18:44:01.735740Z</updated>
     <link href="../../d/Aldous Huxley - Point Counter Point.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Aldous Huxley</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Aldous Huxley - Those Barren Leaves</title>
     <id>urn:ebook-search:book:Aldous Huxley - Those Barren Leaves</id>
-    <updated>2026-02-20T13:52:15.466967Z</updated>
+    <updated>2026-02-20T18:44:01.735740Z</updated>
     <link href="../../d/Aldous Huxley - Those Barren Leaves.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Aldous Huxley</name>

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Thomas Hardy</title>
   <id>urn:ebook-search:author:Thomas Hardy</id>
-  <updated>2026-02-20T13:52:15.464645Z</updated>
+  <updated>2026-02-20T18:44:01.727986Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Thomas Hardy - A Pair of Blue Eyes</title>
     <id>urn:ebook-search:book:Thomas Hardy - A Pair of Blue Eyes</id>
-    <updated>2026-02-20T13:52:15.464645Z</updated>
+    <updated>2026-02-20T18:44:01.727986Z</updated>
     <link href="../../d/Thomas Hardy - A Pair of Blue Eyes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Thomas Hardy</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Thomas Hardy - Far from the Madding Crowd</title>
     <id>urn:ebook-search:book:Thomas Hardy - Far from the Madding Crowd</id>
-    <updated>2026-02-20T13:52:15.464645Z</updated>
+    <updated>2026-02-20T18:44:01.727986Z</updated>
     <link href="../../d/Thomas Hardy - Far from the Madding Crowd.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Thomas Hardy</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Thomas Hardy - Jude the Obscure</title>
     <id>urn:ebook-search:book:Thomas Hardy - Jude the Obscure</id>
-    <updated>2026-02-20T13:52:15.464645Z</updated>
+    <updated>2026-02-20T18:44:01.727986Z</updated>
     <link href="../../d/Thomas Hardy - Jude the Obscure.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Thomas Hardy</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Thomas Hardy - Short Fiction</title>
     <id>urn:ebook-search:book:Thomas Hardy - Short Fiction</id>
-    <updated>2026-02-20T13:52:15.464645Z</updated>
+    <updated>2026-02-20T18:44:01.727986Z</updated>
     <link href="../../d/Thomas Hardy - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Thomas Hardy</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Thomas Hardy - Tess of the d’Urbervilles</title>
     <id>urn:ebook-search:book:Thomas Hardy - Tess of the d’Urbervilles</id>
-    <updated>2026-02-20T13:52:15.464645Z</updated>
+    <updated>2026-02-20T18:44:01.727986Z</updated>
     <link href="../../d/Thomas Hardy - Tess of the d’Urbervilles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Thomas Hardy</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Thomas Hardy - The Mayor of Casterbridge</title>
     <id>urn:ebook-search:book:Thomas Hardy - The Mayor of Casterbridge</id>
-    <updated>2026-02-20T13:52:15.464645Z</updated>
+    <updated>2026-02-20T18:44:01.727986Z</updated>
     <link href="../../d/Thomas Hardy - The Mayor of Casterbridge.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Thomas Hardy</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Thomas Hardy - The Return of the Native</title>
     <id>urn:ebook-search:book:Thomas Hardy - The Return of the Native</id>
-    <updated>2026-02-20T13:52:15.464645Z</updated>
+    <updated>2026-02-20T18:44:01.727986Z</updated>
     <link href="../../d/Thomas Hardy - The Return of the Native.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Thomas Hardy</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>Thomas Hardy - The Woodlanders</title>
     <id>urn:ebook-search:book:Thomas Hardy - The Woodlanders</id>
-    <updated>2026-02-20T13:52:15.464645Z</updated>
+    <updated>2026-02-20T18:44:01.727986Z</updated>
     <link href="../../d/Thomas Hardy - The Woodlanders.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Thomas Hardy</name>

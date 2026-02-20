@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Anton Chekhov</title>
   <id>urn:ebook-search:author:Anton Chekhov</id>
-  <updated>2026-02-20T13:52:15.463868Z</updated>
+  <updated>2026-02-20T18:44:01.725376Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Anton Chekhov - Short Fiction</title>
     <id>urn:ebook-search:book:Anton Chekhov - Short Fiction</id>
-    <updated>2026-02-20T13:52:15.463868Z</updated>
+    <updated>2026-02-20T18:44:01.725376Z</updated>
     <link href="../../d/Anton Chekhov - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anton Chekhov</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Anton Chekhov - The Cherry Orchard</title>
     <id>urn:ebook-search:book:Anton Chekhov - The Cherry Orchard</id>
-    <updated>2026-02-20T13:52:15.463868Z</updated>
+    <updated>2026-02-20T18:44:01.725376Z</updated>
     <link href="../../d/Anton Chekhov - The Cherry Orchard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anton Chekhov</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Anton Chekhov - The Duel</title>
     <id>urn:ebook-search:book:Anton Chekhov - The Duel</id>
-    <updated>2026-02-20T13:52:15.463868Z</updated>
+    <updated>2026-02-20T18:44:01.725376Z</updated>
     <link href="../../d/Anton Chekhov - The Duel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anton Chekhov</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Anton Chekhov - The Seagull</title>
     <id>urn:ebook-search:book:Anton Chekhov - The Seagull</id>
-    <updated>2026-02-20T13:52:15.463868Z</updated>
+    <updated>2026-02-20T18:44:01.725376Z</updated>
     <link href="../../d/Anton Chekhov - The Seagull.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anton Chekhov</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Anton Chekhov - Three Sisters</title>
     <id>urn:ebook-search:book:Anton Chekhov - Three Sisters</id>
-    <updated>2026-02-20T13:52:15.463868Z</updated>
+    <updated>2026-02-20T18:44:01.725376Z</updated>
     <link href="../../d/Anton Chekhov - Three Sisters.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anton Chekhov</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Anton Chekhov - Uncle Vanya</title>
     <id>urn:ebook-search:book:Anton Chekhov - Uncle Vanya</id>
-    <updated>2026-02-20T13:52:15.463868Z</updated>
+    <updated>2026-02-20T18:44:01.725376Z</updated>
     <link href="../../d/Anton Chekhov - Uncle Vanya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Anton Chekhov</name>

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Henry James</title>
   <id>urn:ebook-search:author:Henry James</id>
-  <updated>2026-02-20T13:52:15.468630Z</updated>
+  <updated>2026-02-20T18:44:01.741258Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Henry James - The Ambassadors</title>
     <id>urn:ebook-search:book:Henry James - The Ambassadors</id>
-    <updated>2026-02-20T13:52:15.468630Z</updated>
+    <updated>2026-02-20T18:44:01.741258Z</updated>
     <link href="../../d/Henry James - The Ambassadors.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Henry James</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Henry James - The Golden Bowl</title>
     <id>urn:ebook-search:book:Henry James - The Golden Bowl</id>
-    <updated>2026-02-20T13:52:15.468630Z</updated>
+    <updated>2026-02-20T18:44:01.741258Z</updated>
     <link href="../../d/Henry James - The Golden Bowl.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Henry James</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Henry James - The Portrait of a Lady</title>
     <id>urn:ebook-search:book:Henry James - The Portrait of a Lady</id>
-    <updated>2026-02-20T13:52:15.468630Z</updated>
+    <updated>2026-02-20T18:44:01.741258Z</updated>
     <link href="../../d/Henry James - The Portrait of a Lady.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Henry James</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Henry James - The Turn of the Screw</title>
     <id>urn:ebook-search:book:Henry James - The Turn of the Screw</id>
-    <updated>2026-02-20T13:52:15.468630Z</updated>
+    <updated>2026-02-20T18:44:01.741258Z</updated>
     <link href="../../d/Henry James - The Turn of the Screw.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Henry James</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Henry James - The Wings of the Dove</title>
     <id>urn:ebook-search:book:Henry James - The Wings of the Dove</id>
-    <updated>2026-02-20T13:52:15.468630Z</updated>
+    <updated>2026-02-20T18:44:01.741258Z</updated>
     <link href="../../d/Henry James - The Wings of the Dove.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Henry James</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Henry James - Washington Square</title>
     <id>urn:ebook-search:book:Henry James - Washington Square</id>
-    <updated>2026-02-20T13:52:15.468630Z</updated>
+    <updated>2026-02-20T18:44:01.741258Z</updated>
     <link href="../../d/Henry James - Washington Square.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Henry James</name>

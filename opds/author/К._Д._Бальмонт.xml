@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>К. Д. Бальмонт</title>
+  <id>urn:ebook-search:author:К. Д. Бальмонт</id>
+  <updated>2026-02-20T18:44:01.795313Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>К. Д. Бальмонт - «В поле искрилась роса...»</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - «В поле искрилась роса...»</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - «В поле искрилась роса...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - «Дышали твои ароматные плечи...»</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - «Дышали твои ароматные плечи...»</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - «Дышали твои ароматные плечи...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - «Есть красота в постоянстве страдания...»</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - «Есть красота в постоянстве страдания...»</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - «Есть красота в постоянстве страдания...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - «Когда между тучек туманных...»</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - «Когда между тучек туманных...»</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - «Когда между тучек туманных...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - «Мне ненавистен гул гигантских городов...»</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - «Мне ненавистен гул гигантских городов...»</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - «Мне ненавистен гул гигантских городов...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - «Нет, мне никто не сделал столько зла...»</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - «Нет, мне никто не сделал столько зла...»</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - «Нет, мне никто не сделал столько зла...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - «О, если б мне сердце холодное...»</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - «О, если б мне сердце холодное...»</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - «О, если б мне сердце холодное...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - «О, женщина, дитя, привыкшее играть...»</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - «О, женщина, дитя, привыкшее играть...»</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - «О, женщина, дитя, привыкшее играть...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - «О, птичка нежная, ты не поймешь меня...»</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - «О, птичка нежная, ты не поймешь меня...»</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - «О, птичка нежная, ты не поймешь меня...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - «Одна есть в мире красота...»</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - «Одна есть в мире красота...»</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - «Одна есть в мире красота...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - «Уходит светлый Май. Мой небосклон темнеет...»</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - «Уходит светлый Май. Мой небосклон темнеет...»</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - «Уходит светлый Май. Мой небосклон темнеет...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - «Я знаю, что значит — безумно рыдать...»</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - «Я знаю, что значит — безумно рыдать...»</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - «Я знаю, что значит — безумно рыдать...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - «Я расстался с печальной Луною...»</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - «Я расстался с печальной Луною...»</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - «Я расстался с печальной Луною...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Август («Как ясен Август, нежный и спокойный...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Август («Как ясен Август, нежный и спокойный...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Август («Как ясен Август, нежный и спокойный...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Без улыбки, без слов («На алмазном покрове снегов...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Без улыбки, без слов («На алмазном покрове снегов...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Без улыбки, без слов («На алмазном покрове снегов...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Болото («О, нищенская жизнь, без бурь, без ощущений...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Болото («О, нищенская жизнь, без бурь, без ощущений...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Болото («О, нищенская жизнь, без бурь, без ощущений...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - В столице («Свежий запах душистого сена мне напомнил далекие дни...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - В столице («Свежий запах душистого сена мне напомнил далекие дни...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - В столице («Свежий запах душистого сена мне напомнил далекие дни...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Горный король («Горный король на далеком пути...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Горный король («Горный король на далеком пути...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Горный король («Горный король на далеком пути...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Грусть («Внемля ветру, тополь гнется...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Грусть («Внемля ветру, тополь гнется...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Грусть («Внемля ветру, тополь гнется...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Два голоса («Скользят стрижи в лазури неба чистой...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Два голоса («Скользят стрижи в лазури неба чистой...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Два голоса («Скользят стрижи в лазури неба чистой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Духи чумы («Мы спешим, мы плывем...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Духи чумы («Мы спешим, мы плывем...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Духи чумы («Мы спешим, мы плывем...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Зарница («Как в небесах, объятых тяжким сном...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Зарница («Как в небесах, объятых тяжким сном...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Зарница («Как в небесах, объятых тяжким сном...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Зарождающаяся жизнь («Еще последний снег в долине мглистой...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Зарождающаяся жизнь («Еще последний снег в долине мглистой...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Зарождающаяся жизнь («Еще последний снег в долине мглистой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Заря («Брызнули первые искры рассвета...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Заря («Брызнули первые искры рассвета...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Заря («Брызнули первые искры рассвета...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Зачем? («Господь, Господь, внемли, я плачу, я тоскую...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Зачем? («Господь, Господь, внемли, я плачу, я тоскую...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Зачем? («Господь, Господь, внемли, я плачу, я тоскую...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Картинка («В глухую ночь, неясною толпой...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Картинка («В глухую ночь, неясною толпой...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Картинка («В глухую ночь, неясною толпой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Колыбельная песня («Липы душистой цветы распускаются...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Колыбельная песня («Липы душистой цветы распускаются...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Колыбельная песня («Липы душистой цветы распускаются...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Кошмар («В печальный миг, в печальный час ночной...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Кошмар («В печальный миг, в печальный час ночной...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Кошмар («В печальный миг, в печальный час ночной...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Ласточки («Земля покрыта тьмой. Окончен день забот...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Ласточки («Земля покрыта тьмой. Окончен день забот...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Ласточки («Земля покрыта тьмой. Окончен день забот...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Лунный свет («Когда Луна сверкнет во мгле ночной...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Лунный свет («Когда Луна сверкнет во мгле ночной...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Лунный свет («Когда Луна сверкнет во мгле ночной...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - М*** («Ты — шелест нежного листка...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - М*** («Ты — шелест нежного листка...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - М*** («Ты — шелест нежного листка...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Мечта («Стекло Балтийских вод под ветром чуть дрожало...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Мечта («Стекло Балтийских вод под ветром чуть дрожало...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Мечта («Стекло Балтийских вод под ветром чуть дрожало...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Молитва («Господи Боже, склони свои взоры...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Молитва («Господи Боже, склони свои взоры...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Молитва («Господи Боже, склони свои взоры...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Нить Ариадны («Меж прошлым и будущим нить...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Нить Ариадны («Меж прошлым и будущим нить...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Нить Ариадны («Меж прошлым и будущим нить...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Норвежская девушка («Очи твои, голубые и чистые...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Норвежская девушка («Очи твои, голубые и чистые...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Норвежская девушка («Очи твои, голубые и чистые...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Памяти И. С. Тургенева («Уходят дни. И вот уж десять лет...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Памяти И. С. Тургенева («Уходят дни. И вот уж десять лет...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Памяти И. С. Тургенева («Уходят дни. И вот уж десять лет...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Песнь Юдифи («Пусть кимвалы поют...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Песнь Юдифи («Пусть кимвалы поют...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Песнь Юдифи («Пусть кимвалы поют...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Песня без слов («Ландыши, лютики. Ласки любовные...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Песня без слов («Ландыши, лютики. Ласки любовные...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Песня без слов («Ландыши, лютики. Ласки любовные...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Под северным небом</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Под северным небом</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Под северным небом.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Призрак («Где бы ни был я, везде, как тень, со мной...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Призрак («Где бы ни был я, везде, как тень, со мной...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Призрак («Где бы ни был я, везде, как тень, со мной...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Рабство («Ты льнешь ко мне, как гибкая лоза...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Рабство («Ты льнешь ко мне, как гибкая лоза...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Рабство («Ты льнешь ко мне, как гибкая лоза...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Разлука («Вдыхая морской освежительный воздух...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Разлука («Вдыхая морской освежительный воздух...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Разлука («Вдыхая морской освежительный воздух...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Родная картина («Стаи птиц. Дороги лента...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Родная картина («Стаи птиц. Дороги лента...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Родная картина («Стаи птиц. Дороги лента...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Смерть («Не верь тому, кто говорит тебе...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Смерть («Не верь тому, кто говорит тебе...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Смерть («Не верь тому, кто говорит тебе...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Смерть («Суровый призрак, демон, дух всесильный...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Смерть («Суровый призрак, демон, дух всесильный...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Смерть («Суровый призрак, демон, дух всесильный...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Смерть, убаюкай меня («Жизнь утомила меня...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Смерть, убаюкай меня («Жизнь утомила меня...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Смерть, убаюкай меня («Жизнь утомила меня...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - У скандинавских скал («Дремлют гранитные скалы, викингов приют опустевший...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - У скандинавских скал («Дремлют гранитные скалы, викингов приют опустевший...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - У скандинавских скал («Дремлют гранитные скалы, викингов приют опустевший...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - У фьорда («Хмуро северное небо...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - У фьорда («Хмуро северное небо...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - У фьорда («Хмуро северное небо...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Фантазия («Как живые изваянья, в искрах лунного сиянья...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Фантазия («Как живые изваянья, в искрах лунного сиянья...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Фантазия («Как живые изваянья, в искрах лунного сиянья...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Цветок («Умер бедный цветок на груди у тебя...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Цветок («Умер бедный цветок на груди у тебя...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Цветок («Умер бедный цветок на груди у тебя...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Чайка («Чайка, серая чайка с печальными криками носится...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Чайка («Чайка, серая чайка с печальными криками носится...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Чайка («Чайка, серая чайка с печальными криками носится...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К. Д. Бальмонт - Челн томленья («Вечер. Взморье. Вздохи ветра...»)</title>
+    <id>urn:ebook-search:book:К. Д. Бальмонт - Челн томленья («Вечер. Взморье. Вздохи ветра...»)</id>
+    <updated>2026-02-20T18:44:01.795313Z</updated>
+    <link href="../../d/К. Д. Бальмонт - Челн томленья («Вечер. Взморье. Вздохи ветра...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>К. Д. Бальмонт</name>
+    </author>
+  </entry>
+</feed>

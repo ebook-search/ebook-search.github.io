@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>J. M. Barrie</title>
   <id>urn:ebook-search:author:J. M. Barrie</id>
-  <updated>2026-02-20T13:52:15.478248Z</updated>
+  <updated>2026-02-20T18:44:01.777210Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>J. M. Barrie - Peter and Wendy</title>
     <id>urn:ebook-search:book:J. M. Barrie - Peter and Wendy</id>
-    <updated>2026-02-20T13:52:15.478248Z</updated>
+    <updated>2026-02-20T18:44:01.777210Z</updated>
     <link href="../../d/J. M. Barrie - Peter and Wendy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>J. M. Barrie</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>J. M. Barrie - The Little White Bird</title>
     <id>urn:ebook-search:book:J. M. Barrie - The Little White Bird</id>
-    <updated>2026-02-20T13:52:15.478248Z</updated>
+    <updated>2026-02-20T18:44:01.777210Z</updated>
     <link href="../../d/J. M. Barrie - The Little White Bird.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>J. M. Barrie</name>

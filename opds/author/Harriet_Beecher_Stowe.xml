@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Harriet Beecher Stowe</title>
   <id>urn:ebook-search:author:Harriet Beecher Stowe</id>
-  <updated>2026-02-20T13:52:15.473683Z</updated>
+  <updated>2026-02-20T18:44:01.759073Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Harriet Beecher Stowe - Uncle Tom’s Cabin</title>
     <id>urn:ebook-search:book:Harriet Beecher Stowe - Uncle Tom’s Cabin</id>
-    <updated>2026-02-20T13:52:15.473683Z</updated>
+    <updated>2026-02-20T18:44:01.759073Z</updated>
     <link href="../../d/Harriet Beecher Stowe - Uncle Tom’s Cabin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Harriet Beecher Stowe</name>

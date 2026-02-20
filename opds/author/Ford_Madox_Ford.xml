@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Ford Madox Ford</title>
   <id>urn:ebook-search:author:Ford Madox Ford</id>
-  <updated>2026-02-20T13:52:15.461566Z</updated>
+  <updated>2026-02-20T18:44:01.717444Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Ford Madox Ford - A Man Could Stand Up—</title>
     <id>urn:ebook-search:book:Ford Madox Ford - A Man Could Stand Up—</id>
-    <updated>2026-02-20T13:52:15.461566Z</updated>
+    <updated>2026-02-20T18:44:01.717444Z</updated>
     <link href="../../d/Ford Madox Ford - A Man Could Stand Up—.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ford Madox Ford</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Ford Madox Ford - No More Parades</title>
     <id>urn:ebook-search:book:Ford Madox Ford - No More Parades</id>
-    <updated>2026-02-20T13:52:15.461566Z</updated>
+    <updated>2026-02-20T18:44:01.717444Z</updated>
     <link href="../../d/Ford Madox Ford - No More Parades.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ford Madox Ford</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Ford Madox Ford - Privy Seal</title>
     <id>urn:ebook-search:book:Ford Madox Ford - Privy Seal</id>
-    <updated>2026-02-20T13:52:15.461566Z</updated>
+    <updated>2026-02-20T18:44:01.717444Z</updated>
     <link href="../../d/Ford Madox Ford - Privy Seal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ford Madox Ford</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Ford Madox Ford - Some Do Not …</title>
     <id>urn:ebook-search:book:Ford Madox Ford - Some Do Not …</id>
-    <updated>2026-02-20T13:52:15.461566Z</updated>
+    <updated>2026-02-20T18:44:01.717444Z</updated>
     <link href="../../d/Ford Madox Ford - Some Do Not ….epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ford Madox Ford</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Ford Madox Ford - The Fifth Queen</title>
     <id>urn:ebook-search:book:Ford Madox Ford - The Fifth Queen</id>
-    <updated>2026-02-20T13:52:15.461566Z</updated>
+    <updated>2026-02-20T18:44:01.717444Z</updated>
     <link href="../../d/Ford Madox Ford - The Fifth Queen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ford Madox Ford</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Ford Madox Ford - The Good Soldier</title>
     <id>urn:ebook-search:book:Ford Madox Ford - The Good Soldier</id>
-    <updated>2026-02-20T13:52:15.461566Z</updated>
+    <updated>2026-02-20T18:44:01.717444Z</updated>
     <link href="../../d/Ford Madox Ford - The Good Soldier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ford Madox Ford</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Ford Madox Ford - The Last Post</title>
     <id>urn:ebook-search:book:Ford Madox Ford - The Last Post</id>
-    <updated>2026-02-20T13:52:15.461566Z</updated>
+    <updated>2026-02-20T18:44:01.717444Z</updated>
     <link href="../../d/Ford Madox Ford - The Last Post.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ford Madox Ford</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>Joseph Conrad, Ford Madox Ford - Romance</title>
     <id>urn:ebook-search:book:Joseph Conrad, Ford Madox Ford - Romance</id>
-    <updated>2026-02-20T13:52:15.461566Z</updated>
+    <updated>2026-02-20T18:44:01.717444Z</updated>
     <link href="../../d/Joseph Conrad, Ford Madox Ford - Romance.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ford Madox Ford</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>Joseph Conrad, Ford Madox Ford - The Inheritors</title>
     <id>urn:ebook-search:book:Joseph Conrad, Ford Madox Ford - The Inheritors</id>
-    <updated>2026-02-20T13:52:15.461566Z</updated>
+    <updated>2026-02-20T18:44:01.717444Z</updated>
     <link href="../../d/Joseph Conrad, Ford Madox Ford - The Inheritors.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ford Madox Ford</name>

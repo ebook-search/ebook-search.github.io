@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>H. Beam Piper</title>
   <id>urn:ebook-search:author:H. Beam Piper</id>
-  <updated>2026-02-20T13:52:15.467390Z</updated>
+  <updated>2026-02-20T18:44:01.737118Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>H. Beam Piper - Four-Day Planet</title>
     <id>urn:ebook-search:book:H. Beam Piper - Four-Day Planet</id>
-    <updated>2026-02-20T13:52:15.467390Z</updated>
+    <updated>2026-02-20T18:44:01.737118Z</updated>
     <link href="../../d/H. Beam Piper - Four-Day Planet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>H. Beam Piper</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>H. Beam Piper - Little Fuzzy</title>
     <id>urn:ebook-search:book:H. Beam Piper - Little Fuzzy</id>
-    <updated>2026-02-20T13:52:15.467390Z</updated>
+    <updated>2026-02-20T18:44:01.737118Z</updated>
     <link href="../../d/H. Beam Piper - Little Fuzzy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>H. Beam Piper</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>H. Beam Piper - Murder in the Gunroom</title>
     <id>urn:ebook-search:book:H. Beam Piper - Murder in the Gunroom</id>
-    <updated>2026-02-20T13:52:15.467390Z</updated>
+    <updated>2026-02-20T18:44:01.737118Z</updated>
     <link href="../../d/H. Beam Piper - Murder in the Gunroom.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>H. Beam Piper</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>H. Beam Piper - Short Fiction</title>
     <id>urn:ebook-search:book:H. Beam Piper - Short Fiction</id>
-    <updated>2026-02-20T13:52:15.467390Z</updated>
+    <updated>2026-02-20T18:44:01.737118Z</updated>
     <link href="../../d/H. Beam Piper - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>H. Beam Piper</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>H. Beam Piper - Space Viking</title>
     <id>urn:ebook-search:book:H. Beam Piper - Space Viking</id>
-    <updated>2026-02-20T13:52:15.467390Z</updated>
+    <updated>2026-02-20T18:44:01.737118Z</updated>
     <link href="../../d/H. Beam Piper - Space Viking.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>H. Beam Piper</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>H. Beam Piper - The Cosmic Computer</title>
     <id>urn:ebook-search:book:H. Beam Piper - The Cosmic Computer</id>
-    <updated>2026-02-20T13:52:15.467390Z</updated>
+    <updated>2026-02-20T18:44:01.737118Z</updated>
     <link href="../../d/H. Beam Piper - The Cosmic Computer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>H. Beam Piper</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>H. Beam Piper - Uller Uprising</title>
     <id>urn:ebook-search:book:H. Beam Piper - Uller Uprising</id>
-    <updated>2026-02-20T13:52:15.467390Z</updated>
+    <updated>2026-02-20T18:44:01.737118Z</updated>
     <link href="../../d/H. Beam Piper - Uller Uprising.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>H. Beam Piper</name>

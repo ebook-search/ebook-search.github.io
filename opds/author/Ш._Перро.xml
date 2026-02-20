@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Ш. Перро</title>
+  <id>urn:ebook-search:author:Ш. Перро</id>
+  <updated>2026-02-20T18:44:01.799457Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Ш. Перро - Волшебницы &lt;Подарки феи&gt;</title>
+    <id>urn:ebook-search:book:Ш. Перро - Волшебницы &lt;Подарки феи&gt;</id>
+    <updated>2026-02-20T18:44:01.799457Z</updated>
+    <link href="../../d/Ш. Перро - Волшебницы &lt;Подарки феи&gt;.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ш. Перро</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ш. Перро - Господин Кот, или Кот в сапогах</title>
+    <id>urn:ebook-search:book:Ш. Перро - Господин Кот, или Кот в сапогах</id>
+    <updated>2026-02-20T18:44:01.799457Z</updated>
+    <link href="../../d/Ш. Перро - Господин Кот, или Кот в сапогах.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ш. Перро</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ш. Перро - Гризельда</title>
+    <id>urn:ebook-search:book:Ш. Перро - Гризельда</id>
+    <updated>2026-02-20T18:44:01.799457Z</updated>
+    <link href="../../d/Ш. Перро - Гризельда.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ш. Перро</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ш. Перро - Золушка, или Туфелька, отороченная мехом</title>
+    <id>urn:ebook-search:book:Ш. Перро - Золушка, или Туфелька, отороченная мехом</id>
+    <updated>2026-02-20T18:44:01.799457Z</updated>
+    <link href="../../d/Ш. Перро - Золушка, или Туфелька, отороченная мехом.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ш. Перро</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ш. Перро - Красная шапочка</title>
+    <id>urn:ebook-search:book:Ш. Перро - Красная шапочка</id>
+    <updated>2026-02-20T18:44:01.799457Z</updated>
+    <link href="../../d/Ш. Перро - Красная шапочка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ш. Перро</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ш. Перро - Мальчик с пальчик</title>
+    <id>urn:ebook-search:book:Ш. Перро - Мальчик с пальчик</id>
+    <updated>2026-02-20T18:44:01.799457Z</updated>
+    <link href="../../d/Ш. Перро - Мальчик с пальчик.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ш. Перро</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ш. Перро - Ослиная шкура</title>
+    <id>urn:ebook-search:book:Ш. Перро - Ослиная шкура</id>
+    <updated>2026-02-20T18:44:01.799457Z</updated>
+    <link href="../../d/Ш. Перро - Ослиная шкура.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ш. Перро</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ш. Перро - Ослиная шкура (в стихах)</title>
+    <id>urn:ebook-search:book:Ш. Перро - Ослиная шкура (в стихах)</id>
+    <updated>2026-02-20T18:44:01.799457Z</updated>
+    <link href="../../d/Ш. Перро - Ослиная шкура (в стихах).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ш. Перро</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ш. Перро - Рике с хохолком</title>
+    <id>urn:ebook-search:book:Ш. Перро - Рике с хохолком</id>
+    <updated>2026-02-20T18:44:01.799457Z</updated>
+    <link href="../../d/Ш. Перро - Рике с хохолком.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ш. Перро</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ш. Перро - Синяя Борода</title>
+    <id>urn:ebook-search:book:Ш. Перро - Синяя Борода</id>
+    <updated>2026-02-20T18:44:01.799457Z</updated>
+    <link href="../../d/Ш. Перро - Синяя Борода.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ш. Перро</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ш. Перро - Сказки матушки гусыни</title>
+    <id>urn:ebook-search:book:Ш. Перро - Сказки матушки гусыни</id>
+    <updated>2026-02-20T18:44:01.799457Z</updated>
+    <link href="../../d/Ш. Перро - Сказки матушки гусыни.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ш. Перро</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ш. Перро - Смешные желания</title>
+    <id>urn:ebook-search:book:Ш. Перро - Смешные желания</id>
+    <updated>2026-02-20T18:44:01.799457Z</updated>
+    <link href="../../d/Ш. Перро - Смешные желания.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ш. Перро</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ш. Перро - Спящая красавица</title>
+    <id>urn:ebook-search:book:Ш. Перро - Спящая красавица</id>
+    <updated>2026-02-20T18:44:01.799457Z</updated>
+    <link href="../../d/Ш. Перро - Спящая красавица.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ш. Перро</name>
+    </author>
+  </entry>
+</feed>
