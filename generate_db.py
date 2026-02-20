@@ -14,7 +14,7 @@ db = Database.load(args.db) if db_exists else Database({})
 
 print("Generating db...")
 
-db.books = fetch_ilibrary_db(db.books)
+# db.books = fetch_ilibrary_db(db.books)
 
 # TODO: accessible only with an account
 # db.books = fetch_unglue_db(db.books)
