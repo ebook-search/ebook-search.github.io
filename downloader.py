@@ -5,6 +5,7 @@ from pathlib import Path
 import shutil
 import time
 import sys
+import os
 
 def main():
     if not shutil.which("pandoc"):
@@ -20,6 +21,7 @@ def main():
     db = Database.load(args.db)
 
     output_path = Path(args.output)
+    os.makedirs(output_path, exist_ok=True)
 
     books = db.books.keys()
 
