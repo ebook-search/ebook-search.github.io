@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Frederick Rolfe</title>
+  <id>urn:ebook-search:author:Frederick Rolfe</id>
+  <updated>2026-02-20T13:52:15.470174Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Frederick Rolfe - Hadrian the Seventh</title>
+    <id>urn:ebook-search:book:Frederick Rolfe - Hadrian the Seventh</id>
+    <updated>2026-02-20T13:52:15.470174Z</updated>
+    <link href="../../d/Frederick Rolfe - Hadrian the Seventh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Frederick Rolfe</name>
+    </author>
+  </entry>
+</feed>

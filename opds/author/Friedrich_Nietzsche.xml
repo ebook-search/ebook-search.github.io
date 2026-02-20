@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Friedrich Nietzsche</title>
+  <id>urn:ebook-search:author:Friedrich Nietzsche</id>
+  <updated>2026-02-20T13:52:15.470793Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Friedrich Nietzsche - Beyond Good and Evil</title>
+    <id>urn:ebook-search:book:Friedrich Nietzsche - Beyond Good and Evil</id>
+    <updated>2026-02-20T13:52:15.470793Z</updated>
+    <link href="../../d/Friedrich Nietzsche - Beyond Good and Evil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Friedrich Nietzsche</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Friedrich Nietzsche - The Genealogy of Morals</title>
+    <id>urn:ebook-search:book:Friedrich Nietzsche - The Genealogy of Morals</id>
+    <updated>2026-02-20T13:52:15.470793Z</updated>
+    <link href="../../d/Friedrich Nietzsche - The Genealogy of Morals.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Friedrich Nietzsche</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Friedrich Nietzsche - Thus Spake Zarathustra</title>
+    <id>urn:ebook-search:book:Friedrich Nietzsche - Thus Spake Zarathustra</id>
+    <updated>2026-02-20T13:52:15.470793Z</updated>
+    <link href="../../d/Friedrich Nietzsche - Thus Spake Zarathustra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Friedrich Nietzsche</name>
+    </author>
+  </entry>
+</feed>

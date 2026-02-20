@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Taras Shevchenko</title>
+  <id>urn:ebook-search:author:Taras Shevchenko</id>
+  <updated>2026-02-20T13:52:15.473034Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Taras Shevchenko - Poetry</title>
+    <id>urn:ebook-search:book:Taras Shevchenko - Poetry</id>
+    <updated>2026-02-20T13:52:15.473034Z</updated>
+    <link href="../../d/Taras Shevchenko - Poetry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Taras Shevchenko</name>
+    </author>
+  </entry>
+</feed>

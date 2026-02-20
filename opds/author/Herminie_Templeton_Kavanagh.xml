@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Herminie Templeton Kavanagh</title>
+  <id>urn:ebook-search:author:Herminie Templeton Kavanagh</id>
+  <updated>2026-02-20T13:52:15.473629Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Herminie Templeton Kavanagh - Darby O’Gill and the Good People</title>
+    <id>urn:ebook-search:book:Herminie Templeton Kavanagh - Darby O’Gill and the Good People</id>
+    <updated>2026-02-20T13:52:15.473629Z</updated>
+    <link href="../../d/Herminie Templeton Kavanagh - Darby O’Gill and the Good People.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Herminie Templeton Kavanagh</name>
+    </author>
+  </entry>
+</feed>

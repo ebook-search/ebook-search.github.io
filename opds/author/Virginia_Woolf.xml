@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Virginia Woolf</title>
+  <id>urn:ebook-search:author:Virginia Woolf</id>
+  <updated>2026-02-20T13:52:15.470282Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Virginia Woolf - Jacob’s Room</title>
+    <id>urn:ebook-search:book:Virginia Woolf - Jacob’s Room</id>
+    <updated>2026-02-20T13:52:15.470282Z</updated>
+    <link href="../../d/Virginia Woolf - Jacob’s Room.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Virginia Woolf</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Virginia Woolf - Mrs. Dalloway</title>
+    <id>urn:ebook-search:book:Virginia Woolf - Mrs. Dalloway</id>
+    <updated>2026-02-20T13:52:15.470282Z</updated>
+    <link href="../../d/Virginia Woolf - Mrs. Dalloway.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Virginia Woolf</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Virginia Woolf - Night and Day</title>
+    <id>urn:ebook-search:book:Virginia Woolf - Night and Day</id>
+    <updated>2026-02-20T13:52:15.470282Z</updated>
+    <link href="../../d/Virginia Woolf - Night and Day.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Virginia Woolf</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Virginia Woolf - Orlando</title>
+    <id>urn:ebook-search:book:Virginia Woolf - Orlando</id>
+    <updated>2026-02-20T13:52:15.470282Z</updated>
+    <link href="../../d/Virginia Woolf - Orlando.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Virginia Woolf</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Virginia Woolf - The Voyage Out</title>
+    <id>urn:ebook-search:book:Virginia Woolf - The Voyage Out</id>
+    <updated>2026-02-20T13:52:15.470282Z</updated>
+    <link href="../../d/Virginia Woolf - The Voyage Out.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Virginia Woolf</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Virginia Woolf - To the Lighthouse</title>
+    <id>urn:ebook-search:book:Virginia Woolf - To the Lighthouse</id>
+    <updated>2026-02-20T13:52:15.470282Z</updated>
+    <link href="../../d/Virginia Woolf - To the Lighthouse.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Virginia Woolf</name>
+    </author>
+  </entry>
+</feed>

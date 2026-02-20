@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Robert Louis Stevenson</title>
+  <id>urn:ebook-search:author:Robert Louis Stevenson</id>
+  <updated>2026-02-20T13:52:15.464208Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Robert Louis Stevenson - Catriona</title>
+    <id>urn:ebook-search:book:Robert Louis Stevenson - Catriona</id>
+    <updated>2026-02-20T13:52:15.464208Z</updated>
+    <link href="../../d/Robert Louis Stevenson - Catriona.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Robert Louis Stevenson</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Robert Louis Stevenson - Kidnapped</title>
+    <id>urn:ebook-search:book:Robert Louis Stevenson - Kidnapped</id>
+    <updated>2026-02-20T13:52:15.464208Z</updated>
+    <link href="../../d/Robert Louis Stevenson - Kidnapped.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Robert Louis Stevenson</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Robert Louis Stevenson - Prince Otto</title>
+    <id>urn:ebook-search:book:Robert Louis Stevenson - Prince Otto</id>
+    <updated>2026-02-20T13:52:15.464208Z</updated>
+    <link href="../../d/Robert Louis Stevenson - Prince Otto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Robert Louis Stevenson</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Robert Louis Stevenson - The Black Arrow</title>
+    <id>urn:ebook-search:book:Robert Louis Stevenson - The Black Arrow</id>
+    <updated>2026-02-20T13:52:15.464208Z</updated>
+    <link href="../../d/Robert Louis Stevenson - The Black Arrow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Robert Louis Stevenson</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Robert Louis Stevenson - The Master of Ballantrae</title>
+    <id>urn:ebook-search:book:Robert Louis Stevenson - The Master of Ballantrae</id>
+    <updated>2026-02-20T13:52:15.464208Z</updated>
+    <link href="../../d/Robert Louis Stevenson - The Master of Ballantrae.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Robert Louis Stevenson</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Robert Louis Stevenson - The Strange Case of Dr. Jekyll and Mr. Hyde</title>
+    <id>urn:ebook-search:book:Robert Louis Stevenson - The Strange Case of Dr. Jekyll and Mr. Hyde</id>
+    <updated>2026-02-20T13:52:15.464208Z</updated>
+    <link href="../../d/Robert Louis Stevenson - The Strange Case of Dr. Jekyll and Mr. Hyde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Robert Louis Stevenson</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Robert Louis Stevenson - Travel Essays</title>
+    <id>urn:ebook-search:book:Robert Louis Stevenson - Travel Essays</id>
+    <updated>2026-02-20T13:52:15.464208Z</updated>
+    <link href="../../d/Robert Louis Stevenson - Travel Essays.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Robert Louis Stevenson</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Robert Louis Stevenson - Treasure Island</title>
+    <id>urn:ebook-search:book:Robert Louis Stevenson - Treasure Island</id>
+    <updated>2026-02-20T13:52:15.464208Z</updated>
+    <link href="../../d/Robert Louis Stevenson - Treasure Island.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Robert Louis Stevenson</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Samuel Butler</title>
+  <id>urn:ebook-search:author:Samuel Butler</id>
+  <updated>2026-02-20T13:52:15.470931Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Samuel Butler - Erewhon</title>
+    <id>urn:ebook-search:book:Samuel Butler - Erewhon</id>
+    <updated>2026-02-20T13:52:15.470931Z</updated>
+    <link href="../../d/Samuel Butler - Erewhon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Samuel Butler</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Samuel Butler - Erewhon Revisited</title>
+    <id>urn:ebook-search:book:Samuel Butler - Erewhon Revisited</id>
+    <updated>2026-02-20T13:52:15.470931Z</updated>
+    <link href="../../d/Samuel Butler - Erewhon Revisited.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Samuel Butler</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Samuel Butler - Hudibras</title>
+    <id>urn:ebook-search:book:Samuel Butler - Hudibras</id>
+    <updated>2026-02-20T13:52:15.470931Z</updated>
+    <link href="../../d/Samuel Butler - Hudibras.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Samuel Butler</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Samuel Butler - The Way of All Flesh</title>
+    <id>urn:ebook-search:book:Samuel Butler - The Way of All Flesh</id>
+    <updated>2026-02-20T13:52:15.470931Z</updated>
+    <link href="../../d/Samuel Butler - The Way of All Flesh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Samuel Butler</name>
+    </author>
+  </entry>
+</feed>

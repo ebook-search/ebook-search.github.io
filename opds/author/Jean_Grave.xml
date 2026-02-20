@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Jean Grave</title>
+  <id>urn:ebook-search:author:Jean Grave</id>
+  <updated>2026-02-20T13:52:15.467985Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Jean Grave - Moribund Society and Anarchy</title>
+    <id>urn:ebook-search:book:Jean Grave - Moribund Society and Anarchy</id>
+    <updated>2026-02-20T13:52:15.467985Z</updated>
+    <link href="../../d/Jean Grave - Moribund Society and Anarchy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jean Grave</name>
+    </author>
+  </entry>
+</feed>

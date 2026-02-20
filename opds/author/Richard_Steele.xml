@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Richard Steele</title>
+  <id>urn:ebook-search:author:Richard Steele</id>
+  <updated>2026-02-20T13:52:15.473083Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Richard Steele - The Conscious Lovers</title>
+    <id>urn:ebook-search:book:Richard Steele - The Conscious Lovers</id>
+    <updated>2026-02-20T13:52:15.473083Z</updated>
+    <link href="../../d/Richard Steele - The Conscious Lovers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Richard Steele</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>James Hogg</title>
+  <id>urn:ebook-search:author:James Hogg</id>
+  <updated>2026-02-20T13:52:15.472375Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>James Hogg - The Private Memoirs and Confessions of a Justified Sinner</title>
+    <id>urn:ebook-search:book:James Hogg - The Private Memoirs and Confessions of a Justified Sinner</id>
+    <updated>2026-02-20T13:52:15.472375Z</updated>
+    <link href="../../d/James Hogg - The Private Memoirs and Confessions of a Justified Sinner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>James Hogg</name>
+    </author>
+  </entry>
+</feed>

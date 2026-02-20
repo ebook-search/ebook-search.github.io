@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>C. M. Kornbluth</title>
+  <id>urn:ebook-search:author:C. M. Kornbluth</id>
+  <updated>2026-02-20T13:52:15.471066Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Frederik Pohl, C. M. Kornbluth - Search the Sky</title>
+    <id>urn:ebook-search:book:Frederik Pohl, C. M. Kornbluth - Search the Sky</id>
+    <updated>2026-02-20T13:52:15.471066Z</updated>
+    <link href="../../d/Frederik Pohl, C. M. Kornbluth - Search the Sky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>C. M. Kornbluth</name>
+    </author>
+  </entry>
+</feed>

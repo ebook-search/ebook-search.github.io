@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>John Reed</title>
+  <id>urn:ebook-search:author:John Reed</id>
+  <updated>2026-02-20T13:52:15.477050Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>John Reed - Ten Days That Shook the World</title>
+    <id>urn:ebook-search:book:John Reed - Ten Days That Shook the World</id>
+    <updated>2026-02-20T13:52:15.477050Z</updated>
+    <link href="../../d/John Reed - Ten Days That Shook the World.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>John Reed</name>
+    </author>
+  </entry>
+</feed>

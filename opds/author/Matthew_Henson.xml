@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Matthew Henson</title>
+  <id>urn:ebook-search:author:Matthew Henson</id>
+  <updated>2026-02-20T13:52:15.475268Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Matthew Henson - A Negro Explorer at the North Pole</title>
+    <id>urn:ebook-search:book:Matthew Henson - A Negro Explorer at the North Pole</id>
+    <updated>2026-02-20T13:52:15.475268Z</updated>
+    <link href="../../d/Matthew Henson - A Negro Explorer at the North Pole.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Matthew Henson</name>
+    </author>
+  </entry>
+</feed>

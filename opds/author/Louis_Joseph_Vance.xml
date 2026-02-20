@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Louis Joseph Vance</title>
+  <id>urn:ebook-search:author:Louis Joseph Vance</id>
+  <updated>2026-02-20T13:52:15.462846Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Louis Joseph Vance - The Lone Wolf</title>
+    <id>urn:ebook-search:book:Louis Joseph Vance - The Lone Wolf</id>
+    <updated>2026-02-20T13:52:15.462846Z</updated>
+    <link href="../../d/Louis Joseph Vance - The Lone Wolf.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Louis Joseph Vance</name>
+    </author>
+  </entry>
+</feed>

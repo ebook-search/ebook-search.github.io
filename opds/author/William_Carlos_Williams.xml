@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>William Carlos Williams</title>
+  <id>urn:ebook-search:author:William Carlos Williams</id>
+  <updated>2026-02-20T13:52:15.477102Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>William Carlos Williams - Poetry</title>
+    <id>urn:ebook-search:book:William Carlos Williams - Poetry</id>
+    <updated>2026-02-20T13:52:15.477102Z</updated>
+    <link href="../../d/William Carlos Williams - Poetry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Carlos Williams</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Charles W. Chesnutt</title>
+  <id>urn:ebook-search:author:Charles W. Chesnutt</id>
+  <updated>2026-02-20T13:52:15.469985Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Charles W. Chesnutt - The Conjure Woman</title>
+    <id>urn:ebook-search:book:Charles W. Chesnutt - The Conjure Woman</id>
+    <updated>2026-02-20T13:52:15.469985Z</updated>
+    <link href="../../d/Charles W. Chesnutt - The Conjure Woman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Charles W. Chesnutt</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Charles W. Chesnutt - The Marrow of Tradition</title>
+    <id>urn:ebook-search:book:Charles W. Chesnutt - The Marrow of Tradition</id>
+    <updated>2026-02-20T13:52:15.469985Z</updated>
+    <link href="../../d/Charles W. Chesnutt - The Marrow of Tradition.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Charles W. Chesnutt</name>
+    </author>
+  </entry>
+</feed>

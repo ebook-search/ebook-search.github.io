@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Matthew Arnold</title>
+  <id>urn:ebook-search:author:Matthew Arnold</id>
+  <updated>2026-02-20T13:52:15.464467Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Matthew Arnold - Culture and Anarchy</title>
+    <id>urn:ebook-search:book:Matthew Arnold - Culture and Anarchy</id>
+    <updated>2026-02-20T13:52:15.464467Z</updated>
+    <link href="../../d/Matthew Arnold - Culture and Anarchy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Matthew Arnold</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Matthew Arnold - Poetry</title>
+    <id>urn:ebook-search:book:Matthew Arnold - Poetry</id>
+    <updated>2026-02-20T13:52:15.464467Z</updated>
+    <link href="../../d/Matthew Arnold - Poetry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Matthew Arnold</name>
+    </author>
+  </entry>
+</feed>

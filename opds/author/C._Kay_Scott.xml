@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>C. Kay Scott</title>
+  <id>urn:ebook-search:author:C. Kay Scott</id>
+  <updated>2026-02-20T13:52:15.464300Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>C. Kay Scott - Blind Mice</title>
+    <id>urn:ebook-search:book:C. Kay Scott - Blind Mice</id>
+    <updated>2026-02-20T13:52:15.464300Z</updated>
+    <link href="../../d/C. Kay Scott - Blind Mice.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>C. Kay Scott</name>
+    </author>
+  </entry>
+</feed>

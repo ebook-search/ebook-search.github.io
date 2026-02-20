@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Hugh Walpole</title>
+  <id>urn:ebook-search:author:Hugh Walpole</id>
+  <updated>2026-02-20T13:52:15.473657Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Hugh Walpole - The Dark Forest</title>
+    <id>urn:ebook-search:book:Hugh Walpole - The Dark Forest</id>
+    <updated>2026-02-20T13:52:15.473657Z</updated>
+    <link href="../../d/Hugh Walpole - The Dark Forest.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Hugh Walpole</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Hugh Walpole - The Secret City</title>
+    <id>urn:ebook-search:book:Hugh Walpole - The Secret City</id>
+    <updated>2026-02-20T13:52:15.473657Z</updated>
+    <link href="../../d/Hugh Walpole - The Secret City.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Hugh Walpole</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>G. D. H. Cole</title>
+  <id>urn:ebook-search:author:G. D. H. Cole</id>
+  <updated>2026-02-20T13:52:15.462229Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>G. D. H. Cole - The Brooklyn Murders</title>
+    <id>urn:ebook-search:book:G. D. H. Cole - The Brooklyn Murders</id>
+    <updated>2026-02-20T13:52:15.462229Z</updated>
+    <link href="../../d/G. D. H. Cole - The Brooklyn Murders.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>G. D. H. Cole</name>
+    </author>
+  </entry>
+</feed>

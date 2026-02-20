@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>H. Rider Haggard</title>
+  <id>urn:ebook-search:author:H. Rider Haggard</id>
+  <updated>2026-02-20T13:52:15.465492Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>H. Rider Haggard - Allan Quatermain</title>
+    <id>urn:ebook-search:book:H. Rider Haggard - Allan Quatermain</id>
+    <updated>2026-02-20T13:52:15.465492Z</updated>
+    <link href="../../d/H. Rider Haggard - Allan Quatermain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. Rider Haggard</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. Rider Haggard - Allan Quatermain Stories</title>
+    <id>urn:ebook-search:book:H. Rider Haggard - Allan Quatermain Stories</id>
+    <updated>2026-02-20T13:52:15.465492Z</updated>
+    <link href="../../d/H. Rider Haggard - Allan Quatermain Stories.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. Rider Haggard</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. Rider Haggard - Cleopatra</title>
+    <id>urn:ebook-search:book:H. Rider Haggard - Cleopatra</id>
+    <updated>2026-02-20T13:52:15.465492Z</updated>
+    <link href="../../d/H. Rider Haggard - Cleopatra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. Rider Haggard</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. Rider Haggard - King Solomon’s Mines</title>
+    <id>urn:ebook-search:book:H. Rider Haggard - King Solomon’s Mines</id>
+    <updated>2026-02-20T13:52:15.465492Z</updated>
+    <link href="../../d/H. Rider Haggard - King Solomon’s Mines.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. Rider Haggard</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. Rider Haggard - Maiwa’s Revenge</title>
+    <id>urn:ebook-search:book:H. Rider Haggard - Maiwa’s Revenge</id>
+    <updated>2026-02-20T13:52:15.465492Z</updated>
+    <link href="../../d/H. Rider Haggard - Maiwa’s Revenge.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. Rider Haggard</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. Rider Haggard - She</title>
+    <id>urn:ebook-search:book:H. Rider Haggard - She</id>
+    <updated>2026-02-20T13:52:15.465492Z</updated>
+    <link href="../../d/H. Rider Haggard - She.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. Rider Haggard</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. Rider Haggard - When the World Shook</title>
+    <id>urn:ebook-search:book:H. Rider Haggard - When the World Shook</id>
+    <updated>2026-02-20T13:52:15.465492Z</updated>
+    <link href="../../d/H. Rider Haggard - When the World Shook.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. Rider Haggard</name>
+    </author>
+  </entry>
+</feed>

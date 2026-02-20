@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Nathaniel Hawthorne</title>
+  <id>urn:ebook-search:author:Nathaniel Hawthorne</id>
+  <updated>2026-02-20T13:52:15.468250Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Nathaniel Hawthorne - The Blithedale Romance</title>
+    <id>urn:ebook-search:book:Nathaniel Hawthorne - The Blithedale Romance</id>
+    <updated>2026-02-20T13:52:15.468250Z</updated>
+    <link href="../../d/Nathaniel Hawthorne - The Blithedale Romance.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Nathaniel Hawthorne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Nathaniel Hawthorne - The House of the Seven Gables</title>
+    <id>urn:ebook-search:book:Nathaniel Hawthorne - The House of the Seven Gables</id>
+    <updated>2026-02-20T13:52:15.468250Z</updated>
+    <link href="../../d/Nathaniel Hawthorne - The House of the Seven Gables.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Nathaniel Hawthorne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Nathaniel Hawthorne - The Scarlet Letter</title>
+    <id>urn:ebook-search:book:Nathaniel Hawthorne - The Scarlet Letter</id>
+    <updated>2026-02-20T13:52:15.468250Z</updated>
+    <link href="../../d/Nathaniel Hawthorne - The Scarlet Letter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Nathaniel Hawthorne</name>
+    </author>
+  </entry>
+</feed>

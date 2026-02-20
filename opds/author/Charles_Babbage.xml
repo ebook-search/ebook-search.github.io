@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Charles Babbage</title>
+  <id>urn:ebook-search:author:Charles Babbage</id>
+  <updated>2026-02-20T13:52:15.477310Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Charles Babbage - Passages from the Life of a Philosopher</title>
+    <id>urn:ebook-search:book:Charles Babbage - Passages from the Life of a Philosopher</id>
+    <updated>2026-02-20T13:52:15.477310Z</updated>
+    <link href="../../d/Charles Babbage - Passages from the Life of a Philosopher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Charles Babbage</name>
+    </author>
+  </entry>
+</feed>

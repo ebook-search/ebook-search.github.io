@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>L. Frank Baum</title>
+  <id>urn:ebook-search:author:L. Frank Baum</id>
+  <updated>2026-02-20T13:52:15.464495Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>L. Frank Baum - Dorothy and the Wizard in Oz</title>
+    <id>urn:ebook-search:book:L. Frank Baum - Dorothy and the Wizard in Oz</id>
+    <updated>2026-02-20T13:52:15.464495Z</updated>
+    <link href="../../d/L. Frank Baum - Dorothy and the Wizard in Oz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>L. Frank Baum</name>
+    </author>
+  </entry>
+  <entry>
+    <title>L. Frank Baum - Ozma of Oz</title>
+    <id>urn:ebook-search:book:L. Frank Baum - Ozma of Oz</id>
+    <updated>2026-02-20T13:52:15.464495Z</updated>
+    <link href="../../d/L. Frank Baum - Ozma of Oz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>L. Frank Baum</name>
+    </author>
+  </entry>
+  <entry>
+    <title>L. Frank Baum - The Marvelous Land of Oz</title>
+    <id>urn:ebook-search:book:L. Frank Baum - The Marvelous Land of Oz</id>
+    <updated>2026-02-20T13:52:15.464495Z</updated>
+    <link href="../../d/L. Frank Baum - The Marvelous Land of Oz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>L. Frank Baum</name>
+    </author>
+  </entry>
+  <entry>
+    <title>L. Frank Baum - The Road to Oz</title>
+    <id>urn:ebook-search:book:L. Frank Baum - The Road to Oz</id>
+    <updated>2026-02-20T13:52:15.464495Z</updated>
+    <link href="../../d/L. Frank Baum - The Road to Oz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>L. Frank Baum</name>
+    </author>
+  </entry>
+  <entry>
+    <title>L. Frank Baum - The Wonderful Wizard of Oz</title>
+    <id>urn:ebook-search:book:L. Frank Baum - The Wonderful Wizard of Oz</id>
+    <updated>2026-02-20T13:52:15.464495Z</updated>
+    <link href="../../d/L. Frank Baum - The Wonderful Wizard of Oz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>L. Frank Baum</name>
+    </author>
+  </entry>
+</feed>

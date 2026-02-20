@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Metta Victor</title>
+  <id>urn:ebook-search:author:Metta Victor</id>
+  <updated>2026-02-20T13:52:15.461730Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Metta Victor - The Dead Letter</title>
+    <id>urn:ebook-search:book:Metta Victor - The Dead Letter</id>
+    <updated>2026-02-20T13:52:15.461730Z</updated>
+    <link href="../../d/Metta Victor - The Dead Letter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Metta Victor</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Anna Katharine Green</title>
+  <id>urn:ebook-search:author:Anna Katharine Green</id>
+  <updated>2026-02-20T13:52:15.461831Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Anna Katharine Green - A Strange Disappearance</title>
+    <id>urn:ebook-search:book:Anna Katharine Green - A Strange Disappearance</id>
+    <updated>2026-02-20T13:52:15.461831Z</updated>
+    <link href="../../d/Anna Katharine Green - A Strange Disappearance.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Anna Katharine Green</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Anna Katharine Green - Lost Man’s Lane</title>
+    <id>urn:ebook-search:book:Anna Katharine Green - Lost Man’s Lane</id>
+    <updated>2026-02-20T13:52:15.461831Z</updated>
+    <link href="../../d/Anna Katharine Green - Lost Man’s Lane.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Anna Katharine Green</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Anna Katharine Green - That Affair Next Door</title>
+    <id>urn:ebook-search:book:Anna Katharine Green - That Affair Next Door</id>
+    <updated>2026-02-20T13:52:15.461831Z</updated>
+    <link href="../../d/Anna Katharine Green - That Affair Next Door.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Anna Katharine Green</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Anna Katharine Green - The Leavenworth Case</title>
+    <id>urn:ebook-search:book:Anna Katharine Green - The Leavenworth Case</id>
+    <updated>2026-02-20T13:52:15.461831Z</updated>
+    <link href="../../d/Anna Katharine Green - The Leavenworth Case.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Anna Katharine Green</name>
+    </author>
+  </entry>
+</feed>

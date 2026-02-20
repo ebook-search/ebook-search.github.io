@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Philip Gibbs</title>
+  <id>urn:ebook-search:author:Philip Gibbs</id>
+  <updated>2026-02-20T13:52:15.463925Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Philip Gibbs - Now It Can Be Told</title>
+    <id>urn:ebook-search:book:Philip Gibbs - Now It Can Be Told</id>
+    <updated>2026-02-20T13:52:15.463925Z</updated>
+    <link href="../../d/Philip Gibbs - Now It Can Be Told.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Philip Gibbs</name>
+    </author>
+  </entry>
+</feed>

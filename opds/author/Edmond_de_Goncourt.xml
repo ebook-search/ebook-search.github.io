@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Edmond de Goncourt</title>
+  <id>urn:ebook-search:author:Edmond de Goncourt</id>
+  <updated>2026-02-20T13:52:15.472559Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Edmond de Goncourt, Jules de Goncourt - Germinie Lacerteux</title>
+    <id>urn:ebook-search:book:Edmond de Goncourt, Jules de Goncourt - Germinie Lacerteux</id>
+    <updated>2026-02-20T13:52:15.472559Z</updated>
+    <link href="../../d/Edmond de Goncourt, Jules de Goncourt - Germinie Lacerteux.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edmond de Goncourt</name>
+    </author>
+  </entry>
+</feed>

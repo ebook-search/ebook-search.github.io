@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>George Eliot</title>
+  <id>urn:ebook-search:author:George Eliot</id>
+  <updated>2026-02-20T13:52:15.475047Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>George Eliot - Daniel Deronda</title>
+    <id>urn:ebook-search:book:George Eliot - Daniel Deronda</id>
+    <updated>2026-02-20T13:52:15.475047Z</updated>
+    <link href="../../d/George Eliot - Daniel Deronda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>George Eliot</name>
+    </author>
+  </entry>
+  <entry>
+    <title>George Eliot - Middlemarch</title>
+    <id>urn:ebook-search:book:George Eliot - Middlemarch</id>
+    <updated>2026-02-20T13:52:15.475047Z</updated>
+    <link href="../../d/George Eliot - Middlemarch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>George Eliot</name>
+    </author>
+  </entry>
+  <entry>
+    <title>George Eliot - Silas Marner</title>
+    <id>urn:ebook-search:book:George Eliot - Silas Marner</id>
+    <updated>2026-02-20T13:52:15.475047Z</updated>
+    <link href="../../d/George Eliot - Silas Marner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>George Eliot</name>
+    </author>
+  </entry>
+  <entry>
+    <title>George Eliot - The Mill on the Floss</title>
+    <id>urn:ebook-search:book:George Eliot - The Mill on the Floss</id>
+    <updated>2026-02-20T13:52:15.475047Z</updated>
+    <link href="../../d/George Eliot - The Mill on the Floss.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>George Eliot</name>
+    </author>
+  </entry>
+</feed>

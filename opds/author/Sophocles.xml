@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Sophocles</title>
+  <id>urn:ebook-search:author:Sophocles</id>
+  <updated>2026-02-20T13:52:15.465401Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Sophocles - Ajax</title>
+    <id>urn:ebook-search:book:Sophocles - Ajax</id>
+    <updated>2026-02-20T13:52:15.465401Z</updated>
+    <link href="../../d/Sophocles - Ajax.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Sophocles</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Sophocles - Antigone</title>
+    <id>urn:ebook-search:book:Sophocles - Antigone</id>
+    <updated>2026-02-20T13:52:15.465401Z</updated>
+    <link href="../../d/Sophocles - Antigone.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Sophocles</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Sophocles - Electra</title>
+    <id>urn:ebook-search:book:Sophocles - Electra</id>
+    <updated>2026-02-20T13:52:15.465401Z</updated>
+    <link href="../../d/Sophocles - Electra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Sophocles</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Sophocles - Oedipus Rex</title>
+    <id>urn:ebook-search:book:Sophocles - Oedipus Rex</id>
+    <updated>2026-02-20T13:52:15.465401Z</updated>
+    <link href="../../d/Sophocles - Oedipus Rex.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Sophocles</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Sophocles - Oedipus at Colonus</title>
+    <id>urn:ebook-search:book:Sophocles - Oedipus at Colonus</id>
+    <updated>2026-02-20T13:52:15.465401Z</updated>
+    <link href="../../d/Sophocles - Oedipus at Colonus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Sophocles</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Sophocles - Philoctetes</title>
+    <id>urn:ebook-search:book:Sophocles - Philoctetes</id>
+    <updated>2026-02-20T13:52:15.465401Z</updated>
+    <link href="../../d/Sophocles - Philoctetes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Sophocles</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Sophocles - The Trachiniae</title>
+    <id>urn:ebook-search:book:Sophocles - The Trachiniae</id>
+    <updated>2026-02-20T13:52:15.465401Z</updated>
+    <link href="../../d/Sophocles - The Trachiniae.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Sophocles</name>
+    </author>
+  </entry>
+</feed>

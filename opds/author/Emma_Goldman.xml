@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Emma Goldman</title>
+  <id>urn:ebook-search:author:Emma Goldman</id>
+  <updated>2026-02-20T13:52:15.474146Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Emma Goldman - My Disillusionment in Russia</title>
+    <id>urn:ebook-search:book:Emma Goldman - My Disillusionment in Russia</id>
+    <updated>2026-02-20T13:52:15.474146Z</updated>
+    <link href="../../d/Emma Goldman - My Disillusionment in Russia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Emma Goldman</name>
+    </author>
+  </entry>
+</feed>

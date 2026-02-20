@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>S. S. Van Dine</title>
+  <id>urn:ebook-search:author:S. S. Van Dine</id>
+  <updated>2026-02-20T13:52:15.470066Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>S. S. Van Dine - The Benson Murder Case</title>
+    <id>urn:ebook-search:book:S. S. Van Dine - The Benson Murder Case</id>
+    <updated>2026-02-20T13:52:15.470066Z</updated>
+    <link href="../../d/S. S. Van Dine - The Benson Murder Case.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>S. S. Van Dine</name>
+    </author>
+  </entry>
+  <entry>
+    <title>S. S. Van Dine - The Canary Murder Case</title>
+    <id>urn:ebook-search:book:S. S. Van Dine - The Canary Murder Case</id>
+    <updated>2026-02-20T13:52:15.470066Z</updated>
+    <link href="../../d/S. S. Van Dine - The Canary Murder Case.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>S. S. Van Dine</name>
+    </author>
+  </entry>
+  <entry>
+    <title>S. S. Van Dine - The Greene Murder Case</title>
+    <id>urn:ebook-search:book:S. S. Van Dine - The Greene Murder Case</id>
+    <updated>2026-02-20T13:52:15.470066Z</updated>
+    <link href="../../d/S. S. Van Dine - The Greene Murder Case.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>S. S. Van Dine</name>
+    </author>
+  </entry>
+</feed>

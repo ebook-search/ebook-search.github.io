@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>P. T. Barnum</title>
+  <id>urn:ebook-search:author:P. T. Barnum</id>
+  <updated>2026-02-20T13:52:15.474725Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>P. T. Barnum - Struggles and Triumphs</title>
+    <id>urn:ebook-search:book:P. T. Barnum - Struggles and Triumphs</id>
+    <updated>2026-02-20T13:52:15.474725Z</updated>
+    <link href="../../d/P. T. Barnum - Struggles and Triumphs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. T. Barnum</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. T. Barnum - The Art of Money Getting</title>
+    <id>urn:ebook-search:book:P. T. Barnum - The Art of Money Getting</id>
+    <updated>2026-02-20T13:52:15.474725Z</updated>
+    <link href="../../d/P. T. Barnum - The Art of Money Getting.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. T. Barnum</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. T. Barnum - The Humbugs of the World</title>
+    <id>urn:ebook-search:book:P. T. Barnum - The Humbugs of the World</id>
+    <updated>2026-02-20T13:52:15.474725Z</updated>
+    <link href="../../d/P. T. Barnum - The Humbugs of the World.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. T. Barnum</name>
+    </author>
+  </entry>
+</feed>

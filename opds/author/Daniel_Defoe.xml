@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Daniel Defoe</title>
+  <id>urn:ebook-search:author:Daniel Defoe</id>
+  <updated>2026-02-20T13:52:15.472346Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Daniel Defoe - A Journal of the Plague Year</title>
+    <id>urn:ebook-search:book:Daniel Defoe - A Journal of the Plague Year</id>
+    <updated>2026-02-20T13:52:15.472346Z</updated>
+    <link href="../../d/Daniel Defoe - A Journal of the Plague Year.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Daniel Defoe</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Daniel Defoe - Moll Flanders</title>
+    <id>urn:ebook-search:book:Daniel Defoe - Moll Flanders</id>
+    <updated>2026-02-20T13:52:15.472346Z</updated>
+    <link href="../../d/Daniel Defoe - Moll Flanders.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Daniel Defoe</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Daniel Defoe - The Life and Adventures of Robinson Crusoe</title>
+    <id>urn:ebook-search:book:Daniel Defoe - The Life and Adventures of Robinson Crusoe</id>
+    <updated>2026-02-20T13:52:15.472346Z</updated>
+    <link href="../../d/Daniel Defoe - The Life and Adventures of Robinson Crusoe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Daniel Defoe</name>
+    </author>
+  </entry>
+</feed>

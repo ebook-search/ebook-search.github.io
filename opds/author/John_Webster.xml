@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>John Webster</title>
+  <id>urn:ebook-search:author:John Webster</id>
+  <updated>2026-02-20T13:52:15.475727Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>John Webster - The Duchess of Malfi</title>
+    <id>urn:ebook-search:book:John Webster - The Duchess of Malfi</id>
+    <updated>2026-02-20T13:52:15.475727Z</updated>
+    <link href="../../d/John Webster - The Duchess of Malfi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>John Webster</name>
+    </author>
+  </entry>
+</feed>

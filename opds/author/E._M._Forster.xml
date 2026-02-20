@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>E. M. Forster</title>
+  <id>urn:ebook-search:author:E. M. Forster</id>
+  <updated>2026-02-20T13:52:15.464984Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>E. M. Forster - A Passage to India</title>
+    <id>urn:ebook-search:book:E. M. Forster - A Passage to India</id>
+    <updated>2026-02-20T13:52:15.464984Z</updated>
+    <link href="../../d/E. M. Forster - A Passage to India.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. M. Forster</name>
+    </author>
+  </entry>
+  <entry>
+    <title>E. M. Forster - A Room With a View</title>
+    <id>urn:ebook-search:book:E. M. Forster - A Room With a View</id>
+    <updated>2026-02-20T13:52:15.464984Z</updated>
+    <link href="../../d/E. M. Forster - A Room With a View.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. M. Forster</name>
+    </author>
+  </entry>
+  <entry>
+    <title>E. M. Forster - Aspects of the Novel</title>
+    <id>urn:ebook-search:book:E. M. Forster - Aspects of the Novel</id>
+    <updated>2026-02-20T13:52:15.464984Z</updated>
+    <link href="../../d/E. M. Forster - Aspects of the Novel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. M. Forster</name>
+    </author>
+  </entry>
+  <entry>
+    <title>E. M. Forster - Howards End</title>
+    <id>urn:ebook-search:book:E. M. Forster - Howards End</id>
+    <updated>2026-02-20T13:52:15.464984Z</updated>
+    <link href="../../d/E. M. Forster - Howards End.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. M. Forster</name>
+    </author>
+  </entry>
+  <entry>
+    <title>E. M. Forster - Short Fiction</title>
+    <id>urn:ebook-search:book:E. M. Forster - Short Fiction</id>
+    <updated>2026-02-20T13:52:15.464984Z</updated>
+    <link href="../../d/E. M. Forster - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. M. Forster</name>
+    </author>
+  </entry>
+  <entry>
+    <title>E. M. Forster - Where Angels Fear to Tread</title>
+    <id>urn:ebook-search:book:E. M. Forster - Where Angels Fear to Tread</id>
+    <updated>2026-02-20T13:52:15.464984Z</updated>
+    <link href="../../d/E. M. Forster - Where Angels Fear to Tread.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. M. Forster</name>
+    </author>
+  </entry>
+</feed>

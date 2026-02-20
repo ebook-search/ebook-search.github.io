@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Frances Noyes Hart</title>
+  <id>urn:ebook-search:author:Frances Noyes Hart</id>
+  <updated>2026-02-20T13:52:15.465375Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Frances Noyes Hart - The Bellamy Trial</title>
+    <id>urn:ebook-search:book:Frances Noyes Hart - The Bellamy Trial</id>
+    <updated>2026-02-20T13:52:15.465375Z</updated>
+    <link href="../../d/Frances Noyes Hart - The Bellamy Trial.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Frances Noyes Hart</name>
+    </author>
+  </entry>
+</feed>

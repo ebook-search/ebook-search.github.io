@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Edgar Wallace</title>
+  <id>urn:ebook-search:author:Edgar Wallace</id>
+  <updated>2026-02-20T13:52:15.465243Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Edgar Wallace - Blue Hand</title>
+    <id>urn:ebook-search:book:Edgar Wallace - Blue Hand</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - Blue Hand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - Kate Plus 10</title>
+    <id>urn:ebook-search:book:Edgar Wallace - Kate Plus 10</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - Kate Plus 10.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - Room 13</title>
+    <id>urn:ebook-search:book:Edgar Wallace - Room 13</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - Room 13.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - Terror Keep</title>
+    <id>urn:ebook-search:book:Edgar Wallace - Terror Keep</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - Terror Keep.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - The Avenger</title>
+    <id>urn:ebook-search:book:Edgar Wallace - The Avenger</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - The Avenger.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - The Clue of the New Pin</title>
+    <id>urn:ebook-search:book:Edgar Wallace - The Clue of the New Pin</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - The Clue of the New Pin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - The Clue of the Twisted Candle</title>
+    <id>urn:ebook-search:book:Edgar Wallace - The Clue of the Twisted Candle</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - The Clue of the Twisted Candle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - The Council of Justice</title>
+    <id>urn:ebook-search:book:Edgar Wallace - The Council of Justice</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - The Council of Justice.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - The Crimson Circle</title>
+    <id>urn:ebook-search:book:Edgar Wallace - The Crimson Circle</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - The Crimson Circle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - The Door with Seven Locks</title>
+    <id>urn:ebook-search:book:Edgar Wallace - The Door with Seven Locks</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - The Door with Seven Locks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - The Four Just Men</title>
+    <id>urn:ebook-search:book:Edgar Wallace - The Four Just Men</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - The Four Just Men.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - The Just Men of Cordova</title>
+    <id>urn:ebook-search:book:Edgar Wallace - The Just Men of Cordova</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - The Just Men of Cordova.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - The Law of the Four Just Men</title>
+    <id>urn:ebook-search:book:Edgar Wallace - The Law of the Four Just Men</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - The Law of the Four Just Men.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - The Man Who Knew</title>
+    <id>urn:ebook-search:book:Edgar Wallace - The Man Who Knew</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - The Man Who Knew.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - The Melody of Death</title>
+    <id>urn:ebook-search:book:Edgar Wallace - The Melody of Death</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - The Melody of Death.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - The Mind of Mr. J. G. Reeder</title>
+    <id>urn:ebook-search:book:Edgar Wallace - The Mind of Mr. J. G. Reeder</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - The Mind of Mr. J. G. Reeder.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - The Secret House</title>
+    <id>urn:ebook-search:book:Edgar Wallace - The Secret House</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - The Secret House.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - The Square Emerald</title>
+    <id>urn:ebook-search:book:Edgar Wallace - The Square Emerald</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - The Square Emerald.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Wallace - The Three Just Men</title>
+    <id>urn:ebook-search:book:Edgar Wallace - The Three Just Men</id>
+    <updated>2026-02-20T13:52:15.465243Z</updated>
+    <link href="../../d/Edgar Wallace - The Three Just Men.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Wallace</name>
+    </author>
+  </entry>
+</feed>

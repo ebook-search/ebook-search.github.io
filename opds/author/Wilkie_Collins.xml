@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Wilkie Collins</title>
+  <id>urn:ebook-search:author:Wilkie Collins</id>
+  <updated>2026-02-20T13:52:15.462197Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Wilkie Collins - Man and Wife</title>
+    <id>urn:ebook-search:book:Wilkie Collins - Man and Wife</id>
+    <updated>2026-02-20T13:52:15.462197Z</updated>
+    <link href="../../d/Wilkie Collins - Man and Wife.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Wilkie Collins</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Wilkie Collins - No Name</title>
+    <id>urn:ebook-search:book:Wilkie Collins - No Name</id>
+    <updated>2026-02-20T13:52:15.462197Z</updated>
+    <link href="../../d/Wilkie Collins - No Name.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Wilkie Collins</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Wilkie Collins - The Dead Secret</title>
+    <id>urn:ebook-search:book:Wilkie Collins - The Dead Secret</id>
+    <updated>2026-02-20T13:52:15.462197Z</updated>
+    <link href="../../d/Wilkie Collins - The Dead Secret.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Wilkie Collins</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Wilkie Collins - The Haunted Hotel</title>
+    <id>urn:ebook-search:book:Wilkie Collins - The Haunted Hotel</id>
+    <updated>2026-02-20T13:52:15.462197Z</updated>
+    <link href="../../d/Wilkie Collins - The Haunted Hotel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Wilkie Collins</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Wilkie Collins - The Law and the Lady</title>
+    <id>urn:ebook-search:book:Wilkie Collins - The Law and the Lady</id>
+    <updated>2026-02-20T13:52:15.462197Z</updated>
+    <link href="../../d/Wilkie Collins - The Law and the Lady.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Wilkie Collins</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Wilkie Collins - The Moonstone</title>
+    <id>urn:ebook-search:book:Wilkie Collins - The Moonstone</id>
+    <updated>2026-02-20T13:52:15.462197Z</updated>
+    <link href="../../d/Wilkie Collins - The Moonstone.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Wilkie Collins</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Wilkie Collins - The Woman in White</title>
+    <id>urn:ebook-search:book:Wilkie Collins - The Woman in White</id>
+    <updated>2026-02-20T13:52:15.462197Z</updated>
+    <link href="../../d/Wilkie Collins - The Woman in White.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Wilkie Collins</name>
+    </author>
+  </entry>
+</feed>

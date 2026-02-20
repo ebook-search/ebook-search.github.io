@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Ernest Hemingway</title>
+  <id>urn:ebook-search:author:Ernest Hemingway</id>
+  <updated>2026-02-20T13:52:15.467335Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Ernest Hemingway - A Farewell to Arms</title>
+    <id>urn:ebook-search:book:Ernest Hemingway - A Farewell to Arms</id>
+    <updated>2026-02-20T13:52:15.467335Z</updated>
+    <link href="../../d/Ernest Hemingway - A Farewell to Arms.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ernest Hemingway</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ernest Hemingway - Short Fiction</title>
+    <id>urn:ebook-search:book:Ernest Hemingway - Short Fiction</id>
+    <updated>2026-02-20T13:52:15.467335Z</updated>
+    <link href="../../d/Ernest Hemingway - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ernest Hemingway</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ernest Hemingway - The Sun Also Rises</title>
+    <id>urn:ebook-search:book:Ernest Hemingway - The Sun Also Rises</id>
+    <updated>2026-02-20T13:52:15.467335Z</updated>
+    <link href="../../d/Ernest Hemingway - The Sun Also Rises.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ernest Hemingway</name>
+    </author>
+  </entry>
+</feed>

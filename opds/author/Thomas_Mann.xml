@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Thomas Mann</title>
+  <id>urn:ebook-search:author:Thomas Mann</id>
+  <updated>2026-02-20T13:52:15.464385Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Thomas Mann - Bashan and I</title>
+    <id>urn:ebook-search:book:Thomas Mann - Bashan and I</id>
+    <updated>2026-02-20T13:52:15.464385Z</updated>
+    <link href="../../d/Thomas Mann - Bashan and I.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Thomas Mann</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Thomas Mann - Buddenbrooks</title>
+    <id>urn:ebook-search:book:Thomas Mann - Buddenbrooks</id>
+    <updated>2026-02-20T13:52:15.464385Z</updated>
+    <link href="../../d/Thomas Mann - Buddenbrooks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Thomas Mann</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Thomas Mann - The Magic Mountain</title>
+    <id>urn:ebook-search:book:Thomas Mann - The Magic Mountain</id>
+    <updated>2026-02-20T13:52:15.464385Z</updated>
+    <link href="../../d/Thomas Mann - The Magic Mountain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Thomas Mann</name>
+    </author>
+  </entry>
+</feed>

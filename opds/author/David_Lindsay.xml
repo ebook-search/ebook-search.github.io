@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>David Lindsay</title>
+  <id>urn:ebook-search:author:David Lindsay</id>
+  <updated>2026-02-20T13:52:15.479153Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>David Lindsay - A Voyage to Arcturus</title>
+    <id>urn:ebook-search:book:David Lindsay - A Voyage to Arcturus</id>
+    <updated>2026-02-20T13:52:15.479153Z</updated>
+    <link href="../../d/David Lindsay - A Voyage to Arcturus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>David Lindsay</name>
+    </author>
+  </entry>
+</feed>

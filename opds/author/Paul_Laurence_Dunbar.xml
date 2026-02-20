@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Paul Laurence Dunbar</title>
+  <id>urn:ebook-search:author:Paul Laurence Dunbar</id>
+  <updated>2026-02-20T13:52:15.472010Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Paul Laurence Dunbar - The Sport of the Gods</title>
+    <id>urn:ebook-search:book:Paul Laurence Dunbar - The Sport of the Gods</id>
+    <updated>2026-02-20T13:52:15.472010Z</updated>
+    <link href="../../d/Paul Laurence Dunbar - The Sport of the Gods.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Paul Laurence Dunbar</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Paul Laurence Dunbar - The Uncalled</title>
+    <id>urn:ebook-search:book:Paul Laurence Dunbar - The Uncalled</id>
+    <updated>2026-02-20T13:52:15.472010Z</updated>
+    <link href="../../d/Paul Laurence Dunbar - The Uncalled.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Paul Laurence Dunbar</name>
+    </author>
+  </entry>
+</feed>

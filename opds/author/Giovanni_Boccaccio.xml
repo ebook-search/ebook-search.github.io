@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Giovanni Boccaccio</title>
+  <id>urn:ebook-search:author:Giovanni Boccaccio</id>
+  <updated>2026-02-20T13:52:15.475941Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Giovanni Boccaccio - The Decameron</title>
+    <id>urn:ebook-search:book:Giovanni Boccaccio - The Decameron</id>
+    <updated>2026-02-20T13:52:15.475941Z</updated>
+    <link href="../../d/Giovanni Boccaccio - The Decameron.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Giovanni Boccaccio</name>
+    </author>
+  </entry>
+</feed>

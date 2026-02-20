@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Ella Cheever Thayer</title>
+  <id>urn:ebook-search:author:Ella Cheever Thayer</id>
+  <updated>2026-02-20T13:52:15.476809Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Ella Cheever Thayer - Wired Love</title>
+    <id>urn:ebook-search:book:Ella Cheever Thayer - Wired Love</id>
+    <updated>2026-02-20T13:52:15.476809Z</updated>
+    <link href="../../d/Ella Cheever Thayer - Wired Love.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ella Cheever Thayer</name>
+    </author>
+  </entry>
+</feed>

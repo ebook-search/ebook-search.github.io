@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ru" translate="no">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Книги</title>
+
+		<link rel="stylesheet" href="styles.css">
+		<script src="script.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/fzf@0.5.2/dist/fzf.umd.js"></script>
+	</head>
+
+	<body>
+		<form id="search" class="content" style="display: none">
+			<input type="search" name="q" id="query" class="query big-query" placeholder="Поиск..." autocomplete="off">
+		</form>
+
+		<form id="results" class="content" style="display: none">
+			<input type="search" name="q" id="query" class="query" placeholder="Поиск..." autocomplete="off">
+			<ul id="books">
+			</ul>
+		</form>
+	</body>
+</html>

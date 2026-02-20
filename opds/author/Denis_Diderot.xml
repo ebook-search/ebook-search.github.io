@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Denis Diderot</title>
+  <id>urn:ebook-search:author:Denis Diderot</id>
+  <updated>2026-02-20T13:52:15.463645Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Denis Diderot - The Indiscreet Jewels</title>
+    <id>urn:ebook-search:book:Denis Diderot - The Indiscreet Jewels</id>
+    <updated>2026-02-20T13:52:15.463645Z</updated>
+    <link href="../../d/Denis Diderot - The Indiscreet Jewels.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Denis Diderot</name>
+    </author>
+  </entry>
+</feed>

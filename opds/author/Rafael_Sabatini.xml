@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Rafael Sabatini</title>
+  <id>urn:ebook-search:author:Rafael Sabatini</id>
+  <updated>2026-02-20T13:52:15.465560Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Rafael Sabatini - Bellarion the Fortunate</title>
+    <id>urn:ebook-search:book:Rafael Sabatini - Bellarion the Fortunate</id>
+    <updated>2026-02-20T13:52:15.465560Z</updated>
+    <link href="../../d/Rafael Sabatini - Bellarion the Fortunate.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Rafael Sabatini</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Rafael Sabatini - Captain Blood</title>
+    <id>urn:ebook-search:book:Rafael Sabatini - Captain Blood</id>
+    <updated>2026-02-20T13:52:15.465560Z</updated>
+    <link href="../../d/Rafael Sabatini - Captain Blood.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Rafael Sabatini</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Rafael Sabatini - Scaramouche</title>
+    <id>urn:ebook-search:book:Rafael Sabatini - Scaramouche</id>
+    <updated>2026-02-20T13:52:15.465560Z</updated>
+    <link href="../../d/Rafael Sabatini - Scaramouche.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Rafael Sabatini</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Rafael Sabatini - The Sea Hawk</title>
+    <id>urn:ebook-search:book:Rafael Sabatini - The Sea Hawk</id>
+    <updated>2026-02-20T13:52:15.465560Z</updated>
+    <link href="../../d/Rafael Sabatini - The Sea Hawk.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Rafael Sabatini</name>
+    </author>
+  </entry>
+</feed>

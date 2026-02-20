@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>J. J. Connington</title>
+  <id>urn:ebook-search:author:J. J. Connington</id>
+  <updated>2026-02-20T13:52:15.461673Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>J. J. Connington - Murder in the Maze</title>
+    <id>urn:ebook-search:book:J. J. Connington - Murder in the Maze</id>
+    <updated>2026-02-20T13:52:15.461673Z</updated>
+    <link href="../../d/J. J. Connington - Murder in the Maze.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. J. Connington</name>
+    </author>
+  </entry>
+  <entry>
+    <title>J. J. Connington - Mystery at Lynden Sands</title>
+    <id>urn:ebook-search:book:J. J. Connington - Mystery at Lynden Sands</id>
+    <updated>2026-02-20T13:52:15.461673Z</updated>
+    <link href="../../d/J. J. Connington - Mystery at Lynden Sands.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. J. Connington</name>
+    </author>
+  </entry>
+  <entry>
+    <title>J. J. Connington - Nordenholt’s Million</title>
+    <id>urn:ebook-search:book:J. J. Connington - Nordenholt’s Million</id>
+    <updated>2026-02-20T13:52:15.461673Z</updated>
+    <link href="../../d/J. J. Connington - Nordenholt’s Million.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. J. Connington</name>
+    </author>
+  </entry>
+  <entry>
+    <title>J. J. Connington - The Case with Nine Solutions</title>
+    <id>urn:ebook-search:book:J. J. Connington - The Case with Nine Solutions</id>
+    <updated>2026-02-20T13:52:15.461673Z</updated>
+    <link href="../../d/J. J. Connington - The Case with Nine Solutions.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. J. Connington</name>
+    </author>
+  </entry>
+  <entry>
+    <title>J. J. Connington - Tragedy at Ravensthorpe</title>
+    <id>urn:ebook-search:book:J. J. Connington - Tragedy at Ravensthorpe</id>
+    <updated>2026-02-20T13:52:15.461673Z</updated>
+    <link href="../../d/J. J. Connington - Tragedy at Ravensthorpe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. J. Connington</name>
+    </author>
+  </entry>
+</feed>

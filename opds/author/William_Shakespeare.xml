@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>William Shakespeare</title>
+  <id>urn:ebook-search:author:William Shakespeare</id>
+  <updated>2026-02-20T13:52:15.471335Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>William Shakespeare - A Midsummer Night’s Dream</title>
+    <id>urn:ebook-search:book:William Shakespeare - A Midsummer Night’s Dream</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - A Midsummer Night’s Dream.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - All’s Well That Ends Well</title>
+    <id>urn:ebook-search:book:William Shakespeare - All’s Well That Ends Well</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - All’s Well That Ends Well.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Antony and Cleopatra</title>
+    <id>urn:ebook-search:book:William Shakespeare - Antony and Cleopatra</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Antony and Cleopatra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - As You Like It</title>
+    <id>urn:ebook-search:book:William Shakespeare - As You Like It</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - As You Like It.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Coriolanus</title>
+    <id>urn:ebook-search:book:William Shakespeare - Coriolanus</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Coriolanus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Cymbeline</title>
+    <id>urn:ebook-search:book:William Shakespeare - Cymbeline</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Cymbeline.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Edward III</title>
+    <id>urn:ebook-search:book:William Shakespeare - Edward III</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Edward III.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Hamlet</title>
+    <id>urn:ebook-search:book:William Shakespeare - Hamlet</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Hamlet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Henry IV, Part I</title>
+    <id>urn:ebook-search:book:William Shakespeare - Henry IV, Part I</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Henry IV, Part I.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Henry IV, Part II</title>
+    <id>urn:ebook-search:book:William Shakespeare - Henry IV, Part II</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Henry IV, Part II.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Henry V</title>
+    <id>urn:ebook-search:book:William Shakespeare - Henry V</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Henry V.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Henry VI, Part I</title>
+    <id>urn:ebook-search:book:William Shakespeare - Henry VI, Part I</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Henry VI, Part I.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Henry VI, Part II</title>
+    <id>urn:ebook-search:book:William Shakespeare - Henry VI, Part II</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Henry VI, Part II.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Henry VI, Part III</title>
+    <id>urn:ebook-search:book:William Shakespeare - Henry VI, Part III</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Henry VI, Part III.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Henry VIII</title>
+    <id>urn:ebook-search:book:William Shakespeare - Henry VIII</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Henry VIII.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Julius Caesar</title>
+    <id>urn:ebook-search:book:William Shakespeare - Julius Caesar</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Julius Caesar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - King John</title>
+    <id>urn:ebook-search:book:William Shakespeare - King John</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - King John.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - King Lear</title>
+    <id>urn:ebook-search:book:William Shakespeare - King Lear</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - King Lear.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Love’s Labour’s Lost</title>
+    <id>urn:ebook-search:book:William Shakespeare - Love’s Labour’s Lost</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Love’s Labour’s Lost.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Macbeth</title>
+    <id>urn:ebook-search:book:William Shakespeare - Macbeth</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Macbeth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Measure for Measure</title>
+    <id>urn:ebook-search:book:William Shakespeare - Measure for Measure</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Measure for Measure.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Much Ado About Nothing</title>
+    <id>urn:ebook-search:book:William Shakespeare - Much Ado About Nothing</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Much Ado About Nothing.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Othello</title>
+    <id>urn:ebook-search:book:William Shakespeare - Othello</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Othello.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Pericles</title>
+    <id>urn:ebook-search:book:William Shakespeare - Pericles</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Pericles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Poetry</title>
+    <id>urn:ebook-search:book:William Shakespeare - Poetry</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Poetry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Richard II</title>
+    <id>urn:ebook-search:book:William Shakespeare - Richard II</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Richard II.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Richard III</title>
+    <id>urn:ebook-search:book:William Shakespeare - Richard III</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Richard III.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Romeo and Juliet</title>
+    <id>urn:ebook-search:book:William Shakespeare - Romeo and Juliet</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Romeo and Juliet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - The Comedy of Errors</title>
+    <id>urn:ebook-search:book:William Shakespeare - The Comedy of Errors</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - The Comedy of Errors.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - The Merchant of Venice</title>
+    <id>urn:ebook-search:book:William Shakespeare - The Merchant of Venice</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - The Merchant of Venice.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - The Merry Wives of Windsor</title>
+    <id>urn:ebook-search:book:William Shakespeare - The Merry Wives of Windsor</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - The Merry Wives of Windsor.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - The Taming of the Shrew</title>
+    <id>urn:ebook-search:book:William Shakespeare - The Taming of the Shrew</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - The Taming of the Shrew.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - The Tempest</title>
+    <id>urn:ebook-search:book:William Shakespeare - The Tempest</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - The Tempest.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - The Two Gentlemen of Verona</title>
+    <id>urn:ebook-search:book:William Shakespeare - The Two Gentlemen of Verona</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - The Two Gentlemen of Verona.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - The Winter’s Tale</title>
+    <id>urn:ebook-search:book:William Shakespeare - The Winter’s Tale</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - The Winter’s Tale.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Timon of Athens</title>
+    <id>urn:ebook-search:book:William Shakespeare - Timon of Athens</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Timon of Athens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Titus Andronicus</title>
+    <id>urn:ebook-search:book:William Shakespeare - Titus Andronicus</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Titus Andronicus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Troilus and Cressida</title>
+    <id>urn:ebook-search:book:William Shakespeare - Troilus and Cressida</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Troilus and Cressida.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare - Twelfth Night</title>
+    <id>urn:ebook-search:book:William Shakespeare - Twelfth Night</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare - Twelfth Night.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Shakespeare, John Fletcher - The Two Noble Kinsmen</title>
+    <id>urn:ebook-search:book:William Shakespeare, John Fletcher - The Two Noble Kinsmen</id>
+    <updated>2026-02-20T13:52:15.471335Z</updated>
+    <link href="../../d/William Shakespeare, John Fletcher - The Two Noble Kinsmen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Shakespeare</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Arthur Quiller-Couch</title>
+  <id>urn:ebook-search:author:Arthur Quiller-Couch</id>
+  <updated>2026-02-20T13:52:15.468317Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Arthur Quiller-Couch - On the Art of Reading</title>
+    <id>urn:ebook-search:book:Arthur Quiller-Couch - On the Art of Reading</id>
+    <updated>2026-02-20T13:52:15.468317Z</updated>
+    <link href="../../d/Arthur Quiller-Couch - On the Art of Reading.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Arthur Quiller-Couch</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arthur Quiller-Couch - On the Art of Writing</title>
+    <id>urn:ebook-search:book:Arthur Quiller-Couch - On the Art of Writing</id>
+    <updated>2026-02-20T13:52:15.468317Z</updated>
+    <link href="../../d/Arthur Quiller-Couch - On the Art of Writing.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Arthur Quiller-Couch</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arthur Quiller-Couch - The Splendid Spur</title>
+    <id>urn:ebook-search:book:Arthur Quiller-Couch - The Splendid Spur</id>
+    <updated>2026-02-20T13:52:15.468317Z</updated>
+    <link href="../../d/Arthur Quiller-Couch - The Splendid Spur.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Arthur Quiller-Couch</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Thomas Bulfinch</title>
+  <id>urn:ebook-search:author:Thomas Bulfinch</id>
+  <updated>2026-02-20T13:52:15.477429Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Thomas Bulfinch - Bulfinch’s Mythology</title>
+    <id>urn:ebook-search:book:Thomas Bulfinch - Bulfinch’s Mythology</id>
+    <updated>2026-02-20T13:52:15.477429Z</updated>
+    <link href="../../d/Thomas Bulfinch - Bulfinch’s Mythology.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Thomas Bulfinch</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Homer</title>
+  <id>urn:ebook-search:author:Homer</id>
+  <updated>2026-02-20T13:52:15.476752Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Homer - The Iliad</title>
+    <id>urn:ebook-search:book:Homer - The Iliad</id>
+    <updated>2026-02-20T13:52:15.476752Z</updated>
+    <link href="../../d/Homer - The Iliad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Homer</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Homer - The Odyssey</title>
+    <id>urn:ebook-search:book:Homer - The Odyssey</id>
+    <updated>2026-02-20T13:52:15.476752Z</updated>
+    <link href="../../d/Homer - The Odyssey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Homer</name>
+    </author>
+  </entry>
+</feed>

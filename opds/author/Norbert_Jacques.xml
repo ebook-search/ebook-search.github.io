@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Norbert Jacques</title>
+  <id>urn:ebook-search:author:Norbert Jacques</id>
+  <updated>2026-02-20T13:52:15.465190Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Norbert Jacques - Dr. Mabuse, the Gambler</title>
+    <id>urn:ebook-search:book:Norbert Jacques - Dr. Mabuse, the Gambler</id>
+    <updated>2026-02-20T13:52:15.465190Z</updated>
+    <link href="../../d/Norbert Jacques - Dr. Mabuse, the Gambler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Norbert Jacques</name>
+    </author>
+  </entry>
+</feed>

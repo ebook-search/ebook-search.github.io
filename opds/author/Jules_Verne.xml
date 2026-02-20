@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Jules Verne</title>
+  <id>urn:ebook-search:author:Jules Verne</id>
+  <updated>2026-02-20T13:52:15.466062Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Jules Verne - An Antarctic Mystery</title>
+    <id>urn:ebook-search:book:Jules Verne - An Antarctic Mystery</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - An Antarctic Mystery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - Around the World in Eighty Days</title>
+    <id>urn:ebook-search:book:Jules Verne - Around the World in Eighty Days</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - Around the World in Eighty Days.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - Dick Sands, the Boy Captain</title>
+    <id>urn:ebook-search:book:Jules Verne - Dick Sands, the Boy Captain</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - Dick Sands, the Boy Captain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - Facing the Flag</title>
+    <id>urn:ebook-search:book:Jules Verne - Facing the Flag</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - Facing the Flag.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - Five Weeks in a Balloon</title>
+    <id>urn:ebook-search:book:Jules Verne - Five Weeks in a Balloon</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - Five Weeks in a Balloon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - From the Earth to the Moon</title>
+    <id>urn:ebook-search:book:Jules Verne - From the Earth to the Moon</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - From the Earth to the Moon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - In Search of the Castaways</title>
+    <id>urn:ebook-search:book:Jules Verne - In Search of the Castaways</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - In Search of the Castaways.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - Journey to the Center of the Earth</title>
+    <id>urn:ebook-search:book:Jules Verne - Journey to the Center of the Earth</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - Journey to the Center of the Earth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - Michael Strogoff</title>
+    <id>urn:ebook-search:book:Jules Verne - Michael Strogoff</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - Michael Strogoff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - Round the Moon</title>
+    <id>urn:ebook-search:book:Jules Verne - Round the Moon</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - Round the Moon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - The Adventures of Captain Hatteras</title>
+    <id>urn:ebook-search:book:Jules Verne - The Adventures of Captain Hatteras</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - The Adventures of Captain Hatteras.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - The Child of the Cavern</title>
+    <id>urn:ebook-search:book:Jules Verne - The Child of the Cavern</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - The Child of the Cavern.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - The Fur Country</title>
+    <id>urn:ebook-search:book:Jules Verne - The Fur Country</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - The Fur Country.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - The Giant Raft</title>
+    <id>urn:ebook-search:book:Jules Verne - The Giant Raft</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - The Giant Raft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - The Mysterious Island</title>
+    <id>urn:ebook-search:book:Jules Verne - The Mysterious Island</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - The Mysterious Island.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - The Special Correspondent</title>
+    <id>urn:ebook-search:book:Jules Verne - The Special Correspondent</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - The Special Correspondent.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - The Survivors of the Chancellor</title>
+    <id>urn:ebook-search:book:Jules Verne - The Survivors of the Chancellor</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - The Survivors of the Chancellor.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - Ticket No. 9672</title>
+    <id>urn:ebook-search:book:Jules Verne - Ticket No. 9672</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - Ticket No. 9672.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Jules Verne - Topsy-Turvy</title>
+    <id>urn:ebook-search:book:Jules Verne - Topsy-Turvy</id>
+    <updated>2026-02-20T13:52:15.466062Z</updated>
+    <link href="../../d/Jules Verne - Topsy-Turvy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jules Verne</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Joseph Conrad</title>
+  <id>urn:ebook-search:author:Joseph Conrad</id>
+  <updated>2026-02-20T13:52:15.461779Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Joseph Conrad - A Personal Record</title>
+    <id>urn:ebook-search:book:Joseph Conrad - A Personal Record</id>
+    <updated>2026-02-20T13:52:15.461779Z</updated>
+    <link href="../../d/Joseph Conrad - A Personal Record.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Joseph Conrad</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Joseph Conrad - Almayer’s Folly</title>
+    <id>urn:ebook-search:book:Joseph Conrad - Almayer’s Folly</id>
+    <updated>2026-02-20T13:52:15.461779Z</updated>
+    <link href="../../d/Joseph Conrad - Almayer’s Folly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Joseph Conrad</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Joseph Conrad - An Outcast of the Islands</title>
+    <id>urn:ebook-search:book:Joseph Conrad - An Outcast of the Islands</id>
+    <updated>2026-02-20T13:52:15.461779Z</updated>
+    <link href="../../d/Joseph Conrad - An Outcast of the Islands.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Joseph Conrad</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Joseph Conrad - Heart of Darkness</title>
+    <id>urn:ebook-search:book:Joseph Conrad - Heart of Darkness</id>
+    <updated>2026-02-20T13:52:15.461779Z</updated>
+    <link href="../../d/Joseph Conrad - Heart of Darkness.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Joseph Conrad</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Joseph Conrad - Lord Jim</title>
+    <id>urn:ebook-search:book:Joseph Conrad - Lord Jim</id>
+    <updated>2026-02-20T13:52:15.461779Z</updated>
+    <link href="../../d/Joseph Conrad - Lord Jim.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Joseph Conrad</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Joseph Conrad - Nostromo</title>
+    <id>urn:ebook-search:book:Joseph Conrad - Nostromo</id>
+    <updated>2026-02-20T13:52:15.461779Z</updated>
+    <link href="../../d/Joseph Conrad - Nostromo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Joseph Conrad</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Joseph Conrad - The End of the Tether</title>
+    <id>urn:ebook-search:book:Joseph Conrad - The End of the Tether</id>
+    <updated>2026-02-20T13:52:15.461779Z</updated>
+    <link href="../../d/Joseph Conrad - The End of the Tether.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Joseph Conrad</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Joseph Conrad - The Mirror of the Sea</title>
+    <id>urn:ebook-search:book:Joseph Conrad - The Mirror of the Sea</id>
+    <updated>2026-02-20T13:52:15.461779Z</updated>
+    <link href="../../d/Joseph Conrad - The Mirror of the Sea.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Joseph Conrad</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Joseph Conrad - The Nigger of the Narcissus</title>
+    <id>urn:ebook-search:book:Joseph Conrad - The Nigger of the Narcissus</id>
+    <updated>2026-02-20T13:52:15.461779Z</updated>
+    <link href="../../d/Joseph Conrad - The Nigger of the Narcissus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Joseph Conrad</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Joseph Conrad - The Secret Agent</title>
+    <id>urn:ebook-search:book:Joseph Conrad - The Secret Agent</id>
+    <updated>2026-02-20T13:52:15.461779Z</updated>
+    <link href="../../d/Joseph Conrad - The Secret Agent.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Joseph Conrad</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Joseph Conrad - The Shadow Line</title>
+    <id>urn:ebook-search:book:Joseph Conrad - The Shadow Line</id>
+    <updated>2026-02-20T13:52:15.461779Z</updated>
+    <link href="../../d/Joseph Conrad - The Shadow Line.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Joseph Conrad</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Joseph Conrad - Under Western Eyes</title>
+    <id>urn:ebook-search:book:Joseph Conrad - Under Western Eyes</id>
+    <updated>2026-02-20T13:52:15.461779Z</updated>
+    <link href="../../d/Joseph Conrad - Under Western Eyes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Joseph Conrad</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Joseph Conrad - Victory</title>
+    <id>urn:ebook-search:book:Joseph Conrad - Victory</id>
+    <updated>2026-02-20T13:52:15.461779Z</updated>
+    <link href="../../d/Joseph Conrad - Victory.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Joseph Conrad</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Joseph Conrad, Ford Madox Ford - Romance</title>
+    <id>urn:ebook-search:book:Joseph Conrad, Ford Madox Ford - Romance</id>
+    <updated>2026-02-20T13:52:15.461779Z</updated>
+    <link href="../../d/Joseph Conrad, Ford Madox Ford - Romance.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Joseph Conrad</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Joseph Conrad, Ford Madox Ford - The Inheritors</title>
+    <id>urn:ebook-search:book:Joseph Conrad, Ford Madox Ford - The Inheritors</id>
+    <updated>2026-02-20T13:52:15.461779Z</updated>
+    <link href="../../d/Joseph Conrad, Ford Madox Ford - The Inheritors.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Joseph Conrad</name>
+    </author>
+  </entry>
+</feed>

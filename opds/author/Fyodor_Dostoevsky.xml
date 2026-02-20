@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Fyodor Dostoevsky</title>
+  <id>urn:ebook-search:author:Fyodor Dostoevsky</id>
+  <updated>2026-02-20T13:52:15.464253Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Fyodor Dostoevsky - Crime and Punishment</title>
+    <id>urn:ebook-search:book:Fyodor Dostoevsky - Crime and Punishment</id>
+    <updated>2026-02-20T13:52:15.464253Z</updated>
+    <link href="../../d/Fyodor Dostoevsky - Crime and Punishment.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Fyodor Dostoevsky</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Fyodor Dostoevsky - Demons</title>
+    <id>urn:ebook-search:book:Fyodor Dostoevsky - Demons</id>
+    <updated>2026-02-20T13:52:15.464253Z</updated>
+    <link href="../../d/Fyodor Dostoevsky - Demons.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Fyodor Dostoevsky</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Fyodor Dostoevsky - Notes from Underground</title>
+    <id>urn:ebook-search:book:Fyodor Dostoevsky - Notes from Underground</id>
+    <updated>2026-02-20T13:52:15.464253Z</updated>
+    <link href="../../d/Fyodor Dostoevsky - Notes from Underground.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Fyodor Dostoevsky</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Fyodor Dostoevsky - Poor Folk</title>
+    <id>urn:ebook-search:book:Fyodor Dostoevsky - Poor Folk</id>
+    <updated>2026-02-20T13:52:15.464253Z</updated>
+    <link href="../../d/Fyodor Dostoevsky - Poor Folk.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Fyodor Dostoevsky</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Fyodor Dostoevsky - The Brothers Karamazov</title>
+    <id>urn:ebook-search:book:Fyodor Dostoevsky - The Brothers Karamazov</id>
+    <updated>2026-02-20T13:52:15.464253Z</updated>
+    <link href="../../d/Fyodor Dostoevsky - The Brothers Karamazov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Fyodor Dostoevsky</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Fyodor Dostoevsky - The Gambler</title>
+    <id>urn:ebook-search:book:Fyodor Dostoevsky - The Gambler</id>
+    <updated>2026-02-20T13:52:15.464253Z</updated>
+    <link href="../../d/Fyodor Dostoevsky - The Gambler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Fyodor Dostoevsky</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Fyodor Dostoevsky - The House of the Dead</title>
+    <id>urn:ebook-search:book:Fyodor Dostoevsky - The House of the Dead</id>
+    <updated>2026-02-20T13:52:15.464253Z</updated>
+    <link href="../../d/Fyodor Dostoevsky - The House of the Dead.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Fyodor Dostoevsky</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Fyodor Dostoevsky - The Idiot</title>
+    <id>urn:ebook-search:book:Fyodor Dostoevsky - The Idiot</id>
+    <updated>2026-02-20T13:52:15.464253Z</updated>
+    <link href="../../d/Fyodor Dostoevsky - The Idiot.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Fyodor Dostoevsky</name>
+    </author>
+  </entry>
+</feed>

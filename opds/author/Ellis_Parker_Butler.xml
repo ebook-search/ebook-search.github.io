@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Ellis Parker Butler</title>
+  <id>urn:ebook-search:author:Ellis Parker Butler</id>
+  <updated>2026-02-20T13:52:15.461862Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Ellis Parker Butler - Jibby Jones</title>
+    <id>urn:ebook-search:book:Ellis Parker Butler - Jibby Jones</id>
+    <updated>2026-02-20T13:52:15.461862Z</updated>
+    <link href="../../d/Ellis Parker Butler - Jibby Jones.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ellis Parker Butler</name>
+    </author>
+  </entry>
+</feed>

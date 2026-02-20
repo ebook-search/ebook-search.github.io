@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Alan Sullivan</title>
+  <id>urn:ebook-search:author:Alan Sullivan</id>
+  <updated>2026-02-20T13:52:15.474345Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Alan Sullivan - The Jade God</title>
+    <id>urn:ebook-search:book:Alan Sullivan - The Jade God</id>
+    <updated>2026-02-20T13:52:15.474345Z</updated>
+    <link href="../../d/Alan Sullivan - The Jade God.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Alan Sullivan</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>William Makepeace Thackeray</title>
+  <id>urn:ebook-search:author:William Makepeace Thackeray</id>
+  <updated>2026-02-20T13:52:15.471142Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>William Makepeace Thackeray - The History of Henry Esmond</title>
+    <id>urn:ebook-search:book:William Makepeace Thackeray - The History of Henry Esmond</id>
+    <updated>2026-02-20T13:52:15.471142Z</updated>
+    <link href="../../d/William Makepeace Thackeray - The History of Henry Esmond.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Makepeace Thackeray</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Makepeace Thackeray - The Luck of Barry Lyndon</title>
+    <id>urn:ebook-search:book:William Makepeace Thackeray - The Luck of Barry Lyndon</id>
+    <updated>2026-02-20T13:52:15.471142Z</updated>
+    <link href="../../d/William Makepeace Thackeray - The Luck of Barry Lyndon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Makepeace Thackeray</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Makepeace Thackeray - Vanity Fair</title>
+    <id>urn:ebook-search:book:William Makepeace Thackeray - Vanity Fair</id>
+    <updated>2026-02-20T13:52:15.471142Z</updated>
+    <link href="../../d/William Makepeace Thackeray - Vanity Fair.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Makepeace Thackeray</name>
+    </author>
+  </entry>
+</feed>

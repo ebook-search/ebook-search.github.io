@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Vsevolod Garshin</title>
+  <id>urn:ebook-search:author:Vsevolod Garshin</id>
+  <updated>2026-02-20T13:52:15.478562Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Vsevolod Garshin - Short Fiction</title>
+    <id>urn:ebook-search:book:Vsevolod Garshin - Short Fiction</id>
+    <updated>2026-02-20T13:52:15.478562Z</updated>
+    <link href="../../d/Vsevolod Garshin - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Vsevolod Garshin</name>
+    </author>
+  </entry>
+</feed>

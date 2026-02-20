@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Книги</title>
+  <id>urn:ebook-search:nav</id>
+  <updated>2026-02-20T13:52:15.461110Z</updated>
+  <link rel="start" href="index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link href="author/A._A._Milne.xml" title="A. A. Milne" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/A._E._W._Mason.xml" title="A. E. W. Mason" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/A._Merritt.xml" title="A. Merritt" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/A._N._Afanasyev.xml" title="A. N. Afanasyev" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/A._P._Herbert.xml" title="A. P. Herbert" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/A._W._Tozer.xml" title="A. W. Tozer" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Abu_al-ʻAlaʼ_al-Maʻarri.xml" title="Abu al-ʻAlaʼ al-Maʻarri" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ada_Elizabeth_Chesterton.xml" title="Ada Elizabeth Chesterton" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Adam_Mickiewicz.xml" title="Adam Mickiewicz" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Adam_Smith.xml" title="Adam Smith" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Aeschylus.xml" title="Aeschylus" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Aesop.xml" title="Aesop" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Agatha_Christie.xml" title="Agatha Christie" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Alain-René_Lesage.xml" title="Alain-René Lesage" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Alan_Sullivan.xml" title="Alan Sullivan" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Aldous_Huxley.xml" title="Aldous Huxley" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Aleksandr_Kuprin.xml" title="Aleksandr Kuprin" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Alexander_Berkman.xml" title="Alexander Berkman" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Alexander_Hamilton.xml" title="Alexander Hamilton" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Alexander_Mackenzie.xml" title="Alexander Mackenzie" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Alexander_Pushkin.xml" title="Alexander Pushkin" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Alexandre_Dumas.xml" title="Alexandre Dumas" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Alfred,_Lord_Tennyson.xml" title="Alfred, Lord Tennyson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Algernon_Blackwood.xml" title="Algernon Blackwood" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Algis_Budrys.xml" title="Algis Budrys" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ambrose_Bierce.xml" title="Ambrose Bierce" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ameen_Rihani.xml" title="Ameen Rihani" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Anatole_France.xml" title="Anatole France" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Andre_Norton.xml" title="Andre Norton" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/André_Gide.xml" title="André Gide" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Angela_Brazil.xml" title="Angela Brazil" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Anita_Loos.xml" title="Anita Loos" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ann_Radcliffe.xml" title="Ann Radcliffe" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Anna_Julia_Cooper.xml" title="Anna Julia Cooper" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Anna_Katharine_Green.xml" title="Anna Katharine Green" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Anna_Sewell.xml" title="Anna Sewell" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Anne_Brontë.xml" title="Anne Brontë" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Anthony_Berkeley.xml" title="Anthony Berkeley" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Anthony_Hope.xml" title="Anthony Hope" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Anthony_Trollope.xml" title="Anthony Trollope" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Anton_Chekhov.xml" title="Anton Chekhov" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Apollonius_of_Rhodes.xml" title="Apollonius of Rhodes" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Apsley_Cherry-Garrard.xml" title="Apsley Cherry-Garrard" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Apuleius.xml" title="Apuleius" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Archibald_Alexander.xml" title="Archibald Alexander" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Aristotle.xml" title="Aristotle" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Arnold_Bennett.xml" title="Arnold Bennett" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Arthur_Conan_Doyle.xml" title="Arthur Conan Doyle" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Arthur_Machen.xml" title="Arthur Machen" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Arthur_Quiller-Couch.xml" title="Arthur Quiller-Couch" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Arthur_Ransome.xml" title="Arthur Ransome" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Arthur_W._Pinero.xml" title="Arthur W. Pinero" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/August_Strindberg.xml" title="August Strindberg" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Auguste_Comte.xml" title="Auguste Comte" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Augustine_of_Hippo.xml" title="Augustine of Hippo" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Banjo_Paterson.xml" title="Banjo Paterson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Barbara_Newhall_Follett.xml" title="Barbara Newhall Follett" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Baroness_Orczy.xml" title="Baroness Orczy" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Barry_Goldwater.xml" title="Barry Goldwater" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Beatrix_Potter.xml" title="Beatrix Potter" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ben_Jonson.xml" title="Ben Jonson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Benito_Pérez_Galdós.xml" title="Benito Pérez Galdós" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Benjamin_Disraeli.xml" title="Benjamin Disraeli" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Benjamin_Franklin.xml" title="Benjamin Franklin" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Bertha_von_Suttner.xml" title="Bertha von Suttner" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Bertrand_Russell.xml" title="Bertrand Russell" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Black_Hawk.xml" title="Black Hawk" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Boethius.xml" title="Boethius" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Booker_T._Washington.xml" title="Booker T. Washington" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Booth_Tarkington.xml" title="Booth Tarkington" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Bram_Stoker.xml" title="Bram Stoker" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/C._E._Montague.xml" title="C. E. Montague" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/C._J._Cutcliffe_Hyne.xml" title="C. J. Cutcliffe Hyne" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/C._Kay_Scott.xml" title="C. Kay Scott" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/C._M._Kornbluth.xml" title="C. M. Kornbluth" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/C._S._Forester.xml" title="C. S. Forester" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/C._S._Lewis.xml" title="C. S. Lewis" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Calvin_Coolidge.xml" title="Calvin Coolidge" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Camille_Flammarion.xml" title="Camille Flammarion" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Captain_Charles_Johnson.xml" title="Captain Charles Johnson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Carey_Rockwell.xml" title="Carey Rockwell" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Carlo_Collodi.xml" title="Carlo Collodi" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Carolyn_Keene.xml" title="Carolyn Keene" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Carolyn_Wells.xml" title="Carolyn Wells" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Charles_A._Lindbergh.xml" title="Charles A. Lindbergh" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Charles_Babbage.xml" title="Charles Babbage" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Charles_Beaumont.xml" title="Charles Beaumont" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Charles_Darwin.xml" title="Charles Darwin" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Charles_Dickens.xml" title="Charles Dickens" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Charles_Kingsley.xml" title="Charles Kingsley" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Charles_Robert_Maturin.xml" title="Charles Robert Maturin" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Charles_W._Chesnutt.xml" title="Charles W. Chesnutt" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Charlotte_Brontë.xml" title="Charlotte Brontë" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Charlotte_Perkins_Gilman.xml" title="Charlotte Perkins Gilman" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Christopher_Marlowe.xml" title="Christopher Marlowe" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Christopher_Morley.xml" title="Christopher Morley" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Cicely_Hamilton.xml" title="Cicely Hamilton" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Cicero.xml" title="Cicero" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Clara_Reeve.xml" title="Clara Reeve" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Clark_Ashton_Smith.xml" title="Clark Ashton Smith" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Clifford_D._Simak.xml" title="Clifford D. Simak" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Compton_Mackenzie.xml" title="Compton Mackenzie" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Constance_Holme.xml" title="Constance Holme" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Cordwainer_Smith.xml" title="Cordwainer Smith" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/D._H._Lawrence.xml" title="D. H. Lawrence" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Daisy_Ashford.xml" title="Daisy Ashford" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Daniel_Defoe.xml" title="Daniel Defoe" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Dante_Alighieri.xml" title="Dante Alighieri" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Daphne_du_Maurier.xml" title="Daphne du Maurier" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Dashiell_Hammett.xml" title="Dashiell Hammett" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/David_Garnett.xml" title="David Garnett" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/David_Hume.xml" title="David Hume" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/David_Lindsay.xml" title="David Lindsay" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/David_Park_Barnitz.xml" title="David Park Barnitz" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Denis_Diderot.xml" title="Denis Diderot" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Diogenes_Laërtius.xml" title="Diogenes Laërtius" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Dorothy_Canfield_Fisher.xml" title="Dorothy Canfield Fisher" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Dorothy_Day.xml" title="Dorothy Day" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Dorothy_L._Sayers.xml" title="Dorothy L. Sayers" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Dorothy_M._Richardson.xml" title="Dorothy M. Richardson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/E._C._Bentley.xml" title="E. C. Bentley" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/E._E._Cummings.xml" title="E. E. Cummings" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/E._E._Smith.xml" title="E. E. Smith" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/E._F._Benson.xml" title="E. F. Benson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/E._F._Knight.xml" title="E. F. Knight" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/E._H._Young.xml" title="E. H. Young" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/E._M._Forster.xml" title="E. M. Forster" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/E._Nesbit.xml" title="E. Nesbit" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/E._Pauline_Johnson.xml" title="E. Pauline Johnson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/E._Phillips_Oppenheim.xml" title="E. Phillips Oppenheim" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/E._R._Eddison.xml" title="E. R. Eddison" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/E._T._A._Hoffmann.xml" title="E. T. A. Hoffmann" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/E._W._Hornung.xml" title="E. W. Hornung" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Earl_Derr_Biggers.xml" title="Earl Derr Biggers" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edgar_Allan_Poe.xml" title="Edgar Allan Poe" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edgar_Lee_Masters.xml" title="Edgar Lee Masters" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edgar_Rice_Burroughs.xml" title="Edgar Rice Burroughs" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edgar_Saltus.xml" title="Edgar Saltus" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edgar_Wallace.xml" title="Edgar Wallace" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edison_Marshall.xml" title="Edison Marshall" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edith_Wharton.xml" title="Edith Wharton" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edmond_de_Goncourt.xml" title="Edmond de Goncourt" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edmund_Spenser.xml" title="Edmund Spenser" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edna_Ferber.xml" title="Edna Ferber" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edward_Bellamy.xml" title="Edward Bellamy" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edward_Bulwer-Lytton.xml" title="Edward Bulwer-Lytton" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edward_Gibbon.xml" title="Edward Gibbon" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edward_Lear.xml" title="Edward Lear" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edward_Noyes_Westcott.xml" title="Edward Noyes Westcott" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edward_Payson_Roe.xml" title="Edward Payson Roe" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edward_Thomas.xml" title="Edward Thomas" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edward_Whymper.xml" title="Edward Whymper" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Edwin_A._Abbott.xml" title="Edwin A. Abbott" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Eleanor_H._Porter.xml" title="Eleanor H. Porter" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Elias_Lönnrot.xml" title="Elias Lönnrot" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Elizabeth_Barrett_Browning.xml" title="Elizabeth Barrett Browning" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Elizabeth_Gaskell.xml" title="Elizabeth Gaskell" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Elizabeth_von_Arnim.xml" title="Elizabeth von Arnim" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ella_Cheever_Thayer.xml" title="Ella Cheever Thayer" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ellen_Craft.xml" title="Ellen Craft" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ellery_Queen.xml" title="Ellery Queen" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ellis_Parker_Butler.xml" title="Ellis Parker Butler" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Emily_Brontë.xml" title="Emily Brontë" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Emma_Goldman.xml" title="Emma Goldman" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Epictetus.xml" title="Epictetus" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Erich_Maria_Remarque.xml" title="Erich Maria Remarque" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ernest_Bramah.xml" title="Ernest Bramah" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ernest_Hemingway.xml" title="Ernest Hemingway" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ernest_Howard_Crosby.xml" title="Ernest Howard Crosby" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ernest_Poole.xml" title="Ernest Poole" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ernest_Shackleton.xml" title="Ernest Shackleton" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ernest_Thompson_Seton.xml" title="Ernest Thompson Seton" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Errico_Malatesta.xml" title="Errico Malatesta" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Erskine_Childers.xml" title="Erskine Childers" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ethel_Voynich.xml" title="Ethel Voynich" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Etsu_Inagaki_Sugimoto.xml" title="Etsu Inagaki Sugimoto" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Eugene_O’Neill.xml" title="Eugene O’Neill" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Evelyn_Underhill.xml" title="Evelyn Underhill" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Evelyn_Waugh.xml" title="Evelyn Waugh" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/F._Marion_Crawford.xml" title="F. Marion Crawford" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/F._Scott_Fitzgerald.xml" title="F. Scott Fitzgerald" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Fanny_Burney.xml" title="Fanny Burney" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Felix_Salten.xml" title="Felix Salten" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Fergus_Hume.xml" title="Fergus Hume" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Fernando_Pessoa.xml" title="Fernando Pessoa" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Fitz_Hugh_Ludlow.xml" title="Fitz Hugh Ludlow" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ford_Madox_Ford.xml" title="Ford Madox Ford" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Frances_Ellen_Watkins_Harper.xml" title="Frances Ellen Watkins Harper" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Frances_Hodgson_Burnett.xml" title="Frances Hodgson Burnett" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Frances_Noyes_Hart.xml" title="Frances Noyes Hart" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Francis_La_Flesche.xml" title="Francis La Flesche" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Francisco_de_Quevedo.xml" title="Francisco de Quevedo" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Frank_Belknap_Long.xml" title="Frank Belknap Long" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Frank_Hamilton_Cushing.xml" title="Frank Hamilton Cushing" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Frank_Norris.xml" title="Frank Norris" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Franklin_W._Dixon.xml" title="Franklin W. Dixon" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Franz_Kafka.xml" title="Franz Kafka" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Fred_M._White.xml" title="Fred M. White" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Frederick_Douglass.xml" title="Frederick Douglass" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Frederick_Rolfe.xml" title="Frederick Rolfe" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Frederik_Pohl.xml" title="Frederik Pohl" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Freeman_Wills_Crofts.xml" title="Freeman Wills Crofts" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Friedrich_Engels.xml" title="Friedrich Engels" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Friedrich_Nietzsche.xml" title="Friedrich Nietzsche" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Friedrich_Spielhagen.xml" title="Friedrich Spielhagen" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Fritz_Leiber.xml" title="Fritz Leiber" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Frédéric_Mistral.xml" title="Frédéric Mistral" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Fyodor_Dostoevsky.xml" title="Fyodor Dostoevsky" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Fyodor_Sologub.xml" title="Fyodor Sologub" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/G._A._Henty.xml" title="G. A. Henty" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/G._D._H._Cole.xml" title="G. D. H. Cole" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/G._E._Moore.xml" title="G. E. Moore" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/G._K._Chesterton.xml" title="G. K. Chesterton" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Gaston_Leroux.xml" title="Gaston Leroux" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Geoffrey_Chaucer.xml" title="Geoffrey Chaucer" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Geoffrey_Dennis.xml" title="Geoffrey Dennis" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/George_Barr_McCutcheon.xml" title="George Barr McCutcheon" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/George_Bernard_Shaw.xml" title="George Bernard Shaw" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/George_Borrow.xml" title="George Borrow" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/George_Dilnot.xml" title="George Dilnot" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/George_Eliot.xml" title="George Eliot" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/George_Gissing.xml" title="George Gissing" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/George_Grey.xml" title="George Grey" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/George_MacDonald.xml" title="George MacDonald" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/George_Meredith.xml" title="George Meredith" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/George_Sand.xml" title="George Sand" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/George_William_Russell.xml" title="George William Russell" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/George_du_Maurier.xml" title="George du Maurier" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Georgette_Heyer.xml" title="Georgette Heyer" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Georgette_Leblanc.xml" title="Georgette Leblanc" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Georgia_Douglas_Johnson.xml" title="Georgia Douglas Johnson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Geronimo.xml" title="Geronimo" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Gertrude_Stein.xml" title="Gertrude Stein" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Giovanni_Boccaccio.xml" title="Giovanni Boccaccio" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Godfrey_R._Benson.xml" title="Godfrey R. Benson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Graham_Greene.xml" title="Graham Greene" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Grazia_Deledda.xml" title="Grazia Deledda" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Gustave_Flaubert.xml" title="Gustave Flaubert" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Gustave_Le_Bon.xml" title="Gustave Le Bon" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Guy_Boothby.xml" title="Guy Boothby" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Guy_de_Maupassant.xml" title="Guy de Maupassant" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/H._Beam_Piper.xml" title="H. Beam Piper" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/H._C._Bailey.xml" title="H. C. Bailey" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/H._C._McNeile.xml" title="H. C. McNeile" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/H._G._Wells.xml" title="H. G. Wells" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/H._P._Lovecraft.xml" title="H. P. Lovecraft" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/H._Rider_Haggard.xml" title="H. Rider Haggard" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/H._de_Vere_Stacpoole.xml" title="H. de Vere Stacpoole" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Hans_Jakob_Christoffel_von_Grimmelshausen.xml" title="Hans Jakob Christoffel von Grimmelshausen" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Harold_Frederic.xml" title="Harold Frederic" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Harriet_Beecher_Stowe.xml" title="Harriet Beecher Stowe" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Harriet_E._Wilson.xml" title="Harriet E. Wilson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Harry_Harrison.xml" title="Harry Harrison" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Helen_Herron_Taft.xml" title="Helen Herron Taft" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Helen_Keller.xml" title="Helen Keller" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Henrik_Ibsen.xml" title="Henrik Ibsen" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Henry_Adams.xml" title="Henry Adams" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Henry_Blake_Fuller.xml" title="Henry Blake Fuller" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Henry_David_Thoreau.xml" title="Henry David Thoreau" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Henry_Fielding.xml" title="Henry Fielding" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Henry_George.xml" title="Henry George" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Henry_Handel_Richardson.xml" title="Henry Handel Richardson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Henry_James.xml" title="Henry James" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Henry_Kuttner.xml" title="Henry Kuttner" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Henry_Lawson.xml" title="Henry Lawson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Henry_van_Dyke_Jr..xml" title="Henry van Dyke Jr." type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Henryk_Sienkiewicz.xml" title="Henryk Sienkiewicz" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Herman_Melville.xml" title="Herman Melville" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Hermann_Hesse.xml" title="Hermann Hesse" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Herminie_Templeton_Kavanagh.xml" title="Herminie Templeton Kavanagh" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Herodotus.xml" title="Herodotus" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Hilaire_Belloc.xml" title="Hilaire Belloc" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Hjalmar_Söderberg.xml" title="Hjalmar Söderberg" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Homer.xml" title="Homer" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Honoré_de_Balzac.xml" title="Honoré de Balzac" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Hope_Mirrlees.xml" title="Hope Mirrlees" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Horace_Walpole.xml" title="Horace Walpole" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Horatio_Alger_Jr..xml" title="Horatio Alger Jr." type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Hugh_Lofting.xml" title="Hugh Lofting" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Hugh_Walpole.xml" title="Hugh Walpole" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Isaac_Asimov.xml" title="Isaac Asimov" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Israel_Zangwill.xml" title="Israel Zangwill" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ivan_Bunin.xml" title="Ivan Bunin" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ivan_Turgenev.xml" title="Ivan Turgenev" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ivy_Compton-Burnett.xml" title="Ivy Compton-Burnett" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/J._B._Priestley.xml" title="J. B. Priestley" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/J._J._Connington.xml" title="J. J. Connington" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/J._M._Barrie.xml" title="J. M. Barrie" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/J._M._Synge.xml" title="J. M. Synge" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/J._P._Jacobsen.xml" title="J. P. Jacobsen" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/J._S._Fletcher.xml" title="J. S. Fletcher" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/J._Sheridan_Le_Fanu.xml" title="J. Sheridan Le Fanu" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/J._Storer_Clouston.xml" title="J. Storer Clouston" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/J._W._von_Goethe.xml" title="J. W. von Goethe" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/J.-K._Huysmans.xml" title="J.-K. Huysmans" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Jack_Black.xml" title="Jack Black" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Jack_London.xml" title="Jack London" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Jacob_Grimm.xml" title="Jacob Grimm" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Jacob_Riis.xml" title="Jacob Riis" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/James_Branch_Cabell.xml" title="James Branch Cabell" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/James_De_Mille.xml" title="James De Mille" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/James_Fenimore_Cooper.xml" title="James Fenimore Cooper" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/James_Hogg.xml" title="James Hogg" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/James_Joyce.xml" title="James Joyce" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/James_Madison.xml" title="James Madison" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/James_McIntyre.xml" title="James McIntyre" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/James_Stephens.xml" title="James Stephens" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/James_Weldon_Johnson.xml" title="James Weldon Johnson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Jane_Addams.xml" title="Jane Addams" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Jane_Austen.xml" title="Jane Austen" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Jean_Grave.xml" title="Jean Grave" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Jean_Toomer.xml" title="Jean Toomer" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Jean-Jacques_Rousseau.xml" title="Jean-Jacques Rousseau" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Jerome_K._Jerome.xml" title="Jerome K. Jerome" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Jessie_Redmon_Fauset.xml" title="Jessie Redmon Fauset" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Joel_Barlow.xml" title="Joel Barlow" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Johann_David_Wyss.xml" title="Johann David Wyss" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Johanna_Spyri.xml" title="Johanna Spyri" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_A._Lomax.xml" title="John A. Lomax" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Buchan.xml" title="John Buchan" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Bunyan.xml" title="John Bunyan" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Cowper_Powys.xml" title="John Cowper Powys" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Dewey.xml" title="John Dewey" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Dos_Passos.xml" title="John Dos Passos" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Fletcher.xml" title="John Fletcher" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_G._Neihardt.xml" title="John G. Neihardt" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Galsworthy.xml" title="John Galsworthy" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Henry_Newman.xml" title="John Henry Newman" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Jay.xml" title="John Jay" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Keats.xml" title="John Keats" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Locke.xml" title="John Locke" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Maynard_Keynes.xml" title="John Maynard Keynes" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Meade_Falkner.xml" title="John Meade Falkner" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Milton.xml" title="John Milton" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Muir.xml" title="John Muir" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Reed.xml" title="John Reed" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Rhode.xml" title="John Rhode" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Ruskin.xml" title="John Ruskin" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Steinbeck.xml" title="John Steinbeck" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Stuart_Mill.xml" title="John Stuart Mill" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_T._McIntyre.xml" title="John T. McIntyre" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_W._Campbell.xml" title="John W. Campbell" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_Webster.xml" title="John Webster" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/John_William_Polidori.xml" title="John William Polidori" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Johnston_McCulley.xml" title="Johnston McCulley" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Jonas_Lie.xml" title="Jonas Lie" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Jonathan_Dymond.xml" title="Jonathan Dymond" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Jonathan_Swift.xml" title="Jonathan Swift" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Joseph_Conrad.xml" title="Joseph Conrad" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Joseph_Furphy.xml" title="Joseph Furphy" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Joseph_Jacobs.xml" title="Joseph Jacobs" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Josephine_Tey.xml" title="Josephine Tey" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Josiah_Henson.xml" title="Josiah Henson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/José_Rizal.xml" title="José Rizal" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/José_da_Fonseca.xml" title="José da Fonseca" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Jules_Verne.xml" title="Jules Verne" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Jules_de_Goncourt.xml" title="Jules de Goncourt" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Julia_Peterkin.xml" title="Julia Peterkin" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Julius_Caesar.xml" title="Julius Caesar" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Karel_Čapek.xml" title="Karel Čapek" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Karl_Gjellerup.xml" title="Karl Gjellerup" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Karl_Marx.xml" title="Karl Marx" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Kate_Chopin.xml" title="Kate Chopin" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Katharine_Susannah_Prichard.xml" title="Katharine Susannah Prichard" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Kenneth_Grahame.xml" title="Kenneth Grahame" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Khalil_Gibran.xml" title="Khalil Gibran" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Knut_Hamsun.xml" title="Knut Hamsun" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/L._Frank_Baum.xml" title="L. Frank Baum" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/L._M._Montgomery.xml" title="L. M. Montgomery" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/L._T._Hobhouse.xml" title="L. T. Hobhouse" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Lady_Gregory.xml" title="Lady Gregory" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Langston_Hughes.xml" title="Langston Hughes" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Laozi.xml" title="Laozi" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Laurence_Sterne.xml" title="Laurence Sterne" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Leo_Tolstoy.xml" title="Leo Tolstoy" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Leonid_Andreyev.xml" title="Leonid Andreyev" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Lew_Wallace.xml" title="Lew Wallace" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Lewis_Carroll.xml" title="Lewis Carroll" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Lewis_Mumford.xml" title="Lewis Mumford" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Liam_O’Flaherty.xml" title="Liam O’Flaherty" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Linda_Brent.xml" title="Linda Brent" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Lloyd_C._Douglas.xml" title="Lloyd C. Douglas" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Lord_Byron.xml" title="Lord Byron" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Lord_Dunsany.xml" title="Lord Dunsany" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Louis_Bromfield.xml" title="Louis Bromfield" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Louis_Couperus.xml" title="Louis Couperus" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Louis_H._Sullivan.xml" title="Louis H. Sullivan" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Louis_Hémon.xml" title="Louis Hémon" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Louis_Joseph_Vance.xml" title="Louis Joseph Vance" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Louisa_May_Alcott.xml" title="Louisa May Alcott" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ludovico_Ariosto.xml" title="Ludovico Ariosto" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ludwig_Wittgenstein.xml" title="Ludwig Wittgenstein" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Luigi_Pirandello.xml" title="Luigi Pirandello" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Lysander_Spooner.xml" title="Lysander Spooner" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Lytton_Strachey.xml" title="Lytton Strachey" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/M._E._Braddon.xml" title="M. E. Braddon" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/M._G._Lewis.xml" title="M. G. Lewis" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/M._P._Shiel.xml" title="M. P. Shiel" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/M._R._James.xml" title="M. R. James" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Mack_Reynolds.xml" title="Mack Reynolds" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Mahatma_Gandhi.xml" title="Mahatma Gandhi" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Manly_Wade_Wellman.xml" title="Manly Wade Wellman" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Marcel_Allain.xml" title="Marcel Allain" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Marcel_Proust.xml" title="Marcel Proust" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Marcus_Aurelius.xml" title="Marcus Aurelius" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Margaret_Ayer_Barnes.xml" title="Margaret Ayer Barnes" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Margaret_Cavendish.xml" title="Margaret Cavendish" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Margaret_Oliphant.xml" title="Margaret Oliphant" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Margaret_Wilson.xml" title="Margaret Wilson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Margery_Allingham.xml" title="Margery Allingham" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Maria_Bochkareva.xml" title="Maria Bochkareva" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Maria_Edgeworth.xml" title="Maria Edgeworth" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Marie_Belloc_Lowndes.xml" title="Marie Belloc Lowndes" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Marie_de_France.xml" title="Marie de France" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Mark_Rutherford.xml" title="Mark Rutherford" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Mark_Twain.xml" title="Mark Twain" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Marmaduke_Pickthall.xml" title="Marmaduke Pickthall" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Martin_Andersen_Nexø.xml" title="Martin Andersen Nexø" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Mary_Austin.xml" title="Mary Austin" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Mary_De_Morgan.xml" title="Mary De Morgan" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Mary_Parker_Follett.xml" title="Mary Parker Follett" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Mary_Roberts_Rinehart.xml" title="Mary Roberts Rinehart" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Mary_Seacole.xml" title="Mary Seacole" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Mary_Shelley.xml" title="Mary Shelley" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Mary_Weston_Fordham.xml" title="Mary Weston Fordham" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Mary_Wollstonecraft.xml" title="Mary Wollstonecraft" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Matthew_Arnold.xml" title="Matthew Arnold" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Matthew_Henson.xml" title="Matthew Henson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Maurice_Leblanc.xml" title="Maurice Leblanc" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Maurice_Maeterlinck.xml" title="Maurice Maeterlinck" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Max_Beerbohm.xml" title="Max Beerbohm" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Metta_Victor.xml" title="Metta Victor" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Michael_Arlen.xml" title="Michael Arlen" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Mignon_G._Eberhart.xml" title="Mignon G. Eberhart" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Miguel_de_Cervantes_Saavedra.xml" title="Miguel de Cervantes Saavedra" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Mikhail_Artsybashev.xml" title="Mikhail Artsybashev" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Miles_Franklin.xml" title="Miles Franklin" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Mina_Loy.xml" title="Mina Loy" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Molière.xml" title="Molière" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Nathaniel_Hawthorne.xml" title="Nathaniel Hawthorne" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Natsume_Sōseki.xml" title="Natsume Sōseki" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Nella_Larsen.xml" title="Nella Larsen" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Niccolò_Machiavelli.xml" title="Niccolò Machiavelli" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Nikolai_Gogol.xml" title="Nikolai Gogol" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Nikolay_Chernyshevsky.xml" title="Nikolay Chernyshevsky" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Noah_Brooks.xml" title="Noah Brooks" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Norbert_Jacques.xml" title="Norbert Jacques" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Noël_Coward.xml" title="Noël Coward" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/O._Henry.xml" title="O. Henry" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Octave_Mirbeau.xml" title="Octave Mirbeau" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Okakura_Kakuzō.xml" title="Okakura Kakuzō" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Olaudah_Equiano.xml" title="Olaudah Equiano" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Oliver_Goldsmith.xml" title="Oliver Goldsmith" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Oliver_La_Farge.xml" title="Oliver La Farge" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Omar_Khayyám.xml" title="Omar Khayyám" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Oscar_Wilde.xml" title="Oscar Wilde" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ovid.xml" title="Ovid" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Owen_Johnson.xml" title="Owen Johnson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Owen_Wister.xml" title="Owen Wister" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/P._G._Wodehouse.xml" title="P. G. Wodehouse" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/P._T._Barnum.xml" title="P. T. Barnum" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Paul_Dukes.xml" title="Paul Dukes" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Paul_Laurence_Dunbar.xml" title="Paul Laurence Dunbar" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Pearl_S._Buck.xml" title="Pearl S. Buck" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Pedro_Carolino.xml" title="Pedro Carolino" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Percy_Marks.xml" title="Percy Marks" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Peter_Kropotkin.xml" title="Peter Kropotkin" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Philip_Francis_Nowlan.xml" title="Philip Francis Nowlan" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Philip_Gibbs.xml" title="Philip Gibbs" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Philip_James_Bailey.xml" title="Philip James Bailey" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Philip_K._Dick.xml" title="Philip K. Dick" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Philip_MacDonald.xml" title="Philip MacDonald" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Philip_Wylie.xml" title="Philip Wylie" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Phillis_Wheatley.xml" title="Phillis Wheatley" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Pierre_Choderlos_de_Laclos.xml" title="Pierre Choderlos de Laclos" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Pierre_Souvestre.xml" title="Pierre Souvestre" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Pierre-Joseph_Proudhon.xml" title="Pierre-Joseph Proudhon" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Pindar.xml" title="Pindar" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Plato.xml" title="Plato" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Poul_Anderson.xml" title="Poul Anderson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Procopius.xml" title="Procopius" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/R._A._Lafferty.xml" title="R. A. Lafferty" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/R._Austin_Freeman.xml" title="R. Austin Freeman" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/R._D._Blackmore.xml" title="R. D. Blackmore" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/R._H._Tawney.xml" title="R. H. Tawney" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/R._M._Ballantyne.xml" title="R. M. Ballantyne" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Rabindranath_Tagore.xml" title="Rabindranath Tagore" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Radclyffe_Hall.xml" title="Radclyffe Hall" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Rafael_Sabatini.xml" title="Rafael Sabatini" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ralph_Waldo_Emerson.xml" title="Ralph Waldo Emerson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ray_Bradbury.xml" title="Ray Bradbury" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/René_Descartes.xml" title="René Descartes" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Richard_Brinsley_Sheridan.xml" title="Richard Brinsley Sheridan" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Richard_F._Burton.xml" title="Richard F. Burton" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Richard_Henry_Dana_Jr..xml" title="Richard Henry Dana Jr." type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Richard_Hughes.xml" title="Richard Hughes" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Richard_Jefferies.xml" title="Richard Jefferies" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Richard_Marsh.xml" title="Richard Marsh" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Richard_Steele.xml" title="Richard Steele" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Richmal_Crompton.xml" title="Richmal Crompton" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ring_Lardner.xml" title="Ring Lardner" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Robert_Derby_Holmes.xml" title="Robert Derby Holmes" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Robert_E._Howard.xml" title="Robert E. Howard" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Robert_Frost.xml" title="Robert Frost" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Robert_Louis_Stevenson.xml" title="Robert Louis Stevenson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Robert_Sheckley.xml" title="Robert Sheckley" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Robert_W._Chambers.xml" title="Robert W. Chambers" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Robert_W._Service.xml" title="Robert W. Service" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Robert_Williams_Wood.xml" title="Robert Williams Wood" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Rolf_Boldrewood.xml" title="Rolf Boldrewood" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Romain_Rolland.xml" title="Romain Rolland" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ronald_A._Knox.xml" title="Ronald A. Knox" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Rose_Macaulay.xml" title="Rose Macaulay" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Rose_Wilder_Lane.xml" title="Rose Wilder Lane" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Roswitha_of_Gandersheim.xml" title="Roswitha of Gandersheim" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Rudolph_Erich_Raspe.xml" title="Rudolph Erich Raspe" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Rudyard_Kipling.xml" title="Rudyard Kipling" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Russell_Thorndike.xml" title="Russell Thorndike" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/S._Fowler_Wright.xml" title="S. Fowler Wright" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/S._M._Mitra.xml" title="S. M. Mitra" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/S._S._Van_Dine.xml" title="S. S. Van Dine" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Saki.xml" title="Saki" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Samuel_Butler.xml" title="Samuel Butler" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Samuel_Johnson.xml" title="Samuel Johnson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Samuel_Pepys.xml" title="Samuel Pepys" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Samuel_R._Delany.xml" title="Samuel R. Delany" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Samuel_Richardson.xml" title="Samuel Richardson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Samuel_Taylor_Coleridge.xml" title="Samuel Taylor Coleridge" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Sarah_Louisa_Forten_Purvis.xml" title="Sarah Louisa Forten Purvis" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Sarah_Orne_Jewett.xml" title="Sarah Orne Jewett" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Sax_Rohmer.xml" title="Sax Rohmer" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Selma_Lagerlöf.xml" title="Selma Lagerlöf" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Seneca.xml" title="Seneca" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Sherwood_Anderson.xml" title="Sherwood Anderson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Siegfried_Sassoon.xml" title="Siegfried Sassoon" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Sigfrid_Siwertz.xml" title="Sigfrid Siwertz" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Sigrid_Undset.xml" title="Sigrid Undset" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Sinclair_Lewis.xml" title="Sinclair Lewis" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Solomon_Northup.xml" title="Solomon Northup" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Sophocles.xml" title="Sophocles" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Stanley_G._Weinbaum.xml" title="Stanley G. Weinbaum" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Stella_Benson.xml" title="Stella Benson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Stendhal.xml" title="Stendhal" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Stephen_Crane.xml" title="Stephen Crane" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Stephen_Leacock.xml" title="Stephen Leacock" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Stephen_Vincent_Benét.xml" title="Stephen Vincent Benét" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Suetonius.xml" title="Suetonius" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Sun_Tzu.xml" title="Sun Tzu" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Susanna_Haswell_Rowson.xml" title="Susanna Haswell Rowson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Sylvia_Townsend_Warner.xml" title="Sylvia Townsend Warner" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/T._E._Lawrence.xml" title="T. E. Lawrence" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/T._S._Eliot.xml" title="T. S. Eliot" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Tanizaki_Jun’ichirō.xml" title="Tanizaki Jun’ichirō" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Taras_Shevchenko.xml" title="Taras Shevchenko" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thea_von_Harbou.xml" title="Thea von Harbou" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Theodore_Dreiser.xml" title="Theodore Dreiser" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Theodore_Roosevelt.xml" title="Theodore Roosevelt" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thiruvalluvar.xml" title="Thiruvalluvar" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thomas_Bulfinch.xml" title="Thomas Bulfinch" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thomas_Carlyle.xml" title="Thomas Carlyle" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thomas_De_Quincey.xml" title="Thomas De Quincey" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thomas_Gray.xml" title="Thomas Gray" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thomas_Hardy.xml" title="Thomas Hardy" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thomas_Hobbes.xml" title="Thomas Hobbes" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thomas_Hughes.xml" title="Thomas Hughes" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thomas_Love_Peacock.xml" title="Thomas Love Peacock" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thomas_Malory.xml" title="Thomas Malory" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thomas_Mann.xml" title="Thomas Mann" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thomas_Paine.xml" title="Thomas Paine" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thomas_Wolfe.xml" title="Thomas Wolfe" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thomas_à_Kempis.xml" title="Thomas à Kempis" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thornton_W._Burgess.xml" title="Thornton W. Burgess" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thornton_Wilder.xml" title="Thornton Wilder" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thorstein_Veblen.xml" title="Thorstein Veblen" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Thucydides.xml" title="Thucydides" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Tom_Godwin.xml" title="Tom Godwin" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Tom_Taylor.xml" title="Tom Taylor" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Ulysses_S._Grant.xml" title="Ulysses S. Grant" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Upton_Sinclair.xml" title="Upton Sinclair" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Victor_Hugo.xml" title="Victor Hugo" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Virgil.xml" title="Virgil" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Virginia_Woolf.xml" title="Virginia Woolf" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Vladimir_Korolenko.xml" title="Vladimir Korolenko" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Voltaire.xml" title="Voltaire" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Voltairine_de_Cleyre.xml" title="Voltairine de Cleyre" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Vsevolod_Garshin.xml" title="Vsevolod Garshin" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/W._B._Yeats.xml" title="W. B. Yeats" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/W._E._B._Du_Bois.xml" title="W. E. B. Du Bois" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/W._H._Hudson.xml" title="W. H. Hudson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/W._N._P._Barbellion.xml" title="W. N. P. Barbellion" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/W._R._Burnett.xml" title="W. R. Burnett" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/W._Somerset_Maugham.xml" title="W. Somerset Maugham" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/W._W._Jacobs.xml" title="W. W. Jacobs" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Wallace_Thurman.xml" title="Wallace Thurman" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Walt_Whitman.xml" title="Walt Whitman" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Walter_Bagehot.xml" title="Walter Bagehot" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Walter_M._Miller_Jr..xml" title="Walter M. Miller Jr." type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Walter_Noble_Burns.xml" title="Walter Noble Burns" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Walter_Pater.xml" title="Walter Pater" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Walter_S._Masterman.xml" title="Walter S. Masterman" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Walter_Scott.xml" title="Walter Scott" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Walter_de_la_Mare.xml" title="Walter de la Mare" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Washington_Irving.xml" title="Washington Irving" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Wilfred_Owen.xml" title="Wilfred Owen" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Wilhelm_Grimm.xml" title="Wilhelm Grimm" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Wilkie_Collins.xml" title="Wilkie Collins" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Will_James.xml" title="Will James" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Willa_Cather.xml" title="Willa Cather" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_Beckford.xml" title="William Beckford" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_Carlos_Williams.xml" title="William Carlos Williams" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_Congreve.xml" title="William Congreve" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_Craft.xml" title="William Craft" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_Dean_Howells.xml" title="William Dean Howells" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_F._Cody.xml" title="William F. Cody" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_Faulkner.xml" title="William Faulkner" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_Gerhardie.xml" title="William Gerhardie" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_Hazlitt.xml" title="William Hazlitt" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_Hope_Hodgson.xml" title="William Hope Hodgson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_James.xml" title="William James" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_Makepeace_Thackeray.xml" title="William Makepeace Thackeray" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_Morris.xml" title="William Morris" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_Shakespeare.xml" title="William Shakespeare" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_Wells_Brown.xml" title="William Wells Brown" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_Wollaston.xml" title="William Wollaston" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_Wordsworth.xml" title="William Wordsworth" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/William_Wycherley.xml" title="William Wycherley" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Winston_Churchill.xml" title="Winston Churchill" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Woodrow_Wilson.xml" title="Woodrow Wilson" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Władysław_Reymont.xml" title="Władysław Reymont" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Xavier_de_Maistre.xml" title="Xavier de Maistre" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Yevgeny_Zamyatin.xml" title="Yevgeny Zamyatin" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Zane_Grey.xml" title="Zane Grey" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Zitkála-Šá.xml" title="Zitkála-Šá" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Zofia_Nałkowska.xml" title="Zofia Nałkowska" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Zora_Neale_Hurston.xml" title="Zora Neale Hurston" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Émile_Gaboriau.xml" title="Émile Gaboriau" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+  <link href="author/Émile_Zola.xml" title="Émile Zola" type="application/atom+xml;profile=opds-catalog" rel="subsection"/>
+</feed>

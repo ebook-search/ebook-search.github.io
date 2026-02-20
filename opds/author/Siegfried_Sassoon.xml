@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Siegfried Sassoon</title>
+  <id>urn:ebook-search:author:Siegfried Sassoon</id>
+  <updated>2026-02-20T13:52:15.466032Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Siegfried Sassoon - Memoirs of a Foxhunting Man</title>
+    <id>urn:ebook-search:book:Siegfried Sassoon - Memoirs of a Foxhunting Man</id>
+    <updated>2026-02-20T13:52:15.466032Z</updated>
+    <link href="../../d/Siegfried Sassoon - Memoirs of a Foxhunting Man.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Siegfried Sassoon</name>
+    </author>
+  </entry>
+</feed>

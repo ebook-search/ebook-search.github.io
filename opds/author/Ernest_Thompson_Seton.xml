@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Ernest Thompson Seton</title>
+  <id>urn:ebook-search:author:Ernest Thompson Seton</id>
+  <updated>2026-02-20T13:52:15.464442Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Ernest Thompson Seton - Wild Animals I Have Known</title>
+    <id>urn:ebook-search:book:Ernest Thompson Seton - Wild Animals I Have Known</id>
+    <updated>2026-02-20T13:52:15.464442Z</updated>
+    <link href="../../d/Ernest Thompson Seton - Wild Animals I Have Known.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ernest Thompson Seton</name>
+    </author>
+  </entry>
+</feed>

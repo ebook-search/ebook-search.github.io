@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>J. Sheridan Le Fanu</title>
+  <id>urn:ebook-search:author:J. Sheridan Le Fanu</id>
+  <updated>2026-02-20T13:52:15.465158Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>J. Sheridan Le Fanu - Short Fiction</title>
+    <id>urn:ebook-search:book:J. Sheridan Le Fanu - Short Fiction</id>
+    <updated>2026-02-20T13:52:15.465158Z</updated>
+    <link href="../../d/J. Sheridan Le Fanu - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. Sheridan Le Fanu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>J. Sheridan Le Fanu - The Room in the Dragon Volant</title>
+    <id>urn:ebook-search:book:J. Sheridan Le Fanu - The Room in the Dragon Volant</id>
+    <updated>2026-02-20T13:52:15.465158Z</updated>
+    <link href="../../d/J. Sheridan Le Fanu - The Room in the Dragon Volant.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. Sheridan Le Fanu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>J. Sheridan Le Fanu - The Wyvern Mystery</title>
+    <id>urn:ebook-search:book:J. Sheridan Le Fanu - The Wyvern Mystery</id>
+    <updated>2026-02-20T13:52:15.465158Z</updated>
+    <link href="../../d/J. Sheridan Le Fanu - The Wyvern Mystery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. Sheridan Le Fanu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>J. Sheridan Le Fanu - Uncle Silas</title>
+    <id>urn:ebook-search:book:J. Sheridan Le Fanu - Uncle Silas</id>
+    <updated>2026-02-20T13:52:15.465158Z</updated>
+    <link href="../../d/J. Sheridan Le Fanu - Uncle Silas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. Sheridan Le Fanu</name>
+    </author>
+  </entry>
+</feed>

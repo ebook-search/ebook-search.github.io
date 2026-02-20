@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Thornton W. Burgess</title>
+  <id>urn:ebook-search:author:Thornton W. Burgess</id>
+  <updated>2026-02-20T13:52:15.476114Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Thornton W. Burgess - Green Forest Stories</title>
+    <id>urn:ebook-search:book:Thornton W. Burgess - Green Forest Stories</id>
+    <updated>2026-02-20T13:52:15.476114Z</updated>
+    <link href="../../d/Thornton W. Burgess - Green Forest Stories.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Thornton W. Burgess</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Thornton W. Burgess - Green Meadow Stories</title>
+    <id>urn:ebook-search:book:Thornton W. Burgess - Green Meadow Stories</id>
+    <updated>2026-02-20T13:52:15.476114Z</updated>
+    <link href="../../d/Thornton W. Burgess - Green Meadow Stories.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Thornton W. Burgess</name>
+    </author>
+  </entry>
+</feed>

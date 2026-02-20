@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>T. E. Lawrence</title>
+  <id>urn:ebook-search:author:T. E. Lawrence</id>
+  <updated>2026-02-20T13:52:15.474174Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>T. E. Lawrence - Seven Pillars of Wisdom</title>
+    <id>urn:ebook-search:book:T. E. Lawrence - Seven Pillars of Wisdom</id>
+    <updated>2026-02-20T13:52:15.474174Z</updated>
+    <link href="../../d/T. E. Lawrence - Seven Pillars of Wisdom.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>T. E. Lawrence</name>
+    </author>
+  </entry>
+</feed>

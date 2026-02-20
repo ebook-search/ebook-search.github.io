@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Richard Jefferies</title>
+  <id>urn:ebook-search:author:Richard Jefferies</id>
+  <updated>2026-02-20T13:52:15.469639Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Richard Jefferies - After London</title>
+    <id>urn:ebook-search:book:Richard Jefferies - After London</id>
+    <updated>2026-02-20T13:52:15.469639Z</updated>
+    <link href="../../d/Richard Jefferies - After London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Richard Jefferies</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Richard Jefferies - Amaryllis at the Fair</title>
+    <id>urn:ebook-search:book:Richard Jefferies - Amaryllis at the Fair</id>
+    <updated>2026-02-20T13:52:15.469639Z</updated>
+    <link href="../../d/Richard Jefferies - Amaryllis at the Fair.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Richard Jefferies</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Richard Jefferies - Greene Ferne Farm</title>
+    <id>urn:ebook-search:book:Richard Jefferies - Greene Ferne Farm</id>
+    <updated>2026-02-20T13:52:15.469639Z</updated>
+    <link href="../../d/Richard Jefferies - Greene Ferne Farm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Richard Jefferies</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Richard Jefferies - The Dewy Morn</title>
+    <id>urn:ebook-search:book:Richard Jefferies - The Dewy Morn</id>
+    <updated>2026-02-20T13:52:15.469639Z</updated>
+    <link href="../../d/Richard Jefferies - The Dewy Morn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Richard Jefferies</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Richard Jefferies - World’s End</title>
+    <id>urn:ebook-search:book:Richard Jefferies - World’s End</id>
+    <updated>2026-02-20T13:52:15.469639Z</updated>
+    <link href="../../d/Richard Jefferies - World’s End.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Richard Jefferies</name>
+    </author>
+  </entry>
+</feed>

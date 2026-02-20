@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>George Grey</title>
+  <id>urn:ebook-search:author:George Grey</id>
+  <updated>2026-02-20T13:52:15.468348Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>George Grey - Polynesian Mythology</title>
+    <id>urn:ebook-search:book:George Grey - Polynesian Mythology</id>
+    <updated>2026-02-20T13:52:15.468348Z</updated>
+    <link href="../../d/George Grey - Polynesian Mythology.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>George Grey</name>
+    </author>
+  </entry>
+</feed>

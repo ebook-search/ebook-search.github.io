@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>E. Nesbit</title>
+  <id>urn:ebook-search:author:E. Nesbit</id>
+  <updated>2026-02-20T13:52:15.468177Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>E. Nesbit - Five Children and It</title>
+    <id>urn:ebook-search:book:E. Nesbit - Five Children and It</id>
+    <updated>2026-02-20T13:52:15.468177Z</updated>
+    <link href="../../d/E. Nesbit - Five Children and It.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. Nesbit</name>
+    </author>
+  </entry>
+  <entry>
+    <title>E. Nesbit - Harding’s Luck</title>
+    <id>urn:ebook-search:book:E. Nesbit - Harding’s Luck</id>
+    <updated>2026-02-20T13:52:15.468177Z</updated>
+    <link href="../../d/E. Nesbit - Harding’s Luck.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. Nesbit</name>
+    </author>
+  </entry>
+  <entry>
+    <title>E. Nesbit - The Enchanted Castle</title>
+    <id>urn:ebook-search:book:E. Nesbit - The Enchanted Castle</id>
+    <updated>2026-02-20T13:52:15.468177Z</updated>
+    <link href="../../d/E. Nesbit - The Enchanted Castle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. Nesbit</name>
+    </author>
+  </entry>
+  <entry>
+    <title>E. Nesbit - The House of Arden</title>
+    <id>urn:ebook-search:book:E. Nesbit - The House of Arden</id>
+    <updated>2026-02-20T13:52:15.468177Z</updated>
+    <link href="../../d/E. Nesbit - The House of Arden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. Nesbit</name>
+    </author>
+  </entry>
+  <entry>
+    <title>E. Nesbit - The Magic City</title>
+    <id>urn:ebook-search:book:E. Nesbit - The Magic City</id>
+    <updated>2026-02-20T13:52:15.468177Z</updated>
+    <link href="../../d/E. Nesbit - The Magic City.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. Nesbit</name>
+    </author>
+  </entry>
+  <entry>
+    <title>E. Nesbit - The Phoenix and the Carpet</title>
+    <id>urn:ebook-search:book:E. Nesbit - The Phoenix and the Carpet</id>
+    <updated>2026-02-20T13:52:15.468177Z</updated>
+    <link href="../../d/E. Nesbit - The Phoenix and the Carpet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. Nesbit</name>
+    </author>
+  </entry>
+  <entry>
+    <title>E. Nesbit - The Railway Children</title>
+    <id>urn:ebook-search:book:E. Nesbit - The Railway Children</id>
+    <updated>2026-02-20T13:52:15.468177Z</updated>
+    <link href="../../d/E. Nesbit - The Railway Children.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. Nesbit</name>
+    </author>
+  </entry>
+  <entry>
+    <title>E. Nesbit - The Story of the Amulet</title>
+    <id>urn:ebook-search:book:E. Nesbit - The Story of the Amulet</id>
+    <updated>2026-02-20T13:52:15.468177Z</updated>
+    <link href="../../d/E. Nesbit - The Story of the Amulet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. Nesbit</name>
+    </author>
+  </entry>
+  <entry>
+    <title>E. Nesbit - The Story of the Treasure Seekers</title>
+    <id>urn:ebook-search:book:E. Nesbit - The Story of the Treasure Seekers</id>
+    <updated>2026-02-20T13:52:15.468177Z</updated>
+    <link href="../../d/E. Nesbit - The Story of the Treasure Seekers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. Nesbit</name>
+    </author>
+  </entry>
+  <entry>
+    <title>E. Nesbit - Wet Magic</title>
+    <id>urn:ebook-search:book:E. Nesbit - Wet Magic</id>
+    <updated>2026-02-20T13:52:15.468177Z</updated>
+    <link href="../../d/E. Nesbit - Wet Magic.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. Nesbit</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Geoffrey Chaucer</title>
+  <id>urn:ebook-search:author:Geoffrey Chaucer</id>
+  <updated>2026-02-20T13:52:15.471711Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Geoffrey Chaucer - The Canterbury Tales</title>
+    <id>urn:ebook-search:book:Geoffrey Chaucer - The Canterbury Tales</id>
+    <updated>2026-02-20T13:52:15.471711Z</updated>
+    <link href="../../d/Geoffrey Chaucer - The Canterbury Tales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Geoffrey Chaucer</name>
+    </author>
+  </entry>
+</feed>

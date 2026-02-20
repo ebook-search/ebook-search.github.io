@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Lewis Mumford</title>
+  <id>urn:ebook-search:author:Lewis Mumford</id>
+  <updated>2026-02-20T13:52:15.467618Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Lewis Mumford - Sticks and Stones</title>
+    <id>urn:ebook-search:book:Lewis Mumford - Sticks and Stones</id>
+    <updated>2026-02-20T13:52:15.467618Z</updated>
+    <link href="../../d/Lewis Mumford - Sticks and Stones.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Lewis Mumford</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Lewis Mumford - The Story of Utopias</title>
+    <id>urn:ebook-search:book:Lewis Mumford - The Story of Utopias</id>
+    <updated>2026-02-20T13:52:15.467618Z</updated>
+    <link href="../../d/Lewis Mumford - The Story of Utopias.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Lewis Mumford</name>
+    </author>
+  </entry>
+</feed>

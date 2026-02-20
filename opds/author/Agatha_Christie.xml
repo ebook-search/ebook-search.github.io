@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Agatha Christie</title>
+  <id>urn:ebook-search:author:Agatha Christie</id>
+  <updated>2026-02-20T13:52:15.462711Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Agatha Christie - Giant’s Bread</title>
+    <id>urn:ebook-search:book:Agatha Christie - Giant’s Bread</id>
+    <updated>2026-02-20T13:52:15.462711Z</updated>
+    <link href="../../d/Agatha Christie - Giant’s Bread.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Agatha Christie</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Agatha Christie - Poirot Investigates</title>
+    <id>urn:ebook-search:book:Agatha Christie - Poirot Investigates</id>
+    <updated>2026-02-20T13:52:15.462711Z</updated>
+    <link href="../../d/Agatha Christie - Poirot Investigates.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Agatha Christie</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Agatha Christie - The Big Four</title>
+    <id>urn:ebook-search:book:Agatha Christie - The Big Four</id>
+    <updated>2026-02-20T13:52:15.462711Z</updated>
+    <link href="../../d/Agatha Christie - The Big Four.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Agatha Christie</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Agatha Christie - The Man in the Brown Suit</title>
+    <id>urn:ebook-search:book:Agatha Christie - The Man in the Brown Suit</id>
+    <updated>2026-02-20T13:52:15.462711Z</updated>
+    <link href="../../d/Agatha Christie - The Man in the Brown Suit.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Agatha Christie</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Agatha Christie - The Murder at the Vicarage</title>
+    <id>urn:ebook-search:book:Agatha Christie - The Murder at the Vicarage</id>
+    <updated>2026-02-20T13:52:15.462711Z</updated>
+    <link href="../../d/Agatha Christie - The Murder at the Vicarage.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Agatha Christie</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Agatha Christie - The Murder of Roger Ackroyd</title>
+    <id>urn:ebook-search:book:Agatha Christie - The Murder of Roger Ackroyd</id>
+    <updated>2026-02-20T13:52:15.462711Z</updated>
+    <link href="../../d/Agatha Christie - The Murder of Roger Ackroyd.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Agatha Christie</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Agatha Christie - The Murder on the Links</title>
+    <id>urn:ebook-search:book:Agatha Christie - The Murder on the Links</id>
+    <updated>2026-02-20T13:52:15.462711Z</updated>
+    <link href="../../d/Agatha Christie - The Murder on the Links.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Agatha Christie</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Agatha Christie - The Mysterious Affair at Styles</title>
+    <id>urn:ebook-search:book:Agatha Christie - The Mysterious Affair at Styles</id>
+    <updated>2026-02-20T13:52:15.462711Z</updated>
+    <link href="../../d/Agatha Christie - The Mysterious Affair at Styles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Agatha Christie</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Agatha Christie - The Mystery of the Blue Train</title>
+    <id>urn:ebook-search:book:Agatha Christie - The Mystery of the Blue Train</id>
+    <updated>2026-02-20T13:52:15.462711Z</updated>
+    <link href="../../d/Agatha Christie - The Mystery of the Blue Train.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Agatha Christie</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Agatha Christie - The Secret Adversary</title>
+    <id>urn:ebook-search:book:Agatha Christie - The Secret Adversary</id>
+    <updated>2026-02-20T13:52:15.462711Z</updated>
+    <link href="../../d/Agatha Christie - The Secret Adversary.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Agatha Christie</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Agatha Christie - The Secret of Chimneys</title>
+    <id>urn:ebook-search:book:Agatha Christie - The Secret of Chimneys</id>
+    <updated>2026-02-20T13:52:15.462711Z</updated>
+    <link href="../../d/Agatha Christie - The Secret of Chimneys.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Agatha Christie</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Agatha Christie - The Seven Dials Mystery</title>
+    <id>urn:ebook-search:book:Agatha Christie - The Seven Dials Mystery</id>
+    <updated>2026-02-20T13:52:15.462711Z</updated>
+    <link href="../../d/Agatha Christie - The Seven Dials Mystery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Agatha Christie</name>
+    </author>
+  </entry>
+</feed>

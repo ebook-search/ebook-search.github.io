@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Pindar</title>
+  <id>urn:ebook-search:author:Pindar</id>
+  <updated>2026-02-20T13:52:15.470095Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Pindar - Victory Odes</title>
+    <id>urn:ebook-search:book:Pindar - Victory Odes</id>
+    <updated>2026-02-20T13:52:15.470095Z</updated>
+    <link href="../../d/Pindar - Victory Odes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Pindar</name>
+    </author>
+  </entry>
+</feed>

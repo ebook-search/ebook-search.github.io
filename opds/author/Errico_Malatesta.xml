@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Errico Malatesta</title>
+  <id>urn:ebook-search:author:Errico Malatesta</id>
+  <updated>2026-02-20T13:52:15.469962Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Errico Malatesta - Essays</title>
+    <id>urn:ebook-search:book:Errico Malatesta - Essays</id>
+    <updated>2026-02-20T13:52:15.469962Z</updated>
+    <link href="../../d/Errico Malatesta - Essays.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Errico Malatesta</name>
+    </author>
+  </entry>
+</feed>

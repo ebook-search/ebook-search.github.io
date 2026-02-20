@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>James Branch Cabell</title>
+  <id>urn:ebook-search:author:James Branch Cabell</id>
+  <updated>2026-02-20T13:52:15.469925Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>James Branch Cabell - Chivalry</title>
+    <id>urn:ebook-search:book:James Branch Cabell - Chivalry</id>
+    <updated>2026-02-20T13:52:15.469925Z</updated>
+    <link href="../../d/James Branch Cabell - Chivalry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>James Branch Cabell</name>
+    </author>
+  </entry>
+  <entry>
+    <title>James Branch Cabell - Domnei</title>
+    <id>urn:ebook-search:book:James Branch Cabell - Domnei</id>
+    <updated>2026-02-20T13:52:15.469925Z</updated>
+    <link href="../../d/James Branch Cabell - Domnei.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>James Branch Cabell</name>
+    </author>
+  </entry>
+  <entry>
+    <title>James Branch Cabell - Figures of Earth</title>
+    <id>urn:ebook-search:book:James Branch Cabell - Figures of Earth</id>
+    <updated>2026-02-20T13:52:15.469925Z</updated>
+    <link href="../../d/James Branch Cabell - Figures of Earth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>James Branch Cabell</name>
+    </author>
+  </entry>
+  <entry>
+    <title>James Branch Cabell - Jurgen</title>
+    <id>urn:ebook-search:book:James Branch Cabell - Jurgen</id>
+    <updated>2026-02-20T13:52:15.469925Z</updated>
+    <link href="../../d/James Branch Cabell - Jurgen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>James Branch Cabell</name>
+    </author>
+  </entry>
+  <entry>
+    <title>James Branch Cabell - The Cords of Vanity</title>
+    <id>urn:ebook-search:book:James Branch Cabell - The Cords of Vanity</id>
+    <updated>2026-02-20T13:52:15.469925Z</updated>
+    <link href="../../d/James Branch Cabell - The Cords of Vanity.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>James Branch Cabell</name>
+    </author>
+  </entry>
+  <entry>
+    <title>James Branch Cabell - The Cream of the Jest</title>
+    <id>urn:ebook-search:book:James Branch Cabell - The Cream of the Jest</id>
+    <updated>2026-02-20T13:52:15.469925Z</updated>
+    <link href="../../d/James Branch Cabell - The Cream of the Jest.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>James Branch Cabell</name>
+    </author>
+  </entry>
+</feed>

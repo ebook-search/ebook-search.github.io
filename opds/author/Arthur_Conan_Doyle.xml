@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Arthur Conan Doyle</title>
+  <id>urn:ebook-search:author:Arthur Conan Doyle</id>
+  <updated>2026-02-20T13:52:15.463770Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Arthur Conan Doyle - A Study in Scarlet</title>
+    <id>urn:ebook-search:book:Arthur Conan Doyle - A Study in Scarlet</id>
+    <updated>2026-02-20T13:52:15.463770Z</updated>
+    <link href="../../d/Arthur Conan Doyle - A Study in Scarlet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Arthur Conan Doyle</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arthur Conan Doyle - His Last Bow</title>
+    <id>urn:ebook-search:book:Arthur Conan Doyle - His Last Bow</id>
+    <updated>2026-02-20T13:52:15.463770Z</updated>
+    <link href="../../d/Arthur Conan Doyle - His Last Bow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Arthur Conan Doyle</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arthur Conan Doyle - The Adventures of Sherlock Holmes</title>
+    <id>urn:ebook-search:book:Arthur Conan Doyle - The Adventures of Sherlock Holmes</id>
+    <updated>2026-02-20T13:52:15.463770Z</updated>
+    <link href="../../d/Arthur Conan Doyle - The Adventures of Sherlock Holmes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Arthur Conan Doyle</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arthur Conan Doyle - The Casebook of Sherlock Holmes</title>
+    <id>urn:ebook-search:book:Arthur Conan Doyle - The Casebook of Sherlock Holmes</id>
+    <updated>2026-02-20T13:52:15.463770Z</updated>
+    <link href="../../d/Arthur Conan Doyle - The Casebook of Sherlock Holmes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Arthur Conan Doyle</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arthur Conan Doyle - The Hound of the Baskervilles</title>
+    <id>urn:ebook-search:book:Arthur Conan Doyle - The Hound of the Baskervilles</id>
+    <updated>2026-02-20T13:52:15.463770Z</updated>
+    <link href="../../d/Arthur Conan Doyle - The Hound of the Baskervilles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Arthur Conan Doyle</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arthur Conan Doyle - The Lost World</title>
+    <id>urn:ebook-search:book:Arthur Conan Doyle - The Lost World</id>
+    <updated>2026-02-20T13:52:15.463770Z</updated>
+    <link href="../../d/Arthur Conan Doyle - The Lost World.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Arthur Conan Doyle</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arthur Conan Doyle - The Maracot Deep</title>
+    <id>urn:ebook-search:book:Arthur Conan Doyle - The Maracot Deep</id>
+    <updated>2026-02-20T13:52:15.463770Z</updated>
+    <link href="../../d/Arthur Conan Doyle - The Maracot Deep.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Arthur Conan Doyle</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arthur Conan Doyle - The Memoirs of Sherlock Holmes</title>
+    <id>urn:ebook-search:book:Arthur Conan Doyle - The Memoirs of Sherlock Holmes</id>
+    <updated>2026-02-20T13:52:15.463770Z</updated>
+    <link href="../../d/Arthur Conan Doyle - The Memoirs of Sherlock Holmes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Arthur Conan Doyle</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arthur Conan Doyle - The Return of Sherlock Holmes</title>
+    <id>urn:ebook-search:book:Arthur Conan Doyle - The Return of Sherlock Holmes</id>
+    <updated>2026-02-20T13:52:15.463770Z</updated>
+    <link href="../../d/Arthur Conan Doyle - The Return of Sherlock Holmes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Arthur Conan Doyle</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arthur Conan Doyle - The Sign of the Four</title>
+    <id>urn:ebook-search:book:Arthur Conan Doyle - The Sign of the Four</id>
+    <updated>2026-02-20T13:52:15.463770Z</updated>
+    <link href="../../d/Arthur Conan Doyle - The Sign of the Four.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Arthur Conan Doyle</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arthur Conan Doyle - The Valley of Fear</title>
+    <id>urn:ebook-search:book:Arthur Conan Doyle - The Valley of Fear</id>
+    <updated>2026-02-20T13:52:15.463770Z</updated>
+    <link href="../../d/Arthur Conan Doyle - The Valley of Fear.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Arthur Conan Doyle</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arthur Conan Doyle - The White Company</title>
+    <id>urn:ebook-search:book:Arthur Conan Doyle - The White Company</id>
+    <updated>2026-02-20T13:52:15.463770Z</updated>
+    <link href="../../d/Arthur Conan Doyle - The White Company.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Arthur Conan Doyle</name>
+    </author>
+  </entry>
+</feed>

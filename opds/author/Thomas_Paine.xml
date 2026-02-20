@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Thomas Paine</title>
+  <id>urn:ebook-search:author:Thomas Paine</id>
+  <updated>2026-02-20T13:52:15.474889Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Thomas Paine - Essays</title>
+    <id>urn:ebook-search:book:Thomas Paine - Essays</id>
+    <updated>2026-02-20T13:52:15.474889Z</updated>
+    <link href="../../d/Thomas Paine - Essays.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Thomas Paine</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Thomas Paine - The Age of Reason</title>
+    <id>urn:ebook-search:book:Thomas Paine - The Age of Reason</id>
+    <updated>2026-02-20T13:52:15.474889Z</updated>
+    <link href="../../d/Thomas Paine - The Age of Reason.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Thomas Paine</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Thomas Paine - The American Crisis</title>
+    <id>urn:ebook-search:book:Thomas Paine - The American Crisis</id>
+    <updated>2026-02-20T13:52:15.474889Z</updated>
+    <link href="../../d/Thomas Paine - The American Crisis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Thomas Paine</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Thomas Paine - The Rights of Man</title>
+    <id>urn:ebook-search:book:Thomas Paine - The Rights of Man</id>
+    <updated>2026-02-20T13:52:15.474889Z</updated>
+    <link href="../../d/Thomas Paine - The Rights of Man.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Thomas Paine</name>
+    </author>
+  </entry>
+</feed>

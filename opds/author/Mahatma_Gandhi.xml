@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Mahatma Gandhi</title>
+  <id>urn:ebook-search:author:Mahatma Gandhi</id>
+  <updated>2026-02-20T13:52:15.467083Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Mahatma Gandhi - The Story of My Experiments with Truth</title>
+    <id>urn:ebook-search:book:Mahatma Gandhi - The Story of My Experiments with Truth</id>
+    <updated>2026-02-20T13:52:15.467083Z</updated>
+    <link href="../../d/Mahatma Gandhi - The Story of My Experiments with Truth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Mahatma Gandhi</name>
+    </author>
+  </entry>
+</feed>

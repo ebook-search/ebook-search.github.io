@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Hermann Hesse</title>
+  <id>urn:ebook-search:author:Hermann Hesse</id>
+  <updated>2026-02-20T13:52:15.464413Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Hermann Hesse - Demian</title>
+    <id>urn:ebook-search:book:Hermann Hesse - Demian</id>
+    <updated>2026-02-20T13:52:15.464413Z</updated>
+    <link href="../../d/Hermann Hesse - Demian.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Hermann Hesse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Hermann Hesse - Siddhartha</title>
+    <id>urn:ebook-search:book:Hermann Hesse - Siddhartha</id>
+    <updated>2026-02-20T13:52:15.464413Z</updated>
+    <link href="../../d/Hermann Hesse - Siddhartha.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Hermann Hesse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Hermann Hesse - Steppenwolf</title>
+    <id>urn:ebook-search:book:Hermann Hesse - Steppenwolf</id>
+    <updated>2026-02-20T13:52:15.464413Z</updated>
+    <link href="../../d/Hermann Hesse - Steppenwolf.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Hermann Hesse</name>
+    </author>
+  </entry>
+</feed>

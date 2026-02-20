@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Benjamin Disraeli</title>
+  <id>urn:ebook-search:author:Benjamin Disraeli</id>
+  <updated>2026-02-20T13:52:15.478112Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Benjamin Disraeli - Sybil</title>
+    <id>urn:ebook-search:book:Benjamin Disraeli - Sybil</id>
+    <updated>2026-02-20T13:52:15.478112Z</updated>
+    <link href="../../d/Benjamin Disraeli - Sybil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Benjamin Disraeli</name>
+    </author>
+  </entry>
+</feed>

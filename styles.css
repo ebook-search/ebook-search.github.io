@@ -1,0 +1,98 @@
+:root {
+    --bg: #fcfdff;
+
+    --surface: #e2e5ea;
+    --border: #b2bfcf;
+
+    --accent: #6989af;
+
+    --text: #2e4262;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+* {
+    font-size: 24px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, serif;
+    font-weight: 400; /* safari fix */
+}
+
+input#query {
+    transition: all 200ms ease;
+}
+
+body {
+	background-color: var(--bg);
+	color: var(--text);
+	padding: 1em;
+}
+
+.content#search {
+    display: grid;
+    place-items: center;
+
+    /* subtract body padding */
+    min-height: calc(100vh - 4em);
+}
+
+.content#results {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    justify-content: center;
+
+    row-gap: 1em;
+}
+
+.query, #books {
+    width: 100%;
+}
+
+.query, .book {
+    padding: 0.25em 0.5em;
+    background-color: var(--surface);
+    color: var(--text);
+
+    border: 2px solid var(--border);
+    border-radius: 0.5em;
+}
+
+.book a {
+    text-decoration: none;
+}
+
+.book a::before {
+    content: "📖";
+    margin-right: 0.5rem;
+}
+
+.book a {
+    color: var(--text);
+}
+
+.query:focus {
+    outline: none;
+    border-color: var(--accent);
+}
+
+#books { list-style: none; }
+
+li.book {
+    margin: 0.5em 0;
+}
+
+.big-query {
+    max-width: 920px;
+}
+
+/* whole list item is clickable now */
+.book a {
+    display: block;
+    height: 100%;
+    width: 100%;
+}

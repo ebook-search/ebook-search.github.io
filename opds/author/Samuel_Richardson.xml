@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Samuel Richardson</title>
+  <id>urn:ebook-search:author:Samuel Richardson</id>
+  <updated>2026-02-20T13:52:15.475548Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Samuel Richardson - Clarissa</title>
+    <id>urn:ebook-search:book:Samuel Richardson - Clarissa</id>
+    <updated>2026-02-20T13:52:15.475548Z</updated>
+    <link href="../../d/Samuel Richardson - Clarissa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Samuel Richardson</name>
+    </author>
+  </entry>
+</feed>

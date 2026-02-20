@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>E. W. Hornung</title>
+  <id>urn:ebook-search:author:E. W. Hornung</id>
+  <updated>2026-02-20T13:52:15.474225Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>E. W. Hornung - A Thief in the Night</title>
+    <id>urn:ebook-search:book:E. W. Hornung - A Thief in the Night</id>
+    <updated>2026-02-20T13:52:15.474225Z</updated>
+    <link href="../../d/E. W. Hornung - A Thief in the Night.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. W. Hornung</name>
+    </author>
+  </entry>
+  <entry>
+    <title>E. W. Hornung - The Amateur Cracksman</title>
+    <id>urn:ebook-search:book:E. W. Hornung - The Amateur Cracksman</id>
+    <updated>2026-02-20T13:52:15.474225Z</updated>
+    <link href="../../d/E. W. Hornung - The Amateur Cracksman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. W. Hornung</name>
+    </author>
+  </entry>
+  <entry>
+    <title>E. W. Hornung - The Black Mask</title>
+    <id>urn:ebook-search:book:E. W. Hornung - The Black Mask</id>
+    <updated>2026-02-20T13:52:15.474225Z</updated>
+    <link href="../../d/E. W. Hornung - The Black Mask.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>E. W. Hornung</name>
+    </author>
+  </entry>
+</feed>

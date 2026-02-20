@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Camille Flammarion</title>
+  <id>urn:ebook-search:author:Camille Flammarion</id>
+  <updated>2026-02-20T13:52:15.478086Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Camille Flammarion - Omega</title>
+    <id>urn:ebook-search:book:Camille Flammarion - Omega</id>
+    <updated>2026-02-20T13:52:15.478086Z</updated>
+    <link href="../../d/Camille Flammarion - Omega.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Camille Flammarion</name>
+    </author>
+  </entry>
+</feed>

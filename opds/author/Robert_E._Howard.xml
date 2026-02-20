@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Robert E. Howard</title>
+  <id>urn:ebook-search:author:Robert E. Howard</id>
+  <updated>2026-02-20T13:52:15.462119Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Robert E. Howard - Conan Stories</title>
+    <id>urn:ebook-search:book:Robert E. Howard - Conan Stories</id>
+    <updated>2026-02-20T13:52:15.462119Z</updated>
+    <link href="../../d/Robert E. Howard - Conan Stories.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Robert E. Howard</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Robert E. Howard - Short Fiction</title>
+    <id>urn:ebook-search:book:Robert E. Howard - Short Fiction</id>
+    <updated>2026-02-20T13:52:15.462119Z</updated>
+    <link href="../../d/Robert E. Howard - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Robert E. Howard</name>
+    </author>
+  </entry>
+</feed>

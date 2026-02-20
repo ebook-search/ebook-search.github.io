@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Carey Rockwell</title>
+  <id>urn:ebook-search:author:Carey Rockwell</id>
+  <updated>2026-02-20T13:52:15.477912Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Carey Rockwell - Stand by for Mars!</title>
+    <id>urn:ebook-search:book:Carey Rockwell - Stand by for Mars!</id>
+    <updated>2026-02-20T13:52:15.477912Z</updated>
+    <link href="../../d/Carey Rockwell - Stand by for Mars!.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Carey Rockwell</name>
+    </author>
+  </entry>
+</feed>

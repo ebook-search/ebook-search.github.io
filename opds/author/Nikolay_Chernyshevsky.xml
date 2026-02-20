@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Nikolay Chernyshevsky</title>
+  <id>urn:ebook-search:author:Nikolay Chernyshevsky</id>
+  <updated>2026-02-20T13:52:15.466382Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Nikolay Chernyshevsky - What Is to Be Done?</title>
+    <id>urn:ebook-search:book:Nikolay Chernyshevsky - What Is to Be Done?</id>
+    <updated>2026-02-20T13:52:15.466382Z</updated>
+    <link href="../../d/Nikolay Chernyshevsky - What Is to Be Done?.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Nikolay Chernyshevsky</name>
+    </author>
+  </entry>
+</feed>

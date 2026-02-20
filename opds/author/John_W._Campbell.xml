@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>John W. Campbell</title>
+  <id>urn:ebook-search:author:John W. Campbell</id>
+  <updated>2026-02-20T13:52:15.474039Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>John W. Campbell - Invaders from the Infinite</title>
+    <id>urn:ebook-search:book:John W. Campbell - Invaders from the Infinite</id>
+    <updated>2026-02-20T13:52:15.474039Z</updated>
+    <link href="../../d/John W. Campbell - Invaders from the Infinite.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>John W. Campbell</name>
+    </author>
+  </entry>
+  <entry>
+    <title>John W. Campbell - Islands of Space</title>
+    <id>urn:ebook-search:book:John W. Campbell - Islands of Space</id>
+    <updated>2026-02-20T13:52:15.474039Z</updated>
+    <link href="../../d/John W. Campbell - Islands of Space.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>John W. Campbell</name>
+    </author>
+  </entry>
+  <entry>
+    <title>John W. Campbell - The Black Star Passes</title>
+    <id>urn:ebook-search:book:John W. Campbell - The Black Star Passes</id>
+    <updated>2026-02-20T13:52:15.474039Z</updated>
+    <link href="../../d/John W. Campbell - The Black Star Passes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>John W. Campbell</name>
+    </author>
+  </entry>
+</feed>

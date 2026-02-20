@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Ivy Compton-Burnett</title>
+  <id>urn:ebook-search:author:Ivy Compton-Burnett</id>
+  <updated>2026-02-20T13:52:15.469249Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Ivy Compton-Burnett - Pastors and Masters</title>
+    <id>urn:ebook-search:book:Ivy Compton-Burnett - Pastors and Masters</id>
+    <updated>2026-02-20T13:52:15.469249Z</updated>
+    <link href="../../d/Ivy Compton-Burnett - Pastors and Masters.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ivy Compton-Burnett</name>
+    </author>
+  </entry>
+</feed>

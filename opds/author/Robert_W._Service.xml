@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Robert W. Service</title>
+  <id>urn:ebook-search:author:Robert W. Service</id>
+  <updated>2026-02-20T13:52:15.477457Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Robert W. Service - Songs of a Sourdough</title>
+    <id>urn:ebook-search:book:Robert W. Service - Songs of a Sourdough</id>
+    <updated>2026-02-20T13:52:15.477457Z</updated>
+    <link href="../../d/Robert W. Service - Songs of a Sourdough.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Robert W. Service</name>
+    </author>
+  </entry>
+</feed>

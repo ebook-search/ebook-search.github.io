@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>H. G. Wells</title>
+  <id>urn:ebook-search:author:H. G. Wells</id>
+  <updated>2026-02-20T13:52:15.463137Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>H. G. Wells - In the Days of the Comet</title>
+    <id>urn:ebook-search:book:H. G. Wells - In the Days of the Comet</id>
+    <updated>2026-02-20T13:52:15.463137Z</updated>
+    <link href="../../d/H. G. Wells - In the Days of the Comet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. G. Wells</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. G. Wells - Kipps</title>
+    <id>urn:ebook-search:book:H. G. Wells - Kipps</id>
+    <updated>2026-02-20T13:52:15.463137Z</updated>
+    <link href="../../d/H. G. Wells - Kipps.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. G. Wells</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. G. Wells - Mr. Britling Sees It Through</title>
+    <id>urn:ebook-search:book:H. G. Wells - Mr. Britling Sees It Through</id>
+    <updated>2026-02-20T13:52:15.463137Z</updated>
+    <link href="../../d/H. G. Wells - Mr. Britling Sees It Through.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. G. Wells</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. G. Wells - Short Fiction</title>
+    <id>urn:ebook-search:book:H. G. Wells - Short Fiction</id>
+    <updated>2026-02-20T13:52:15.463137Z</updated>
+    <link href="../../d/H. G. Wells - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. G. Wells</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. G. Wells - The First Men in the Moon</title>
+    <id>urn:ebook-search:book:H. G. Wells - The First Men in the Moon</id>
+    <updated>2026-02-20T13:52:15.463137Z</updated>
+    <link href="../../d/H. G. Wells - The First Men in the Moon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. G. Wells</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. G. Wells - The Food of the Gods</title>
+    <id>urn:ebook-search:book:H. G. Wells - The Food of the Gods</id>
+    <updated>2026-02-20T13:52:15.463137Z</updated>
+    <link href="../../d/H. G. Wells - The Food of the Gods.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. G. Wells</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. G. Wells - The History of Mr. Polly</title>
+    <id>urn:ebook-search:book:H. G. Wells - The History of Mr. Polly</id>
+    <updated>2026-02-20T13:52:15.463137Z</updated>
+    <link href="../../d/H. G. Wells - The History of Mr. Polly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. G. Wells</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. G. Wells - The Invisible Man</title>
+    <id>urn:ebook-search:book:H. G. Wells - The Invisible Man</id>
+    <updated>2026-02-20T13:52:15.463137Z</updated>
+    <link href="../../d/H. G. Wells - The Invisible Man.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. G. Wells</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. G. Wells - The Island of Doctor Moreau</title>
+    <id>urn:ebook-search:book:H. G. Wells - The Island of Doctor Moreau</id>
+    <updated>2026-02-20T13:52:15.463137Z</updated>
+    <link href="../../d/H. G. Wells - The Island of Doctor Moreau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. G. Wells</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. G. Wells - The Time Machine</title>
+    <id>urn:ebook-search:book:H. G. Wells - The Time Machine</id>
+    <updated>2026-02-20T13:52:15.463137Z</updated>
+    <link href="../../d/H. G. Wells - The Time Machine.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. G. Wells</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. G. Wells - The War of the Worlds</title>
+    <id>urn:ebook-search:book:H. G. Wells - The War of the Worlds</id>
+    <updated>2026-02-20T13:52:15.463137Z</updated>
+    <link href="../../d/H. G. Wells - The War of the Worlds.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. G. Wells</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. G. Wells - The Wonderful Visit</title>
+    <id>urn:ebook-search:book:H. G. Wells - The Wonderful Visit</id>
+    <updated>2026-02-20T13:52:15.463137Z</updated>
+    <link href="../../d/H. G. Wells - The Wonderful Visit.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. G. Wells</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. G. Wells - The World Set Free</title>
+    <id>urn:ebook-search:book:H. G. Wells - The World Set Free</id>
+    <updated>2026-02-20T13:52:15.463137Z</updated>
+    <link href="../../d/H. G. Wells - The World Set Free.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. G. Wells</name>
+    </author>
+  </entry>
+  <entry>
+    <title>H. G. Wells - Tono-Bungay</title>
+    <id>urn:ebook-search:book:H. G. Wells - Tono-Bungay</id>
+    <updated>2026-02-20T13:52:15.463137Z</updated>
+    <link href="../../d/H. G. Wells - Tono-Bungay.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. G. Wells</name>
+    </author>
+  </entry>
+</feed>

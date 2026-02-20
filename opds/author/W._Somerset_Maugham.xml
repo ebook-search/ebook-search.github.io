@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>W. Somerset Maugham</title>
+  <id>urn:ebook-search:author:W. Somerset Maugham</id>
+  <updated>2026-02-20T13:52:15.464612Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>W. Somerset Maugham - Ashenden</title>
+    <id>urn:ebook-search:book:W. Somerset Maugham - Ashenden</id>
+    <updated>2026-02-20T13:52:15.464612Z</updated>
+    <link href="../../d/W. Somerset Maugham - Ashenden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>W. Somerset Maugham</name>
+    </author>
+  </entry>
+  <entry>
+    <title>W. Somerset Maugham - Of Human Bondage</title>
+    <id>urn:ebook-search:book:W. Somerset Maugham - Of Human Bondage</id>
+    <updated>2026-02-20T13:52:15.464612Z</updated>
+    <link href="../../d/W. Somerset Maugham - Of Human Bondage.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>W. Somerset Maugham</name>
+    </author>
+  </entry>
+  <entry>
+    <title>W. Somerset Maugham - On a Chinese Screen</title>
+    <id>urn:ebook-search:book:W. Somerset Maugham - On a Chinese Screen</id>
+    <updated>2026-02-20T13:52:15.464612Z</updated>
+    <link href="../../d/W. Somerset Maugham - On a Chinese Screen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>W. Somerset Maugham</name>
+    </author>
+  </entry>
+  <entry>
+    <title>W. Somerset Maugham - The Magician</title>
+    <id>urn:ebook-search:book:W. Somerset Maugham - The Magician</id>
+    <updated>2026-02-20T13:52:15.464612Z</updated>
+    <link href="../../d/W. Somerset Maugham - The Magician.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>W. Somerset Maugham</name>
+    </author>
+  </entry>
+  <entry>
+    <title>W. Somerset Maugham - The Moon and Sixpence</title>
+    <id>urn:ebook-search:book:W. Somerset Maugham - The Moon and Sixpence</id>
+    <updated>2026-02-20T13:52:15.464612Z</updated>
+    <link href="../../d/W. Somerset Maugham - The Moon and Sixpence.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>W. Somerset Maugham</name>
+    </author>
+  </entry>
+  <entry>
+    <title>W. Somerset Maugham - The Painted Veil</title>
+    <id>urn:ebook-search:book:W. Somerset Maugham - The Painted Veil</id>
+    <updated>2026-02-20T13:52:15.464612Z</updated>
+    <link href="../../d/W. Somerset Maugham - The Painted Veil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>W. Somerset Maugham</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Ivan Turgenev</title>
+  <id>urn:ebook-search:author:Ivan Turgenev</id>
+  <updated>2026-02-20T13:52:15.461999Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Ivan Turgenev - A House of Gentlefolk</title>
+    <id>urn:ebook-search:book:Ivan Turgenev - A House of Gentlefolk</id>
+    <updated>2026-02-20T13:52:15.461999Z</updated>
+    <link href="../../d/Ivan Turgenev - A House of Gentlefolk.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ivan Turgenev</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ivan Turgenev - Fathers and Children</title>
+    <id>urn:ebook-search:book:Ivan Turgenev - Fathers and Children</id>
+    <updated>2026-02-20T13:52:15.461999Z</updated>
+    <link href="../../d/Ivan Turgenev - Fathers and Children.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ivan Turgenev</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ivan Turgenev - On the Eve</title>
+    <id>urn:ebook-search:book:Ivan Turgenev - On the Eve</id>
+    <updated>2026-02-20T13:52:15.461999Z</updated>
+    <link href="../../d/Ivan Turgenev - On the Eve.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ivan Turgenev</name>
+    </author>
+  </entry>
+</feed>

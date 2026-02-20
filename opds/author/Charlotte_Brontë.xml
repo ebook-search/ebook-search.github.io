@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Charlotte Brontë</title>
+  <id>urn:ebook-search:author:Charlotte Brontë</id>
+  <updated>2026-02-20T13:52:15.476275Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Charlotte Brontë - Jane Eyre</title>
+    <id>urn:ebook-search:book:Charlotte Brontë - Jane Eyre</id>
+    <updated>2026-02-20T13:52:15.476275Z</updated>
+    <link href="../../d/Charlotte Brontë - Jane Eyre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Charlotte Brontë</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Charlotte Brontë - Shirley</title>
+    <id>urn:ebook-search:book:Charlotte Brontë - Shirley</id>
+    <updated>2026-02-20T13:52:15.476275Z</updated>
+    <link href="../../d/Charlotte Brontë - Shirley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Charlotte Brontë</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Charlotte Brontë - Villette</title>
+    <id>urn:ebook-search:book:Charlotte Brontë - Villette</id>
+    <updated>2026-02-20T13:52:15.476275Z</updated>
+    <link href="../../d/Charlotte Brontë - Villette.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Charlotte Brontë</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Sun Tzu</title>
+  <id>urn:ebook-search:author:Sun Tzu</id>
+  <updated>2026-02-20T13:52:15.475911Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Sun Tzu - The Art of War</title>
+    <id>urn:ebook-search:book:Sun Tzu - The Art of War</id>
+    <updated>2026-02-20T13:52:15.475911Z</updated>
+    <link href="../../d/Sun Tzu - The Art of War.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Sun Tzu</name>
+    </author>
+  </entry>
+</feed>

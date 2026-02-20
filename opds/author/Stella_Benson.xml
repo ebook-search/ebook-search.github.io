@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Stella Benson</title>
+  <id>urn:ebook-search:author:Stella Benson</id>
+  <updated>2026-02-20T13:52:15.462403Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Stella Benson - The Faraway Bride</title>
+    <id>urn:ebook-search:book:Stella Benson - The Faraway Bride</id>
+    <updated>2026-02-20T13:52:15.462403Z</updated>
+    <link href="../../d/Stella Benson - The Faraway Bride.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Stella Benson</name>
+    </author>
+  </entry>
+</feed>

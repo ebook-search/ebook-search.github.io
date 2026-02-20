@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Henrik Ibsen</title>
+  <id>urn:ebook-search:author:Henrik Ibsen</id>
+  <updated>2026-02-20T13:52:15.474858Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Henrik Ibsen - A Doll’s House</title>
+    <id>urn:ebook-search:book:Henrik Ibsen - A Doll’s House</id>
+    <updated>2026-02-20T13:52:15.474858Z</updated>
+    <link href="../../d/Henrik Ibsen - A Doll’s House.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Henrik Ibsen</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Henrik Ibsen - Ghosts</title>
+    <id>urn:ebook-search:book:Henrik Ibsen - Ghosts</id>
+    <updated>2026-02-20T13:52:15.474858Z</updated>
+    <link href="../../d/Henrik Ibsen - Ghosts.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Henrik Ibsen</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Henrik Ibsen - Hedda Gabler</title>
+    <id>urn:ebook-search:book:Henrik Ibsen - Hedda Gabler</id>
+    <updated>2026-02-20T13:52:15.474858Z</updated>
+    <link href="../../d/Henrik Ibsen - Hedda Gabler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Henrik Ibsen</name>
+    </author>
+  </entry>
+</feed>

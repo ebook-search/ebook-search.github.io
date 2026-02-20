@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>D. H. Lawrence</title>
+  <id>urn:ebook-search:author:D. H. Lawrence</id>
+  <updated>2026-02-20T13:52:15.466508Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>D. H. Lawrence - Lady Chatterley’s Lover</title>
+    <id>urn:ebook-search:book:D. H. Lawrence - Lady Chatterley’s Lover</id>
+    <updated>2026-02-20T13:52:15.466508Z</updated>
+    <link href="../../d/D. H. Lawrence - Lady Chatterley’s Lover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>D. H. Lawrence</name>
+    </author>
+  </entry>
+  <entry>
+    <title>D. H. Lawrence - Sons and Lovers</title>
+    <id>urn:ebook-search:book:D. H. Lawrence - Sons and Lovers</id>
+    <updated>2026-02-20T13:52:15.466508Z</updated>
+    <link href="../../d/D. H. Lawrence - Sons and Lovers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>D. H. Lawrence</name>
+    </author>
+  </entry>
+  <entry>
+    <title>D. H. Lawrence - The Lost Girl</title>
+    <id>urn:ebook-search:book:D. H. Lawrence - The Lost Girl</id>
+    <updated>2026-02-20T13:52:15.466508Z</updated>
+    <link href="../../d/D. H. Lawrence - The Lost Girl.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>D. H. Lawrence</name>
+    </author>
+  </entry>
+  <entry>
+    <title>D. H. Lawrence - The Rainbow</title>
+    <id>urn:ebook-search:book:D. H. Lawrence - The Rainbow</id>
+    <updated>2026-02-20T13:52:15.466508Z</updated>
+    <link href="../../d/D. H. Lawrence - The Rainbow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>D. H. Lawrence</name>
+    </author>
+  </entry>
+  <entry>
+    <title>D. H. Lawrence - Women in Love</title>
+    <id>urn:ebook-search:book:D. H. Lawrence - Women in Love</id>
+    <updated>2026-02-20T13:52:15.466508Z</updated>
+    <link href="../../d/D. H. Lawrence - Women in Love.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>D. H. Lawrence</name>
+    </author>
+  </entry>
+</feed>

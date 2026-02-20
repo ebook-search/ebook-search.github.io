@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>H. de Vere Stacpoole</title>
+  <id>urn:ebook-search:author:H. de Vere Stacpoole</id>
+  <updated>2026-02-20T13:52:15.468805Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>H. de Vere Stacpoole - The Blue Lagoon</title>
+    <id>urn:ebook-search:book:H. de Vere Stacpoole - The Blue Lagoon</id>
+    <updated>2026-02-20T13:52:15.468805Z</updated>
+    <link href="../../d/H. de Vere Stacpoole - The Blue Lagoon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>H. de Vere Stacpoole</name>
+    </author>
+  </entry>
+</feed>

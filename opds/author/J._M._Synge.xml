@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>J. M. Synge</title>
+  <id>urn:ebook-search:author:J. M. Synge</id>
+  <updated>2026-02-20T13:52:15.469727Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>J. M. Synge - Short Plays</title>
+    <id>urn:ebook-search:book:J. M. Synge - Short Plays</id>
+    <updated>2026-02-20T13:52:15.469727Z</updated>
+    <link href="../../d/J. M. Synge - Short Plays.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. M. Synge</name>
+    </author>
+  </entry>
+  <entry>
+    <title>J. M. Synge - The Playboy of the Western World</title>
+    <id>urn:ebook-search:book:J. M. Synge - The Playboy of the Western World</id>
+    <updated>2026-02-20T13:52:15.469727Z</updated>
+    <link href="../../d/J. M. Synge - The Playboy of the Western World.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. M. Synge</name>
+    </author>
+  </entry>
+  <entry>
+    <title>J. M. Synge - The Well of the Saints</title>
+    <id>urn:ebook-search:book:J. M. Synge - The Well of the Saints</id>
+    <updated>2026-02-20T13:52:15.469727Z</updated>
+    <link href="../../d/J. M. Synge - The Well of the Saints.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. M. Synge</name>
+    </author>
+  </entry>
+</feed>

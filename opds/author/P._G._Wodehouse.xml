@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>P. G. Wodehouse</title>
+  <id>urn:ebook-search:author:P. G. Wodehouse</id>
+  <updated>2026-02-20T13:52:15.465018Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>P. G. Wodehouse - A Damsel in Distress</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - A Damsel in Distress</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - A Damsel in Distress.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - A Gentleman of Leisure</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - A Gentleman of Leisure</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - A Gentleman of Leisure.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - A Prefect’s Uncle</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - A Prefect’s Uncle</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - A Prefect’s Uncle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - Golf Stories</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - Golf Stories</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - Golf Stories.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - Indiscretions of Archie</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - Indiscretions of Archie</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - Indiscretions of Archie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - Jeeves Stories</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - Jeeves Stories</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - Jeeves Stories.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - Leave It to Psmith</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - Leave It to Psmith</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - Leave It to Psmith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - Love Among the Chickens</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - Love Among the Chickens</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - Love Among the Chickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - Mike</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - Mike</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - Mike.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - Mr. Mulliner Stories</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - Mr. Mulliner Stories</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - Mr. Mulliner Stories.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - Piccadilly Jim</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - Piccadilly Jim</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - Piccadilly Jim.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - Psmith in the City</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - Psmith in the City</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - Psmith in the City.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - Psmith, Journalist</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - Psmith, Journalist</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - Psmith, Journalist.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - Right Ho, Jeeves</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - Right Ho, Jeeves</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - Right Ho, Jeeves.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - School Stories</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - School Stories</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - School Stories.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - Short Fiction</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - Short Fiction</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - Something New</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - Something New</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - Something New.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - The Coming of Bill</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - The Coming of Bill</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - The Coming of Bill.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - The Gold Bat</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - The Gold Bat</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - The Gold Bat.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - The Head of Kay’s</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - The Head of Kay’s</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - The Head of Kay’s.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - The Little Nugget</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - The Little Nugget</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - The Little Nugget.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - The Pothunters</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - The Pothunters</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - The Pothunters.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - The Small Bachelor</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - The Small Bachelor</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - The Small Bachelor.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - The White Feather</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - The White Feather</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - The White Feather.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - Ukridge Stories</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - Ukridge Stories</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - Ukridge Stories.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+  <entry>
+    <title>P. G. Wodehouse - Uneasy Money</title>
+    <id>urn:ebook-search:book:P. G. Wodehouse - Uneasy Money</id>
+    <updated>2026-02-20T13:52:15.465018Z</updated>
+    <link href="../../d/P. G. Wodehouse - Uneasy Money.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>P. G. Wodehouse</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Thomas De Quincey</title>
+  <id>urn:ebook-search:author:Thomas De Quincey</id>
+  <updated>2026-02-20T13:52:15.479226Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Thomas De Quincey - Confessions of an English Opium-Eater</title>
+    <id>urn:ebook-search:book:Thomas De Quincey - Confessions of an English Opium-Eater</id>
+    <updated>2026-02-20T13:52:15.479226Z</updated>
+    <link href="../../d/Thomas De Quincey - Confessions of an English Opium-Eater.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Thomas De Quincey</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Thomas De Quincey - Suspiria de Profundis</title>
+    <id>urn:ebook-search:book:Thomas De Quincey - Suspiria de Profundis</id>
+    <updated>2026-02-20T13:52:15.479226Z</updated>
+    <link href="../../d/Thomas De Quincey - Suspiria de Profundis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Thomas De Quincey</name>
+    </author>
+  </entry>
+</feed>

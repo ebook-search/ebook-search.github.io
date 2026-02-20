@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Clifford D. Simak</title>
+  <id>urn:ebook-search:author:Clifford D. Simak</id>
+  <updated>2026-02-20T13:52:15.464354Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Clifford D. Simak - Short Fiction</title>
+    <id>urn:ebook-search:book:Clifford D. Simak - Short Fiction</id>
+    <updated>2026-02-20T13:52:15.464354Z</updated>
+    <link href="../../d/Clifford D. Simak - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Clifford D. Simak</name>
+    </author>
+  </entry>
+</feed>

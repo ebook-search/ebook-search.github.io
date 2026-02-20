@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Alain-René Lesage</title>
+  <id>urn:ebook-search:author:Alain-René Lesage</id>
+  <updated>2026-02-20T13:52:15.473947Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Alain-René Lesage - Gil Blas</title>
+    <id>urn:ebook-search:book:Alain-René Lesage - Gil Blas</id>
+    <updated>2026-02-20T13:52:15.473947Z</updated>
+    <link href="../../d/Alain-René Lesage - Gil Blas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Alain-René Lesage</name>
+    </author>
+  </entry>
+</feed>

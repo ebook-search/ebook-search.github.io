@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Khalil Gibran</title>
+  <id>urn:ebook-search:author:Khalil Gibran</id>
+  <updated>2026-02-20T13:52:15.477399Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Khalil Gibran - The Forerunner</title>
+    <id>urn:ebook-search:book:Khalil Gibran - The Forerunner</id>
+    <updated>2026-02-20T13:52:15.477399Z</updated>
+    <link href="../../d/Khalil Gibran - The Forerunner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Khalil Gibran</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Khalil Gibran - The Madman</title>
+    <id>urn:ebook-search:book:Khalil Gibran - The Madman</id>
+    <updated>2026-02-20T13:52:15.477399Z</updated>
+    <link href="../../d/Khalil Gibran - The Madman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Khalil Gibran</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Khalil Gibran - The Prophet</title>
+    <id>urn:ebook-search:book:Khalil Gibran - The Prophet</id>
+    <updated>2026-02-20T13:52:15.477399Z</updated>
+    <link href="../../d/Khalil Gibran - The Prophet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Khalil Gibran</name>
+    </author>
+  </entry>
+</feed>

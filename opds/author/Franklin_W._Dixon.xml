@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Franklin W. Dixon</title>
+  <id>urn:ebook-search:author:Franklin W. Dixon</id>
+  <updated>2026-02-20T13:52:15.465631Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Franklin W. Dixon - Hunting for Hidden Gold</title>
+    <id>urn:ebook-search:book:Franklin W. Dixon - Hunting for Hidden Gold</id>
+    <updated>2026-02-20T13:52:15.465631Z</updated>
+    <link href="../../d/Franklin W. Dixon - Hunting for Hidden Gold.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Franklin W. Dixon</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Franklin W. Dixon - The House on the Cliff</title>
+    <id>urn:ebook-search:book:Franklin W. Dixon - The House on the Cliff</id>
+    <updated>2026-02-20T13:52:15.465631Z</updated>
+    <link href="../../d/Franklin W. Dixon - The House on the Cliff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Franklin W. Dixon</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Franklin W. Dixon - The Missing Chums</title>
+    <id>urn:ebook-search:book:Franklin W. Dixon - The Missing Chums</id>
+    <updated>2026-02-20T13:52:15.465631Z</updated>
+    <link href="../../d/Franklin W. Dixon - The Missing Chums.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Franklin W. Dixon</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Franklin W. Dixon - The Mystery of Cabin Island</title>
+    <id>urn:ebook-search:book:Franklin W. Dixon - The Mystery of Cabin Island</id>
+    <updated>2026-02-20T13:52:15.465631Z</updated>
+    <link href="../../d/Franklin W. Dixon - The Mystery of Cabin Island.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Franklin W. Dixon</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Franklin W. Dixon - The Secret of the Caves</title>
+    <id>urn:ebook-search:book:Franklin W. Dixon - The Secret of the Caves</id>
+    <updated>2026-02-20T13:52:15.465631Z</updated>
+    <link href="../../d/Franklin W. Dixon - The Secret of the Caves.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Franklin W. Dixon</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Franklin W. Dixon - The Secret of the Old Mill</title>
+    <id>urn:ebook-search:book:Franklin W. Dixon - The Secret of the Old Mill</id>
+    <updated>2026-02-20T13:52:15.465631Z</updated>
+    <link href="../../d/Franklin W. Dixon - The Secret of the Old Mill.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Franklin W. Dixon</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Franklin W. Dixon - The Shore Road Mystery</title>
+    <id>urn:ebook-search:book:Franklin W. Dixon - The Shore Road Mystery</id>
+    <updated>2026-02-20T13:52:15.465631Z</updated>
+    <link href="../../d/Franklin W. Dixon - The Shore Road Mystery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Franklin W. Dixon</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Franklin W. Dixon - The Tower Treasure</title>
+    <id>urn:ebook-search:book:Franklin W. Dixon - The Tower Treasure</id>
+    <updated>2026-02-20T13:52:15.465631Z</updated>
+    <link href="../../d/Franklin W. Dixon - The Tower Treasure.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Franklin W. Dixon</name>
+    </author>
+  </entry>
+</feed>

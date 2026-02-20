@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Aristotle</title>
+  <id>urn:ebook-search:author:Aristotle</id>
+  <updated>2026-02-20T13:52:15.478011Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Aristotle - Nicomachean Ethics</title>
+    <id>urn:ebook-search:book:Aristotle - Nicomachean Ethics</id>
+    <updated>2026-02-20T13:52:15.478011Z</updated>
+    <link href="../../d/Aristotle - Nicomachean Ethics.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Aristotle</name>
+    </author>
+  </entry>
+</feed>

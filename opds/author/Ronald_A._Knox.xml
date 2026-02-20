@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Ronald A. Knox</title>
+  <id>urn:ebook-search:author:Ronald A. Knox</id>
+  <updated>2026-02-20T13:52:15.466179Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Ronald A. Knox - The Footsteps at the Lock</title>
+    <id>urn:ebook-search:book:Ronald A. Knox - The Footsteps at the Lock</id>
+    <updated>2026-02-20T13:52:15.466179Z</updated>
+    <link href="../../d/Ronald A. Knox - The Footsteps at the Lock.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ronald A. Knox</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ronald A. Knox - The Three Taps</title>
+    <id>urn:ebook-search:book:Ronald A. Knox - The Three Taps</id>
+    <updated>2026-02-20T13:52:15.466179Z</updated>
+    <link href="../../d/Ronald A. Knox - The Three Taps.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ronald A. Knox</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ronald A. Knox - The Viaduct Murder</title>
+    <id>urn:ebook-search:book:Ronald A. Knox - The Viaduct Murder</id>
+    <updated>2026-02-20T13:52:15.466179Z</updated>
+    <link href="../../d/Ronald A. Knox - The Viaduct Murder.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ronald A. Knox</name>
+    </author>
+  </entry>
+</feed>

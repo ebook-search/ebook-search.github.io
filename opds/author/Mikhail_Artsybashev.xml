@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Mikhail Artsybashev</title>
+  <id>urn:ebook-search:author:Mikhail Artsybashev</id>
+  <updated>2026-02-20T13:52:15.475495Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Mikhail Artsybashev - Sanine</title>
+    <id>urn:ebook-search:book:Mikhail Artsybashev - Sanine</id>
+    <updated>2026-02-20T13:52:15.475495Z</updated>
+    <link href="../../d/Mikhail Artsybashev - Sanine.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Mikhail Artsybashev</name>
+    </author>
+  </entry>
+</feed>

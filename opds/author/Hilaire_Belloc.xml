@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Hilaire Belloc</title>
+  <id>urn:ebook-search:author:Hilaire Belloc</id>
+  <updated>2026-02-20T13:52:15.472139Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Hilaire Belloc - The Four Men</title>
+    <id>urn:ebook-search:book:Hilaire Belloc - The Four Men</id>
+    <updated>2026-02-20T13:52:15.472139Z</updated>
+    <link href="../../d/Hilaire Belloc - The Four Men.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Hilaire Belloc</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Hilaire Belloc - The Mercy of Allah</title>
+    <id>urn:ebook-search:book:Hilaire Belloc - The Mercy of Allah</id>
+    <updated>2026-02-20T13:52:15.472139Z</updated>
+    <link href="../../d/Hilaire Belloc - The Mercy of Allah.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Hilaire Belloc</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Hilaire Belloc - The Path to Rome</title>
+    <id>urn:ebook-search:book:Hilaire Belloc - The Path to Rome</id>
+    <updated>2026-02-20T13:52:15.472139Z</updated>
+    <link href="../../d/Hilaire Belloc - The Path to Rome.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Hilaire Belloc</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Hilaire Belloc - The Servile State</title>
+    <id>urn:ebook-search:book:Hilaire Belloc - The Servile State</id>
+    <updated>2026-02-20T13:52:15.472139Z</updated>
+    <link href="../../d/Hilaire Belloc - The Servile State.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Hilaire Belloc</name>
+    </author>
+  </entry>
+</feed>

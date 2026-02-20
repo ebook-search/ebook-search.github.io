@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Frank Norris</title>
+  <id>urn:ebook-search:author:Frank Norris</id>
+  <updated>2026-02-20T13:52:15.463594Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Frank Norris - McTeague</title>
+    <id>urn:ebook-search:book:Frank Norris - McTeague</id>
+    <updated>2026-02-20T13:52:15.463594Z</updated>
+    <link href="../../d/Frank Norris - McTeague.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Frank Norris</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Frank Norris - The Octopus</title>
+    <id>urn:ebook-search:book:Frank Norris - The Octopus</id>
+    <updated>2026-02-20T13:52:15.463594Z</updated>
+    <link href="../../d/Frank Norris - The Octopus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Frank Norris</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Frank Norris - The Pit</title>
+    <id>urn:ebook-search:book:Frank Norris - The Pit</id>
+    <updated>2026-02-20T13:52:15.463594Z</updated>
+    <link href="../../d/Frank Norris - The Pit.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Frank Norris</name>
+    </author>
+  </entry>
+</feed>

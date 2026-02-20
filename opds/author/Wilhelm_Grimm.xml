@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Wilhelm Grimm</title>
+  <id>urn:ebook-search:author:Wilhelm Grimm</id>
+  <updated>2026-02-20T13:52:15.473871Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Jacob Grimm, Wilhelm Grimm - Household Tales</title>
+    <id>urn:ebook-search:book:Jacob Grimm, Wilhelm Grimm - Household Tales</id>
+    <updated>2026-02-20T13:52:15.473871Z</updated>
+    <link href="../../d/Jacob Grimm, Wilhelm Grimm - Household Tales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Wilhelm Grimm</name>
+    </author>
+  </entry>
+</feed>

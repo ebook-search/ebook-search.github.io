@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Rudyard Kipling</title>
+  <id>urn:ebook-search:author:Rudyard Kipling</id>
+  <updated>2026-02-20T13:52:15.478402Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Rudyard Kipling - Just So Stories</title>
+    <id>urn:ebook-search:book:Rudyard Kipling - Just So Stories</id>
+    <updated>2026-02-20T13:52:15.478402Z</updated>
+    <link href="../../d/Rudyard Kipling - Just So Stories.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Rudyard Kipling</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Rudyard Kipling - Kim</title>
+    <id>urn:ebook-search:book:Rudyard Kipling - Kim</id>
+    <updated>2026-02-20T13:52:15.478402Z</updated>
+    <link href="../../d/Rudyard Kipling - Kim.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Rudyard Kipling</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Rudyard Kipling - The Jungle Book</title>
+    <id>urn:ebook-search:book:Rudyard Kipling - The Jungle Book</id>
+    <updated>2026-02-20T13:52:15.478402Z</updated>
+    <link href="../../d/Rudyard Kipling - The Jungle Book.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Rudyard Kipling</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Fernando Pessoa</title>
+  <id>urn:ebook-search:author:Fernando Pessoa</id>
+  <updated>2026-02-20T13:52:15.470149Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Fernando Pessoa - Poetry</title>
+    <id>urn:ebook-search:book:Fernando Pessoa - Poetry</id>
+    <updated>2026-02-20T13:52:15.470149Z</updated>
+    <link href="../../d/Fernando Pessoa - Poetry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Fernando Pessoa</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Dorothy M. Richardson</title>
+  <id>urn:ebook-search:author:Dorothy M. Richardson</id>
+  <updated>2026-02-20T13:52:15.466670Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Dorothy M. Richardson - Backwater</title>
+    <id>urn:ebook-search:book:Dorothy M. Richardson - Backwater</id>
+    <updated>2026-02-20T13:52:15.466670Z</updated>
+    <link href="../../d/Dorothy M. Richardson - Backwater.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Dorothy M. Richardson</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Dorothy M. Richardson - Honeycomb</title>
+    <id>urn:ebook-search:book:Dorothy M. Richardson - Honeycomb</id>
+    <updated>2026-02-20T13:52:15.466670Z</updated>
+    <link href="../../d/Dorothy M. Richardson - Honeycomb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Dorothy M. Richardson</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Dorothy M. Richardson - Pointed Roofs</title>
+    <id>urn:ebook-search:book:Dorothy M. Richardson - Pointed Roofs</id>
+    <updated>2026-02-20T13:52:15.466670Z</updated>
+    <link href="../../d/Dorothy M. Richardson - Pointed Roofs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Dorothy M. Richardson</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Dorothy M. Richardson - The Tunnel</title>
+    <id>urn:ebook-search:book:Dorothy M. Richardson - The Tunnel</id>
+    <updated>2026-02-20T13:52:15.466670Z</updated>
+    <link href="../../d/Dorothy M. Richardson - The Tunnel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Dorothy M. Richardson</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Karl Gjellerup</title>
+  <id>urn:ebook-search:author:Karl Gjellerup</id>
+  <updated>2026-02-20T13:52:15.471901Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Karl Gjellerup - The Pilgrim Kamanita</title>
+    <id>urn:ebook-search:book:Karl Gjellerup - The Pilgrim Kamanita</id>
+    <updated>2026-02-20T13:52:15.471901Z</updated>
+    <link href="../../d/Karl Gjellerup - The Pilgrim Kamanita.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Karl Gjellerup</name>
+    </author>
+  </entry>
+</feed>

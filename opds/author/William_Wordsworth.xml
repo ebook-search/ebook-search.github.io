@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>William Wordsworth</title>
+  <id>urn:ebook-search:author:William Wordsworth</id>
+  <updated>2026-02-20T13:52:15.479534Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>William Wordsworth, Samuel Taylor Coleridge - Lyrical Ballads</title>
+    <id>urn:ebook-search:book:William Wordsworth, Samuel Taylor Coleridge - Lyrical Ballads</id>
+    <updated>2026-02-20T13:52:15.479534Z</updated>
+    <link href="../../d/William Wordsworth, Samuel Taylor Coleridge - Lyrical Ballads.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Wordsworth</name>
+    </author>
+  </entry>
+</feed>

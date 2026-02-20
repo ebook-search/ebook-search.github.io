@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Apollonius of Rhodes</title>
+  <id>urn:ebook-search:author:Apollonius of Rhodes</id>
+  <updated>2026-02-20T13:52:15.469141Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Apollonius of Rhodes - The Argonautica</title>
+    <id>urn:ebook-search:book:Apollonius of Rhodes - The Argonautica</id>
+    <updated>2026-02-20T13:52:15.469141Z</updated>
+    <link href="../../d/Apollonius of Rhodes - The Argonautica.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Apollonius of Rhodes</name>
+    </author>
+  </entry>
+</feed>

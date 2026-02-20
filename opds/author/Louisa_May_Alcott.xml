@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Louisa May Alcott</title>
+  <id>urn:ebook-search:author:Louisa May Alcott</id>
+  <updated>2026-02-20T13:52:15.469899Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Louisa May Alcott - Behind a Mask</title>
+    <id>urn:ebook-search:book:Louisa May Alcott - Behind a Mask</id>
+    <updated>2026-02-20T13:52:15.469899Z</updated>
+    <link href="../../d/Louisa May Alcott - Behind a Mask.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Louisa May Alcott</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Louisa May Alcott - Little Women</title>
+    <id>urn:ebook-search:book:Louisa May Alcott - Little Women</id>
+    <updated>2026-02-20T13:52:15.469899Z</updated>
+    <link href="../../d/Louisa May Alcott - Little Women.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Louisa May Alcott</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Edgar Saltus</title>
+  <id>urn:ebook-search:author:Edgar Saltus</id>
+  <updated>2026-02-20T13:52:15.468119Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Edgar Saltus - Mr. Incoul’s Misadventure</title>
+    <id>urn:ebook-search:book:Edgar Saltus - Mr. Incoul’s Misadventure</id>
+    <updated>2026-02-20T13:52:15.468119Z</updated>
+    <link href="../../d/Edgar Saltus - Mr. Incoul’s Misadventure.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Saltus</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Saltus - The Monster</title>
+    <id>urn:ebook-search:book:Edgar Saltus - The Monster</id>
+    <updated>2026-02-20T13:52:15.468119Z</updated>
+    <link href="../../d/Edgar Saltus - The Monster.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Saltus</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edgar Saltus - The Truth About Tristrem Varick</title>
+    <id>urn:ebook-search:book:Edgar Saltus - The Truth About Tristrem Varick</id>
+    <updated>2026-02-20T13:52:15.468119Z</updated>
+    <link href="../../d/Edgar Saltus - The Truth About Tristrem Varick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edgar Saltus</name>
+    </author>
+  </entry>
+</feed>

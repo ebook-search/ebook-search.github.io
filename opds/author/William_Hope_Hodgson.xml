@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>William Hope Hodgson</title>
+  <id>urn:ebook-search:author:William Hope Hodgson</id>
+  <updated>2026-02-20T13:52:15.476564Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>William Hope Hodgson - The House on the Borderland</title>
+    <id>urn:ebook-search:book:William Hope Hodgson - The House on the Borderland</id>
+    <updated>2026-02-20T13:52:15.476564Z</updated>
+    <link href="../../d/William Hope Hodgson - The House on the Borderland.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Hope Hodgson</name>
+    </author>
+  </entry>
+  <entry>
+    <title>William Hope Hodgson - The Night Land</title>
+    <id>urn:ebook-search:book:William Hope Hodgson - The Night Land</id>
+    <updated>2026-02-20T13:52:15.476564Z</updated>
+    <link href="../../d/William Hope Hodgson - The Night Land.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>William Hope Hodgson</name>
+    </author>
+  </entry>
+</feed>

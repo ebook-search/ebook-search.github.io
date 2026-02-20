@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Charles Beaumont</title>
+  <id>urn:ebook-search:author:Charles Beaumont</id>
+  <updated>2026-02-20T13:52:15.464126Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Charles Beaumont - Short Fiction</title>
+    <id>urn:ebook-search:book:Charles Beaumont - Short Fiction</id>
+    <updated>2026-02-20T13:52:15.464126Z</updated>
+    <link href="../../d/Charles Beaumont - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Charles Beaumont</name>
+    </author>
+  </entry>
+</feed>

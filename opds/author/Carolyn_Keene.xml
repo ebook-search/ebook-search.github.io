@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Carolyn Keene</title>
+  <id>urn:ebook-search:author:Carolyn Keene</id>
+  <updated>2026-02-20T13:52:15.462662Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Carolyn Keene - The Bungalow Mystery</title>
+    <id>urn:ebook-search:book:Carolyn Keene - The Bungalow Mystery</id>
+    <updated>2026-02-20T13:52:15.462662Z</updated>
+    <link href="../../d/Carolyn Keene - The Bungalow Mystery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Carolyn Keene</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Carolyn Keene - The Hidden Staircase</title>
+    <id>urn:ebook-search:book:Carolyn Keene - The Hidden Staircase</id>
+    <updated>2026-02-20T13:52:15.462662Z</updated>
+    <link href="../../d/Carolyn Keene - The Hidden Staircase.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Carolyn Keene</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Carolyn Keene - The Mystery at Lilac Inn</title>
+    <id>urn:ebook-search:book:Carolyn Keene - The Mystery at Lilac Inn</id>
+    <updated>2026-02-20T13:52:15.462662Z</updated>
+    <link href="../../d/Carolyn Keene - The Mystery at Lilac Inn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Carolyn Keene</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Carolyn Keene - The Secret of the Old Clock</title>
+    <id>urn:ebook-search:book:Carolyn Keene - The Secret of the Old Clock</id>
+    <updated>2026-02-20T13:52:15.462662Z</updated>
+    <link href="../../d/Carolyn Keene - The Secret of the Old Clock.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Carolyn Keene</name>
+    </author>
+  </entry>
+</feed>

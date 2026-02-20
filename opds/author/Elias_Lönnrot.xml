@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Elias Lönnrot</title>
+  <id>urn:ebook-search:author:Elias Lönnrot</id>
+  <updated>2026-02-20T13:52:15.473895Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Elias Lönnrot - The Kalevala</title>
+    <id>urn:ebook-search:book:Elias Lönnrot - The Kalevala</id>
+    <updated>2026-02-20T13:52:15.473895Z</updated>
+    <link href="../../d/Elias Lönnrot - The Kalevala.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Elias Lönnrot</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Jack Black</title>
+  <id>urn:ebook-search:author:Jack Black</id>
+  <updated>2026-02-20T13:52:15.472684Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Jack Black - You Can’t Win</title>
+    <id>urn:ebook-search:book:Jack Black - You Can’t Win</id>
+    <updated>2026-02-20T13:52:15.472684Z</updated>
+    <link href="../../d/Jack Black - You Can’t Win.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jack Black</name>
+    </author>
+  </entry>
+</feed>

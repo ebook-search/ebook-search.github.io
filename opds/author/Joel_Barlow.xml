@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Joel Barlow</title>
+  <id>urn:ebook-search:author:Joel Barlow</id>
+  <updated>2026-02-20T13:52:15.465465Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Joel Barlow - The Columbiad</title>
+    <id>urn:ebook-search:book:Joel Barlow - The Columbiad</id>
+    <updated>2026-02-20T13:52:15.465465Z</updated>
+    <link href="../../d/Joel Barlow - The Columbiad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Joel Barlow</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Frederik Pohl</title>
+  <id>urn:ebook-search:author:Frederik Pohl</id>
+  <updated>2026-02-20T13:52:15.469790Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Frederik Pohl - Plague of Pythons</title>
+    <id>urn:ebook-search:book:Frederik Pohl - Plague of Pythons</id>
+    <updated>2026-02-20T13:52:15.469790Z</updated>
+    <link href="../../d/Frederik Pohl - Plague of Pythons.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Frederik Pohl</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Frederik Pohl - Short Fiction</title>
+    <id>urn:ebook-search:book:Frederik Pohl - Short Fiction</id>
+    <updated>2026-02-20T13:52:15.469790Z</updated>
+    <link href="../../d/Frederik Pohl - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Frederik Pohl</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Frederik Pohl, C. M. Kornbluth - Search the Sky</title>
+    <id>urn:ebook-search:book:Frederik Pohl, C. M. Kornbluth - Search the Sky</id>
+    <updated>2026-02-20T13:52:15.469790Z</updated>
+    <link href="../../d/Frederik Pohl, C. M. Kornbluth - Search the Sky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Frederik Pohl</name>
+    </author>
+  </entry>
+</feed>

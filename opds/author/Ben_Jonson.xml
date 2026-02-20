@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Ben Jonson</title>
+  <id>urn:ebook-search:author:Ben Jonson</id>
+  <updated>2026-02-20T13:52:15.477677Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Ben Jonson - The Alchemist</title>
+    <id>urn:ebook-search:book:Ben Jonson - The Alchemist</id>
+    <updated>2026-02-20T13:52:15.477677Z</updated>
+    <link href="../../d/Ben Jonson - The Alchemist.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ben Jonson</name>
+    </author>
+  </entry>
+</feed>

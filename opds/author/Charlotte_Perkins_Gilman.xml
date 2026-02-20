@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Charlotte Perkins Gilman</title>
+  <id>urn:ebook-search:author:Charlotte Perkins Gilman</id>
+  <updated>2026-02-20T13:52:15.475330Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Charlotte Perkins Gilman - Herland</title>
+    <id>urn:ebook-search:book:Charlotte Perkins Gilman - Herland</id>
+    <updated>2026-02-20T13:52:15.475330Z</updated>
+    <link href="../../d/Charlotte Perkins Gilman - Herland.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Charlotte Perkins Gilman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Charlotte Perkins Gilman - Women and Economics</title>
+    <id>urn:ebook-search:book:Charlotte Perkins Gilman - Women and Economics</id>
+    <updated>2026-02-20T13:52:15.475330Z</updated>
+    <link href="../../d/Charlotte Perkins Gilman - Women and Economics.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Charlotte Perkins Gilman</name>
+    </author>
+  </entry>
+</feed>

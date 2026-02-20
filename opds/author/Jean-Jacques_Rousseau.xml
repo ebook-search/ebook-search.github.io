@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Jean-Jacques Rousseau</title>
+  <id>urn:ebook-search:author:Jean-Jacques Rousseau</id>
+  <updated>2026-02-20T13:52:15.468222Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Jean-Jacques Rousseau - The Social Contract</title>
+    <id>urn:ebook-search:book:Jean-Jacques Rousseau - The Social Contract</id>
+    <updated>2026-02-20T13:52:15.468222Z</updated>
+    <link href="../../d/Jean-Jacques Rousseau - The Social Contract.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Jean-Jacques Rousseau</name>
+    </author>
+  </entry>
+</feed>

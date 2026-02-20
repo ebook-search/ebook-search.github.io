@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Martin Andersen Nexø</title>
+  <id>urn:ebook-search:author:Martin Andersen Nexø</id>
+  <updated>2026-02-20T13:52:15.474618Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Martin Andersen Nexø - Pelle the Conqueror</title>
+    <id>urn:ebook-search:book:Martin Andersen Nexø - Pelle the Conqueror</id>
+    <updated>2026-02-20T13:52:15.474618Z</updated>
+    <link href="../../d/Martin Andersen Nexø - Pelle the Conqueror.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Martin Andersen Nexø</name>
+    </author>
+  </entry>
+</feed>

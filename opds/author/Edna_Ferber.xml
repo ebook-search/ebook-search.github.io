@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Edna Ferber</title>
+  <id>urn:ebook-search:author:Edna Ferber</id>
+  <updated>2026-02-20T13:52:15.462577Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Edna Ferber - Cimarron</title>
+    <id>urn:ebook-search:book:Edna Ferber - Cimarron</id>
+    <updated>2026-02-20T13:52:15.462577Z</updated>
+    <link href="../../d/Edna Ferber - Cimarron.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edna Ferber</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Edna Ferber - So Big</title>
+    <id>urn:ebook-search:book:Edna Ferber - So Big</id>
+    <updated>2026-02-20T13:52:15.462577Z</updated>
+    <link href="../../d/Edna Ferber - So Big.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Edna Ferber</name>
+    </author>
+  </entry>
+</feed>

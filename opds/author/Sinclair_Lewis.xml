@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Sinclair Lewis</title>
+  <id>urn:ebook-search:author:Sinclair Lewis</id>
+  <updated>2026-02-20T13:52:15.467052Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Sinclair Lewis - Arrowsmith</title>
+    <id>urn:ebook-search:book:Sinclair Lewis - Arrowsmith</id>
+    <updated>2026-02-20T13:52:15.467052Z</updated>
+    <link href="../../d/Sinclair Lewis - Arrowsmith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Sinclair Lewis</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Sinclair Lewis - Babbitt</title>
+    <id>urn:ebook-search:book:Sinclair Lewis - Babbitt</id>
+    <updated>2026-02-20T13:52:15.467052Z</updated>
+    <link href="../../d/Sinclair Lewis - Babbitt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Sinclair Lewis</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Sinclair Lewis - Dodsworth</title>
+    <id>urn:ebook-search:book:Sinclair Lewis - Dodsworth</id>
+    <updated>2026-02-20T13:52:15.467052Z</updated>
+    <link href="../../d/Sinclair Lewis - Dodsworth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Sinclair Lewis</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Sinclair Lewis - Elmer Gantry</title>
+    <id>urn:ebook-search:book:Sinclair Lewis - Elmer Gantry</id>
+    <updated>2026-02-20T13:52:15.467052Z</updated>
+    <link href="../../d/Sinclair Lewis - Elmer Gantry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Sinclair Lewis</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Sinclair Lewis - Main Street</title>
+    <id>urn:ebook-search:book:Sinclair Lewis - Main Street</id>
+    <updated>2026-02-20T13:52:15.467052Z</updated>
+    <link href="../../d/Sinclair Lewis - Main Street.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Sinclair Lewis</name>
+    </author>
+  </entry>
+</feed>

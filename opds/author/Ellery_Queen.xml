@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Ellery Queen</title>
+  <id>urn:ebook-search:author:Ellery Queen</id>
+  <updated>2026-02-20T13:52:15.464784Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>Ellery Queen - The Roman Hat Mystery</title>
+    <id>urn:ebook-search:book:Ellery Queen - The Roman Hat Mystery</id>
+    <updated>2026-02-20T13:52:15.464784Z</updated>
+    <link href="../../d/Ellery Queen - The Roman Hat Mystery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>Ellery Queen</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>John Dewey</title>
+  <id>urn:ebook-search:author:John Dewey</id>
+  <updated>2026-02-20T13:52:15.469820Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>John Dewey - Democracy and Education</title>
+    <id>urn:ebook-search:book:John Dewey - Democracy and Education</id>
+    <updated>2026-02-20T13:52:15.469820Z</updated>
+    <link href="../../d/John Dewey - Democracy and Education.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>John Dewey</name>
+    </author>
+  </entry>
+  <entry>
+    <title>John Dewey - Human Nature and Conduct</title>
+    <id>urn:ebook-search:book:John Dewey - Human Nature and Conduct</id>
+    <updated>2026-02-20T13:52:15.469820Z</updated>
+    <link href="../../d/John Dewey - Human Nature and Conduct.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>John Dewey</name>
+    </author>
+  </entry>
+  <entry>
+    <title>John Dewey - The Public and Its Problems</title>
+    <id>urn:ebook-search:book:John Dewey - The Public and Its Problems</id>
+    <updated>2026-02-20T13:52:15.469820Z</updated>
+    <link href="../../d/John Dewey - The Public and Its Problems.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>John Dewey</name>
+    </author>
+  </entry>
+</feed>

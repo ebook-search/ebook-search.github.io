@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>J. S. Fletcher</title>
+  <id>urn:ebook-search:author:J. S. Fletcher</id>
+  <updated>2026-02-20T13:52:15.464065Z</updated>
+  <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <title>J. S. Fletcher - Scarhaven Keep</title>
+    <id>urn:ebook-search:book:J. S. Fletcher - Scarhaven Keep</id>
+    <updated>2026-02-20T13:52:15.464065Z</updated>
+    <link href="../../d/J. S. Fletcher - Scarhaven Keep.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. S. Fletcher</name>
+    </author>
+  </entry>
+  <entry>
+    <title>J. S. Fletcher - The Borough Treasurer</title>
+    <id>urn:ebook-search:book:J. S. Fletcher - The Borough Treasurer</id>
+    <updated>2026-02-20T13:52:15.464065Z</updated>
+    <link href="../../d/J. S. Fletcher - The Borough Treasurer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. S. Fletcher</name>
+    </author>
+  </entry>
+  <entry>
+    <title>J. S. Fletcher - The Charing Cross Mystery</title>
+    <id>urn:ebook-search:book:J. S. Fletcher - The Charing Cross Mystery</id>
+    <updated>2026-02-20T13:52:15.464065Z</updated>
+    <link href="../../d/J. S. Fletcher - The Charing Cross Mystery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. S. Fletcher</name>
+    </author>
+  </entry>
+  <entry>
+    <title>J. S. Fletcher - The Middle Temple Murder</title>
+    <id>urn:ebook-search:book:J. S. Fletcher - The Middle Temple Murder</id>
+    <updated>2026-02-20T13:52:15.464065Z</updated>
+    <link href="../../d/J. S. Fletcher - The Middle Temple Murder.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. S. Fletcher</name>
+    </author>
+  </entry>
+  <entry>
+    <title>J. S. Fletcher - The Middle of Things</title>
+    <id>urn:ebook-search:book:J. S. Fletcher - The Middle of Things</id>
+    <updated>2026-02-20T13:52:15.464065Z</updated>
+    <link href="../../d/J. S. Fletcher - The Middle of Things.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. S. Fletcher</name>
+    </author>
+  </entry>
+  <entry>
+    <title>J. S. Fletcher - The Paradise Mystery</title>
+    <id>urn:ebook-search:book:J. S. Fletcher - The Paradise Mystery</id>
+    <updated>2026-02-20T13:52:15.464065Z</updated>
+    <link href="../../d/J. S. Fletcher - The Paradise Mystery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. S. Fletcher</name>
+    </author>
+  </entry>
+  <entry>
+    <title>J. S. Fletcher - The Talleyrand Maxim</title>
+    <id>urn:ebook-search:book:J. S. Fletcher - The Talleyrand Maxim</id>
+    <updated>2026-02-20T13:52:15.464065Z</updated>
+    <link href="../../d/J. S. Fletcher - The Talleyrand Maxim.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. S. Fletcher</name>
+    </author>
+  </entry>
+  <entry>
+    <title>J. S. Fletcher - When Charles the First Was King</title>
+    <id>urn:ebook-search:book:J. S. Fletcher - When Charles the First Was King</id>
+    <updated>2026-02-20T13:52:15.464065Z</updated>
+    <link href="../../d/J. S. Fletcher - When Charles the First Was King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <author>
+      <name>J. S. Fletcher</name>
+    </author>
+  </entry>
+</feed>
