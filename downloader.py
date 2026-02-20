@@ -14,9 +14,10 @@ def main():
     parser = ArgumentParser()
     parser.add_argument("--all", action="store_true", help="Download everything")
     parser.add_argument("-o", "--output", default=".", help="downloads path")
+    parser.add_argument("--db", default="db", help="db path")
     args = parser.parse_args()
 
-    db = Database.load("db")
+    db = Database.load(args.db)
 
     output_path = Path(args.output)
 

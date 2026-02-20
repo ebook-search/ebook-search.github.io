@@ -1,15 +1,20 @@
 from fetchers import Database, MetaSource
+from argparse import ArgumentParser
 from collections import defaultdict
 from xml.sax.saxutils import escape
 from datetime import datetime
 import os
-
 
 ATOM_NS = "http://www.w3.org/2005/Atom"
 OPDS_NS = "http://opds-spec.org/2010/catalog"
 CATALOG_MEDIA_TYPE = "application/atom+xml;profile=opds-catalog"
 EPUB_MEDIA_TYPE = "application/epub+zip"
 ACQUISITION_REL = "http://opds-spec.org/acquisition"
+
+parser = ArgumentParser()
+parser.add_argument("-o", "--output", default="web/opds", help="downloads path")
+parser.add_argument("--db", default="db", help="db path")
+args = parser.parse_args()
 
 def group_books_by_author(db):
     books_by_author = defaultdict(list)
@@ -104,26 +109,26 @@ def make_source_feed(source, books):
 {chr(10).join(entries)}
 </feed>"""
 
-db = Database.load("db")
+db = Database.load(args.db)
 
 books_by_author = group_books_by_author(db)
 books_by_source = group_books_by_source(db)
 
-os.makedirs("web/opds/author", exist_ok=True)
-os.makedirs("web/opds/source", exist_ok=True)
+os.makedirs(f"{args.output}/author", exist_ok=True)
+os.makedirs(f"{args.output}/source", exist_ok=True)
 
 nav_feed = make_nav_feed(books_by_author, "author")
-with open("web/opds/index.xml", "w", encoding="utf-8") as f:
+with open(f"{args.output}/index.xml", "w", encoding="utf-8") as f:
     f.write(nav_feed)
 
 for author, books in books_by_author.items():
     author_feed = make_author_feed(author, books)
     slug = slugify(author)
-    with open(f"web/opds/author/{slug}.xml", "w", encoding="utf-8") as f:
+    with open(f"{args.output}/author/{slug}.xml", "w", encoding="utf-8") as f:
         f.write(author_feed)
 
 for source, books in books_by_source.items():
     source_feed = make_source_feed(source, books)
     slug = source.name.lower()
-    with open(f"web/opds/source/{slug}.xml", "w", encoding="utf-8") as f:
+    with open(f"{args.output}/source/{slug}.xml", "w", encoding="utf-8") as f:
         f.write(source_feed)

@@ -7,6 +7,10 @@ on:
     branches: ["master"]
   workflow_dispatch:
 
+permissions:
+  contents: write
+  actions: write
+
 jobs:
   main:
     runs-on: ubuntu-latest
@@ -15,19 +19,29 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
-      - name: Cache DB
-        uses: MasterworksIO/action-local-cache@2.1.0
+      - name: Ensure that gh-pages exists
+        uses: mrtnvgr/create-orphan-branch@master
         with:
-          path: db
-          key: db
+          branch-name: gh-pages
+
+      - name: Checkout prod
+        uses: actions/checkout@v6
+        with:
+          ref: gh-pages
+          path: prod
 
       - name: Install requirements
         run: pip install -r requirements.txt
 
       - name: Update DB
-        run: python -u generate_db.py
+        run: python -u generate_db.py --db prod/db
+
+      - name: Commit to prod
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          repository: prod
 
       - name: Trigger "Download data"
         env:
-          GH_TOKEN: ${{ secrets.CLASSIC_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
         run: gh workflow run "Download data"

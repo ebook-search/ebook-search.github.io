@@ -3,6 +3,9 @@ name: Download data
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   main:
     runs-on: ubuntu-latest
@@ -11,37 +14,29 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
+      - name: Checkout prod
+        uses: actions/checkout@v6
+        with:
+          ref: gh-pages
+          path: prod
+
       - name: Install requirements
         run: |
           sudo apt-get install -y pandoc
           pip install -r requirements.txt
 
-      - name: Make cache directories
-        run: |
-          sudo mkdir -m 1777 -p /w
-          mkdir -p /w/d
-
-      - name: Cache DB
-        uses: MasterworksIO/action-local-cache@2.1.0
-        with:
-          path: db
-          key: db
-
-      - name: Cache data
-        uses: MasterworksIO/action-local-cache@2.1.0
-        with:
-          path: /w/d
-          key: data
-
       - name: Move everything to /w
-        run: mv web/* /w
+        run: mv web/* prod
 
       - name: Download all
         run: |
-          python -u downloader.py -o /w/d --all
-          mv db /w
+          python -u downloader.py --all --db prod/db -o prod/d
 
-      - name: Trigger "Deploy pages"
-        env:
-          GH_TOKEN: ${{ secrets.CLASSIC_TOKEN }}
-        run: gh workflow run "Deploy pages"
+      - name: Generate OPDS feeds
+        run: |
+          python generate_opds.py --db prod/db -o prod/opds
+
+      - name: Commit to prod
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          repository: prod
