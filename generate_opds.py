@@ -1,9 +1,10 @@
-from fetchers import Database, MetaSource
+from fetchers import Database, MetaSource, truncate_filename
 from argparse import ArgumentParser
 from collections import defaultdict
-from xml.sax.saxutils import escape
+from xml.etree import ElementTree as ET
 from datetime import datetime
-import os
+import logging
+from pathlib import Path
 
 ATOM_NS = "http://www.w3.org/2005/Atom"
 OPDS_NS = "http://opds-spec.org/2010/catalog"
@@ -11,9 +12,12 @@ CATALOG_MEDIA_TYPE = "application/atom+xml;profile=opds-catalog"
 EPUB_MEDIA_TYPE = "application/epub+zip"
 ACQUISITION_REL = "http://opds-spec.org/acquisition"
 
+ET.register_namespace("", ATOM_NS)
+ET.register_namespace("opds", OPDS_NS)
+
 parser = ArgumentParser()
-parser.add_argument("-o", "--output", default="web/opds", help="downloads path")
-parser.add_argument("--db", default="db", help="db path")
+parser.add_argument("-o", "--output", default="web/opds", help="output directory path")
+parser.add_argument("--db", default="db", help="database path")
 args = parser.parse_args()
 
 def group_books_by_author(db):
@@ -32,103 +36,118 @@ def group_books_by_source(db):
 def slugify(text):
     return text.replace("/", "-").replace(" ", "_")
 
-def make_nav_feed(groups, section_type):
-    links = []
+def create_feed_element(title, feed_id):
+    feed = ET.Element("feed", xmlns=ATOM_NS)
+    feed.set(f"{{{OPDS_NS}}}catalog", "yes")
+
+    title_elem = ET.SubElement(feed, "title")
+    title_elem.text = title
+
+    id_elem = ET.SubElement(feed, "id")
+    id_elem.text = feed_id
+
+    updated_elem = ET.SubElement(feed, "updated")
+    updated_elem.text = datetime.now().isoformat() + "Z"
+
+    return feed
+
+def add_book_entry(feed, title, author, filename):
+    entry = ET.SubElement(feed, "entry")
+
+    title_elem = ET.SubElement(entry, "title")
+    title_elem.text = title
+
+    id_elem = ET.SubElement(entry, "id")
+    id_elem.text = f"urn:ebook-search:book:{title}"
+
+    updated_elem = ET.SubElement(entry, "updated")
+    updated_elem.text = datetime.now().isoformat() + "Z"
+
+    link = ET.SubElement(entry, "link", href=f"../d/{filename}", type=EPUB_MEDIA_TYPE, rel=ACQUISITION_REL)
+
+    author_elem = ET.SubElement(entry, "author")
+    author_name = ET.SubElement(author_elem, "name")
+    author_name.text = author
+
+def feed_to_xml_string(feed):
+    xml_str = ET.tostring(feed, encoding="unicode")
+    return f'<?xml version="1.0" encoding="UTF-8"?>\n{xml_str}'
+
+def generate_author_feeds(output_dir, books_by_author):
+    author_dir = Path(output_dir) / "author"
+
+    shutil.rmtree(author_dir)
+    author_dir.mkdir(parents=True, exist_ok=True)
+
+    for author, books in books_by_author.items():
+        feed = create_feed_element(author, f"urn:ebook-search:author:{author}")
+
+        ET.SubElement(feed, "link", rel="start", href="../index.xml", type=CATALOG_MEDIA_TYPE)
+        ET.SubElement(feed, "link", rel="up", href="../index.xml", type=CATALOG_MEDIA_TYPE)
+
+        for title, meta in sorted(books, key=lambda x: x[0]):
+            filename = truncate_filename(f"{title}.epub")
+            add_book_entry(feed, title, author, filename)
+
+        slug = slugify(author)
+        output_file = author_dir / f"{slug}.xml"
+
+        with open(output_file, "w", encoding="utf-8") as f:
+            f.write(feed_to_xml_string(feed))
+
+        print(f"Generated author feed: {output_file}")
+
+def generate_source_feeds(output_dir, books_by_source):
+    source_dir = Path(output_dir) / "source"
+
+    shutil.rmtree(source_dir)
+    source_dir.mkdir(parents=True, exist_ok=True)
+
+    for source, books in books_by_source.items():
+        feed = create_feed_element(source.value, f"urn:ebook-search:source:{source.value}")
+
+        ET.SubElement(feed, "link", rel="start", href="../index.xml", type=CATALOG_MEDIA_TYPE)
+        ET.SubElement(feed, "link", rel="up", href="../index.xml", type=CATALOG_MEDIA_TYPE)
+
+        for title, meta in sorted(books, key=lambda x: x[0]):
+            filename = truncate_filename(f"{title}.epub")
+            author = ", ".join(meta.authors) if meta.authors else "Unknown"
+            add_book_entry(feed, title, author, filename)
+
+        slug = slugify(source.name)
+        output_file = source_dir / f"{slug}.xml"
+
+        with open(output_file, "w", encoding="utf-8") as f:
+            f.write(feed_to_xml_string(feed))
+
+        print(f"Generated source feed: {output_file}")
+
+def generate_nav_feed(output_file, groups, section_type):
+    feed = create_feed_element("Книги", "urn:ebook-search:nav")
+
+    ET.SubElement(feed, "link", rel="start", href="index.xml", type=CATALOG_MEDIA_TYPE)
+
     for name in sorted(groups.keys()):
         slug = slugify(name)
-        if section_type == "author":
-            href = f"author/{slug}.xml"
-        else:
-            href = f"source/{slug.lower()}.xml"
-        links.append(
-            f'  <link '
-            f'href="{href}" '
-            f'title="{escape(name)}" '
-            f'type="{CATALOG_MEDIA_TYPE}" '
-            f'rel="subsection"/>'
-        )
+        href = f"{section_type}/{slug}.xml"
+        ET.SubElement(feed, "link", href=href, title=name, type=CATALOG_MEDIA_TYPE, rel="subsection")
 
-    return f"""<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="{ATOM_NS}" xmlns:opds="{OPDS_NS}">
-  <title>Книги</title>
-  <id>urn:ebook-search:nav</id>
-  <updated>{datetime.now().isoformat()}Z</updated>
-  <link rel="start" href="index.xml" type="{CATALOG_MEDIA_TYPE}"/>
-{chr(10).join(links)}
-</feed>"""
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write(feed_to_xml_string(feed))
 
-
-def make_book_entry(title, author, filename, timestamp):
-    return f"""  <entry>
-    <title>{escape(title)}</title>
-    <id>urn:ebook-search:book:{escape(title)}</id>
-    <updated>{timestamp}</updated>
-    <link href="../../d/{escape(filename)}" type="{EPUB_MEDIA_TYPE}" rel="{ACQUISITION_REL}"/>
-    <author>
-      <name>{escape(author)}</name>
-    </author>
-  </entry>"""
-
-
-def make_author_feed(author, books):
-    timestamp = datetime.now().isoformat() + "Z"
-    slug = slugify(author)
-
-    entries = []
-    for title, _ in sorted(books, key=lambda x: x[0]):
-        filename = f"{title}.epub"
-        entries.append(make_book_entry(title, author, filename, timestamp))
-
-    return f"""<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="{ATOM_NS}" xmlns:opds="{OPDS_NS}">
-  <title>{escape(author)}</title>
-  <id>urn:ebook-search:author:{escape(author)}</id>
-  <updated>{timestamp}</updated>
-  <link rel="start" href="../index.xml" type="{CATALOG_MEDIA_TYPE}"/>
-  <link rel="up" href="../index.xml" type="{CATALOG_MEDIA_TYPE}"/>
-{chr(10).join(entries)}
-</feed>"""
-
-def make_source_feed(source, books):
-    timestamp = datetime.now().isoformat() + "Z"
-    slug = source.name.lower()
-
-    entries = []
-    for title, meta in sorted(books, key=lambda x: x[0]):
-        filename = f"{title}.epub"
-        author = ", ".join(meta.authors) if meta.authors else "Unknown"
-        entries.append(make_book_entry(title, author, filename, timestamp))
-
-    return f"""<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="{ATOM_NS}" xmlns:opds="{OPDS_NS}">
-  <title>{source.value}</title>
-  <id>urn:ebook-search:source:{source.value}</id>
-  <updated>{timestamp}</updated>
-  <link rel="start" href="../index.xml" type="{CATALOG_MEDIA_TYPE}"/>
-  <link rel="up" href="../index.xml" type="{CATALOG_MEDIA_TYPE}"/>
-{chr(10).join(entries)}
-</feed>"""
+    print(f"Generated navigation feed: {output_file}")
 
 db = Database.load(args.db)
+print(f"Loaded database from {args.db} ({len(db.books)} books)")
 
 books_by_author = group_books_by_author(db)
 books_by_source = group_books_by_source(db)
 
-os.makedirs(f"{args.output}/author", exist_ok=True)
-os.makedirs(f"{args.output}/source", exist_ok=True)
+output_dir = Path(args.output)
+output_dir.mkdir(parents=True, exist_ok=True)
 
-nav_feed = make_nav_feed(books_by_author, "author")
-with open(f"{args.output}/index.xml", "w", encoding="utf-8") as f:
-    f.write(nav_feed)
+generate_nav_feed(output_dir / "index.xml", books_by_author, "author")
+generate_author_feeds(output_dir, books_by_author)
+generate_source_feeds(output_dir, books_by_source)
 
-for author, books in books_by_author.items():
-    author_feed = make_author_feed(author, books)
-    slug = slugify(author)
-    with open(f"{args.output}/author/{slug}.xml", "w", encoding="utf-8") as f:
-        f.write(author_feed)
-
-for source, books in books_by_source.items():
-    source_feed = make_source_feed(source, books)
-    slug = source.name.lower()
-    with open(f"{args.output}/source/{slug}.xml", "w", encoding="utf-8") as f:
-        f.write(source_feed)
+print(f"OPDS generation complete: {len(books_by_author)} authors, {len(books_by_source)} sources")
