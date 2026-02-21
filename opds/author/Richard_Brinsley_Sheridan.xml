@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Richard Brinsley Sheridan</title>
   <id>urn:ebook-search:author:Richard Brinsley Sheridan</id>
-  <updated>2026-02-20T18:44:01.766619Z</updated>
+  <updated>2026-02-21T03:25:29.761412Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Richard Brinsley Sheridan - The School for Scandal</title>
     <id>urn:ebook-search:book:Richard Brinsley Sheridan - The School for Scandal</id>
-    <updated>2026-02-20T18:44:01.766619Z</updated>
+    <updated>2026-02-21T03:25:29.761412Z</updated>
     <link href="../../d/Richard Brinsley Sheridan - The School for Scandal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Richard Brinsley Sheridan</name>

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Aeschylus</title>
   <id>urn:ebook-search:author:Aeschylus</id>
-  <updated>2026-02-20T18:44:01.739477Z</updated>
+  <updated>2026-02-21T03:25:29.742415Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Aeschylus - Agamemnon</title>
     <id>urn:ebook-search:book:Aeschylus - Agamemnon</id>
-    <updated>2026-02-20T18:44:01.739477Z</updated>
+    <updated>2026-02-21T03:25:29.742415Z</updated>
     <link href="../../d/Aeschylus - Agamemnon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Aeschylus</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Aeschylus - The Eumenides</title>
     <id>urn:ebook-search:book:Aeschylus - The Eumenides</id>
-    <updated>2026-02-20T18:44:01.739477Z</updated>
+    <updated>2026-02-21T03:25:29.742415Z</updated>
     <link href="../../d/Aeschylus - The Eumenides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Aeschylus</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Aeschylus - The Libation Bearers</title>
     <id>urn:ebook-search:book:Aeschylus - The Libation Bearers</id>
-    <updated>2026-02-20T18:44:01.739477Z</updated>
+    <updated>2026-02-21T03:25:29.742415Z</updated>
     <link href="../../d/Aeschylus - The Libation Bearers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Aeschylus</name>

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Charles A. Lindbergh</title>
   <id>urn:ebook-search:author:Charles A. Lindbergh</id>
-  <updated>2026-02-20T18:44:01.719100Z</updated>
+  <updated>2026-02-21T03:25:29.728385Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Charles A. Lindbergh - “We”</title>
     <id>urn:ebook-search:book:Charles A. Lindbergh - “We”</id>
-    <updated>2026-02-20T18:44:01.719100Z</updated>
+    <updated>2026-02-21T03:25:29.728385Z</updated>
     <link href="../../d/Charles A. Lindbergh - “We”.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Charles A. Lindbergh</name>

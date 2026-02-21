@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Thomas Hughes</title>
   <id>urn:ebook-search:author:Thomas Hughes</id>
-  <updated>2026-02-20T18:44:01.734835Z</updated>
+  <updated>2026-02-21T03:25:29.739217Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Thomas Hughes - Tom Brown’s School Days</title>
     <id>urn:ebook-search:book:Thomas Hughes - Tom Brown’s School Days</id>
-    <updated>2026-02-20T18:44:01.734835Z</updated>
+    <updated>2026-02-21T03:25:29.739217Z</updated>
     <link href="../../d/Thomas Hughes - Tom Brown’s School Days.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Thomas Hughes</name>

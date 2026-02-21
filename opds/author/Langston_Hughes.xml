@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Langston Hughes</title>
   <id>urn:ebook-search:author:Langston Hughes</id>
-  <updated>2026-02-20T18:44:01.720382Z</updated>
+  <updated>2026-02-21T03:25:29.729396Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Langston Hughes - Not Without Laughter</title>
     <id>urn:ebook-search:book:Langston Hughes - Not Without Laughter</id>
-    <updated>2026-02-20T18:44:01.720382Z</updated>
+    <updated>2026-02-21T03:25:29.729396Z</updated>
     <link href="../../d/Langston Hughes - Not Without Laughter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Langston Hughes</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Langston Hughes - Poetry</title>
     <id>urn:ebook-search:book:Langston Hughes - Poetry</id>
-    <updated>2026-02-20T18:44:01.720382Z</updated>
+    <updated>2026-02-21T03:25:29.729396Z</updated>
     <link href="../../d/Langston Hughes - Poetry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Langston Hughes</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Langston Hughes, Zora Neale Hurston - The Mule-Bone</title>
     <id>urn:ebook-search:book:Langston Hughes, Zora Neale Hurston - The Mule-Bone</id>
-    <updated>2026-02-20T18:44:01.720382Z</updated>
+    <updated>2026-02-21T03:25:29.729396Z</updated>
     <link href="../../d/Langston Hughes, Zora Neale Hurston - The Mule-Bone.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Langston Hughes</name>

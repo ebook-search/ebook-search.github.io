@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>William Morris</title>
   <id>urn:ebook-search:author:William Morris</id>
-  <updated>2026-02-20T18:44:01.722367Z</updated>
+  <updated>2026-02-21T03:25:29.730840Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>William Morris - News from Nowhere</title>
     <id>urn:ebook-search:book:William Morris - News from Nowhere</id>
-    <updated>2026-02-20T18:44:01.722367Z</updated>
+    <updated>2026-02-21T03:25:29.730840Z</updated>
     <link href="../../d/William Morris - News from Nowhere.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>William Morris</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>William Morris - The House of the Wolfings</title>
     <id>urn:ebook-search:book:William Morris - The House of the Wolfings</id>
-    <updated>2026-02-20T18:44:01.722367Z</updated>
+    <updated>2026-02-21T03:25:29.730840Z</updated>
     <link href="../../d/William Morris - The House of the Wolfings.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>William Morris</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>William Morris - The Roots of the Mountains</title>
     <id>urn:ebook-search:book:William Morris - The Roots of the Mountains</id>
-    <updated>2026-02-20T18:44:01.722367Z</updated>
+    <updated>2026-02-21T03:25:29.730840Z</updated>
     <link href="../../d/William Morris - The Roots of the Mountains.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>William Morris</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>William Morris - The Water of the Wondrous Isles</title>
     <id>urn:ebook-search:book:William Morris - The Water of the Wondrous Isles</id>
-    <updated>2026-02-20T18:44:01.722367Z</updated>
+    <updated>2026-02-21T03:25:29.730840Z</updated>
     <link href="../../d/William Morris - The Water of the Wondrous Isles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>William Morris</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>William Morris - The Well at the World’s End</title>
     <id>urn:ebook-search:book:William Morris - The Well at the World’s End</id>
-    <updated>2026-02-20T18:44:01.722367Z</updated>
+    <updated>2026-02-21T03:25:29.730840Z</updated>
     <link href="../../d/William Morris - The Well at the World’s End.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>William Morris</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>William Morris - The Wood Beyond the World</title>
     <id>urn:ebook-search:book:William Morris - The Wood Beyond the World</id>
-    <updated>2026-02-20T18:44:01.722367Z</updated>
+    <updated>2026-02-21T03:25:29.730840Z</updated>
     <link href="../../d/William Morris - The Wood Beyond the World.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>William Morris</name>

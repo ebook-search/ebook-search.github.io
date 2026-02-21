@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Ovid</title>
   <id>urn:ebook-search:author:Ovid</id>
-  <updated>2026-02-20T18:44:01.753238Z</updated>
+  <updated>2026-02-21T03:25:29.751735Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Ovid - Metamorphoses</title>
     <id>urn:ebook-search:book:Ovid - Metamorphoses</id>
-    <updated>2026-02-20T18:44:01.753238Z</updated>
+    <updated>2026-02-21T03:25:29.751735Z</updated>
     <link href="../../d/Ovid - Metamorphoses.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ovid</name>

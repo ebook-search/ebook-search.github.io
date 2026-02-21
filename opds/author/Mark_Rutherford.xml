@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Mark Rutherford</title>
   <id>urn:ebook-search:author:Mark Rutherford</id>
-  <updated>2026-02-20T18:44:01.744849Z</updated>
+  <updated>2026-02-21T03:25:29.746162Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Mark Rutherford - Mark Rutherford’s Deliverance</title>
     <id>urn:ebook-search:book:Mark Rutherford - Mark Rutherford’s Deliverance</id>
-    <updated>2026-02-20T18:44:01.744849Z</updated>
+    <updated>2026-02-21T03:25:29.746162Z</updated>
     <link href="../../d/Mark Rutherford - Mark Rutherford’s Deliverance.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mark Rutherford</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Mark Rutherford - The Autobiography of Mark Rutherford</title>
     <id>urn:ebook-search:book:Mark Rutherford - The Autobiography of Mark Rutherford</id>
-    <updated>2026-02-20T18:44:01.744849Z</updated>
+    <updated>2026-02-21T03:25:29.746162Z</updated>
     <link href="../../d/Mark Rutherford - The Autobiography of Mark Rutherford.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mark Rutherford</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Mark Rutherford - The Revolution in Tanner’s Lane</title>
     <id>urn:ebook-search:book:Mark Rutherford - The Revolution in Tanner’s Lane</id>
-    <updated>2026-02-20T18:44:01.744849Z</updated>
+    <updated>2026-02-21T03:25:29.746162Z</updated>
     <link href="../../d/Mark Rutherford - The Revolution in Tanner’s Lane.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mark Rutherford</name>

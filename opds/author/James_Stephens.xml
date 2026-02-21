@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>James Stephens</title>
   <id>urn:ebook-search:author:James Stephens</id>
-  <updated>2026-02-20T18:44:01.748602Z</updated>
+  <updated>2026-02-21T03:25:29.749049Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>James Stephens - Irish Fairy Tales</title>
     <id>urn:ebook-search:book:James Stephens - Irish Fairy Tales</id>
-    <updated>2026-02-20T18:44:01.748602Z</updated>
+    <updated>2026-02-21T03:25:29.749049Z</updated>
     <link href="../../d/James Stephens - Irish Fairy Tales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>James Stephens</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>James Stephens - Mary, Mary</title>
     <id>urn:ebook-search:book:James Stephens - Mary, Mary</id>
-    <updated>2026-02-20T18:44:01.748602Z</updated>
+    <updated>2026-02-21T03:25:29.749049Z</updated>
     <link href="../../d/James Stephens - Mary, Mary.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>James Stephens</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>James Stephens - The Crock of Gold</title>
     <id>urn:ebook-search:book:James Stephens - The Crock of Gold</id>
-    <updated>2026-02-20T18:44:01.748602Z</updated>
+    <updated>2026-02-21T03:25:29.749049Z</updated>
     <link href="../../d/James Stephens - The Crock of Gold.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>James Stephens</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>James Stephens - The Demi-Gods</title>
     <id>urn:ebook-search:book:James Stephens - The Demi-Gods</id>
-    <updated>2026-02-20T18:44:01.748602Z</updated>
+    <updated>2026-02-21T03:25:29.749049Z</updated>
     <link href="../../d/James Stephens - The Demi-Gods.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>James Stephens</name>

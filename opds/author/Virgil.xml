@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Virgil</title>
   <id>urn:ebook-search:author:Virgil</id>
-  <updated>2026-02-20T18:44:01.746956Z</updated>
+  <updated>2026-02-21T03:25:29.747659Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Virgil - The Aeneid</title>
     <id>urn:ebook-search:book:Virgil - The Aeneid</id>
-    <updated>2026-02-20T18:44:01.746956Z</updated>
+    <updated>2026-02-21T03:25:29.747659Z</updated>
     <link href="../../d/Virgil - The Aeneid.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Virgil</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Virgil - The Eclogues</title>
     <id>urn:ebook-search:book:Virgil - The Eclogues</id>
-    <updated>2026-02-20T18:44:01.746956Z</updated>
+    <updated>2026-02-21T03:25:29.747659Z</updated>
     <link href="../../d/Virgil - The Eclogues.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Virgil</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Virgil - The Georgics</title>
     <id>urn:ebook-search:book:Virgil - The Georgics</id>
-    <updated>2026-02-20T18:44:01.746956Z</updated>
+    <updated>2026-02-21T03:25:29.747659Z</updated>
     <link href="../../d/Virgil - The Georgics.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Virgil</name>

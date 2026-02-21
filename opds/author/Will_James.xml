@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Will James</title>
   <id>urn:ebook-search:author:Will James</id>
-  <updated>2026-02-20T18:44:01.758436Z</updated>
+  <updated>2026-02-21T03:25:29.755424Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Will James - Smoky the Cowhorse</title>
     <id>urn:ebook-search:book:Will James - Smoky the Cowhorse</id>
-    <updated>2026-02-20T18:44:01.758436Z</updated>
+    <updated>2026-02-21T03:25:29.755424Z</updated>
     <link href="../../d/Will James - Smoky the Cowhorse.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Will James</name>

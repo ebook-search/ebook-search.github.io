@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Д. И. Фонвизин</title>
   <id>urn:ebook-search:author:Д. И. Фонвизин</id>
-  <updated>2026-02-20T18:44:01.791295Z</updated>
+  <updated>2026-02-21T03:25:29.786181Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Д. И. Фонвизин - Бригадир</title>
     <id>urn:ebook-search:book:Д. И. Фонвизин - Бригадир</id>
-    <updated>2026-02-20T18:44:01.791295Z</updated>
+    <updated>2026-02-21T03:25:29.786181Z</updated>
     <link href="../../d/Д. И. Фонвизин - Бригадир.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Д. И. Фонвизин</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Д. И. Фонвизин - Недоросль</title>
     <id>urn:ebook-search:book:Д. И. Фонвизин - Недоросль</id>
-    <updated>2026-02-20T18:44:01.791295Z</updated>
+    <updated>2026-02-21T03:25:29.786181Z</updated>
     <link href="../../d/Д. И. Фонвизин - Недоросль.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Д. И. Фонвизин</name>

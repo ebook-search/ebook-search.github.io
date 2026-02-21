@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Lewis Carroll</title>
   <id>urn:ebook-search:author:Lewis Carroll</id>
-  <updated>2026-02-20T18:44:01.748186Z</updated>
+  <updated>2026-02-21T03:25:29.748647Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Lewis Carroll - A Tangled Tale</title>
     <id>urn:ebook-search:book:Lewis Carroll - A Tangled Tale</id>
-    <updated>2026-02-20T18:44:01.748186Z</updated>
+    <updated>2026-02-21T03:25:29.748647Z</updated>
     <link href="../../d/Lewis Carroll - A Tangled Tale.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Lewis Carroll</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Lewis Carroll - Alice’s Adventures in Wonderland</title>
     <id>urn:ebook-search:book:Lewis Carroll - Alice’s Adventures in Wonderland</id>
-    <updated>2026-02-20T18:44:01.748186Z</updated>
+    <updated>2026-02-21T03:25:29.748647Z</updated>
     <link href="../../d/Lewis Carroll - Alice’s Adventures in Wonderland.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Lewis Carroll</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Lewis Carroll - Sylvie and Bruno</title>
     <id>urn:ebook-search:book:Lewis Carroll - Sylvie and Bruno</id>
-    <updated>2026-02-20T18:44:01.748186Z</updated>
+    <updated>2026-02-21T03:25:29.748647Z</updated>
     <link href="../../d/Lewis Carroll - Sylvie and Bruno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Lewis Carroll</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Lewis Carroll - Through the Looking-Glass</title>
     <id>urn:ebook-search:book:Lewis Carroll - Through the Looking-Glass</id>
-    <updated>2026-02-20T18:44:01.748186Z</updated>
+    <updated>2026-02-21T03:25:29.748647Z</updated>
     <link href="../../d/Lewis Carroll - Through the Looking-Glass.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Lewis Carroll</name>

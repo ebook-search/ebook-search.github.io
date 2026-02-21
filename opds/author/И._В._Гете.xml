@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>И. В. Гете</title>
   <id>urn:ebook-search:author:И. В. Гете</id>
-  <updated>2026-02-20T18:44:01.798643Z</updated>
+  <updated>2026-02-21T03:25:29.794924Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>И. В. Гете - Фауст</title>
     <id>urn:ebook-search:book:И. В. Гете - Фауст</id>
-    <updated>2026-02-20T18:44:01.798643Z</updated>
+    <updated>2026-02-21T03:25:29.794924Z</updated>
     <link href="../../d/И. В. Гете - Фауст.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. В. Гете</name>

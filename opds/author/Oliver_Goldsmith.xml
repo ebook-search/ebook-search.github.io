@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Oliver Goldsmith</title>
   <id>urn:ebook-search:author:Oliver Goldsmith</id>
-  <updated>2026-02-20T18:44:01.758230Z</updated>
+  <updated>2026-02-21T03:25:29.755269Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Oliver Goldsmith - She Stoops to Conquer</title>
     <id>urn:ebook-search:book:Oliver Goldsmith - She Stoops to Conquer</id>
-    <updated>2026-02-20T18:44:01.758230Z</updated>
+    <updated>2026-02-21T03:25:29.755269Z</updated>
     <link href="../../d/Oliver Goldsmith - She Stoops to Conquer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Oliver Goldsmith</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Oliver Goldsmith - The Vicar of Wakefield</title>
     <id>urn:ebook-search:book:Oliver Goldsmith - The Vicar of Wakefield</id>
-    <updated>2026-02-20T18:44:01.758230Z</updated>
+    <updated>2026-02-21T03:25:29.755269Z</updated>
     <link href="../../d/Oliver Goldsmith - The Vicar of Wakefield.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Oliver Goldsmith</name>

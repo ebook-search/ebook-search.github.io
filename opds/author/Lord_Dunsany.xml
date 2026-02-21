@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Lord Dunsany</title>
   <id>urn:ebook-search:author:Lord Dunsany</id>
-  <updated>2026-02-20T18:44:01.728626Z</updated>
+  <updated>2026-02-21T03:25:29.735141Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Lord Dunsany - Fifty-One Tales</title>
     <id>urn:ebook-search:book:Lord Dunsany - Fifty-One Tales</id>
-    <updated>2026-02-20T18:44:01.728626Z</updated>
+    <updated>2026-02-21T03:25:29.735141Z</updated>
     <link href="../../d/Lord Dunsany - Fifty-One Tales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Lord Dunsany</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Lord Dunsany - The Book of Wonder</title>
     <id>urn:ebook-search:book:Lord Dunsany - The Book of Wonder</id>
-    <updated>2026-02-20T18:44:01.728626Z</updated>
+    <updated>2026-02-21T03:25:29.735141Z</updated>
     <link href="../../d/Lord Dunsany - The Book of Wonder.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Lord Dunsany</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Lord Dunsany - The Charwoman’s Shadow</title>
     <id>urn:ebook-search:book:Lord Dunsany - The Charwoman’s Shadow</id>
-    <updated>2026-02-20T18:44:01.728626Z</updated>
+    <updated>2026-02-21T03:25:29.735141Z</updated>
     <link href="../../d/Lord Dunsany - The Charwoman’s Shadow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Lord Dunsany</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Lord Dunsany - The Gods of Pegāna</title>
     <id>urn:ebook-search:book:Lord Dunsany - The Gods of Pegāna</id>
-    <updated>2026-02-20T18:44:01.728626Z</updated>
+    <updated>2026-02-21T03:25:29.735141Z</updated>
     <link href="../../d/Lord Dunsany - The Gods of Pegāna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Lord Dunsany</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Lord Dunsany - The King of Elfland’s Daughter</title>
     <id>urn:ebook-search:book:Lord Dunsany - The King of Elfland’s Daughter</id>
-    <updated>2026-02-20T18:44:01.728626Z</updated>
+    <updated>2026-02-21T03:25:29.735141Z</updated>
     <link href="../../d/Lord Dunsany - The King of Elfland’s Daughter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Lord Dunsany</name>

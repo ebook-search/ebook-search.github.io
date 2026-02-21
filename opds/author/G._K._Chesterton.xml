@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>G. K. Chesterton</title>
   <id>urn:ebook-search:author:G. K. Chesterton</id>
-  <updated>2026-02-20T18:44:01.723601Z</updated>
+  <updated>2026-02-21T03:25:29.731718Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>G. K. Chesterton - Heretics</title>
     <id>urn:ebook-search:book:G. K. Chesterton - Heretics</id>
-    <updated>2026-02-20T18:44:01.723601Z</updated>
+    <updated>2026-02-21T03:25:29.731718Z</updated>
     <link href="../../d/G. K. Chesterton - Heretics.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>G. K. Chesterton</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>G. K. Chesterton - Manalive</title>
     <id>urn:ebook-search:book:G. K. Chesterton - Manalive</id>
-    <updated>2026-02-20T18:44:01.723601Z</updated>
+    <updated>2026-02-21T03:25:29.731718Z</updated>
     <link href="../../d/G. K. Chesterton - Manalive.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>G. K. Chesterton</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>G. K. Chesterton - Orthodoxy</title>
     <id>urn:ebook-search:book:G. K. Chesterton - Orthodoxy</id>
-    <updated>2026-02-20T18:44:01.723601Z</updated>
+    <updated>2026-02-21T03:25:29.731718Z</updated>
     <link href="../../d/G. K. Chesterton - Orthodoxy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>G. K. Chesterton</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>G. K. Chesterton - The Club of Queer Trades</title>
     <id>urn:ebook-search:book:G. K. Chesterton - The Club of Queer Trades</id>
-    <updated>2026-02-20T18:44:01.723601Z</updated>
+    <updated>2026-02-21T03:25:29.731718Z</updated>
     <link href="../../d/G. K. Chesterton - The Club of Queer Trades.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>G. K. Chesterton</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>G. K. Chesterton - The Everlasting Man</title>
     <id>urn:ebook-search:book:G. K. Chesterton - The Everlasting Man</id>
-    <updated>2026-02-20T18:44:01.723601Z</updated>
+    <updated>2026-02-21T03:25:29.731718Z</updated>
     <link href="../../d/G. K. Chesterton - The Everlasting Man.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>G. K. Chesterton</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>G. K. Chesterton - The Incredulity of Father Brown</title>
     <id>urn:ebook-search:book:G. K. Chesterton - The Incredulity of Father Brown</id>
-    <updated>2026-02-20T18:44:01.723601Z</updated>
+    <updated>2026-02-21T03:25:29.731718Z</updated>
     <link href="../../d/G. K. Chesterton - The Incredulity of Father Brown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>G. K. Chesterton</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>G. K. Chesterton - The Innocence of Father Brown</title>
     <id>urn:ebook-search:book:G. K. Chesterton - The Innocence of Father Brown</id>
-    <updated>2026-02-20T18:44:01.723601Z</updated>
+    <updated>2026-02-21T03:25:29.731718Z</updated>
     <link href="../../d/G. K. Chesterton - The Innocence of Father Brown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>G. K. Chesterton</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>G. K. Chesterton - The Man Who Was Thursday</title>
     <id>urn:ebook-search:book:G. K. Chesterton - The Man Who Was Thursday</id>
-    <updated>2026-02-20T18:44:01.723601Z</updated>
+    <updated>2026-02-21T03:25:29.731718Z</updated>
     <link href="../../d/G. K. Chesterton - The Man Who Was Thursday.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>G. K. Chesterton</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>G. K. Chesterton - The Napoleon of Notting Hill</title>
     <id>urn:ebook-search:book:G. K. Chesterton - The Napoleon of Notting Hill</id>
-    <updated>2026-02-20T18:44:01.723601Z</updated>
+    <updated>2026-02-21T03:25:29.731718Z</updated>
     <link href="../../d/G. K. Chesterton - The Napoleon of Notting Hill.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>G. K. Chesterton</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>G. K. Chesterton - The Secret of Father Brown</title>
     <id>urn:ebook-search:book:G. K. Chesterton - The Secret of Father Brown</id>
-    <updated>2026-02-20T18:44:01.723601Z</updated>
+    <updated>2026-02-21T03:25:29.731718Z</updated>
     <link href="../../d/G. K. Chesterton - The Secret of Father Brown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>G. K. Chesterton</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>G. K. Chesterton - The Wisdom of Father Brown</title>
     <id>urn:ebook-search:book:G. K. Chesterton - The Wisdom of Father Brown</id>
-    <updated>2026-02-20T18:44:01.723601Z</updated>
+    <updated>2026-02-21T03:25:29.731718Z</updated>
     <link href="../../d/G. K. Chesterton - The Wisdom of Father Brown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>G. K. Chesterton</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>G. K. Chesterton - What’s Wrong with the World</title>
     <id>urn:ebook-search:book:G. K. Chesterton - What’s Wrong with the World</id>
-    <updated>2026-02-20T18:44:01.723601Z</updated>
+    <updated>2026-02-21T03:25:29.731718Z</updated>
     <link href="../../d/G. K. Chesterton - What’s Wrong with the World.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>G. K. Chesterton</name>

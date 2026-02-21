@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Л. Н. Толстой</title>
   <id>urn:ebook-search:author:Л. Н. Толстой</id>
-  <updated>2026-02-20T18:44:01.783969Z</updated>
+  <updated>2026-02-21T03:25:29.777908Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Л. Н. Толстой - Анна Каренина</title>
     <id>urn:ebook-search:book:Л. Н. Толстой - Анна Каренина</id>
-    <updated>2026-02-20T18:44:01.783969Z</updated>
+    <updated>2026-02-21T03:25:29.777908Z</updated>
     <link href="../../d/Л. Н. Толстой - Анна Каренина.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Толстой</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Л. Н. Толстой - Война и мир</title>
     <id>urn:ebook-search:book:Л. Н. Толстой - Война и мир</id>
-    <updated>2026-02-20T18:44:01.783969Z</updated>
+    <updated>2026-02-21T03:25:29.777908Z</updated>
     <link href="../../d/Л. Н. Толстой - Война и мир.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Толстой</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Л. Н. Толстой - Воскресение</title>
     <id>urn:ebook-search:book:Л. Н. Толстой - Воскресение</id>
-    <updated>2026-02-20T18:44:01.783969Z</updated>
+    <updated>2026-02-21T03:25:29.777908Z</updated>
     <link href="../../d/Л. Н. Толстой - Воскресение.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Толстой</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Л. Н. Толстой - Детство</title>
     <id>urn:ebook-search:book:Л. Н. Толстой - Детство</id>
-    <updated>2026-02-20T18:44:01.783969Z</updated>
+    <updated>2026-02-21T03:25:29.777908Z</updated>
     <link href="../../d/Л. Н. Толстой - Детство.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Толстой</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Л. Н. Толстой - Кавказский пленник</title>
     <id>urn:ebook-search:book:Л. Н. Толстой - Кавказский пленник</id>
-    <updated>2026-02-20T18:44:01.783969Z</updated>
+    <updated>2026-02-21T03:25:29.777908Z</updated>
     <link href="../../d/Л. Н. Толстой - Кавказский пленник.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Толстой</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Л. Н. Толстой - Крейцерова соната</title>
     <id>urn:ebook-search:book:Л. Н. Толстой - Крейцерова соната</id>
-    <updated>2026-02-20T18:44:01.783969Z</updated>
+    <updated>2026-02-21T03:25:29.777908Z</updated>
     <link href="../../d/Л. Н. Толстой - Крейцерова соната.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Толстой</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Л. Н. Толстой - Отец Сергий</title>
     <id>urn:ebook-search:book:Л. Н. Толстой - Отец Сергий</id>
-    <updated>2026-02-20T18:44:01.783969Z</updated>
+    <updated>2026-02-21T03:25:29.777908Z</updated>
     <link href="../../d/Л. Н. Толстой - Отец Сергий.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Толстой</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>Л. Н. Толстой - Отрочество</title>
     <id>urn:ebook-search:book:Л. Н. Толстой - Отрочество</id>
-    <updated>2026-02-20T18:44:01.783969Z</updated>
+    <updated>2026-02-21T03:25:29.777908Z</updated>
     <link href="../../d/Л. Н. Толстой - Отрочество.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Толстой</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>Л. Н. Толстой - После бала</title>
     <id>urn:ebook-search:book:Л. Н. Толстой - После бала</id>
-    <updated>2026-02-20T18:44:01.783969Z</updated>
+    <updated>2026-02-21T03:25:29.777908Z</updated>
     <link href="../../d/Л. Н. Толстой - После бала.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Толстой</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>Л. Н. Толстой - Севастопольские рассказы</title>
     <id>urn:ebook-search:book:Л. Н. Толстой - Севастопольские рассказы</id>
-    <updated>2026-02-20T18:44:01.783969Z</updated>
+    <updated>2026-02-21T03:25:29.777908Z</updated>
     <link href="../../d/Л. Н. Толстой - Севастопольские рассказы.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Толстой</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>Л. Н. Толстой - Смерть Ивана Ильича</title>
     <id>urn:ebook-search:book:Л. Н. Толстой - Смерть Ивана Ильича</id>
-    <updated>2026-02-20T18:44:01.783969Z</updated>
+    <updated>2026-02-21T03:25:29.777908Z</updated>
     <link href="../../d/Л. Н. Толстой - Смерть Ивана Ильича.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Толстой</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>Л. Н. Толстой - Хаджи-Мурат</title>
     <id>urn:ebook-search:book:Л. Н. Толстой - Хаджи-Мурат</id>
-    <updated>2026-02-20T18:44:01.783969Z</updated>
+    <updated>2026-02-21T03:25:29.777908Z</updated>
     <link href="../../d/Л. Н. Толстой - Хаджи-Мурат.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Толстой</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>Л. Н. Толстой - Холстомер</title>
     <id>urn:ebook-search:book:Л. Н. Толстой - Холстомер</id>
-    <updated>2026-02-20T18:44:01.783969Z</updated>
+    <updated>2026-02-21T03:25:29.777908Z</updated>
     <link href="../../d/Л. Н. Толстой - Холстомер.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Толстой</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>Л. Н. Толстой - Юность</title>
     <id>urn:ebook-search:book:Л. Н. Толстой - Юность</id>
-    <updated>2026-02-20T18:44:01.783969Z</updated>
+    <updated>2026-02-21T03:25:29.777908Z</updated>
     <link href="../../d/Л. Н. Толстой - Юность.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Толстой</name>

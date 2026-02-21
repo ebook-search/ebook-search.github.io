@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Johnston McCulley</title>
   <id>urn:ebook-search:author:Johnston McCulley</id>
-  <updated>2026-02-20T18:44:01.757744Z</updated>
+  <updated>2026-02-21T03:25:29.754957Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Johnston McCulley - The Mark of Zorro</title>
     <id>urn:ebook-search:book:Johnston McCulley - The Mark of Zorro</id>
-    <updated>2026-02-20T18:44:01.757744Z</updated>
+    <updated>2026-02-21T03:25:29.754957Z</updated>
     <link href="../../d/Johnston McCulley - The Mark of Zorro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Johnston McCulley</name>

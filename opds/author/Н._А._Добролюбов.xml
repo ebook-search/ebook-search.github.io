@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Н. А. Добролюбов</title>
   <id>urn:ebook-search:author:Н. А. Добролюбов</id>
-  <updated>2026-02-20T18:44:01.794743Z</updated>
+  <updated>2026-02-21T03:25:29.790092Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Н. А. Добролюбов - Луч света в темном царстве</title>
     <id>urn:ebook-search:book:Н. А. Добролюбов - Луч света в темном царстве</id>
-    <updated>2026-02-20T18:44:01.794743Z</updated>
+    <updated>2026-02-21T03:25:29.790092Z</updated>
     <link href="../../d/Н. А. Добролюбов - Луч света в темном царстве.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Н. А. Добролюбов</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Н. А. Добролюбов - Что такое обломовщина?</title>
     <id>urn:ebook-search:book:Н. А. Добролюбов - Что такое обломовщина?</id>
-    <updated>2026-02-20T18:44:01.794743Z</updated>
+    <updated>2026-02-21T03:25:29.790092Z</updated>
     <link href="../../d/Н. А. Добролюбов - Что такое обломовщина?.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Н. А. Добролюбов</name>

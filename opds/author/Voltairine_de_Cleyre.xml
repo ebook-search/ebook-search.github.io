@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Voltairine de Cleyre</title>
   <id>urn:ebook-search:author:Voltairine de Cleyre</id>
-  <updated>2026-02-20T18:44:01.757227Z</updated>
+  <updated>2026-02-21T03:25:29.754631Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Voltairine de Cleyre - Poetry</title>
     <id>urn:ebook-search:book:Voltairine de Cleyre - Poetry</id>
-    <updated>2026-02-20T18:44:01.757227Z</updated>
+    <updated>2026-02-21T03:25:29.754631Z</updated>
     <link href="../../d/Voltairine de Cleyre - Poetry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Voltairine de Cleyre</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Voltairine de Cleyre - Short Fiction</title>
     <id>urn:ebook-search:book:Voltairine de Cleyre - Short Fiction</id>
-    <updated>2026-02-20T18:44:01.757227Z</updated>
+    <updated>2026-02-21T03:25:29.754631Z</updated>
     <link href="../../d/Voltairine de Cleyre - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Voltairine de Cleyre</name>

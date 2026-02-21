@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>William Dean Howells</title>
   <id>urn:ebook-search:author:William Dean Howells</id>
-  <updated>2026-02-20T18:44:01.746856Z</updated>
+  <updated>2026-02-21T03:25:29.747592Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>William Dean Howells - A Hazard of New Fortunes</title>
     <id>urn:ebook-search:book:William Dean Howells - A Hazard of New Fortunes</id>
-    <updated>2026-02-20T18:44:01.746856Z</updated>
+    <updated>2026-02-21T03:25:29.747592Z</updated>
     <link href="../../d/William Dean Howells - A Hazard of New Fortunes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>William Dean Howells</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>William Dean Howells - Indian Summer</title>
     <id>urn:ebook-search:book:William Dean Howells - Indian Summer</id>
-    <updated>2026-02-20T18:44:01.746856Z</updated>
+    <updated>2026-02-21T03:25:29.747592Z</updated>
     <link href="../../d/William Dean Howells - Indian Summer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>William Dean Howells</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>William Dean Howells - The Rise of Silas Lapham</title>
     <id>urn:ebook-search:book:William Dean Howells - The Rise of Silas Lapham</id>
-    <updated>2026-02-20T18:44:01.746856Z</updated>
+    <updated>2026-02-21T03:25:29.747592Z</updated>
     <link href="../../d/William Dean Howells - The Rise of Silas Lapham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>William Dean Howells</name>

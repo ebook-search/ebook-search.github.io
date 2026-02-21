@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>П. П. Бажов</title>
   <id>urn:ebook-search:author:П. П. Бажов</id>
-  <updated>2026-02-20T18:44:01.798987Z</updated>
+  <updated>2026-02-21T03:25:29.795490Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>П. П. Бажов - Алмазная спичка</title>
     <id>urn:ebook-search:book:П. П. Бажов - Алмазная спичка</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Алмазная спичка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>П. П. Бажов - Аметистовое дело</title>
     <id>urn:ebook-search:book:П. П. Бажов - Аметистовое дело</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Аметистовое дело.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>П. П. Бажов - Богатырева рукавица</title>
     <id>urn:ebook-search:book:П. П. Бажов - Богатырева рукавица</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Богатырева рукавица.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>П. П. Бажов - В пасхальную ночь</title>
     <id>urn:ebook-search:book:П. П. Бажов - В пасхальную ночь</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - В пасхальную ночь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>П. П. Бажов - Васина гора</title>
     <id>urn:ebook-search:book:П. П. Бажов - Васина гора</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Васина гора.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>П. П. Бажов - Веселухин ложок</title>
     <id>urn:ebook-search:book:П. П. Бажов - Веселухин ложок</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Веселухин ложок.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>П. П. Бажов - Голубая змейка</title>
     <id>urn:ebook-search:book:П. П. Бажов - Голубая змейка</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Голубая змейка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>П. П. Бажов - Горный мастер</title>
     <id>urn:ebook-search:book:П. П. Бажов - Горный мастер</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Горный мастер.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>П. П. Бажов - Далевое глядельце</title>
     <id>urn:ebook-search:book:П. П. Бажов - Далевое глядельце</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Далевое глядельце.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>П. П. Бажов - Дальнее — близкое</title>
     <id>urn:ebook-search:book:П. П. Бажов - Дальнее — близкое</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Дальнее — близкое.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>П. П. Бажов - Две ящерки</title>
     <id>urn:ebook-search:book:П. П. Бажов - Две ящерки</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Две ящерки.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>П. П. Бажов - Демидовские кафтаны</title>
     <id>urn:ebook-search:book:П. П. Бажов - Демидовские кафтаны</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Демидовские кафтаны.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>П. П. Бажов - Дорогое имячко</title>
     <id>urn:ebook-search:book:П. П. Бажов - Дорогое имячко</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Дорогое имячко.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>П. П. Бажов - Дорогой земли виток</title>
     <id>urn:ebook-search:book:П. П. Бажов - Дорогой земли виток</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Дорогой земли виток.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -134,7 +134,7 @@
   <entry>
     <title>П. П. Бажов - Ермаковы лебеди</title>
     <id>urn:ebook-search:book:П. П. Бажов - Ермаковы лебеди</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Ермаковы лебеди.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -143,7 +143,7 @@
   <entry>
     <title>П. П. Бажов - Жабреев ходок</title>
     <id>urn:ebook-search:book:П. П. Бажов - Жабреев ходок</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Жабреев ходок.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -152,7 +152,7 @@
   <entry>
     <title>П. П. Бажов - Железковы покрышки</title>
     <id>urn:ebook-search:book:П. П. Бажов - Железковы покрышки</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Железковы покрышки.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -161,7 +161,7 @@
   <entry>
     <title>П. П. Бажов - Живинка в деле</title>
     <id>urn:ebook-search:book:П. П. Бажов - Живинка в деле</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Живинка в деле.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -170,7 +170,7 @@
   <entry>
     <title>П. П. Бажов - Живой огонек</title>
     <id>urn:ebook-search:book:П. П. Бажов - Живой огонек</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Живой огонек.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -179,7 +179,7 @@
   <entry>
     <title>П. П. Бажов - За советскую правду</title>
     <id>urn:ebook-search:book:П. П. Бажов - За советскую правду</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - За советскую правду.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -188,7 +188,7 @@
   <entry>
     <title>П. П. Бажов - Зеленая кобылка</title>
     <id>urn:ebook-search:book:П. П. Бажов - Зеленая кобылка</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Зеленая кобылка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -197,7 +197,7 @@
   <entry>
     <title>П. П. Бажов - Змеиный след</title>
     <id>urn:ebook-search:book:П. П. Бажов - Змеиный след</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Змеиный след.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -206,7 +206,7 @@
   <entry>
     <title>П. П. Бажов - Золотой волос</title>
     <id>urn:ebook-search:book:П. П. Бажов - Золотой волос</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Золотой волос.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -215,7 +215,7 @@
   <entry>
     <title>П. П. Бажов - Золотоцветень горы</title>
     <id>urn:ebook-search:book:П. П. Бажов - Золотоцветень горы</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Золотоцветень горы.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -224,7 +224,7 @@
   <entry>
     <title>П. П. Бажов - Золотые дайки</title>
     <id>urn:ebook-search:book:П. П. Бажов - Золотые дайки</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Золотые дайки.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -233,7 +233,7 @@
   <entry>
     <title>П. П. Бажов - Иванко Крылатко</title>
     <id>urn:ebook-search:book:П. П. Бажов - Иванко Крылатко</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Иванко Крылатко.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -242,7 +242,7 @@
   <entry>
     <title>П. П. Бажов - Ионычева тропа</title>
     <id>urn:ebook-search:book:П. П. Бажов - Ионычева тропа</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Ионычева тропа.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -251,7 +251,7 @@
   <entry>
     <title>П. П. Бажов - Каменный цветок</title>
     <id>urn:ebook-search:book:П. П. Бажов - Каменный цветок</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Каменный цветок.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -260,7 +260,7 @@
   <entry>
     <title>П. П. Бажов - Ключ земли</title>
     <id>urn:ebook-search:book:П. П. Бажов - Ключ земли</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Ключ земли.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -269,7 +269,7 @@
   <entry>
     <title>П. П. Бажов - Коренная тайность</title>
     <id>urn:ebook-search:book:П. П. Бажов - Коренная тайность</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Коренная тайность.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -278,7 +278,7 @@
   <entry>
     <title>П. П. Бажов - Кошачьи уши</title>
     <id>urn:ebook-search:book:П. П. Бажов - Кошачьи уши</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Кошачьи уши.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -287,7 +287,7 @@
   <entry>
     <title>П. П. Бажов - Круговой фонарь</title>
     <id>urn:ebook-search:book:П. П. Бажов - Круговой фонарь</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Круговой фонарь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -296,7 +296,7 @@
   <entry>
     <title>П. П. Бажов - Малахитовая шкатулка</title>
     <id>urn:ebook-search:book:П. П. Бажов - Малахитовая шкатулка</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Малахитовая шкатулка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -305,7 +305,7 @@
   <entry>
     <title>П. П. Бажов - Малахитовая шкатулка (Сборник)</title>
     <id>urn:ebook-search:book:П. П. Бажов - Малахитовая шкатулка (Сборник)</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Малахитовая шкатулка (Сборник).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -314,7 +314,7 @@
   <entry>
     <title>П. П. Бажов - Марков камень</title>
     <id>urn:ebook-search:book:П. П. Бажов - Марков камень</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Марков камень.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -323,7 +323,7 @@
   <entry>
     <title>П. П. Бажов - Медная доля</title>
     <id>urn:ebook-search:book:П. П. Бажов - Медная доля</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Медная доля.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -332,7 +332,7 @@
   <entry>
     <title>П. П. Бажов - Медной горы Хозяйка</title>
     <id>urn:ebook-search:book:П. П. Бажов - Медной горы Хозяйка</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Медной горы Хозяйка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -341,7 +341,7 @@
   <entry>
     <title>П. П. Бажов - На том же месте</title>
     <id>urn:ebook-search:book:П. П. Бажов - На том же месте</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - На том же месте.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -350,7 +350,7 @@
   <entry>
     <title>П. П. Бажов - Надпись на камне</title>
     <id>urn:ebook-search:book:П. П. Бажов - Надпись на камне</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Надпись на камне.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -359,7 +359,7 @@
   <entry>
     <title>П. П. Бажов - Не та цапля</title>
     <id>urn:ebook-search:book:П. П. Бажов - Не та цапля</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Не та цапля.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -368,7 +368,7 @@
   <entry>
     <title>П. П. Бажов - Объяснение отдельных слов, понятий и выражений, встречающихся в сказах</title>
     <id>urn:ebook-search:book:П. П. Бажов - Объяснение отдельных слов, понятий и выражений, встречающихся в сказах</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Объяснение отдельных слов, понятий и выражений, встречающихся в сказах.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -377,7 +377,7 @@
   <entry>
     <title>П. П. Бажов - Огневушка-Поскакушка</title>
     <id>urn:ebook-search:book:П. П. Бажов - Огневушка-Поскакушка</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Огневушка-Поскакушка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -386,7 +386,7 @@
   <entry>
     <title>П. П. Бажов - Орлиное перо</title>
     <id>urn:ebook-search:book:П. П. Бажов - Орлиное перо</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Орлиное перо.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -395,7 +395,7 @@
   <entry>
     <title>П. П. Бажов - Приказчиковы подошвы</title>
     <id>urn:ebook-search:book:П. П. Бажов - Приказчиковы подошвы</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Приказчиковы подошвы.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -404,7 +404,7 @@
   <entry>
     <title>П. П. Бажов - Про «водолазов»</title>
     <id>urn:ebook-search:book:П. П. Бажов - Про «водолазов»</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Про «водолазов».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -413,7 +413,7 @@
   <entry>
     <title>П. П. Бажов - Про Великого Полоза</title>
     <id>urn:ebook-search:book:П. П. Бажов - Про Великого Полоза</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Про Великого Полоза.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -422,7 +422,7 @@
   <entry>
     <title>П. П. Бажов - Про главного вора</title>
     <id>urn:ebook-search:book:П. П. Бажов - Про главного вора</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Про главного вора.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -431,7 +431,7 @@
   <entry>
     <title>П. П. Бажов - Рудяной перевал</title>
     <id>urn:ebook-search:book:П. П. Бажов - Рудяной перевал</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Рудяной перевал.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -440,7 +440,7 @@
   <entry>
     <title>П. П. Бажов - Серебряное копытце</title>
     <id>urn:ebook-search:book:П. П. Бажов - Серебряное копытце</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Серебряное копытце.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -449,7 +449,7 @@
   <entry>
     <title>П. П. Бажов - Синюшкин колодец</title>
     <id>urn:ebook-search:book:П. П. Бажов - Синюшкин колодец</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Синюшкин колодец.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -458,7 +458,7 @@
   <entry>
     <title>П. П. Бажов - Солнечный камень</title>
     <id>urn:ebook-search:book:П. П. Бажов - Солнечный камень</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Солнечный камень.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -467,7 +467,7 @@
   <entry>
     <title>П. П. Бажов - Сочневы камешки</title>
     <id>urn:ebook-search:book:П. П. Бажов - Сочневы камешки</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Сочневы камешки.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -476,7 +476,7 @@
   <entry>
     <title>П. П. Бажов - Спор о стихах</title>
     <id>urn:ebook-search:book:П. П. Бажов - Спор о стихах</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Спор о стихах.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -485,7 +485,7 @@
   <entry>
     <title>П. П. Бажов - Старых гор подаренье</title>
     <id>urn:ebook-search:book:П. П. Бажов - Старых гор подаренье</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Старых гор подаренье.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -494,7 +494,7 @@
   <entry>
     <title>П. П. Бажов - Тараканье мыло</title>
     <id>urn:ebook-search:book:П. П. Бажов - Тараканье мыло</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Тараканье мыло.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -503,7 +503,7 @@
   <entry>
     <title>П. П. Бажов - Таюткино зеркальце</title>
     <id>urn:ebook-search:book:П. П. Бажов - Таюткино зеркальце</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Таюткино зеркальце.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -512,7 +512,7 @@
   <entry>
     <title>П. П. Бажов - Травяная западенка</title>
     <id>urn:ebook-search:book:П. П. Бажов - Травяная западенка</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Травяная западенка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -521,7 +521,7 @@
   <entry>
     <title>П. П. Бажов - Тяжелая витушка</title>
     <id>urn:ebook-search:book:П. П. Бажов - Тяжелая витушка</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Тяжелая витушка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -530,7 +530,7 @@
   <entry>
     <title>П. П. Бажов - У старого рудника</title>
     <id>urn:ebook-search:book:П. П. Бажов - У старого рудника</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - У старого рудника.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -539,7 +539,7 @@
   <entry>
     <title>П. П. Бажов - Уральские были</title>
     <id>urn:ebook-search:book:П. П. Бажов - Уральские были</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Уральские были.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -548,7 +548,7 @@
   <entry>
     <title>П. П. Бажов - Хрупкая веточка</title>
     <id>urn:ebook-search:book:П. П. Бажов - Хрупкая веточка</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Хрупкая веточка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -557,7 +557,7 @@
   <entry>
     <title>П. П. Бажов - Хрустальный лак</title>
     <id>urn:ebook-search:book:П. П. Бажов - Хрустальный лак</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Хрустальный лак.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -566,7 +566,7 @@
   <entry>
     <title>П. П. Бажов - Через всю жизнь</title>
     <id>urn:ebook-search:book:П. П. Бажов - Через всю жизнь</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Через всю жизнь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -575,7 +575,7 @@
   <entry>
     <title>П. П. Бажов - Через межу</title>
     <id>urn:ebook-search:book:П. П. Бажов - Через межу</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Через межу.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -584,7 +584,7 @@
   <entry>
     <title>П. П. Бажов - Чугунная бабушка</title>
     <id>urn:ebook-search:book:П. П. Бажов - Чугунная бабушка</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Чугунная бабушка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -593,7 +593,7 @@
   <entry>
     <title>П. П. Бажов - Шелковая горка</title>
     <id>urn:ebook-search:book:П. П. Бажов - Шелковая горка</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Шелковая горка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>
@@ -602,7 +602,7 @@
   <entry>
     <title>П. П. Бажов - Широкое плечо</title>
     <id>urn:ebook-search:book:П. П. Бажов - Широкое плечо</id>
-    <updated>2026-02-20T18:44:01.798987Z</updated>
+    <updated>2026-02-21T03:25:29.795490Z</updated>
     <link href="../../d/П. П. Бажов - Широкое плечо.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>П. П. Бажов</name>

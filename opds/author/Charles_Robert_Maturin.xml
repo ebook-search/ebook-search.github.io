@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Charles Robert Maturin</title>
   <id>urn:ebook-search:author:Charles Robert Maturin</id>
-  <updated>2026-02-20T18:44:01.744628Z</updated>
+  <updated>2026-02-21T03:25:29.746036Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Charles Robert Maturin - Melmoth the Wanderer</title>
     <id>urn:ebook-search:book:Charles Robert Maturin - Melmoth the Wanderer</id>
-    <updated>2026-02-20T18:44:01.744628Z</updated>
+    <updated>2026-02-21T03:25:29.746036Z</updated>
     <link href="../../d/Charles Robert Maturin - Melmoth the Wanderer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Charles Robert Maturin</name>

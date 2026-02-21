@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Karel Čapek</title>
   <id>urn:ebook-search:author:Karel Čapek</id>
-  <updated>2026-02-20T18:44:01.743994Z</updated>
+  <updated>2026-02-21T03:25:29.745585Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Karel Čapek - R.U.R.</title>
     <id>urn:ebook-search:book:Karel Čapek - R.U.R.</id>
-    <updated>2026-02-20T18:44:01.743994Z</updated>
+    <updated>2026-02-21T03:25:29.745585Z</updated>
     <link href="../../d/Karel Čapek - R.U.R..epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Karel Čapek</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Karel Čapek - The Absolute at Large</title>
     <id>urn:ebook-search:book:Karel Čapek - The Absolute at Large</id>
-    <updated>2026-02-20T18:44:01.743994Z</updated>
+    <updated>2026-02-21T03:25:29.745585Z</updated>
     <link href="../../d/Karel Čapek - The Absolute at Large.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Karel Čapek</name>

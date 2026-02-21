@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Molière</title>
   <id>urn:ebook-search:author:Molière</id>
-  <updated>2026-02-20T18:44:01.762487Z</updated>
+  <updated>2026-02-21T03:25:29.758223Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Molière - Tartuffe</title>
     <id>urn:ebook-search:book:Molière - Tartuffe</id>
-    <updated>2026-02-20T18:44:01.762487Z</updated>
+    <updated>2026-02-21T03:25:29.758223Z</updated>
     <link href="../../d/Molière - Tartuffe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Molière</name>

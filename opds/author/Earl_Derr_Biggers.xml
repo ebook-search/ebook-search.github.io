@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Earl Derr Biggers</title>
   <id>urn:ebook-search:author:Earl Derr Biggers</id>
-  <updated>2026-02-20T18:44:01.746044Z</updated>
+  <updated>2026-02-21T03:25:29.747053Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Earl Derr Biggers - Behind That Curtain</title>
     <id>urn:ebook-search:book:Earl Derr Biggers - Behind That Curtain</id>
-    <updated>2026-02-20T18:44:01.746044Z</updated>
+    <updated>2026-02-21T03:25:29.747053Z</updated>
     <link href="../../d/Earl Derr Biggers - Behind That Curtain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Earl Derr Biggers</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Earl Derr Biggers - The Chinese Parrot</title>
     <id>urn:ebook-search:book:Earl Derr Biggers - The Chinese Parrot</id>
-    <updated>2026-02-20T18:44:01.746044Z</updated>
+    <updated>2026-02-21T03:25:29.747053Z</updated>
     <link href="../../d/Earl Derr Biggers - The Chinese Parrot.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Earl Derr Biggers</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Earl Derr Biggers - The House Without a Key</title>
     <id>urn:ebook-search:book:Earl Derr Biggers - The House Without a Key</id>
-    <updated>2026-02-20T18:44:01.746044Z</updated>
+    <updated>2026-02-21T03:25:29.747053Z</updated>
     <link href="../../d/Earl Derr Biggers - The House Without a Key.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Earl Derr Biggers</name>

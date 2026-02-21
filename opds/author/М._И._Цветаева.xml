@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>М. И. Цветаева</title>
   <id>urn:ebook-search:author:М. И. Цветаева</id>
-  <updated>2026-02-20T18:44:01.795708Z</updated>
+  <updated>2026-02-21T03:25:29.791493Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>М. И. Цветаева - (Взятие Крыма) («И страшные мне снятся сны...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - (Взятие Крыма) («И страшные мне снятся сны...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - (Взятие Крыма) («И страшные мне снятся сны...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>М. И. Цветаева - Ex — ci-devant («Хоть сто мозолей — трех веков не скроешь!..»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Ex — ci-devant («Хоть сто мозолей — трех веков не скроешь!..»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Ex — ci-devant («Хоть сто мозолей — трех веков не скроешь!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>М. И. Цветаева - Ici-Нaut, 1—5</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Ici-Нaut, 1—5</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Ici-Нaut, 1—5.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>М. И. Цветаева - «...О, самозванцев жалкие усилья!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «...О, самозванцев жалкие усилья!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «...О, самозванцев жалкие усилья!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>М. И. Цветаева - «Aeternum vale! Сброшен крест!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Aeternum vale! Сброшен крест!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Aeternum vale! Сброшен крест!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>М. И. Цветаева - «А и простор у нас татарским стрелам!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «А и простор у нас татарским стрелам!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «А и простор у нас татарским стрелам!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>М. И. Цветаева - «А над равниной...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «А над равниной...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «А над равниной...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>М. И. Цветаева - «А сугробы подаются...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «А сугробы подаются...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «А сугробы подаются...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>М. И. Цветаева - «А уж так: ни о чем!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «А уж так: ни о чем!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «А уж так: ни о чем!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>М. И. Цветаева - «Без зова, без слова...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Без зова, без слова...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Без зова, без слова...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>М. И. Цветаева - «Без самовластия...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Без самовластия...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Без самовластия...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>М. И. Цветаева - «Безумье — и благоразумье...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Безумье — и благоразумье...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Безумье — и благоразумье...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>М. И. Цветаева - «Белизна — угроза Черноте...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Белизна — угроза Черноте...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Белизна — угроза Черноте...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>М. И. Цветаева - «Белогвардейцы! Гордиев узел...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Белогвардейцы! Гордиев узел...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Белогвардейцы! Гордиев узел...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -134,7 +134,7 @@
   <entry>
     <title>М. И. Цветаева - «Белое солнце и низкие, низкие тучи...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Белое солнце и низкие, низкие тучи...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Белое солнце и низкие, низкие тучи...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -143,7 +143,7 @@
   <entry>
     <title>М. И. Цветаева - «Блаженны дочерей твоих, Земля...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Блаженны дочерей твоих, Земля...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Блаженны дочерей твоих, Земля...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -152,7 +152,7 @@
   <entry>
     <title>М. И. Цветаева - «Бог согнулся от заботы...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Бог согнулся от заботы...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Бог согнулся от заботы...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -161,7 +161,7 @@
   <entry>
     <title>М. И. Цветаева - «Бог — прав...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Бог — прав...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Бог — прав...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -170,7 +170,7 @@
   <entry>
     <title>М. И. Цветаева - «Брожу — не дом же плотничать...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Брожу — не дом же плотничать...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Брожу — не дом же плотничать...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -179,7 +179,7 @@
   <entry>
     <title>М. И. Цветаева - «Буду выспрашивать воды широкого Дона...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Буду выспрашивать воды широкого Дона...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Буду выспрашивать воды широкого Дона...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -188,7 +188,7 @@
   <entry>
     <title>М. И. Цветаева - «Бури-вьюги, вихри-ветры вас взлелеяли...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Бури-вьюги, вихри-ветры вас взлелеяли...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Бури-вьюги, вихри-ветры вас взлелеяли...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -197,7 +197,7 @@
   <entry>
     <title>М. И. Цветаева - «Быть в аду нам, сестры пылкие...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Быть в аду нам, сестры пылкие...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Быть в аду нам, сестры пылкие...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -206,7 +206,7 @@
   <entry>
     <title>М. И. Цветаева - «В ворко-клекочущий зоркий круг...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «В ворко-клекочущий зоркий круг...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «В ворко-клекочущий зоркий круг...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -215,7 +215,7 @@
   <entry>
     <title>М. И. Цветаева - «В день Благовещенья...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «В день Благовещенья...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «В день Благовещенья...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -224,7 +224,7 @@
   <entry>
     <title>М. И. Цветаева - «В огромном городе моем — ночь...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «В огромном городе моем — ночь...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «В огромном городе моем — ночь...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -233,7 +233,7 @@
   <entry>
     <title>М. И. Цветаева - «В оны дни ты мне была как мать...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «В оны дни ты мне была как мать...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «В оны дни ты мне была как мать...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -242,7 +242,7 @@
   <entry>
     <title>М. И. Цветаева - «В пустынной храмине...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «В пустынной храмине...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «В пустынной храмине...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -251,7 +251,7 @@
   <entry>
     <title>М. И. Цветаева - «В своих младенческих слезах...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «В своих младенческих слезах...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «В своих младенческих слезах...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -260,7 +260,7 @@
   <entry>
     <title>М. И. Цветаева - «В седину — висок...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «В седину — висок...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «В седину — висок...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -269,7 +269,7 @@
   <entry>
     <title>М. И. Цветаева - «В тумане, синее ладана...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «В тумане, синее ладана...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «В тумане, синее ладана...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -278,7 +278,7 @@
   <entry>
     <title>М. И. Цветаева - «Вдруг вошла...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Вдруг вошла...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Вдруг вошла...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -287,7 +287,7 @@
   <entry>
     <title>М. И. Цветаева - «Веками, веками...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Веками, веками...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Веками, веками...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -296,7 +296,7 @@
   <entry>
     <title>М. И. Цветаева - «Верстами — врозь — разлетаются брови...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Верстами — врозь — разлетаются брови...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Верстами — врозь — разлетаются брови...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -305,7 +305,7 @@
   <entry>
     <title>М. И. Цветаева - «Веселись, душа, пей и ешь!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Веселись, душа, пей и ешь!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Веселись, душа, пей и ешь!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -314,7 +314,7 @@
   <entry>
     <title>М. И. Цветаева - «Вкрадчивостию волос...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Вкрадчивостию волос...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Вкрадчивостию волос...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -323,7 +323,7 @@
   <entry>
     <title>М. И. Цветаева - «Возле любови...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Возле любови...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Возле любови...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -332,7 +332,7 @@
   <entry>
     <title>М. И. Цветаева - «Война, война! — Кажденья у киотов...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Война, война! — Кажденья у киотов...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Война, война! — Кажденья у киотов...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -341,7 +341,7 @@
   <entry>
     <title>М. И. Цветаева - «Вот он — гляди — уставший от чужбин...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Вот он — гляди — уставший от чужбин...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Вот он — гляди — уставший от чужбин...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -350,7 +350,7 @@
   <entry>
     <title>М. И. Цветаева - «Вот опять окно...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Вот опять окно...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Вот опять окно...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -359,7 +359,7 @@
   <entry>
     <title>М. И. Цветаева - «Вскрыла жилы: неостановимо...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Вскрыла жилы: неостановимо...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Вскрыла жилы: неостановимо...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -368,7 +368,7 @@
   <entry>
     <title>М. И. Цветаева - «Всюду бегут дороги...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Всюду бегут дороги...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Всюду бегут дороги...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -377,7 +377,7 @@
   <entry>
     <title>М. И. Цветаева - «Всё повторяю первый стих...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Всё повторяю первый стих...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Всё повторяю первый стих...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -386,7 +386,7 @@
   <entry>
     <title>М. И. Цветаева - «Высокомерье — каста...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Высокомерье — каста...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Высокомерье — каста...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -395,7 +395,7 @@
   <entry>
     <title>М. И. Цветаева - «Вьюга наметает в полы...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Вьюга наметает в полы...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Вьюга наметает в полы...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -404,7 +404,7 @@
   <entry>
     <title>М. И. Цветаева - «Гибель от женщины. Вот — знак...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Гибель от женщины. Вот — знак...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Гибель от женщины. Вот — знак...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -413,7 +413,7 @@
   <entry>
     <title>М. И. Цветаева - «Говорила мне бабка лютая...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Говорила мне бабка лютая...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Говорила мне бабка лютая...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -422,7 +422,7 @@
   <entry>
     <title>М. И. Цветаева - «Голоса с их игрой сулящей...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Голоса с их игрой сулящей...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Голоса с их игрой сулящей...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -431,7 +431,7 @@
   <entry>
     <title>М. И. Цветаева - «Голуби реют серебряные, растерянные, вечерние...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Голуби реют серебряные, растерянные, вечерние...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Голуби реют серебряные, растерянные, вечерние...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -440,7 +440,7 @@
   <entry>
     <title>М. И. Цветаева - «Голубиная купель...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Голубиная купель...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Голубиная купель...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -449,7 +449,7 @@
   <entry>
     <title>М. И. Цветаева - «Голубые, как небо, воды...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Голубые, как небо, воды...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Голубые, как небо, воды...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -458,7 +458,7 @@
   <entry>
     <title>М. И. Цветаева - «Грудь женская! Души застывший вздох...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Грудь женская! Души застывший вздох...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Грудь женская! Души застывший вздох...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -467,7 +467,7 @@
   <entry>
     <title>М. И. Цветаева - «Да с этой львиною...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Да с этой львиною...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Да с этой львиною...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -476,7 +476,7 @@
   <entry>
     <title>М. И. Цветаева - «Дабы ты меня не видел...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Дабы ты меня не видел...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Дабы ты меня не видел...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -485,7 +485,7 @@
   <entry>
     <title>М. И. Цветаева - «Два зарева! — нет, зеркала!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Два зарева! — нет, зеркала!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Два зарева! — нет, зеркала!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -494,7 +494,7 @@
   <entry>
     <title>М. И. Цветаева - «Двух станов не боец, а — если гость случайный...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Двух станов не боец, а — если гость случайный...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Двух станов не боец, а — если гость случайный...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -503,7 +503,7 @@
   <entry>
     <title>М. И. Цветаева - «Двух — жарче меха! рук — жарче пуха!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Двух — жарче меха! рук — жарче пуха!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Двух — жарче меха! рук — жарче пуха!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -512,7 +512,7 @@
   <entry>
     <title>М. И. Цветаева - «Дорожкою простонародною...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Дорожкою простонародною...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Дорожкою простонародною...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -521,7 +521,7 @@
   <entry>
     <title>М. И. Цветаева - «Древняя тщета течет по жилам...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Древняя тщета течет по жилам...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Древняя тщета течет по жилам...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -530,7 +530,7 @@
   <entry>
     <title>М. И. Цветаева - «Други его — не тревожьте его!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Други его — не тревожьте его!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Други его — не тревожьте его!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -539,7 +539,7 @@
   <entry>
     <title>М. И. Цветаева - «Думалось: будут легки...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Думалось: будут легки...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Думалось: будут легки...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -548,7 +548,7 @@
   <entry>
     <title>М. И. Цветаева - «Душа, не знающая меры...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Душа, не знающая меры...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Душа, не знающая меры...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -557,7 +557,7 @@
   <entry>
     <title>М. И. Цветаева - «Емче органа и звонче бубна...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Емче органа и звонче бубна...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Емче органа и звонче бубна...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -566,7 +566,7 @@
   <entry>
     <title>М. И. Цветаева - «Если душа родилась крылатой...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Если душа родилась крылатой...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Если душа родилась крылатой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -575,7 +575,7 @@
   <entry>
     <title>М. И. Цветаева - «Есть в стане моем — офицерская прямость...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Есть в стане моем — офицерская прямость...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Есть в стане моем — офицерская прямость...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -584,7 +584,7 @@
   <entry>
     <title>М. И. Цветаева - «Есть час на те слова...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Есть час на те слова...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Есть час на те слова...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -593,7 +593,7 @@
   <entry>
     <title>М. И. Цветаева - «Еще и еще — песни...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Еще и еще — песни...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Еще и еще — песни...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -602,7 +602,7 @@
   <entry>
     <title>М. И. Цветаева - «Жив, а не умер...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Жив, а не умер...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Жив, а не умер...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -611,7 +611,7 @@
   <entry>
     <title>М. И. Цветаева - «Живу — не трогаю...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Живу — не трогаю...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Живу — не трогаю...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -620,7 +620,7 @@
   <entry>
     <title>М. И. Цветаева - «Жизни с краю...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Жизни с краю...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Жизни с краю...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -629,7 +629,7 @@
   <entry>
     <title>М. И. Цветаева - «За Отрока — за Голубя — за Сына...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «За Отрока — за Голубя — за Сына...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «За Отрока — за Голубя — за Сына...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -638,7 +638,7 @@
   <entry>
     <title>М. И. Цветаева - «За девками доглядывать, не скис...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «За девками доглядывать, не скис...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «За девками доглядывать, не скис...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -647,7 +647,7 @@
   <entry>
     <title>М. И. Цветаева - «Завораживающая! Крест...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Завораживающая! Крест...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Завораживающая! Крест...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -656,7 +656,7 @@
   <entry>
     <title>М. И. Цветаева - «Здравствуй! Не стрела, не камень...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Здравствуй! Не стрела, не камень...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Здравствуй! Не стрела, не камень...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -665,7 +665,7 @@
   <entry>
     <title>М. И. Цветаева - «И другу на руку легло...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «И другу на руку легло...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «И другу на руку легло...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -674,7 +674,7 @@
   <entry>
     <title>М. И. Цветаева - «И кто-то, упав на карту...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «И кто-то, упав на карту...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «И кто-то, упав на карту...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -683,7 +683,7 @@
   <entry>
     <title>М. И. Цветаева - «И не плача зря...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «И не плача зря...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «И не плача зря...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -692,7 +692,7 @@
   <entry>
     <title>М. И. Цветаева - «И скажешь ты...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «И скажешь ты...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «И скажешь ты...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -701,7 +701,7 @@
   <entry>
     <title>М. И. Цветаева - «И тучи оводов вокруг равнодушных кляч...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «И тучи оводов вокруг равнодушных кляч...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «И тучи оводов вокруг равнодушных кляч...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -710,7 +710,7 @@
   <entry>
     <title>М. И. Цветаева - «Идет по луговинам лития...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Идет по луговинам лития...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Идет по луговинам лития...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -719,7 +719,7 @@
   <entry>
     <title>М. И. Цветаева - «Идите же! — Мой голос нем...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Идите же! — Мой голос нем...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Идите же! — Мой голос нем...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -728,7 +728,7 @@
   <entry>
     <title>М. И. Цветаева - «Из строгого, стройного храма...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Из строгого, стройного храма...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Из строгого, стройного храма...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -737,7 +737,7 @@
   <entry>
     <title>М. И. Цветаева - «Искательница приключений...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Искательница приключений...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Искательница приключений...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -746,7 +746,7 @@
   <entry>
     <title>М. И. Цветаева - «Ищи себе доверчивых подруг...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Ищи себе доверчивых подруг...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Ищи себе доверчивых подруг...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -755,7 +755,7 @@
   <entry>
     <title>М. И. Цветаева - «К озеру вышла. Крут берег...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «К озеру вышла. Крут берег...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «К озеру вышла. Крут берег...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -764,7 +764,7 @@
   <entry>
     <title>М. И. Цветаева - «Кабы нас с тобой — да судьба свела...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Кабы нас с тобой — да судьба свела...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Кабы нас с тобой — да судьба свела...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -773,7 +773,7 @@
   <entry>
     <title>М. И. Цветаева - «Каждый день всё кажется мне: суббота!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Каждый день всё кажется мне: суббота!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Каждый день всё кажется мне: суббота!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -782,7 +782,7 @@
   <entry>
     <title>М. И. Цветаева - «Как начнут меня колеса...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Как начнут меня колеса...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Как начнут меня колеса...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -791,7 +791,7 @@
   <entry>
     <title>М. И. Цветаева - «Как по тем донским боям...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Как по тем донским боям...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Как по тем донским боям...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -800,7 +800,7 @@
   <entry>
     <title>М. И. Цветаева - «Как разгораются — каким валежником!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Как разгораются — каким валежником!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Как разгораются — каким валежником!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -809,7 +809,7 @@
   <entry>
     <title>М. И. Цветаева - «Как сонный, как пьяный...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Как сонный, как пьяный...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Как сонный, как пьяный...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -818,7 +818,7 @@
   <entry>
     <title>М. И. Цветаева - «Каменногрудый...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Каменногрудый...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Каменногрудый...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -827,7 +827,7 @@
   <entry>
     <title>М. И. Цветаева - «Канун Благовещенья...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Канун Благовещенья...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Канун Благовещенья...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -836,7 +836,7 @@
   <entry>
     <title>М. И. Цветаева - «Когда же, Господин...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Когда же, Господин...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Когда же, Господин...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -845,7 +845,7 @@
   <entry>
     <title>М. И. Цветаева - «Когда я гляжу на летящие листья...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Когда я гляжу на летящие листья...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Когда я гляжу на летящие листья...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -854,7 +854,7 @@
   <entry>
     <title>М. И. Цветаева - «Коли в землю солдаты всадили — штык...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Коли в землю солдаты всадили — штык...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Коли в землю солдаты всадили — штык...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -863,7 +863,7 @@
   <entry>
     <title>М. И. Цветаева - «Коли милым назову — не соскучишься!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Коли милым назову — не соскучишься!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Коли милым назову — не соскучишься!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -872,7 +872,7 @@
   <entry>
     <title>М. И. Цветаева - «Колыбель, овеянная красным!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Колыбель, овеянная красным!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Колыбель, овеянная красным!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -881,7 +881,7 @@
   <entry>
     <title>М. И. Цветаева - «Косматая звезда...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Косматая звезда...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Косматая звезда...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -890,7 +890,7 @@
   <entry>
     <title>М. И. Цветаева - «Кровных коней запрягайте в дровни!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Кровных коней запрягайте в дровни!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Кровных коней запрягайте в дровни!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -899,7 +899,7 @@
   <entry>
     <title>М. И. Цветаева - «Крутогорьями глаголь...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Крутогорьями глаголь...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Крутогорьями глаголь...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -908,7 +908,7 @@
   <entry>
     <title>М. И. Цветаева - «Кто спит по ночам? никто не спит!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Кто спит по ночам? никто не спит!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Кто спит по ночам? никто не спит!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -917,7 +917,7 @@
   <entry>
     <title>М. И. Цветаева - «Курлык» («Детство: молчание дома большого...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Курлык» («Детство: молчание дома большого...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Курлык» («Детство: молчание дома большого...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -926,7 +926,7 @@
   <entry>
     <title>М. И. Цветаева - «Легкомыслие! — Милый грех...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Легкомыслие! — Милый грех...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Легкомыслие! — Милый грех...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -935,7 +935,7 @@
   <entry>
     <title>М. И. Цветаева - «Лес: сплошная маслобойня...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Лес: сплошная маслобойня...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Лес: сплошная маслобойня...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -944,7 +944,7 @@
   <entry>
     <title>М. И. Цветаева - «Леты подводный свет...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Леты подводный свет...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Леты подводный свет...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -953,7 +953,7 @@
   <entry>
     <title>М. И. Цветаева - «Леты слепотекущий всхлип...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Леты слепотекущий всхлип...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Леты слепотекущий всхлип...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -962,7 +962,7 @@
   <entry>
     <title>М. И. Цветаева - «Луна — лунатику...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Луна — лунатику...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Луна — лунатику...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -971,7 +971,7 @@
   <entry>
     <title>М. И. Цветаева - «Люблю — но мука еще жива...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Люблю — но мука еще жива...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Люблю — но мука еще жива...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -980,7 +980,7 @@
   <entry>
     <title>М. И. Цветаева - «Люди на душу мою льстятся...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Люди на душу мою льстятся...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Люди на душу мою льстятся...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -989,7 +989,7 @@
   <entry>
     <title>М. И. Цветаева - «Лютая юдоль...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Лютая юдоль...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Лютая юдоль...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -998,7 +998,7 @@
   <entry>
     <title>М. И. Цветаева - «Масляница широка!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Масляница широка!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Масляница широка!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1007,7 +1007,7 @@
   <entry>
     <title>М. И. Цветаева - «Мне Францией — нету...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Мне Францией — нету...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Мне Францией — нету...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1016,7 +1016,7 @@
   <entry>
     <title>М. И. Цветаева - «Молодость моя! Моя чужая...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Молодость моя! Моя чужая...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Молодость моя! Моя чужая...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1025,7 +1025,7 @@
   <entry>
     <title>М. И. Цветаева - «Московский герб: герой пронзает гада...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Московский герб: герой пронзает гада...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Московский герб: герой пронзает гада...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1034,7 +1034,7 @@
   <entry>
     <title>М. И. Цветаева - «Мракобесие. — Смерч. — Содом...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Мракобесие. — Смерч. — Содом...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Мракобесие. — Смерч. — Содом...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1043,7 +1043,7 @@
   <entry>
     <title>М. И. Цветаева - «На заре — наимедленнейшая кровь...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «На заре — наимедленнейшая кровь...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «На заре — наимедленнейшая кровь...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1052,7 +1052,7 @@
   <entry>
     <title>М. И. Цветаева - «На кортике своем: Марина...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «На кортике своем: Марина...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «На кортике своем: Марина...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1061,7 +1061,7 @@
   <entry>
     <title>М. И. Цветаева - «На крыльцо выхожу — слушаю...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «На крыльцо выхожу — слушаю...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «На крыльцо выхожу — слушаю...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1070,7 +1070,7 @@
   <entry>
     <title>М. И. Цветаева - «На назначенное свиданье...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «На назначенное свиданье...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «На назначенное свиданье...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1079,7 +1079,7 @@
   <entry>
     <title>М. И. Цветаева - «На пушок девичий, нежный...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «На пушок девичий, нежный...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «На пушок девичий, нежный...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1088,7 +1088,7 @@
   <entry>
     <title>М. И. Цветаева - «На што мне облака и степи...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «На што мне облака и степи...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «На што мне облака и степи...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1097,7 +1097,7 @@
   <entry>
     <title>М. И. Цветаева - «Наворковала...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Наворковала...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Наворковала...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1106,7 +1106,7 @@
   <entry>
     <title>М. И. Цветаева - «Над синеморскою лоханью...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Над синеморскою лоханью...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Над синеморскою лоханью...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1115,7 +1115,7 @@
   <entry>
     <title>М. И. Цветаева - «Над церковкой — голубые облака...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Над церковкой — голубые облака...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Над церковкой — голубые облака...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1124,7 +1124,7 @@
   <entry>
     <title>М. И. Цветаева - «Над черною пучиной водною...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Над черною пучиной водною...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Над черною пучиной водною...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1133,7 +1133,7 @@
   <entry>
     <title>М. И. Цветаева - «Надобно смело признаться, Лира!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Надобно смело признаться, Лира!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Надобно смело признаться, Лира!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1142,7 +1142,7 @@
   <entry>
     <title>М. И. Цветаева - «Не ветром ветреным — до — осени...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Не ветром ветреным — до — осени...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Не ветром ветреным — до — осени...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1151,7 +1151,7 @@
   <entry>
     <title>М. И. Цветаева - «Не здесь, где связано...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Не здесь, где связано...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Не здесь, где связано...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1160,7 +1160,7 @@
   <entry>
     <title>М. И. Цветаева - «Не знаю, какая столица...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Не знаю, какая столица...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Не знаю, какая столица...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1169,7 +1169,7 @@
   <entry>
     <title>М. И. Цветаева - «Не моя печаль, не моя забота...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Не моя печаль, не моя забота...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Не моя печаль, не моя забота...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1178,7 +1178,7 @@
   <entry>
     <title>М. И. Цветаева - «Не надо ее окликать...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Не надо ее окликать...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Не надо ее окликать...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1187,7 +1187,7 @@
   <entry>
     <title>М. И. Цветаева - «Не похорошела за годы разлуки!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Не похорошела за годы разлуки!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Не похорошела за годы разлуки!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1196,7 +1196,7 @@
   <entry>
     <title>М. И. Цветаева - «Не приземист — высокоросл...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Не приземист — высокоросл...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Не приземист — высокоросл...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1205,7 +1205,7 @@
   <entry>
     <title>М. И. Цветаева - «Не проломанное ребро...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Не проломанное ребро...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Не проломанное ребро...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1214,7 +1214,7 @@
   <entry>
     <title>М. И. Цветаева - «Не ревновать и не клясть...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Не ревновать и не клясть...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Не ревновать и не клясть...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1223,7 +1223,7 @@
   <entry>
     <title>М. И. Цветаева - «Не сегодня-завтра растает снег...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Не сегодня-завтра растает снег...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Не сегодня-завтра растает снег...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1232,7 +1232,7 @@
   <entry>
     <title>М. И. Цветаева - «Небо — синей знамени!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Небо — синей знамени!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Небо — синей знамени!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1241,7 +1241,7 @@
   <entry>
     <title>М. И. Цветаева - «Нежно-нежно, тонко-тонко...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Нежно-нежно, тонко-тонко...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Нежно-нежно, тонко-тонко...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1250,7 +1250,7 @@
   <entry>
     <title>М. И. Цветаева - «Некоторым — не закон...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Некоторым — не закон...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Некоторым — не закон...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1259,7 +1259,7 @@
   <entry>
     <title>М. И. Цветаева - «Необычайная она! Сверх сил!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Необычайная она! Сверх сил!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Необычайная она! Сверх сил!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1268,7 +1268,7 @@
   <entry>
     <title>М. И. Цветаева - «Неподражаемо лжет жизнь...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Неподражаемо лжет жизнь...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Неподражаемо лжет жизнь...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1277,7 +1277,7 @@
   <entry>
     <title>М. И. Цветаева - «Нет, правды не оспаривай...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Нет, правды не оспаривай...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Нет, правды не оспаривай...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1286,7 +1286,7 @@
   <entry>
     <title>М. И. Цветаева - «Никому не отмстила и не отмщу...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Никому не отмстила и не отмщу...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Никому не отмстила и не отмщу...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1295,7 +1295,7 @@
   <entry>
     <title>М. И. Цветаева - «Никто ничего не отнял...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Никто ничего не отнял...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Никто ничего не отнял...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1304,7 +1304,7 @@
   <entry>
     <title>М. И. Цветаева - «Никуда не уехали — ты да я...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Никуда не уехали — ты да я...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Никуда не уехали — ты да я...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1313,7 +1313,7 @@
   <entry>
     <title>М. И. Цветаева - «Но тесна вдвоем...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Но тесна вдвоем...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Но тесна вдвоем...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1322,7 +1322,7 @@
   <entry>
     <title>М. И. Цветаева - «Ночного гостя не застанешь...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Ночного гостя не застанешь...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Ночного гостя не застанешь...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1331,7 +1331,7 @@
   <entry>
     <title>М. И. Цветаева - «Ночные шепота: шелка...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Ночные шепота: шелка...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Ночные шепота: шелка...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1340,7 +1340,7 @@
   <entry>
     <title>М. И. Цветаева - «Ночь. — Норд-Ост. — Рев солдат. — Рев волн...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Ночь. — Норд-Ост. — Рев солдат. — Рев волн...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Ночь. — Норд-Ост. — Рев солдат. — Рев волн...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1349,7 +1349,7 @@
   <entry>
     <title>М. И. Цветаева - «Нынче я гость небесный...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Нынче я гость небесный...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Нынче я гость небесный...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1358,7 +1358,7 @@
   <entry>
     <title>М. И. Цветаева - «О первое солнце над первым лбом!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «О первое солнце над первым лбом!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «О первое солнце над первым лбом!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1367,7 +1367,7 @@
   <entry>
     <title>М. И. Цветаева - «Об ушедших — отошедших...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Об ушедших — отошедших...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Об ушедших — отошедших...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1376,7 +1376,7 @@
   <entry>
     <title>М. И. Цветаева - «Обвела мне глаза кольцом...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Обвела мне глаза кольцом...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Обвела мне глаза кольцом...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1385,7 +1385,7 @@
   <entry>
     <title>М. И. Цветаева - «Огромного воскрылья взмах...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Огромного воскрылья взмах...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Огромного воскрылья взмах...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1394,7 +1394,7 @@
   <entry>
     <title>М. И. Цветаева - «Окно раскрыло створки...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Окно раскрыло створки...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Окно раскрыло створки...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1403,7 +1403,7 @@
   <entry>
     <title>М. И. Цветаева - «Оперением зим...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Оперением зим...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Оперением зим...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1412,7 +1412,7 @@
   <entry>
     <title>М. И. Цветаева - «Оползающая глыба...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Оползающая глыба...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Оползающая глыба...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1421,7 +1421,7 @@
   <entry>
     <title>М. И. Цветаева - «Орел и архангел! Господень гром!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Орел и архангел! Господень гром!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Орел и архангел! Господень гром!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1430,7 +1430,7 @@
   <entry>
     <title>М. И. Цветаева - «Оставленного зала тронного...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Оставленного зала тронного...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Оставленного зала тронного...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1439,7 +1439,7 @@
   <entry>
     <title>М. И. Цветаева - «От гнева в печени, мечты во лбу...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «От гнева в печени, мечты во лбу...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «От гнева в печени, мечты во лбу...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1448,7 +1448,7 @@
   <entry>
     <title>М. И. Цветаева - «От меня — к невемому...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «От меня — к невемому...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «От меня — к невемому...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1457,7 +1457,7 @@
   <entry>
     <title>М. И. Цветаева - «От родимых сёл, сёл!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «От родимых сёл, сёл!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «От родимых сёл, сёл!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1466,7 +1466,7 @@
   <entry>
     <title>М. И. Цветаева - «От руки моей не взыгрывал...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «От руки моей не взыгрывал...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «От руки моей не взыгрывал...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1475,7 +1475,7 @@
   <entry>
     <title>М. И. Цветаева - «Откуда такая нежность?..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Откуда такая нежность?..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Откуда такая нежность?..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1484,7 +1484,7 @@
   <entry>
     <title>М. И. Цветаева - «Отмыкала ларец железный...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Отмыкала ларец железный...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Отмыкала ларец железный...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1493,7 +1493,7 @@
   <entry>
     <title>М. И. Цветаева - «Ох, грибок ты мой, грибочек, белый груздь!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Ох, грибок ты мой, грибочек, белый груздь!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Ох, грибок ты мой, грибочек, белый груздь!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1502,7 +1502,7 @@
   <entry>
     <title>М. И. Цветаева - «Пела как стрелы и как морены...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Пела как стрелы и как морены...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Пела как стрелы и как морены...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1511,7 +1511,7 @@
   <entry>
     <title>М. И. Цветаева - «Пела рана в груди у князя...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Пела рана в груди у князя...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Пела рана в груди у князя...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1520,7 +1520,7 @@
   <entry>
     <title>М. И. Цветаева - «Переселенцами...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Переселенцами...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Переселенцами...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1529,7 +1529,7 @@
   <entry>
     <title>М. И. Цветаева - «Плохо сильным и богатым...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Плохо сильным и богатым...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Плохо сильным и богатым...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1538,7 +1538,7 @@
   <entry>
     <title>М. И. Цветаева - «По дорогам, от мороза звонким...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «По дорогам, от мороза звонким...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «По дорогам, от мороза звонким...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1547,7 +1547,7 @@
   <entry>
     <title>М. И. Цветаева - «По загарам — топор и плуг...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «По загарам — топор и плуг...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «По загарам — топор и плуг...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1556,7 +1556,7 @@
   <entry>
     <title>М. И. Цветаева - «По нагориям...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «По нагориям...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «По нагориям...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1565,7 +1565,7 @@
   <entry>
     <title>М. И. Цветаева - «Погоди, дружок!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Погоди, дружок!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Погоди, дружок!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1574,7 +1574,7 @@
   <entry>
     <title>М. И. Цветаева - «Под рокот гражданских бурь...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Под рокот гражданских бурь...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Под рокот гражданских бурь...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1583,7 +1583,7 @@
   <entry>
     <title>М. И. Цветаева - «Полнолунье и мех медвежий...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Полнолунье и мех медвежий...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Полнолунье и мех медвежий...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1592,7 +1592,7 @@
   <entry>
     <title>М. И. Цветаева - «Помни закон...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Помни закон...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Помни закон...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1601,7 +1601,7 @@
   <entry>
     <title>М. И. Цветаева - «Посадила яблоньку...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Посадила яблоньку...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Посадила яблоньку...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1610,7 +1610,7 @@
   <entry>
     <title>М. И. Цветаева - «Посвящаю эти строки...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Посвящаю эти строки...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Посвящаю эти строки...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1619,7 +1619,7 @@
   <entry>
     <title>М. И. Цветаева - «После бессонной ночи слабеет тело...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «После бессонной ночи слабеет тело...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «После бессонной ночи слабеет тело...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1628,7 +1628,7 @@
   <entry>
     <title>М. И. Цветаева - «Последняя дружба...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Последняя дружба...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Последняя дружба...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1637,7 +1637,7 @@
   <entry>
     <title>М. И. Цветаева - «Поступью сановнически-гордой...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Поступью сановнически-гордой...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Поступью сановнически-гордой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1646,7 +1646,7 @@
   <entry>
     <title>М. И. Цветаева - «Приключилась с ним странная хворь...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Приключилась с ним странная хворь...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Приключилась с ним странная хворь...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1655,7 +1655,7 @@
   <entry>
     <title>М. И. Цветаева - «Продаю! продаю! продаю!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Продаю! продаю! продаю!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Продаю! продаю! продаю!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1664,7 +1664,7 @@
   <entry>
     <title>М. И. Цветаева - «Променявши на стремя...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Променявши на стремя...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Променявши на стремя...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1673,7 +1673,7 @@
   <entry>
     <title>М. И. Цветаева - «Пуще чем женщина...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Пуще чем женщина...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Пуще чем женщина...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1682,7 +1682,7 @@
   <entry>
     <title>М. И. Цветаева - «Разлетелось в серебряные дребезги...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Разлетелось в серебряные дребезги...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Разлетелось в серебряные дребезги...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1691,7 +1691,7 @@
   <entry>
     <title>М. И. Цветаева - «Ранне-утреня...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Ранне-утреня...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Ранне-утреня...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1700,7 +1700,7 @@
   <entry>
     <title>М. И. Цветаева - «Рано еще — не быть!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Рано еще — не быть!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Рано еще — не быть!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1709,7 +1709,7 @@
   <entry>
     <title>М. И. Цветаева - «Рас—стояние: версты, мили...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Рас—стояние: версты, мили...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Рас—стояние: версты, мили...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1718,7 +1718,7 @@
   <entry>
     <title>М. И. Цветаева - «Руки даны мне — протягивать каждому обе...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Руки даны мне — протягивать каждому обе...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Руки даны мне — протягивать каждому обе...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1727,7 +1727,7 @@
   <entry>
     <title>М. И. Цветаева - «Руки люблю...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Руки люблю...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Руки люблю...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1736,7 +1736,7 @@
   <entry>
     <title>М. И. Цветаева - «Руки — и в круг...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Руки — и в круг...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Руки — и в круг...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1745,7 +1745,7 @@
   <entry>
     <title>М. И. Цветаева - «Русской ржи от меня поклон...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Русской ржи от меня поклон...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Русской ржи от меня поклон...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1754,7 +1754,7 @@
   <entry>
     <title>М. И. Цветаева - «С Новым Годом, Лебединый стан!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «С Новым Годом, Лебединый стан!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «С Новым Годом, Лебединый стан!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1763,7 +1763,7 @@
   <entry>
     <title>М. И. Цветаева - «С такою силой в подбородок руку...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «С такою силой в подбородок руку...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «С такою силой в подбородок руку...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1772,7 +1772,7 @@
   <entry>
     <title>М. И. Цветаева - «С этой горы, как с крыши...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «С этой горы, как с крыши...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «С этой горы, как с крыши...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1781,7 +1781,7 @@
   <entry>
     <title>М. И. Цветаева - «Сегодня ночью я одна в ночи...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Сегодня ночью я одна в ночи...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Сегодня ночью я одна в ночи...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1790,7 +1790,7 @@
   <entry>
     <title>М. И. Цветаева - «Семеро, семеро...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Семеро, семеро...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Семеро, семеро...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1799,7 +1799,7 @@
   <entry>
     <title>М. И. Цветаева - «Семь мечей пронзали сердце...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Семь мечей пронзали сердце...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Семь мечей пронзали сердце...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1808,7 +1808,7 @@
   <entry>
     <title>М. И. Цветаева - «Сини подмосковные холмы...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Сини подмосковные холмы...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Сини подмосковные холмы...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1817,7 +1817,7 @@
   <entry>
     <title>М. И. Цветаева - «Скоро уж из ласточек — в колдуньи!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Скоро уж из ласточек — в колдуньи!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Скоро уж из ласточек — в колдуньи!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1826,7 +1826,7 @@
   <entry>
     <title>М. И. Цветаева - «Слава падает так, как слива...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Слава падает так, как слива...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Слава падает так, как слива...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1835,7 +1835,7 @@
   <entry>
     <title>М. И. Цветаева - «Слезы — на лисе моей облезлой!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Слезы — на лисе моей облезлой!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Слезы — на лисе моей облезлой!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1844,7 +1844,7 @@
   <entry>
     <title>М. И. Цветаева - «Собирая любимых в путь...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Собирая любимых в путь...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Собирая любимых в путь...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1853,7 +1853,7 @@
   <entry>
     <title>М. И. Цветаева - «Солнцем жилки налиты — не кровью...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Солнцем жилки налиты — не кровью...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Солнцем жилки налиты — не кровью...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1862,7 +1862,7 @@
   <entry>
     <title>М. И. Цветаева - «Сомкнутым строем...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Сомкнутым строем...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Сомкнутым строем...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1871,7 +1871,7 @@
   <entry>
     <title>М. И. Цветаева - «Спаси Господи, дым!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Спаси Господи, дым!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Спаси Господи, дым!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1880,7 +1880,7 @@
   <entry>
     <title>М. И. Цветаева - «Спит, муки твоей — веселье...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Спит, муки твоей — веселье...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Спит, муки твоей — веселье...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1889,7 +1889,7 @@
   <entry>
     <title>М. И. Цветаева - «Строительница струн — приструню...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Строительница струн — приструню...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Строительница струн — приструню...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1898,7 +1898,7 @@
   <entry>
     <title>М. И. Цветаева - «Существования котловиною...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Существования котловиною...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Существования котловиною...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1907,7 +1907,7 @@
   <entry>
     <title>М. И. Цветаева - «Так говорю, ибо дарован взгляд...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Так говорю, ибо дарован взгляд...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Так говорю, ибо дарован взгляд...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1916,7 +1916,7 @@
   <entry>
     <title>М. И. Цветаева - «Так плыли: голова и лира...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Так плыли: голова и лира...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Так плыли: голова и лира...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1925,7 +1925,7 @@
   <entry>
     <title>М. И. Цветаева - «Так — только Елена глядит над кровлями...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Так — только Елена глядит над кровлями...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Так — только Елена глядит над кровлями...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1934,7 +1934,7 @@
   <entry>
     <title>М. И. Цветаева - «Так, Господи! — И мой обол...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Так, Господи! — И мой обол...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Так, Господи! — И мой обол...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1943,7 +1943,7 @@
   <entry>
     <title>М. И. Цветаева - «Так, в скудном труженичестве дней...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Так, в скудном труженичестве дней...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Так, в скудном труженичестве дней...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1952,7 +1952,7 @@
   <entry>
     <title>М. И. Цветаева - «Так, заживо раздав...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Так, заживо раздав...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Так, заживо раздав...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1961,7 +1961,7 @@
   <entry>
     <title>М. И. Цветаева - «Тоска по родине! Давно...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Тоска по родине! Давно...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Тоска по родине! Давно...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1970,7 +1970,7 @@
   <entry>
     <title>М. И. Цветаева - «Трудно и чудно — верность до гроба!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Трудно и чудно — верность до гроба!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Трудно и чудно — верность до гроба!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1979,7 +1979,7 @@
   <entry>
     <title>М. И. Цветаева - «Ты дал нам мужества...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Ты дал нам мужества...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Ты дал нам мужества...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1988,7 +1988,7 @@
   <entry>
     <title>М. И. Цветаева - «Ты запрокидываешь голову...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Ты запрокидываешь голову...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Ты запрокидываешь голову...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -1997,7 +1997,7 @@
   <entry>
     <title>М. И. Цветаева - «Ударило в виноградник...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Ударило в виноградник...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Ударило в виноградник...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2006,7 +2006,7 @@
   <entry>
     <title>М. И. Цветаева - «Удостоверишься — повремени!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Удостоверишься — повремени!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Удостоверишься — повремени!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2015,7 +2015,7 @@
   <entry>
     <title>М. И. Цветаева - «Уединение: уйди...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Уединение: уйди...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Уединение: уйди...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2024,7 +2024,7 @@
   <entry>
     <title>М. И. Цветаева - «Уж если кораллы на шее...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Уж если кораллы на шее...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Уж если кораллы на шее...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2033,7 +2033,7 @@
   <entry>
     <title>М. И. Цветаева - «Устилают — мои — сени...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Устилают — мои — сени...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Устилают — мои — сени...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2042,7 +2042,7 @@
   <entry>
     <title>М. И. Цветаева - «Ушел — не ем...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Ушел — не ем...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Ушел — не ем...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2051,7 +2051,7 @@
   <entry>
     <title>М. И. Цветаева - «Царь и Бог! Простите малым...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Царь и Бог! Простите малым...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Царь и Бог! Простите малым...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2060,7 +2060,7 @@
   <entry>
     <title>М. И. Цветаева - «Цветок к груди приколот...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Цветок к груди приколот...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Цветок к груди приколот...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2069,7 +2069,7 @@
   <entry>
     <title>М. И. Цветаева - «Целую червонные листья и сонные рты...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Целую червонные листья и сонные рты...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Целую червонные листья и сонные рты...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2078,7 +2078,7 @@
   <entry>
     <title>М. И. Цветаева - «Чем заслужить тебе и чем воздать...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Чем заслужить тебе и чем воздать...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Чем заслужить тебе и чем воздать...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2087,7 +2087,7 @@
   <entry>
     <title>М. И. Цветаева - «Черная как зрачок, как зрачок сосущая...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Черная как зрачок, как зрачок сосущая...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Черная как зрачок, как зрачок сосущая...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2096,7 +2096,7 @@
   <entry>
     <title>М. И. Цветаева - «Четвертый год...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Четвертый год...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Четвертый год...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2105,7 +2105,7 @@
   <entry>
     <title>М. И. Цветаева - «Что, Муза моя? Жива ли еще?..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Что, Муза моя? Жива ли еще?..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Что, Муза моя? Жива ли еще?..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2114,7 +2114,7 @@
   <entry>
     <title>М. И. Цветаева - «Чуть светает...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Чуть светает...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Чуть светает...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2123,7 +2123,7 @@
   <entry>
     <title>М. И. Цветаева - «Широкое ложе для всех моих рек...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Широкое ложе для всех моих рек...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Широкое ложе для всех моих рек...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2132,7 +2132,7 @@
   <entry>
     <title>М. И. Цветаева - «Это пеплы сокровищ...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Это пеплы сокровищ...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Это пеплы сокровищ...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2141,7 +2141,7 @@
   <entry>
     <title>М. И. Цветаева - «Это просто, как кровь и пот...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Это просто, как кровь и пот...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Это просто, как кровь и пот...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2150,7 +2150,7 @@
   <entry>
     <title>М. И. Цветаева - «Я пришла к тебе черной полночью...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Я пришла к тебе черной полночью...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Я пришла к тебе черной полночью...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2159,7 +2159,7 @@
   <entry>
     <title>М. И. Цветаева - «Я эту книгу поручаю ветру...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Я эту книгу поручаю ветру...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Я эту книгу поручаю ветру...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2168,7 +2168,7 @@
   <entry>
     <title>М. И. Цветаева - «Ятаган? Огонь?..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «Ятаган? Огонь?..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «Ятаган? Огонь?..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2177,7 +2177,7 @@
   <entry>
     <title>М. И. Цветаева - «— Где лебеди? — А лебеди ушли...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «— Где лебеди? — А лебеди ушли...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «— Где лебеди? — А лебеди ушли...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2186,7 +2186,7 @@
   <entry>
     <title>М. И. Цветаева - «— На смарку твой стих!..»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «— На смарку твой стих!..»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «— На смарку твой стих!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2195,7 +2195,7 @@
   <entry>
     <title>М. И. Цветаева - «— Ненужен твой стих...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «— Ненужен твой стих...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «— Ненужен твой стих...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2204,7 +2204,7 @@
   <entry>
     <title>М. И. Цветаева - «— Пора! для этого огня...»</title>
     <id>urn:ebook-search:book:М. И. Цветаева - «— Пора! для этого огня...»</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - «— Пора! для этого огня...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2213,7 +2213,7 @@
   <entry>
     <title>М. И. Цветаева - Але («Аля! — Маленькая тень...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Але («Аля! — Маленькая тень...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Але («Аля! — Маленькая тень...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2222,7 +2222,7 @@
   <entry>
     <title>М. И. Цветаева - Але («В шитой серебром рубашечке...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Але («В шитой серебром рубашечке...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Але («В шитой серебром рубашечке...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2231,7 +2231,7 @@
   <entry>
     <title>М. И. Цветаева - Андрей Шенье, 1—2</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Андрей Шенье, 1—2</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Андрей Шенье, 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2240,7 +2240,7 @@
   <entry>
     <title>М. И. Цветаева - Анне Ахматовой («Узкий, нерусский стан...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Анне Ахматовой («Узкий, нерусский стан...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Анне Ахматовой («Узкий, нерусский стан...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2249,7 +2249,7 @@
   <entry>
     <title>М. И. Цветаева - Ариадна, 1—2</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Ариадна, 1—2</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Ариадна, 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2258,7 +2258,7 @@
   <entry>
     <title>М. И. Цветаева - Асе, 1—2</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Асе, 1—2</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Асе, 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2267,7 +2267,7 @@
   <entry>
     <title>М. И. Цветаева - Ахилл на валу («Отлило — обдало — накатило...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Ахилл на валу («Отлило — обдало — накатило...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Ахилл на валу («Отлило — обдало — накатило...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2276,7 +2276,7 @@
   <entry>
     <title>М. И. Цветаева - Ахматовой («Кем полосынька твоя...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Ахматовой («Кем полосынька твоя...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Ахматовой («Кем полосынька твоя...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2285,7 +2285,7 @@
   <entry>
     <title>М. И. Цветаева - Байрону («Я думаю об утре Вашей славы...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Байрону («Я думаю об утре Вашей славы...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Байрону («Я думаю об утре Вашей славы...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2294,7 +2294,7 @@
   <entry>
     <title>М. И. Цветаева - Балкон («Ах, с откровенного отвеса...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Балкон («Ах, с откровенного отвеса...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Балкон («Ах, с откровенного отвеса...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2303,7 +2303,7 @@
   <entry>
     <title>М. И. Цветаева - Бальмонту («Пышно и бесстрастно вянут...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Бальмонту («Пышно и бесстрастно вянут...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Бальмонту («Пышно и бесстрастно вянут...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2312,7 +2312,7 @@
   <entry>
     <title>М. И. Цветаева - Берлину («Дождь убаюкивает боль...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Берлину («Дождь убаюкивает боль...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Берлину («Дождь убаюкивает боль...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2321,7 +2321,7 @@
   <entry>
     <title>М. И. Цветаева - Благая весть, 1—5</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Благая весть, 1—5</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Благая весть, 1—5.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2330,7 +2330,7 @@
   <entry>
     <title>М. И. Цветаева - Блоку («Как слабый луч сквозь черный морок адов...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Блоку («Как слабый луч сквозь черный морок адов...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Блоку («Как слабый луч сквозь черный морок адов...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2339,7 +2339,7 @@
   <entry>
     <title>М. И. Цветаева - Бог, 1—3</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Бог, 1—3</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Бог, 1—3.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2348,7 +2348,7 @@
   <entry>
     <title>М. И. Цветаева - Брат («Раскалена, как смоль...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Брат («Раскалена, как смоль...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Брат («Раскалена, как смоль...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2357,7 +2357,7 @@
   <entry>
     <title>М. И. Цветаева - Бузина («Бузина цельный сад залила!..»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Бузина («Бузина цельный сад залила!..»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Бузина («Бузина цельный сад залила!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2366,7 +2366,7 @@
   <entry>
     <title>М. И. Цветаева - В Париже («Дома до звезд, а небо ниже...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - В Париже («Дома до звезд, а небо ниже...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - В Париже («Дома до звезд, а небо ниже...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2375,7 +2375,7 @@
   <entry>
     <title>М. И. Цветаева - В раю («Воспоминанье слишком давит плечи...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - В раю («Воспоминанье слишком давит плечи...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - В раю («Воспоминанье слишком давит плечи...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2384,7 +2384,7 @@
   <entry>
     <title>М. И. Цветаева - В. Я. Брюсову («Улыбнись в мое „окно“...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - В. Я. Брюсову («Улыбнись в мое „окно“...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - В. Я. Брюсову («Улыбнись в мое „окно“...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2393,7 +2393,7 @@
   <entry>
     <title>М. И. Цветаева - Версты</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Версты</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Версты.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2402,7 +2402,7 @@
   <entry>
     <title>М. И. Цветаева - Вестнику («Скрежещут якорные звенья...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Вестнику («Скрежещут якорные звенья...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Вестнику («Скрежещут якорные звенья...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2411,7 +2411,7 @@
   <entry>
     <title>М. И. Цветаева - Вифлеем, 1—2</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Вифлеем, 1—2</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Вифлеем, 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2420,7 +2420,7 @@
   <entry>
     <title>М. И. Цветаева - Вождям («Срок исполнен, вожди! На подмостки...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Вождям («Срок исполнен, вожди! На подмостки...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Вождям («Срок исполнен, вожди! На подмостки...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2429,7 +2429,7 @@
   <entry>
     <title>М. И. Цветаева - Возвращение вождя («Конь — хром...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Возвращение вождя («Конь — хром...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Возвращение вождя («Конь — хром...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2438,7 +2438,7 @@
   <entry>
     <title>М. И. Цветаева - Волшебство («Чуть полночь бьют куранты...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Волшебство («Чуть полночь бьют куранты...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Волшебство («Чуть полночь бьют куранты...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2447,7 +2447,7 @@
   <entry>
     <title>М. И. Цветаева - Встреча («Вечерний дым над городом возник...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Встреча («Вечерний дым над городом возник...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Встреча («Вечерний дым над городом возник...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2456,7 +2456,7 @@
   <entry>
     <title>М. И. Цветаева - Георгий, 1—7</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Георгий, 1—7</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Георгий, 1—7.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2465,7 +2465,7 @@
   <entry>
     <title>М. И. Цветаева - Германии («Ты миру отдана на травлю...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Германии («Ты миру отдана на травлю...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Германии («Ты миру отдана на травлю...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2474,7 +2474,7 @@
   <entry>
     <title>М. И. Цветаева - Даниил, 1—3</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Даниил, 1—3</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Даниил, 1—3.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2483,7 +2483,7 @@
   <entry>
     <title>М. И. Цветаева - Двое, 1—3</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Двое, 1—3</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Двое, 1—3.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2492,7 +2492,7 @@
   <entry>
     <title>М. И. Цветаева - Деревья («Кварталом хорошего тона...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Деревья («Кварталом хорошего тона...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Деревья («Кварталом хорошего тона...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2501,7 +2501,7 @@
   <entry>
     <title>М. И. Цветаева - Деревья, 1—9</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Деревья, 1—9</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Деревья, 1—9.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2510,7 +2510,7 @@
   <entry>
     <title>М. И. Цветаева - Детский день («Утро... По утрам мы...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Детский день («Утро... По утрам мы...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Детский день («Утро... По утрам мы...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2519,7 +2519,7 @@
   <entry>
     <title>М. И. Цветаева - Диалог Гамлета с совестью («— На дне она, где ил...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Диалог Гамлета с совестью («— На дне она, где ил...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Диалог Гамлета с совестью («— На дне она, где ил...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2528,7 +2528,7 @@
   <entry>
     <title>М. И. Цветаева - Дикая воля («Я люблю такие игры...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Дикая воля («Я люблю такие игры...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Дикая воля («Я люблю такие игры...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2537,7 +2537,7 @@
   <entry>
     <title>М. И. Цветаева - Дом («Из-под нахмуренных бровей...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Дом («Из-под нахмуренных бровей...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Дом («Из-под нахмуренных бровей...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2546,7 +2546,7 @@
   <entry>
     <title>М. И. Цветаева - Дон, 1—3</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Дон, 1—3</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Дон, 1—3.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2555,7 +2555,7 @@
   <entry>
     <title>М. И. Цветаева - Дортуар весной («О весенние сны в дортуаре...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Дортуар весной («О весенние сны в дортуаре...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Дортуар весной («О весенние сны в дортуаре...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2564,7 +2564,7 @@
   <entry>
     <title>М. И. Цветаева - Дочь Иаира, 1—2</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Дочь Иаира, 1—2</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Дочь Иаира, 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2573,7 +2573,7 @@
   <entry>
     <title>М. И. Цветаева - Душа («Выше! Выше! Лови — летчицу!..»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Душа («Выше! Выше! Лови — летчицу!..»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Душа («Выше! Выше! Лови — летчицу!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2582,7 +2582,7 @@
   <entry>
     <title>М. И. Цветаева - Еще молитва («И опять пред Тобой я склоняю колени...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Еще молитва («И опять пред Тобой я склоняю колени...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Еще молитва («И опять пред Тобой я склоняю колени...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2591,7 +2591,7 @@
   <entry>
     <title>М. И. Цветаева - Жизни, 1—2</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Жизни, 1—2</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Жизни, 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2600,7 +2600,7 @@
   <entry>
     <title>М. И. Цветаева - За книгами («„Мама, милая, не мучь же!..»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - За книгами («„Мама, милая, не мучь же!..»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - За книгами («„Мама, милая, не мучь же!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2609,7 +2609,7 @@
   <entry>
     <title>М. И. Цветаева - Заводские, 1—2</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Заводские, 1—2</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Заводские, 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2618,7 +2618,7 @@
   <entry>
     <title>М. И. Цветаева - Занавес («Водопадами занавеса, как пеной...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Занавес («Водопадами занавеса, как пеной...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Занавес («Водопадами занавеса, как пеной...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2627,7 +2627,7 @@
   <entry>
     <title>М. И. Цветаева - Заочность («Кастальскому току...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Заочность («Кастальскому току...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Заочность («Кастальскому току...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2636,7 +2636,7 @@
   <entry>
     <title>М. И. Цветаева - Из сказки в жизнь («Хоть в вагоне темном и неловко...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Из сказки в жизнь («Хоть в вагоне темном и неловко...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Из сказки в жизнь («Хоть в вагоне темном и неловко...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2645,7 +2645,7 @@
   <entry>
     <title>М. И. Цветаева - Из сказки — в сказку («Всё твое: тоска по чуду...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Из сказки — в сказку («Всё твое: тоска по чуду...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Из сказки — в сказку («Всё твое: тоска по чуду...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2654,7 +2654,7 @@
   <entry>
     <title>М. И. Цветаева - Как мы читали «Lichtenstein» («Тишь и зной, везде синеют сливы...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Как мы читали «Lichtenstein» («Тишь и зной, везде синеют сливы...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Как мы читали «Lichtenstein» («Тишь и зной, везде синеют сливы...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2663,7 +2663,7 @@
   <entry>
     <title>М. И. Цветаева - Клинок («Между нами — клинок двуострый...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Клинок («Между нами — клинок двуострый...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Клинок («Между нами — клинок двуострый...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2672,7 +2672,7 @@
   <entry>
     <title>М. И. Цветаева - Кн. С. М. Волконскому («Стальная выправка хребта...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Кн. С. М. Волконскому («Стальная выправка хребта...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Кн. С. М. Волконскому («Стальная выправка хребта...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2681,7 +2681,7 @@
   <entry>
     <title>М. И. Цветаева - Корнилов («...Сын казака, казак...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Корнилов («...Сын казака, казак...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Корнилов («...Сын казака, казак...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2690,7 +2690,7 @@
   <entry>
     <title>М. И. Цветаева - Крестины («Воды не перетеплил...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Крестины («Воды не перетеплил...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Крестины («Воды не перетеплил...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2699,7 +2699,7 @@
   <entry>
     <title>М. И. Цветаева - Крик станций («Крик станций: останься!..»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Крик станций («Крик станций: останься!..»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Крик станций («Крик станций: останься!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2708,7 +2708,7 @@
   <entry>
     <title>М. И. Цветаева - Куст («Что нужно кусту от меня?..»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Куст («Что нужно кусту от меня?..»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Куст («Что нужно кусту от меня?..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2717,7 +2717,7 @@
   <entry>
     <title>М. И. Цветаева - Ладонь («Ладони! (Справочник...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Ладонь («Ладони! (Справочник...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Ладонь («Ладони! (Справочник...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2726,7 +2726,7 @@
   <entry>
     <title>М. И. Цветаева - Литературным прокурорам («Всё таить, чтобы люди забыли...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Литературным прокурорам («Всё таить, чтобы люди забыли...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Литературным прокурорам («Всё таить, чтобы люди забыли...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2735,7 +2735,7 @@
   <entry>
     <title>М. И. Цветаева - Лютня («Лютня! Безумица! Каждый раз...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Лютня («Лютня! Безумица! Каждый раз...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Лютня («Лютня! Безумица! Каждый раз...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2744,7 +2744,7 @@
   <entry>
     <title>М. И. Цветаева - Магдалина, 1—3</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Магдалина, 1—3</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Магдалина, 1—3.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2753,7 +2753,7 @@
   <entry>
     <title>М. И. Цветаева - Маме («В старом вальсе штраусовском впервые...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Маме («В старом вальсе штраусовском впервые...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Маме («В старом вальсе штраусовском впервые...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2762,7 +2762,7 @@
   <entry>
     <title>М. И. Цветаева - Марина («Димитрий! Марина! В мире...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Марина («Димитрий! Марина! В мире...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Марина («Димитрий! Марина! В мире...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2771,7 +2771,7 @@
   <entry>
     <title>М. И. Цветаева - Марина, 1—4</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Марина, 1—4</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Марина, 1—4.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2780,7 +2780,7 @@
   <entry>
     <title>М. И. Цветаева - Маяковскому («Превыше крестов и труб...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Маяковскому («Превыше крестов и труб...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Маяковскому («Превыше крестов и труб...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2789,7 +2789,7 @@
   <entry>
     <title>М. И. Цветаева - Маяковскому («Чтобы край земной не вымер...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Маяковскому («Чтобы край земной не вымер...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Маяковскому («Чтобы край земной не вымер...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2798,7 +2798,7 @@
   <entry>
     <title>М. И. Цветаева - Минута («Минута: минущая: минешь!..»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Минута («Минута: минущая: минешь!..»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Минута («Минута: минущая: минешь!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2807,7 +2807,7 @@
   <entry>
     <title>М. И. Цветаева - Молитва («Христос и Бог! Я жажду чуда...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Молитва («Христос и Бог! Я жажду чуда...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Молитва («Христос и Бог! Я жажду чуда...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2816,7 +2816,7 @@
   <entry>
     <title>М. И. Цветаева - Мореплаватель («Закачай меня, звездный челн!..»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Мореплаватель («Закачай меня, звездный челн!..»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Мореплаватель («Закачай меня, звездный челн!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2825,7 +2825,7 @@
   <entry>
     <title>М. И. Цветаева - Москве («Первородство — на сиротство!..»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Москве («Первородство — на сиротство!..»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Москве («Первородство — на сиротство!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2834,7 +2834,7 @@
   <entry>
     <title>М. И. Цветаева - Москве, 1—3</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Москве, 1—3</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Москве, 1—3.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2843,7 +2843,7 @@
   <entry>
     <title>М. И. Цветаева - Муза («Ни грамот, ни праотцев...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Муза («Ни грамот, ни праотцев...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Муза («Ни грамот, ни праотцев...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2852,7 +2852,7 @@
   <entry>
     <title>М. И. Цветаева - На возу («Что за жалобная нота...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - На возу («Что за жалобная нота...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - На возу («Что за жалобная нота...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2861,7 +2861,7 @@
   <entry>
     <title>М. И. Цветаева - Надгробие, 1—3</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Надгробие, 1—3</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Надгробие, 1—3.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2870,7 +2870,7 @@
   <entry>
     <title>М. И. Цветаева - Наклон («Материнское — сквозь сон — ухо...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Наклон («Материнское — сквозь сон — ухо...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Наклон («Материнское — сквозь сон — ухо...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2879,7 +2879,7 @@
   <entry>
     <title>М. И. Цветаева - Наука Фомы («Без рук не обнять!..»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Наука Фомы («Без рук не обнять!..»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Наука Фомы («Без рук не обнять!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2888,7 +2888,7 @@
   <entry>
     <title>М. И. Цветаева - Новогодняя («Братья! В последний час...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Новогодняя («Братья! В последний час...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Новогодняя («Братья! В последний час...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2897,7 +2897,7 @@
   <entry>
     <title>М. И. Цветаева - Новогодняя («Тот — вздохом взлелеянный...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Новогодняя («Тот — вздохом взлелеянный...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Новогодняя («Тот — вздохом взлелеянный...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2906,7 +2906,7 @@
   <entry>
     <title>М. И. Цветаева - Новолунье («Новый месяц встал над лугом...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Новолунье («Новый месяц встал над лугом...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Новолунье («Новый месяц встал над лугом...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2915,7 +2915,7 @@
   <entry>
     <title>М. И. Цветаева - Ночные места («Темнейшее из ночных...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Ночные места («Темнейшее из ночных...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Ночные места («Темнейшее из ночных...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2924,7 +2924,7 @@
   <entry>
     <title>М. И. Цветаева - Ночь («Час обнажающихся верховий...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Ночь («Час обнажающихся верховий...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Ночь («Час обнажающихся верховий...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2933,7 +2933,7 @@
   <entry>
     <title>М. И. Цветаева - Облака, 1—3</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Облака, 1—3</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Облака, 1—3.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2942,7 +2942,7 @@
   <entry>
     <title>М. И. Цветаева - Овраг, 1—2</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Овраг, 1—2</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Овраг, 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2951,7 +2951,7 @@
   <entry>
     <title>М. И. Цветаева - Ода пешему ходу («В век сплошных скоропадских...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Ода пешему ходу («В век сплошных скоропадских...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Ода пешему ходу («В век сплошных скоропадских...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2960,7 +2960,7 @@
   <entry>
     <title>М. И. Цветаева - Ока, 1—5</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Ока, 1—5</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Ока, 1—5.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2969,7 +2969,7 @@
   <entry>
     <title>М. И. Цветаева - Окно («Атлантским и сладостным...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Окно («Атлантским и сладостным...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Окно («Атлантским и сладостным...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2978,7 +2978,7 @@
   <entry>
     <title>М. И. Цветаева - Око («Фонари, горящие газом...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Око («Фонари, горящие газом...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Око («Фонари, горящие газом...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2987,7 +2987,7 @@
   <entry>
     <title>М. И. Цветаева - Остров («Остров есть. Толчком подземным...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Остров («Остров есть. Толчком подземным...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Остров («Остров есть. Толчком подземным...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -2996,7 +2996,7 @@
   <entry>
     <title>М. И. Цветаева - Отрок, 1—4</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Отрок, 1—4</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Отрок, 1—4.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3005,7 +3005,7 @@
   <entry>
     <title>М. И. Цветаева - Отрывок («...Глазами казненных...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Отрывок («...Глазами казненных...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Отрывок («...Глазами казненных...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3014,7 +3014,7 @@
   <entry>
     <title>М. И. Цветаева - Отрывок из стихов к Ахматовой («...Но вал моей гордыни польской...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Отрывок из стихов к Ахматовой («...Но вал моей гордыни польской...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Отрывок из стихов к Ахматовой («...Но вал моей гордыни польской...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3023,7 +3023,7 @@
   <entry>
     <title>М. И. Цветаева - Отцам, 1—2</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Отцам, 1—2</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Отцам, 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3032,7 +3032,7 @@
   <entry>
     <title>М. И. Цветаева - Офелия — Гамлету («Гамлетом — перетянутым — натуго...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Офелия — Гамлету («Гамлетом — перетянутым — натуго...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Офелия — Гамлету («Гамлетом — перетянутым — натуго...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3041,7 +3041,7 @@
   <entry>
     <title>М. И. Цветаева - Офелия — в защиту королевы («Принц Гамлет! Довольно червивую залежь...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Офелия — в защиту королевы («Принц Гамлет! Довольно червивую залежь...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Офелия — в защиту королевы («Принц Гамлет! Довольно червивую залежь...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3050,7 +3050,7 @@
   <entry>
     <title>М. И. Цветаева - Памяти А. А. Стаховича, 1—2</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Памяти А. А. Стаховича, 1—2</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Памяти А. А. Стаховича, 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3059,7 +3059,7 @@
   <entry>
     <title>М. И. Цветаева - Памяти Т. Ф. Скрябиной («Бессонница! Друг мой!..»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Памяти Т. Ф. Скрябиной («Бессонница! Друг мой!..»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Памяти Т. Ф. Скрябиной («Бессонница! Друг мой!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3068,7 +3068,7 @@
   <entry>
     <title>М. И. Цветаева - Педаль («Сколь пронзительная, столь же...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Педаль («Сколь пронзительная, столь же...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Педаль («Сколь пронзительная, столь же...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3077,7 +3077,7 @@
   <entry>
     <title>М. И. Цветаева - Петру («Вся жизнь твоя — в едином крике...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Петру («Вся жизнь твоя — в едином крике...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Петру («Вся жизнь твоя — в едином крике...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3086,7 +3086,7 @@
   <entry>
     <title>М. И. Цветаева - Письмо («Так писем не ждут...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Письмо («Так писем не ждут...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Письмо («Так писем не ждут...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3095,7 +3095,7 @@
   <entry>
     <title>М. И. Цветаева - Плач Ярославны («Вопль стародавний...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Плач Ярославны («Вопль стародавний...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Плач Ярославны («Вопль стародавний...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3104,7 +3104,7 @@
   <entry>
     <title>М. И. Цветаева - Плач цыганки по графу Зубову («Расколюсь — так в стклянь...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Плач цыганки по графу Зубову («Расколюсь — так в стклянь...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Плач цыганки по графу Зубову («Расколюсь — так в стклянь...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3113,7 +3113,7 @@
   <entry>
     <title>М. И. Цветаева - Побег («Под занавесом дождя...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Побег («Под занавесом дождя...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Побег («Под занавесом дождя...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3122,7 +3122,7 @@
   <entry>
     <title>М. И. Цветаева - Под шалью («Запечатленный, как рот оракула...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Под шалью («Запечатленный, как рот оракула...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Под шалью («Запечатленный, как рот оракула...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3131,7 +3131,7 @@
   <entry>
     <title>М. И. Цветаева - Подруга («„Не расстанусь! — Конца нет!“ И льнет, и льнет...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Подруга («„Не расстанусь! — Конца нет!“ И льнет, и льнет...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Подруга («„Не расстанусь! — Конца нет!“ И льнет, и льнет...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3140,7 +3140,7 @@
   <entry>
     <title>М. И. Цветаева - Подруга, 1—15</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Подруга, 1—15</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Подруга, 1—15.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3149,7 +3149,7 @@
   <entry>
     <title>М. И. Цветаева - Поезд жизни («Не штык — так клык, так сугроб, так шквал...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Поезд жизни («Не штык — так клык, так сугроб, так шквал...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Поезд жизни («Не штык — так клык, так сугроб, так шквал...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3158,7 +3158,7 @@
   <entry>
     <title>М. И. Цветаева - Полотерская («Колотёры-молотёры...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Полотерская («Колотёры-молотёры...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Полотерская («Колотёры-молотёры...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3167,7 +3167,7 @@
   <entry>
     <title>М. И. Цветаева - Попытка ревности («Как живется вам с другою...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Попытка ревности («Как живется вам с другою...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Попытка ревности («Как живется вам с другою...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3176,7 +3176,7 @@
   <entry>
     <title>М. И. Цветаева - Последний моряк («О ты — из всех залинейных нот...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Последний моряк («О ты — из всех залинейных нот...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Последний моряк («О ты — из всех залинейных нот...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3185,7 +3185,7 @@
   <entry>
     <title>М. И. Цветаева - Посмертный марш («И марш вперед уже...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Посмертный марш («И марш вперед уже...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Посмертный марш («И марш вперед уже...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3194,7 +3194,7 @@
   <entry>
     <title>М. И. Цветаева - Поэма заставы («А покамест пустыня славы...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Поэма заставы («А покамест пустыня славы...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Поэма заставы («А покамест пустыня славы...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3203,7 +3203,7 @@
   <entry>
     <title>М. И. Цветаева - Поэты, 1—3</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Поэты, 1—3</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Поэты, 1—3.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3212,7 +3212,7 @@
   <entry>
     <title>М. И. Цветаева - Пражский рыцарь («Бледно—лицый...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Пражский рыцарь («Бледно—лицый...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Пражский рыцарь («Бледно—лицый...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3221,7 +3221,7 @@
   <entry>
     <title>М. И. Цветаева - Приметы («Точно гору несла в подоле...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Приметы («Точно гору несла в подоле...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Приметы («Точно гору несла в подоле...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3230,7 +3230,7 @@
   <entry>
     <title>М. И. Цветаева - Провода, 1—10</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Провода, 1—10</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Провода, 1—10.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3239,7 +3239,7 @@
   <entry>
     <title>М. И. Цветаева - Прокрасться... («А может, лучшая победа...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Прокрасться... («А может, лучшая победа...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Прокрасться... («А может, лучшая победа...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3248,7 +3248,7 @@
   <entry>
     <title>М. И. Цветаева - П⟨етру⟩ Э⟨фрону⟩ («День августовский тихо таял...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - П⟨етру⟩ Э⟨фрону⟩ («День августовский тихо таял...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - П⟨етру⟩ Э⟨фрону⟩ («День августовский тихо таял...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3257,7 +3257,7 @@
   <entry>
     <title>М. И. Цветаева - Разлука, 1—8</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Разлука, 1—8</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Разлука, 1—8.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3266,7 +3266,7 @@
   <entry>
     <title>М. И. Цветаева - Раковина («Из лепрозария лжи и зла...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Раковина («Из лепрозария лжи и зла...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Раковина («Из лепрозария лжи и зла...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3275,7 +3275,7 @@
   <entry>
     <title>М. И. Цветаева - Рассвет на рельсах («Покамест день не встал...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Рассвет на рельсах («Покамест день не встал...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Рассвет на рельсах («Покамест день не встал...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3284,7 +3284,7 @@
   <entry>
     <title>М. И. Цветаева - Расщелина («Чем окончился этот случай...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Расщелина («Чем окончился этот случай...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Расщелина («Чем окончился этот случай...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3293,7 +3293,7 @@
   <entry>
     <title>М. И. Цветаева - Рельсы («В некой разлинованности нотной...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Рельсы («В некой разлинованности нотной...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Рельсы («В некой разлинованности нотной...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3302,7 +3302,7 @@
   <entry>
     <title>М. И. Цветаева - Родина («О, неподатливый язык!..»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Родина («О, неподатливый язык!..»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Родина («О, неподатливый язык!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3311,7 +3311,7 @@
   <entry>
     <title>М. И. Цветаева - Рождественская дама («Серый ослик твой ступает прямо...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Рождественская дама («Серый ослик твой ступает прямо...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Рождественская дама («Серый ослик твой ступает прямо...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3320,7 +3320,7 @@
   <entry>
     <title>М. И. Цветаева - Ручьи, 1—2</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Ручьи, 1—2</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Ручьи, 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3329,7 +3329,7 @@
   <entry>
     <title>М. И. Цветаева - Сад («За этот ад...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Сад («За этот ад...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Сад («За этот ад...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3338,7 +3338,7 @@
   <entry>
     <title>М. И. Цветаева - Сахара («Красавцы, не ездите!..»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Сахара («Красавцы, не ездите!..»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Сахара («Красавцы, не ездите!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3347,7 +3347,7 @@
   <entry>
     <title>М. И. Цветаева - Сестра («Мало ада и мало рая...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Сестра («Мало ада и мало рая...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Сестра («Мало ада и мало рая...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3356,7 +3356,7 @@
   <entry>
     <title>М. И. Цветаева - Сивилла, 1—3</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Сивилла, 1—3</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Сивилла, 1—3.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3365,7 +3365,7 @@
   <entry>
     <title>М. И. Цветаева - Скифские, 1—3</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Скифские, 1—3</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Скифские, 1—3.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3374,7 +3374,7 @@
   <entry>
     <title>М. И. Цветаева - Слова и смыслы, 1—3</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Слова и смыслы, 1—3</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Слова и смыслы, 1—3.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3383,7 +3383,7 @@
   <entry>
     <title>М. И. Цветаева - Сон, 1—2</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Сон, 1—2</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Сон, 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3392,7 +3392,7 @@
   <entry>
     <title>М. И. Цветаева - Стиxи сироте, 1—6</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Стиxи сироте, 1—6</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Стиxи сироте, 1—6.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3401,7 +3401,7 @@
   <entry>
     <title>М. И. Цветаева - Стихи к Ахматовой, 1—11</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Стихи к Ахматовой, 1—11</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Стихи к Ахматовой, 1—11.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3410,7 +3410,7 @@
   <entry>
     <title>М. И. Цветаева - Стихи к Блоку, 1—7</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Стихи к Блоку, 1—7</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Стихи к Блоку, 1—7.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3419,7 +3419,7 @@
   <entry>
     <title>М. И. Цветаева - Стихи к Пушкину, 1—5</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Стихи к Пушкину, 1—5</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Стихи к Пушкину, 1—5.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3428,7 +3428,7 @@
   <entry>
     <title>М. И. Цветаева - Стихи к Чехии</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Стихи к Чехии</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Стихи к Чехии.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3437,7 +3437,7 @@
   <entry>
     <title>М. И. Цветаева - Стихи о Москве, 1—9</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Стихи о Москве, 1—9</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Стихи о Москве, 1—9.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3446,7 +3446,7 @@
   <entry>
     <title>М. И. Цветаева - Стол, 1—5</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Стол, 1—5</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Стол, 1—5.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3455,7 +3455,7 @@
   <entry>
     <title>М. И. Цветаева - Страна («С фонарем обшарьте...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Страна («С фонарем обшарьте...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Страна («С фонарем обшарьте...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3464,7 +3464,7 @@
   <entry>
     <title>М. И. Цветаева - Сугробы («Небо катило сугробы...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Сугробы («Небо катило сугробы...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Сугробы («Небо катило сугробы...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3473,7 +3473,7 @@
   <entry>
     <title>М. И. Цветаева - С⟨ергею⟩ Э⟨фрону⟩ («Хочешь знать, как дни проходят...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - С⟨ергею⟩ Э⟨фрону⟩ («Хочешь знать, как дни проходят...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - С⟨ергею⟩ Э⟨фрону⟩ («Хочешь знать, как дни проходят...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3482,7 +3482,7 @@
   <entry>
     <title>М. И. Цветаева - С⟨ергею⟩ Э⟨фрону⟩, 1—2</title>
     <id>urn:ebook-search:book:М. И. Цветаева - С⟨ергею⟩ Э⟨фрону⟩, 1—2</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - С⟨ергею⟩ Э⟨фрону⟩, 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3491,7 +3491,7 @@
   <entry>
     <title>М. И. Цветаева - Так вслушиваются, 1—2</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Так вслушиваются, 1—2</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Так вслушиваются, 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3500,7 +3500,7 @@
   <entry>
     <title>М. И. Цветаева - Только девочка («Я только девочка. Мой долг...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Только девочка («Я только девочка. Мой долг...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Только девочка («Я только девочка. Мой долг...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3509,7 +3509,7 @@
   <entry>
     <title>М. И. Цветаева - Тройственный союз («У нас за робостью лица...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Тройственный союз («У нас за робостью лица...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Тройственный союз («У нас за робостью лица...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3518,7 +3518,7 @@
   <entry>
     <title>М. И. Цветаева - Ученик, 1—7</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Ученик, 1—7</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Ученик, 1—7.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3527,7 +3527,7 @@
   <entry>
     <title>М. И. Цветаева - Федра, 1—2</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Федра, 1—2</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Федра, 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3536,7 +3536,7 @@
   <entry>
     <title>М. И. Цветаева - Ханский полон, 1—4</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Ханский полон, 1—4</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Ханский полон, 1—4.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3545,7 +3545,7 @@
   <entry>
     <title>М. И. Цветаева - Хвала Афродите, 1—3</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Хвала Афродите, 1—3</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Хвала Афродите, 1—3.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3554,7 +3554,7 @@
   <entry>
     <title>М. И. Цветаева - Хвала богатым («И засим, упредив заране...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Хвала богатым («И засим, упредив заране...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Хвала богатым («И засим, упредив заране...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3563,7 +3563,7 @@
   <entry>
     <title>М. И. Цветаева - Хвала времени («Беженская мостовая!..»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Хвала времени («Беженская мостовая!..»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Хвала времени («Беженская мостовая!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3572,7 +3572,7 @@
   <entry>
     <title>М. И. Цветаева - Царю — на Пасху («Настежь, настежь...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Царю — на Пасху («Настежь, настежь...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Царю — на Пасху («Настежь, настежь...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3581,7 +3581,7 @@
   <entry>
     <title>М. И. Цветаева - Час души, 1—3</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Час души, 1—3</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Час души, 1—3.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3590,7 +3590,7 @@
   <entry>
     <title>М. И. Цветаева - Читатели газет («Ползет подземный змей...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Читатели газет («Ползет подземный змей...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Читатели газет («Ползет подземный змей...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3599,7 +3599,7 @@
   <entry>
     <title>М. И. Цветаева - Эвридика — Орфею («Для тех, отженивших последние клочья...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Эвридика — Орфею («Для тех, отженивших последние клочья...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Эвридика — Орфею («Для тех, отженивших последние клочья...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3608,7 +3608,7 @@
   <entry>
     <title>М. И. Цветаева - Эмигрант («Здесь, меж вами: домами, деньгами, дымами...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Эмигрант («Здесь, меж вами: домами, деньгами, дымами...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Эмигрант («Здесь, меж вами: домами, деньгами, дымами...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3617,7 +3617,7 @@
   <entry>
     <title>М. И. Цветаева - Юнкерам, убитым в Нижнем («Сабли взмах...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Юнкерам, убитым в Нижнем («Сабли взмах...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Юнкерам, убитым в Нижнем («Сабли взмах...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>
@@ -3626,7 +3626,7 @@
   <entry>
     <title>М. И. Цветаева - Юноше в уста («Юноше в уста...»)</title>
     <id>urn:ebook-search:book:М. И. Цветаева - Юноше в уста («Юноше в уста...»)</id>
-    <updated>2026-02-20T18:44:01.795708Z</updated>
+    <updated>2026-02-21T03:25:29.791493Z</updated>
     <link href="../../d/М. И. Цветаева - Юноше в уста («Юноше в уста...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. И. Цветаева</name>

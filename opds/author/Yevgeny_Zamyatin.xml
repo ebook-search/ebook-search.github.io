@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Yevgeny Zamyatin</title>
   <id>urn:ebook-search:author:Yevgeny Zamyatin</id>
-  <updated>2026-02-20T18:44:01.769522Z</updated>
+  <updated>2026-02-21T03:25:29.763433Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Yevgeny Zamyatin - We</title>
     <id>urn:ebook-search:book:Yevgeny Zamyatin - We</id>
-    <updated>2026-02-20T18:44:01.769522Z</updated>
+    <updated>2026-02-21T03:25:29.763433Z</updated>
     <link href="../../d/Yevgeny Zamyatin - We.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Yevgeny Zamyatin</name>

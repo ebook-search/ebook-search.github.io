@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Etsu Inagaki Sugimoto</title>
   <id>urn:ebook-search:author:Etsu Inagaki Sugimoto</id>
-  <updated>2026-02-20T18:44:01.759386Z</updated>
+  <updated>2026-02-21T03:25:29.755997Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Etsu Inagaki Sugimoto - A Daughter of the Samurai</title>
     <id>urn:ebook-search:book:Etsu Inagaki Sugimoto - A Daughter of the Samurai</id>
-    <updated>2026-02-20T18:44:01.759386Z</updated>
+    <updated>2026-02-21T03:25:29.755997Z</updated>
     <link href="../../d/Etsu Inagaki Sugimoto - A Daughter of the Samurai.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Etsu Inagaki Sugimoto</name>

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Margaret Oliphant</title>
   <id>urn:ebook-search:author:Margaret Oliphant</id>
-  <updated>2026-02-20T18:44:01.718488Z</updated>
+  <updated>2026-02-21T03:25:29.727921Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Margaret Oliphant - A Country Gentleman and His Family</title>
     <id>urn:ebook-search:book:Margaret Oliphant - A Country Gentleman and His Family</id>
-    <updated>2026-02-20T18:44:01.718488Z</updated>
+    <updated>2026-02-21T03:25:29.727921Z</updated>
     <link href="../../d/Margaret Oliphant - A Country Gentleman and His Family.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Margaret Oliphant</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Margaret Oliphant - Hester</title>
     <id>urn:ebook-search:book:Margaret Oliphant - Hester</id>
-    <updated>2026-02-20T18:44:01.718488Z</updated>
+    <updated>2026-02-21T03:25:29.727921Z</updated>
     <link href="../../d/Margaret Oliphant - Hester.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Margaret Oliphant</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Margaret Oliphant - Miss Marjoribanks</title>
     <id>urn:ebook-search:book:Margaret Oliphant - Miss Marjoribanks</id>
-    <updated>2026-02-20T18:44:01.718488Z</updated>
+    <updated>2026-02-21T03:25:29.727921Z</updated>
     <link href="../../d/Margaret Oliphant - Miss Marjoribanks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Margaret Oliphant</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Margaret Oliphant - Phoebe, Junior</title>
     <id>urn:ebook-search:book:Margaret Oliphant - Phoebe, Junior</id>
-    <updated>2026-02-20T18:44:01.718488Z</updated>
+    <updated>2026-02-21T03:25:29.727921Z</updated>
     <link href="../../d/Margaret Oliphant - Phoebe, Junior.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Margaret Oliphant</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Margaret Oliphant - Salem Chapel</title>
     <id>urn:ebook-search:book:Margaret Oliphant - Salem Chapel</id>
-    <updated>2026-02-20T18:44:01.718488Z</updated>
+    <updated>2026-02-21T03:25:29.727921Z</updated>
     <link href="../../d/Margaret Oliphant - Salem Chapel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Margaret Oliphant</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Margaret Oliphant - The Ladies Lindores</title>
     <id>urn:ebook-search:book:Margaret Oliphant - The Ladies Lindores</id>
-    <updated>2026-02-20T18:44:01.718488Z</updated>
+    <updated>2026-02-21T03:25:29.727921Z</updated>
     <link href="../../d/Margaret Oliphant - The Ladies Lindores.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Margaret Oliphant</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Margaret Oliphant - The Perpetual Curate</title>
     <id>urn:ebook-search:book:Margaret Oliphant - The Perpetual Curate</id>
-    <updated>2026-02-20T18:44:01.718488Z</updated>
+    <updated>2026-02-21T03:25:29.727921Z</updated>
     <link href="../../d/Margaret Oliphant - The Perpetual Curate.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Margaret Oliphant</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>Margaret Oliphant - The Rector and The Doctor’s Family</title>
     <id>urn:ebook-search:book:Margaret Oliphant - The Rector and The Doctor’s Family</id>
-    <updated>2026-02-20T18:44:01.718488Z</updated>
+    <updated>2026-02-21T03:25:29.727921Z</updated>
     <link href="../../d/Margaret Oliphant - The Rector and The Doctor’s Family.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Margaret Oliphant</name>

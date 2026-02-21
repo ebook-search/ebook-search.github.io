@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>А. Н. Толстой</title>
   <id>urn:ebook-search:author:А. Н. Толстой</id>
-  <updated>2026-02-20T18:44:01.794800Z</updated>
+  <updated>2026-02-21T03:25:29.790164Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>А. Н. Толстой - Аэлита</title>
     <id>urn:ebook-search:book:А. Н. Толстой - Аэлита</id>
-    <updated>2026-02-20T18:44:01.794800Z</updated>
+    <updated>2026-02-21T03:25:29.790164Z</updated>
     <link href="../../d/А. Н. Толстой - Аэлита.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Толстой</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>А. Н. Толстой - Гадюка</title>
     <id>urn:ebook-search:book:А. Н. Толстой - Гадюка</id>
-    <updated>2026-02-20T18:44:01.794800Z</updated>
+    <updated>2026-02-21T03:25:29.790164Z</updated>
     <link href="../../d/А. Н. Толстой - Гадюка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Толстой</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>А. Н. Толстой - Детство Никиты</title>
     <id>urn:ebook-search:book:А. Н. Толстой - Детство Никиты</id>
-    <updated>2026-02-20T18:44:01.794800Z</updated>
+    <updated>2026-02-21T03:25:29.790164Z</updated>
     <link href="../../d/А. Н. Толстой - Детство Никиты.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Толстой</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>А. Н. Толстой - Петр Первый</title>
     <id>urn:ebook-search:book:А. Н. Толстой - Петр Первый</id>
-    <updated>2026-02-20T18:44:01.794800Z</updated>
+    <updated>2026-02-21T03:25:29.790164Z</updated>
     <link href="../../d/А. Н. Толстой - Петр Первый.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Толстой</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>А. Н. Толстой - Рассказы Ивана Сударева</title>
     <id>urn:ebook-search:book:А. Н. Толстой - Рассказы Ивана Сударева</id>
-    <updated>2026-02-20T18:44:01.794800Z</updated>
+    <updated>2026-02-21T03:25:29.790164Z</updated>
     <link href="../../d/А. Н. Толстой - Рассказы Ивана Сударева.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Толстой</name>

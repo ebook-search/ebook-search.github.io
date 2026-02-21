@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>К. Ф. Рылеев</title>
   <id>urn:ebook-search:author:К. Ф. Рылеев</id>
-  <updated>2026-02-20T18:44:01.795507Z</updated>
+  <updated>2026-02-21T03:25:29.791255Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>К. Ф. Рылеев -  [Гражданин] («Я ль буду в роковое время...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев -  [Гражданин] («Я ль буду в роковое время...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев -  [Гражданин] («Я ль буду в роковое время...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>К. Ф. Рылеев - «Безделок несколько наш Бавий накропав...»</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - «Безделок несколько наш Бавий накропав...»</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - «Безделок несколько наш Бавий накропав...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>К. Ф. Рылеев - «Давно мне сердце говорило...»</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - «Давно мне сердце говорило...»</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - «Давно мне сердце говорило...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>К. Ф. Рылеев - «Поверь, я знаю уж, Дорида...»</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - «Поверь, я знаю уж, Дорида...»</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - «Поверь, я знаю уж, Дорида...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>К. Ф. Рылеев - А. П. Ермолову («Наперсник Марса и Паллады!..»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - А. П. Ермолову («Наперсник Марса и Паллады!..»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - А. П. Ермолову («Наперсник Марса и Паллады!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>К. Ф. Рылеев - Бестужеву («Хоть Пушкин суд мне строгий произнес...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Бестужеву («Хоть Пушкин суд мне строгий произнес...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Бестужеву («Хоть Пушкин суд мне строгий произнес...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>К. Ф. Рылеев - В альбом Т. С. К. («Своей любезностью опасной...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - В альбом Т. С. К. («Своей любезностью опасной...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - В альбом Т. С. К. («Своей любезностью опасной...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>К. Ф. Рылеев - Вере Николаевне Столыпиной («Не отравляй души тоскою...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Вере Николаевне Столыпиной («Не отравляй души тоскою...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Вере Николаевне Столыпиной («Не отравляй души тоскою...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>К. Ф. Рылеев - Видение («Какое дивное виденье...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Видение («Какое дивное виденье...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Видение («Какое дивное виденье...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>К. Ф. Рылеев - Воспоминания («Еще ли в памяти рисуется твоей...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Воспоминания («Еще ли в памяти рисуется твоей...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Воспоминания («Еще ли в памяти рисуется твоей...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>К. Ф. Рылеев - Гражданское мужество («Кто этот дивный великан...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Гражданское мужество («Кто этот дивный великан...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Гражданское мужество («Кто этот дивный великан...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>К. Ф. Рылеев - Жестокой («Смотри, о Делия, как вянет сей цветочек...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Жестокой («Смотри, о Делия, как вянет сей цветочек...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Жестокой («Смотри, о Делия, как вянет сей цветочек...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>К. Ф. Рылеев - Заблуждение («Завеса наконец с очей моих упала...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Заблуждение («Завеса наконец с очей моих упала...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Заблуждение («Завеса наконец с очей моих упала...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>К. Ф. Рылеев - Иван Сусанин («„Куда ты ведешь нас?.. не видно ни зги!..»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Иван Сусанин («„Куда ты ведешь нас?.. не видно ни зги!..»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Иван Сусанин («„Куда ты ведешь нас?.. не видно ни зги!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -134,7 +134,7 @@
   <entry>
     <title>К. Ф. Рылеев - К N. N. («Когда душа изнемогала...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - К N. N. («Когда душа изнемогала...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - К N. N. («Когда душа изнемогала...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -143,7 +143,7 @@
   <entry>
     <title>К. Ф. Рылеев - К N. N. («Ты посетить, мой друг, желала...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - К N. N. («Ты посетить, мой друг, желала...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - К N. N. («Ты посетить, мой друг, желала...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -152,7 +152,7 @@
   <entry>
     <title>К. Ф. Рылеев - К N. N. («У вас в гостях бывать накладно...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - К N. N. («У вас в гостях бывать накладно...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - К N. N. («У вас в гостях бывать накладно...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -161,7 +161,7 @@
   <entry>
     <title>К. Ф. Рылеев - К Делии («Опять, о Делия, завистливой судьбою...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - К Делии («Опять, о Делия, завистливой судьбою...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - К Делии («Опять, о Делия, завистливой судьбою...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -170,7 +170,7 @@
   <entry>
     <title>К. Ф. Рылеев - К Делии («Почто, о Делия! с коленопреклоненьем...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - К Делии («Почто, о Делия! с коленопреклоненьем...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - К Делии («Почто, о Делия! с коленопреклоненьем...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -179,7 +179,7 @@
   <entry>
     <title>К. Ф. Рылеев - К К⟨осовско⟩му («Чтоб я младые годы...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - К К⟨осовско⟩му («Чтоб я младые годы...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - К К⟨осовско⟩му («Чтоб я младые годы...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -188,7 +188,7 @@
   <entry>
     <title>К. Ф. Рылеев - К временщику («Надменный временщик, и подлый и коварный...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - К временщику («Надменный временщик, и подлый и коварный...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - К временщику («Надменный временщик, и подлый и коварный...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -197,7 +197,7 @@
   <entry>
     <title>К. Ф. Рылеев - К другу («Не нам, мой друг, с тобой чуждаться...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - К другу («Не нам, мой друг, с тобой чуждаться...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - К другу («Не нам, мой друг, с тобой чуждаться...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -206,7 +206,7 @@
   <entry>
     <title>К. Ф. Рылеев - К. С. («Наш хлебосол-мудрец...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - К. С. («Наш хлебосол-мудрец...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - К. С. («Наш хлебосол-мудрец...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -215,7 +215,7 @@
   <entry>
     <title>К. Ф. Рылеев - М. Г. Бедраге («На смерть Полины молодой...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - М. Г. Бедраге («На смерть Полины молодой...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - М. Г. Бедраге («На смерть Полины молодой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -224,7 +224,7 @@
   <entry>
     <title>К. Ф. Рылеев - На болезнь Крылова («Нет одобрения талантам никакого...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - На болезнь Крылова («Нет одобрения талантам никакого...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - На болезнь Крылова («Нет одобрения талантам никакого...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -233,7 +233,7 @@
   <entry>
     <title>К. Ф. Рылеев - На смерть Бейрона («О чем средь ужасов войны...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - На смерть Бейрона («О чем средь ужасов войны...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - На смерть Бейрона («О чем средь ужасов войны...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -242,7 +242,7 @@
   <entry>
     <title>К. Ф. Рылеев - Надгробная Рыжку («Когда ты одарен чувствительной душою...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Надгробная Рыжку («Когда ты одарен чувствительной душою...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Надгробная Рыжку («Когда ты одарен чувствительной душою...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -251,7 +251,7 @@
   <entry>
     <title>К. Ф. Рылеев - Надгробная надпись («Под тенью миртов и акаций...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Надгробная надпись («Под тенью миртов и акаций...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Надгробная надпись («Под тенью миртов и акаций...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -260,7 +260,7 @@
   <entry>
     <title>К. Ф. Рылеев - Надпись к портрету одного старого воина, умершего от кровопускания («Вот верное изображенье...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Надпись к портрету одного старого воина, умершего от кровопускания («Вот верное изображенье...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Надпись к портрету одного старого воина, умершего от кровопускания («Вот верное изображенье...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -269,7 +269,7 @@
   <entry>
     <title>К. Ф. Рылеев - Нечаянное счастие («О радость, о восторг!.. Я Лилу молодую...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Нечаянное счастие («О радость, о восторг!.. Я Лилу молодую...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Нечаянное счастие («О радость, о восторг!.. Я Лилу молодую...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -278,7 +278,7 @@
   <entry>
     <title>К. Ф. Рылеев - Переводчику «Андромахи» («Пусть современники красот не постигают...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Переводчику «Андромахи» («Пусть современники красот не постигают...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Переводчику «Андромахи» («Пусть современники красот не постигают...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -287,7 +287,7 @@
   <entry>
     <title>К. Ф. Рылеев - Послание к Н. И. Гнедичу («Питомец важных муз, служитель Аполлона...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Послание к Н. И. Гнедичу («Питомец важных муз, служитель Аполлона...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Послание к Н. И. Гнедичу («Питомец важных муз, служитель Аполлона...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -296,7 +296,7 @@
   <entry>
     <title>К. Ф. Рылеев - Пустыня («Бежавший от сует...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Пустыня («Бежавший от сует...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Пустыня («Бежавший от сует...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -305,7 +305,7 @@
   <entry>
     <title>К. Ф. Рылеев - Путь к счастию («Придумать не могу, какой достиг дорогой...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Путь к счастию («Придумать не могу, какой достиг дорогой...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Путь к счастию («Придумать не могу, какой достиг дорогой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -314,7 +314,7 @@
   <entry>
     <title>К. Ф. Рылеев - Смерть Ермака («Ревела буря, дождь шумел...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Смерть Ермака («Ревела буря, дождь шумел...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Смерть Ермака («Ревела буря, дождь шумел...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -323,7 +323,7 @@
   <entry>
     <title>К. Ф. Рылеев - Стансы («Не сбылись, мой друг, пророчества...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Стансы («Не сбылись, мой друг, пророчества...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Стансы («Не сбылись, мой друг, пророчества...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -332,7 +332,7 @@
   <entry>
     <title>К. Ф. Рылеев - Счастливая перемена («Свершилось наконец! Я Лидой обладаю...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Счастливая перемена («Свершилось наконец! Я Лидой обладаю...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Счастливая перемена («Свершилось наконец! Я Лидой обладаю...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -341,7 +341,7 @@
   <entry>
     <title>К. Ф. Рылеев - Шарада («Часть первая моя, от зноя укрывая...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Шарада («Часть первая моя, от зноя укрывая...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Шарада («Часть первая моя, от зноя укрывая...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -350,7 +350,7 @@
   <entry>
     <title>К. Ф. Рылеев - Элегии, 1—2</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - Элегии, 1—2</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - Элегии, 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -359,7 +359,7 @@
   <entry>
     <title>К. Ф. Рылеев - ⟨А. А. Бестужеву⟩ («Ты разленился уж некстати...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - ⟨А. А. Бестужеву⟩ («Ты разленился уж некстати...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - ⟨А. А. Бестужеву⟩ («Ты разленился уж некстати...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -368,7 +368,7 @@
   <entry>
     <title>К. Ф. Рылеев - ⟨Из письма к Ф. В. Булгарину⟩ 1—2</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - ⟨Из письма к Ф. В. Булгарину⟩ 1—2</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - ⟨Из письма к Ф. В. Булгарину⟩ 1—2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -377,7 +377,7 @@
   <entry>
     <title>К. Ф. Рылеев - ⟨Князю Е. П. Оболенскому⟩, 1—3</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - ⟨Князю Е. П. Оболенскому⟩, 1—3</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - ⟨Князю Е. П. Оболенскому⟩, 1—3.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -386,7 +386,7 @@
   <entry>
     <title>К. Ф. Рылеев - ⟨На рождение Я. Н. Бедраги⟩ («Да будешь, малютка, как папа, бесстрашен...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - ⟨На рождение Я. Н. Бедраги⟩ («Да будешь, малютка, как папа, бесстрашен...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - ⟨На рождение Я. Н. Бедраги⟩ («Да будешь, малютка, как папа, бесстрашен...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -395,7 +395,7 @@
   <entry>
     <title>К. Ф. Рылеев - ⟨На смерть сына⟩ («Земли минутный поселенец...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - ⟨На смерть сына⟩ («Земли минутный поселенец...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - ⟨На смерть сына⟩ («Земли минутный поселенец...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>
@@ -404,7 +404,7 @@
   <entry>
     <title>К. Ф. Рылеев - ⟨Эпиграмма на австрийского императора⟩ («Весь мир великостию духа...»)</title>
     <id>urn:ebook-search:book:К. Ф. Рылеев - ⟨Эпиграмма на австрийского императора⟩ («Весь мир великостию духа...»)</id>
-    <updated>2026-02-20T18:44:01.795507Z</updated>
+    <updated>2026-02-21T03:25:29.791255Z</updated>
     <link href="../../d/К. Ф. Рылеев - ⟨Эпиграмма на австрийского императора⟩ («Весь мир великостию духа...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>К. Ф. Рылеев</name>

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>L. M. Montgomery</title>
   <id>urn:ebook-search:author:L. M. Montgomery</id>
-  <updated>2026-02-20T18:44:01.741179Z</updated>
+  <updated>2026-02-21T03:25:29.743628Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>L. M. Montgomery - Anne of Avonlea</title>
     <id>urn:ebook-search:book:L. M. Montgomery - Anne of Avonlea</id>
-    <updated>2026-02-20T18:44:01.741179Z</updated>
+    <updated>2026-02-21T03:25:29.743628Z</updated>
     <link href="../../d/L. M. Montgomery - Anne of Avonlea.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>L. M. Montgomery</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>L. M. Montgomery - Anne of Green Gables</title>
     <id>urn:ebook-search:book:L. M. Montgomery - Anne of Green Gables</id>
-    <updated>2026-02-20T18:44:01.741179Z</updated>
+    <updated>2026-02-21T03:25:29.743628Z</updated>
     <link href="../../d/L. M. Montgomery - Anne of Green Gables.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>L. M. Montgomery</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>L. M. Montgomery - Anne of the Island</title>
     <id>urn:ebook-search:book:L. M. Montgomery - Anne of the Island</id>
-    <updated>2026-02-20T18:44:01.741179Z</updated>
+    <updated>2026-02-21T03:25:29.743628Z</updated>
     <link href="../../d/L. M. Montgomery - Anne of the Island.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>L. M. Montgomery</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>L. M. Montgomery - Emily of New Moon</title>
     <id>urn:ebook-search:book:L. M. Montgomery - Emily of New Moon</id>
-    <updated>2026-02-20T18:44:01.741179Z</updated>
+    <updated>2026-02-21T03:25:29.743628Z</updated>
     <link href="../../d/L. M. Montgomery - Emily of New Moon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>L. M. Montgomery</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>L. M. Montgomery - The Blue Castle</title>
     <id>urn:ebook-search:book:L. M. Montgomery - The Blue Castle</id>
-    <updated>2026-02-20T18:44:01.741179Z</updated>
+    <updated>2026-02-21T03:25:29.743628Z</updated>
     <link href="../../d/L. M. Montgomery - The Blue Castle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>L. M. Montgomery</name>

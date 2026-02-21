@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Procopius</title>
   <id>urn:ebook-search:author:Procopius</id>
-  <updated>2026-02-20T18:44:01.753624Z</updated>
+  <updated>2026-02-21T03:25:29.752124Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Procopius - The Secret History</title>
     <id>urn:ebook-search:book:Procopius - The Secret History</id>
-    <updated>2026-02-20T18:44:01.753624Z</updated>
+    <updated>2026-02-21T03:25:29.752124Z</updated>
     <link href="../../d/Procopius - The Secret History.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Procopius</name>

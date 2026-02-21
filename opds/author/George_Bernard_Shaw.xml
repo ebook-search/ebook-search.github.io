@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>George Bernard Shaw</title>
   <id>urn:ebook-search:author:George Bernard Shaw</id>
-  <updated>2026-02-20T18:44:01.719775Z</updated>
+  <updated>2026-02-21T03:25:29.728931Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>George Bernard Shaw - Arms and the Man</title>
     <id>urn:ebook-search:book:George Bernard Shaw - Arms and the Man</id>
-    <updated>2026-02-20T18:44:01.719775Z</updated>
+    <updated>2026-02-21T03:25:29.728931Z</updated>
     <link href="../../d/George Bernard Shaw - Arms and the Man.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Bernard Shaw</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>George Bernard Shaw - Candida</title>
     <id>urn:ebook-search:book:George Bernard Shaw - Candida</id>
-    <updated>2026-02-20T18:44:01.719775Z</updated>
+    <updated>2026-02-21T03:25:29.728931Z</updated>
     <link href="../../d/George Bernard Shaw - Candida.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Bernard Shaw</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>George Bernard Shaw - Fanny’s First Play</title>
     <id>urn:ebook-search:book:George Bernard Shaw - Fanny’s First Play</id>
-    <updated>2026-02-20T18:44:01.719775Z</updated>
+    <updated>2026-02-21T03:25:29.728931Z</updated>
     <link href="../../d/George Bernard Shaw - Fanny’s First Play.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Bernard Shaw</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>George Bernard Shaw - Getting Married</title>
     <id>urn:ebook-search:book:George Bernard Shaw - Getting Married</id>
-    <updated>2026-02-20T18:44:01.719775Z</updated>
+    <updated>2026-02-21T03:25:29.728931Z</updated>
     <link href="../../d/George Bernard Shaw - Getting Married.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Bernard Shaw</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>George Bernard Shaw - Heartbreak House</title>
     <id>urn:ebook-search:book:George Bernard Shaw - Heartbreak House</id>
-    <updated>2026-02-20T18:44:01.719775Z</updated>
+    <updated>2026-02-21T03:25:29.728931Z</updated>
     <link href="../../d/George Bernard Shaw - Heartbreak House.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Bernard Shaw</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>George Bernard Shaw - Major Barbara</title>
     <id>urn:ebook-search:book:George Bernard Shaw - Major Barbara</id>
-    <updated>2026-02-20T18:44:01.719775Z</updated>
+    <updated>2026-02-21T03:25:29.728931Z</updated>
     <link href="../../d/George Bernard Shaw - Major Barbara.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Bernard Shaw</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>George Bernard Shaw - Man and Superman</title>
     <id>urn:ebook-search:book:George Bernard Shaw - Man and Superman</id>
-    <updated>2026-02-20T18:44:01.719775Z</updated>
+    <updated>2026-02-21T03:25:29.728931Z</updated>
     <link href="../../d/George Bernard Shaw - Man and Superman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Bernard Shaw</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>George Bernard Shaw - Misalliance</title>
     <id>urn:ebook-search:book:George Bernard Shaw - Misalliance</id>
-    <updated>2026-02-20T18:44:01.719775Z</updated>
+    <updated>2026-02-21T03:25:29.728931Z</updated>
     <link href="../../d/George Bernard Shaw - Misalliance.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Bernard Shaw</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>George Bernard Shaw - Mrs. Warren’s Profession</title>
     <id>urn:ebook-search:book:George Bernard Shaw - Mrs. Warren’s Profession</id>
-    <updated>2026-02-20T18:44:01.719775Z</updated>
+    <updated>2026-02-21T03:25:29.728931Z</updated>
     <link href="../../d/George Bernard Shaw - Mrs. Warren’s Profession.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Bernard Shaw</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>George Bernard Shaw - Pygmalion</title>
     <id>urn:ebook-search:book:George Bernard Shaw - Pygmalion</id>
-    <updated>2026-02-20T18:44:01.719775Z</updated>
+    <updated>2026-02-21T03:25:29.728931Z</updated>
     <link href="../../d/George Bernard Shaw - Pygmalion.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Bernard Shaw</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>George Bernard Shaw - Saint Joan</title>
     <id>urn:ebook-search:book:George Bernard Shaw - Saint Joan</id>
-    <updated>2026-02-20T18:44:01.719775Z</updated>
+    <updated>2026-02-21T03:25:29.728931Z</updated>
     <link href="../../d/George Bernard Shaw - Saint Joan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Bernard Shaw</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>George Bernard Shaw - Short Plays</title>
     <id>urn:ebook-search:book:George Bernard Shaw - Short Plays</id>
-    <updated>2026-02-20T18:44:01.719775Z</updated>
+    <updated>2026-02-21T03:25:29.728931Z</updated>
     <link href="../../d/George Bernard Shaw - Short Plays.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Bernard Shaw</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>George Bernard Shaw - The Apple Cart</title>
     <id>urn:ebook-search:book:George Bernard Shaw - The Apple Cart</id>
-    <updated>2026-02-20T18:44:01.719775Z</updated>
+    <updated>2026-02-21T03:25:29.728931Z</updated>
     <link href="../../d/George Bernard Shaw - The Apple Cart.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Bernard Shaw</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>George Bernard Shaw - The Doctor’s Dilemma</title>
     <id>urn:ebook-search:book:George Bernard Shaw - The Doctor’s Dilemma</id>
-    <updated>2026-02-20T18:44:01.719775Z</updated>
+    <updated>2026-02-21T03:25:29.728931Z</updated>
     <link href="../../d/George Bernard Shaw - The Doctor’s Dilemma.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Bernard Shaw</name>
@@ -134,7 +134,7 @@
   <entry>
     <title>George Bernard Shaw - The Man of Destiny</title>
     <id>urn:ebook-search:book:George Bernard Shaw - The Man of Destiny</id>
-    <updated>2026-02-20T18:44:01.719775Z</updated>
+    <updated>2026-02-21T03:25:29.728931Z</updated>
     <link href="../../d/George Bernard Shaw - The Man of Destiny.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Bernard Shaw</name>
@@ -143,7 +143,7 @@
   <entry>
     <title>George Bernard Shaw - You Never Can Tell</title>
     <id>urn:ebook-search:book:George Bernard Shaw - You Never Can Tell</id>
-    <updated>2026-02-20T18:44:01.719775Z</updated>
+    <updated>2026-02-21T03:25:29.728931Z</updated>
     <link href="../../d/George Bernard Shaw - You Never Can Tell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>George Bernard Shaw</name>

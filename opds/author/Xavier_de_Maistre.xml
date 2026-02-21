@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Xavier de Maistre</title>
   <id>urn:ebook-search:author:Xavier de Maistre</id>
-  <updated>2026-02-20T18:44:01.760272Z</updated>
+  <updated>2026-02-21T03:25:29.756579Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Xavier de Maistre - Short Fiction</title>
     <id>urn:ebook-search:book:Xavier de Maistre - Short Fiction</id>
-    <updated>2026-02-20T18:44:01.760272Z</updated>
+    <updated>2026-02-21T03:25:29.756579Z</updated>
     <link href="../../d/Xavier de Maistre - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Xavier de Maistre</name>

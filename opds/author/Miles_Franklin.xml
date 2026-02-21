@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Miles Franklin</title>
   <id>urn:ebook-search:author:Miles Franklin</id>
-  <updated>2026-02-20T18:44:01.774777Z</updated>
+  <updated>2026-02-21T03:25:29.766928Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Miles Franklin - My Brilliant Career</title>
     <id>urn:ebook-search:book:Miles Franklin - My Brilliant Career</id>
-    <updated>2026-02-20T18:44:01.774777Z</updated>
+    <updated>2026-02-21T03:25:29.766928Z</updated>
     <link href="../../d/Miles Franklin - My Brilliant Career.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Miles Franklin</name>

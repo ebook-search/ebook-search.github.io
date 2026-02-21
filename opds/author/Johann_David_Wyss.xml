@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Johann David Wyss</title>
   <id>urn:ebook-search:author:Johann David Wyss</id>
-  <updated>2026-02-20T18:44:01.734215Z</updated>
+  <updated>2026-02-21T03:25:29.738769Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Johann David Wyss - The Swiss Family Robinson</title>
     <id>urn:ebook-search:book:Johann David Wyss - The Swiss Family Robinson</id>
-    <updated>2026-02-20T18:44:01.734215Z</updated>
+    <updated>2026-02-21T03:25:29.738769Z</updated>
     <link href="../../d/Johann David Wyss - The Swiss Family Robinson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Johann David Wyss</name>

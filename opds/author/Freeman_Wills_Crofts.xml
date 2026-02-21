@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Freeman Wills Crofts</title>
   <id>urn:ebook-search:author:Freeman Wills Crofts</id>
-  <updated>2026-02-20T18:44:01.725983Z</updated>
+  <updated>2026-02-21T03:25:29.733324Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Freeman Wills Crofts - Inspector French’s Greatest Case</title>
     <id>urn:ebook-search:book:Freeman Wills Crofts - Inspector French’s Greatest Case</id>
-    <updated>2026-02-20T18:44:01.725983Z</updated>
+    <updated>2026-02-21T03:25:29.733324Z</updated>
     <link href="../../d/Freeman Wills Crofts - Inspector French’s Greatest Case.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Freeman Wills Crofts</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Freeman Wills Crofts - The Box Office Murders</title>
     <id>urn:ebook-search:book:Freeman Wills Crofts - The Box Office Murders</id>
-    <updated>2026-02-20T18:44:01.725983Z</updated>
+    <updated>2026-02-21T03:25:29.733324Z</updated>
     <link href="../../d/Freeman Wills Crofts - The Box Office Murders.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Freeman Wills Crofts</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Freeman Wills Crofts - The Cask</title>
     <id>urn:ebook-search:book:Freeman Wills Crofts - The Cask</id>
-    <updated>2026-02-20T18:44:01.725983Z</updated>
+    <updated>2026-02-21T03:25:29.733324Z</updated>
     <link href="../../d/Freeman Wills Crofts - The Cask.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Freeman Wills Crofts</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Freeman Wills Crofts - The Pit-Prop Syndicate</title>
     <id>urn:ebook-search:book:Freeman Wills Crofts - The Pit-Prop Syndicate</id>
-    <updated>2026-02-20T18:44:01.725983Z</updated>
+    <updated>2026-02-21T03:25:29.733324Z</updated>
     <link href="../../d/Freeman Wills Crofts - The Pit-Prop Syndicate.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Freeman Wills Crofts</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Freeman Wills Crofts - The Ponson Case</title>
     <id>urn:ebook-search:book:Freeman Wills Crofts - The Ponson Case</id>
-    <updated>2026-02-20T18:44:01.725983Z</updated>
+    <updated>2026-02-21T03:25:29.733324Z</updated>
     <link href="../../d/Freeman Wills Crofts - The Ponson Case.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Freeman Wills Crofts</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Freeman Wills Crofts - The Sea Mystery</title>
     <id>urn:ebook-search:book:Freeman Wills Crofts - The Sea Mystery</id>
-    <updated>2026-02-20T18:44:01.725983Z</updated>
+    <updated>2026-02-21T03:25:29.733324Z</updated>
     <link href="../../d/Freeman Wills Crofts - The Sea Mystery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Freeman Wills Crofts</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Freeman Wills Crofts - The Starvel Hollow Tragedy</title>
     <id>urn:ebook-search:book:Freeman Wills Crofts - The Starvel Hollow Tragedy</id>
-    <updated>2026-02-20T18:44:01.725983Z</updated>
+    <updated>2026-02-21T03:25:29.733324Z</updated>
     <link href="../../d/Freeman Wills Crofts - The Starvel Hollow Tragedy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Freeman Wills Crofts</name>

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Marie Belloc Lowndes</title>
   <id>urn:ebook-search:author:Marie Belloc Lowndes</id>
-  <updated>2026-02-20T18:44:01.754641Z</updated>
+  <updated>2026-02-21T03:25:29.752871Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Marie Belloc Lowndes - The Lodger</title>
     <id>urn:ebook-search:book:Marie Belloc Lowndes - The Lodger</id>
-    <updated>2026-02-20T18:44:01.754641Z</updated>
+    <updated>2026-02-21T03:25:29.752871Z</updated>
     <link href="../../d/Marie Belloc Lowndes - The Lodger.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Marie Belloc Lowndes</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Marie Belloc Lowndes - The Story of Ivy</title>
     <id>urn:ebook-search:book:Marie Belloc Lowndes - The Story of Ivy</id>
-    <updated>2026-02-20T18:44:01.754641Z</updated>
+    <updated>2026-02-21T03:25:29.752871Z</updated>
     <link href="../../d/Marie Belloc Lowndes - The Story of Ivy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Marie Belloc Lowndes</name>

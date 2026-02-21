@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>A. P. Herbert</title>
   <id>urn:ebook-search:author:A. P. Herbert</id>
-  <updated>2026-02-20T18:44:01.728958Z</updated>
+  <updated>2026-02-21T03:25:29.735368Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>A. P. Herbert - The House by the River</title>
     <id>urn:ebook-search:book:A. P. Herbert - The House by the River</id>
-    <updated>2026-02-20T18:44:01.728958Z</updated>
+    <updated>2026-02-21T03:25:29.735368Z</updated>
     <link href="../../d/A. P. Herbert - The House by the River.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>A. P. Herbert</name>

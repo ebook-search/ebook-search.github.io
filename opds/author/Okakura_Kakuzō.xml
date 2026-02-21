@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Okakura Kakuzō</title>
   <id>urn:ebook-search:author:Okakura Kakuzō</id>
-  <updated>2026-02-20T18:44:01.775783Z</updated>
+  <updated>2026-02-21T03:25:29.770162Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Okakura Kakuzō - The Book of Tea</title>
     <id>urn:ebook-search:book:Okakura Kakuzō - The Book of Tea</id>
-    <updated>2026-02-20T18:44:01.775783Z</updated>
+    <updated>2026-02-21T03:25:29.770162Z</updated>
     <link href="../../d/Okakura Kakuzō - The Book of Tea.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Okakura Kakuzō</name>

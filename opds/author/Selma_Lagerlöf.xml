@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Selma Lagerlöf</title>
   <id>urn:ebook-search:author:Selma Lagerlöf</id>
-  <updated>2026-02-20T18:44:01.764925Z</updated>
+  <updated>2026-02-21T03:25:29.760072Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Selma Lagerlöf - Short Fiction</title>
     <id>urn:ebook-search:book:Selma Lagerlöf - Short Fiction</id>
-    <updated>2026-02-20T18:44:01.764925Z</updated>
+    <updated>2026-02-21T03:25:29.760072Z</updated>
     <link href="../../d/Selma Lagerlöf - Short Fiction.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Selma Lagerlöf</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Selma Lagerlöf - The Story of Gösta Berling</title>
     <id>urn:ebook-search:book:Selma Lagerlöf - The Story of Gösta Berling</id>
-    <updated>2026-02-20T18:44:01.764925Z</updated>
+    <updated>2026-02-21T03:25:29.760072Z</updated>
     <link href="../../d/Selma Lagerlöf - The Story of Gösta Berling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Selma Lagerlöf</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Selma Lagerlöf - The Wonderful Adventures of Nils</title>
     <id>urn:ebook-search:book:Selma Lagerlöf - The Wonderful Adventures of Nils</id>
-    <updated>2026-02-20T18:44:01.764925Z</updated>
+    <updated>2026-02-21T03:25:29.760072Z</updated>
     <link href="../../d/Selma Lagerlöf - The Wonderful Adventures of Nils.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Selma Lagerlöf</name>

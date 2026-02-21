@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>А. В. Кольцов</title>
   <id>urn:ebook-search:author:А. В. Кольцов</id>
-  <updated>2026-02-20T18:44:01.797932Z</updated>
+  <updated>2026-02-21T03:25:29.793977Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>А. В. Кольцов - «Мой друг, мой ангел милый...»</title>
     <id>urn:ebook-search:book:А. В. Кольцов - «Мой друг, мой ангел милый...»</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - «Мой друг, мой ангел милый...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>А. В. Кольцов - Божий мир («Отец света — вечность...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Божий мир («Отец света — вечность...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Божий мир («Отец света — вечность...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>А. В. Кольцов - Видение наяды («Взгрустнулось как-то мне в степи однообразной...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Видение наяды («Взгрустнулось как-то мне в степи однообразной...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Видение наяды («Взгрустнулось как-то мне в степи однообразной...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>А. В. Кольцов - Глаза («Погубили меня...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Глаза («Погубили меня...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Глаза («Погубили меня...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>А. В. Кольцов - Горькая доля («Соловьем залётным...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Горькая доля («Соловьем залётным...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Горькая доля («Соловьем залётным...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>А. В. Кольцов - Дума сокола («Долго ль буду я...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Дума сокола («Долго ль буду я...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Дума сокола («Долго ль буду я...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>А. В. Кольцов - К *** («Ты в путь иной отправилась одна...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - К *** («Ты в путь иной отправилась одна...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - К *** («Ты в путь иной отправилась одна...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>А. В. Кольцов - Косарь («Не возьму я в толк...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Косарь («Не возьму я в толк...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Косарь («Не возьму я в толк...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>А. В. Кольцов - Лес («О чем шумит сосновый лес?..»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Лес («О чем шумит сосновый лес?..»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Лес («О чем шумит сосновый лес?..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>А. В. Кольцов - Лес («Что, дремучий лес...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Лес («Что, дремучий лес...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Лес («Что, дремучий лес...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>А. В. Кольцов - Не шуми ты, рожь</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Не шуми ты, рожь</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Не шуми ты, рожь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>А. В. Кольцов - Неразгаданная истина («Целый век я рылся...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Неразгаданная истина («Целый век я рылся...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Неразгаданная истина («Целый век я рылся...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>А. В. Кольцов - Ночлег чумаков («Вблизи дороги столбовой...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Ночлег чумаков («Вблизи дороги столбовой...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Ночлег чумаков («Вблизи дороги столбовой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>А. В. Кольцов - Осень («Настала осень; непогоды...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Осень («Настала осень; непогоды...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Осень («Настала осень; непогоды...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -134,7 +134,7 @@
   <entry>
     <title>А. В. Кольцов - Песня пахаря («Ну! тащися, сивка...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Песня пахаря («Ну! тащися, сивка...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Песня пахаря («Ну! тащися, сивка...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -143,7 +143,7 @@
   <entry>
     <title>А. В. Кольцов - Пора любви («Весною степь зеленая...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Пора любви («Весною степь зеленая...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Пора любви («Весною степь зеленая...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -152,7 +152,7 @@
   <entry>
     <title>А. В. Кольцов - Послание молодой вдове («Напрасно думаешь слезами...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Послание молодой вдове («Напрасно думаешь слезами...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Послание молодой вдове («Напрасно думаешь слезами...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -161,7 +161,7 @@
   <entry>
     <title>А. В. Кольцов - Прекрасной поселянке («Ах, чья ты, дева-красота?..»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Прекрасной поселянке («Ах, чья ты, дева-красота?..»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Прекрасной поселянке («Ах, чья ты, дева-красота?..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -170,7 +170,7 @@
   <entry>
     <title>А. В. Кольцов - Разлука («На заре туманной юности...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Разлука («На заре туманной юности...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Разлука («На заре туманной юности...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -179,7 +179,7 @@
   <entry>
     <title>А. В. Кольцов - Размолвка («Теперь ясней...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Размолвка («Теперь ясней...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Размолвка («Теперь ясней...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -188,7 +188,7 @@
   <entry>
     <title>А. В. Кольцов - Русская песня («Говорил мне друг, прощаючись...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Русская песня («Говорил мне друг, прощаючись...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Русская песня («Говорил мне друг, прощаючись...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -197,7 +197,7 @@
   <entry>
     <title>А. В. Кольцов - Русская песня («Не на радость, не на счастие...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Русская песня («Не на радость, не на счастие...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Русская песня («Не на радость, не на счастие...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -206,7 +206,7 @@
   <entry>
     <title>А. В. Кольцов - Русская песня («Не скажу никому...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Русская песня («Не скажу никому...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Русская песня («Не скажу никому...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -215,7 +215,7 @@
   <entry>
     <title>А. В. Кольцов - Русская песня («Светит солнышко...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Русская песня («Светит солнышко...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Русская песня («Светит солнышко...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -224,7 +224,7 @@
   <entry>
     <title>А. В. Кольцов - Соловей («Пленившись розой, соловей...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Соловей («Пленившись розой, соловей...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Соловей («Пленившись розой, соловей...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -233,7 +233,7 @@
   <entry>
     <title>А. В. Кольцов - Спящий юноша («О всеблагое провиденье...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Спящий юноша («О всеблагое провиденье...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Спящий юноша («О всеблагое провиденье...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -242,7 +242,7 @@
   <entry>
     <title>А. В. Кольцов - Умолкший поэт («С душою пророка...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Умолкший поэт («С душою пророка...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Умолкший поэт («С душою пророка...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -251,7 +251,7 @@
   <entry>
     <title>А. В. Кольцов - Ура! («Ходит оклик по горам...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Ура! («Ходит оклик по горам...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Ура! («Ходит оклик по горам...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -260,7 +260,7 @@
   <entry>
     <title>А. В. Кольцов - Урожай («Красным полымем...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Урожай («Красным полымем...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Урожай («Красным полымем...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>
@@ -269,7 +269,7 @@
   <entry>
     <title>А. В. Кольцов - Хуторок («За рекой, на горе...»)</title>
     <id>urn:ebook-search:book:А. В. Кольцов - Хуторок («За рекой, на горе...»)</id>
-    <updated>2026-02-20T18:44:01.797932Z</updated>
+    <updated>2026-02-21T03:25:29.793977Z</updated>
     <link href="../../d/А. В. Кольцов - Хуторок («За рекой, на горе...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. В. Кольцов</name>

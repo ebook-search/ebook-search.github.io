@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Willa Cather</title>
   <id>urn:ebook-search:author:Willa Cather</id>
-  <updated>2026-02-20T18:44:01.754420Z</updated>
+  <updated>2026-02-21T03:25:29.752672Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Willa Cather - Death Comes for the Archbishop</title>
     <id>urn:ebook-search:book:Willa Cather - Death Comes for the Archbishop</id>
-    <updated>2026-02-20T18:44:01.754420Z</updated>
+    <updated>2026-02-21T03:25:29.752672Z</updated>
     <link href="../../d/Willa Cather - Death Comes for the Archbishop.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Willa Cather</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Willa Cather - My Ántonia</title>
     <id>urn:ebook-search:book:Willa Cather - My Ántonia</id>
-    <updated>2026-02-20T18:44:01.754420Z</updated>
+    <updated>2026-02-21T03:25:29.752672Z</updated>
     <link href="../../d/Willa Cather - My Ántonia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Willa Cather</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Willa Cather - O Pioneers!</title>
     <id>urn:ebook-search:book:Willa Cather - O Pioneers!</id>
-    <updated>2026-02-20T18:44:01.754420Z</updated>
+    <updated>2026-02-21T03:25:29.752672Z</updated>
     <link href="../../d/Willa Cather - O Pioneers!.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Willa Cather</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Willa Cather - One of Ours</title>
     <id>urn:ebook-search:book:Willa Cather - One of Ours</id>
-    <updated>2026-02-20T18:44:01.754420Z</updated>
+    <updated>2026-02-21T03:25:29.752672Z</updated>
     <link href="../../d/Willa Cather - One of Ours.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Willa Cather</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Willa Cather - The Song of the Lark</title>
     <id>urn:ebook-search:book:Willa Cather - The Song of the Lark</id>
-    <updated>2026-02-20T18:44:01.754420Z</updated>
+    <updated>2026-02-21T03:25:29.752672Z</updated>
     <link href="../../d/Willa Cather - The Song of the Lark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Willa Cather</name>

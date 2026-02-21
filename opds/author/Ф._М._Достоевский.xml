@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Ф. М. Достоевский</title>
   <id>urn:ebook-search:author:Ф. М. Достоевский</id>
-  <updated>2026-02-20T18:44:01.782228Z</updated>
+  <updated>2026-02-21T03:25:29.775916Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Ф. М. Достоевский - Бедные люди</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Бедные люди</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Бедные люди.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Ф. М. Достоевский - Белые ночи</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Белые ночи</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Белые ночи.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Ф. М. Достоевский - Бесы</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Бесы</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Бесы.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Ф. М. Достоевский - Братья Карамазовы</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Братья Карамазовы</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Братья Карамазовы.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Ф. М. Достоевский - Вечный муж</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Вечный муж</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Вечный муж.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Ф. М. Достоевский - Господин Прохарчин</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Господин Прохарчин</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Господин Прохарчин.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Ф. М. Достоевский - Два самоубийства</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Два самоубийства</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Два самоубийства.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>Ф. М. Достоевский - Двойник</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Двойник</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Двойник.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>Ф. М. Достоевский - Дядюшкин сон</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Дядюшкин сон</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Дядюшкин сон.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>Ф. М. Достоевский - Елка и свадьба</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Елка и свадьба</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Елка и свадьба.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>Ф. М. Достоевский - Записки из Мертвого дома</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Записки из Мертвого дома</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Записки из Мертвого дома.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>Ф. М. Достоевский - Записки из подполья</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Записки из подполья</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Записки из подполья.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>Ф. М. Достоевский - Зимние заметки о летних впечатлениях</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Зимние заметки о летних впечатлениях</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Зимние заметки о летних впечатлениях.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>Ф. М. Достоевский - Игрок</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Игрок</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Игрок.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -134,7 +134,7 @@
   <entry>
     <title>Ф. М. Достоевский - Идиот</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Идиот</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Идиот.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -143,7 +143,7 @@
   <entry>
     <title>Ф. М. Достоевский - Крокодил</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Крокодил</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Крокодил.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -152,7 +152,7 @@
   <entry>
     <title>Ф. М. Достоевский - Кроткая</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Кроткая</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Кроткая.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -161,7 +161,7 @@
   <entry>
     <title>Ф. М. Достоевский - Маленький герой</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Маленький герой</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Маленький герой.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -170,7 +170,7 @@
   <entry>
     <title>Ф. М. Достоевский - Мальчик у Христа на елке</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Мальчик у Христа на елке</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Мальчик у Христа на елке.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -179,7 +179,7 @@
   <entry>
     <title>Ф. М. Достоевский - Неточка Незванова</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Неточка Незванова</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Неточка Незванова.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -188,7 +188,7 @@
   <entry>
     <title>Ф. М. Достоевский - Петербургская летопись</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Петербургская летопись</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Петербургская летопись.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -197,7 +197,7 @@
   <entry>
     <title>Ф. М. Достоевский - Петербургские сновидения в стихах и в прозе</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Петербургские сновидения в стихах и в прозе</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Петербургские сновидения в стихах и в прозе.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -206,7 +206,7 @@
   <entry>
     <title>Ф. М. Достоевский - Подросток</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Подросток</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Подросток.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -215,7 +215,7 @@
   <entry>
     <title>Ф. М. Достоевский - Ползунков</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Ползунков</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Ползунков.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -224,7 +224,7 @@
   <entry>
     <title>Ф. М. Достоевский - Преступление и наказание</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Преступление и наказание</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Преступление и наказание.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -233,7 +233,7 @@
   <entry>
     <title>Ф. М. Достоевский - Приговор</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Приговор</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Приговор.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -242,7 +242,7 @@
   <entry>
     <title>Ф. М. Достоевский - Роман в девяти письмах</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Роман в девяти письмах</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Роман в девяти письмах.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -251,7 +251,7 @@
   <entry>
     <title>Ф. М. Достоевский - Село Степанчиково и его обитатели</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Село Степанчиково и его обитатели</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Село Степанчиково и его обитатели.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -260,7 +260,7 @@
   <entry>
     <title>Ф. М. Достоевский - Скверный анекдот</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Скверный анекдот</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Скверный анекдот.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -269,7 +269,7 @@
   <entry>
     <title>Ф. М. Достоевский - Слабое сердце</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Слабое сердце</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Слабое сердце.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -278,7 +278,7 @@
   <entry>
     <title>Ф. М. Достоевский - Сон смешного человека</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Сон смешного человека</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Сон смешного человека.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -287,7 +287,7 @@
   <entry>
     <title>Ф. М. Достоевский - Униженные и оскорбленные</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Униженные и оскорбленные</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Униженные и оскорбленные.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -296,7 +296,7 @@
   <entry>
     <title>Ф. М. Достоевский - Хозяйка</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Хозяйка</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Хозяйка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -305,7 +305,7 @@
   <entry>
     <title>Ф. М. Достоевский - Честный вор</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Честный вор</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Честный вор.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -314,7 +314,7 @@
   <entry>
     <title>Ф. М. Достоевский - Чужая жена и муж под кроватью</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский - Чужая жена и муж под кроватью</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский - Чужая жена и муж под кроватью.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>
@@ -323,7 +323,7 @@
   <entry>
     <title>Ф. М. Достоевский, Д. В. Григорович, Н. А. Некрасов - Приложение: Как опасно предаваться честолюбивым снам</title>
     <id>urn:ebook-search:book:Ф. М. Достоевский, Д. В. Григорович, Н. А. Некрасов - Приложение: Как опасно предаваться честолюбивым снам</id>
-    <updated>2026-02-20T18:44:01.782228Z</updated>
+    <updated>2026-02-21T03:25:29.775916Z</updated>
     <link href="../../d/Ф. М. Достоевский, Д. В. Григорович, Н. А. Некрасов - Приложение: Как опасно предаваться честолюбивым снам.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Ф. М. Достоевский</name>

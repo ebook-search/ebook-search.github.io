@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>W. N. P. Barbellion</title>
   <id>urn:ebook-search:author:W. N. P. Barbellion</id>
-  <updated>2026-02-20T18:44:01.722273Z</updated>
+  <updated>2026-02-21T03:25:29.730777Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>W. N. P. Barbellion - The Journal of a Disappointed Man</title>
     <id>urn:ebook-search:book:W. N. P. Barbellion - The Journal of a Disappointed Man</id>
-    <updated>2026-02-20T18:44:01.722273Z</updated>
+    <updated>2026-02-21T03:25:29.730777Z</updated>
     <link href="../../d/W. N. P. Barbellion - The Journal of a Disappointed Man.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>W. N. P. Barbellion</name>

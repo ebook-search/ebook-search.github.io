@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Mary Wollstonecraft</title>
   <id>urn:ebook-search:author:Mary Wollstonecraft</id>
-  <updated>2026-02-20T18:44:01.738472Z</updated>
+  <updated>2026-02-21T03:25:29.741739Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Mary Wollstonecraft - A Vindication of the Rights of Woman</title>
     <id>urn:ebook-search:book:Mary Wollstonecraft - A Vindication of the Rights of Woman</id>
-    <updated>2026-02-20T18:44:01.738472Z</updated>
+    <updated>2026-02-21T03:25:29.741739Z</updated>
     <link href="../../d/Mary Wollstonecraft - A Vindication of the Rights of Woman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mary Wollstonecraft</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Mary Wollstonecraft - Letters Written During a Short Residence in Sweden, Norway, and Denmark</title>
     <id>urn:ebook-search:book:Mary Wollstonecraft - Letters Written During a Short Residence in Sweden, Norway, and Denmark</id>
-    <updated>2026-02-20T18:44:01.738472Z</updated>
+    <updated>2026-02-21T03:25:29.741739Z</updated>
     <link href="../../d/Mary Wollstonecraft - Letters Written During a Short Residence in Sweden, Norway, and Denmark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Mary Wollstonecraft</name>

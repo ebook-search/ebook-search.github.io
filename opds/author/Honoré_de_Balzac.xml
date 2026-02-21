@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Honoré de Balzac</title>
   <id>urn:ebook-search:author:Honoré de Balzac</id>
-  <updated>2026-02-20T18:44:01.726411Z</updated>
+  <updated>2026-02-21T03:25:29.733606Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Honoré de Balzac - A Daughter of Eve</title>
     <id>urn:ebook-search:book:Honoré de Balzac - A Daughter of Eve</id>
-    <updated>2026-02-20T18:44:01.726411Z</updated>
+    <updated>2026-02-21T03:25:29.733606Z</updated>
     <link href="../../d/Honoré de Balzac - A Daughter of Eve.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Honoré de Balzac</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Honoré de Balzac - A Marriage Settlement</title>
     <id>urn:ebook-search:book:Honoré de Balzac - A Marriage Settlement</id>
-    <updated>2026-02-20T18:44:01.726411Z</updated>
+    <updated>2026-02-21T03:25:29.733606Z</updated>
     <link href="../../d/Honoré de Balzac - A Marriage Settlement.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Honoré de Balzac</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Honoré de Balzac - A Start in Life</title>
     <id>urn:ebook-search:book:Honoré de Balzac - A Start in Life</id>
-    <updated>2026-02-20T18:44:01.726411Z</updated>
+    <updated>2026-02-21T03:25:29.733606Z</updated>
     <link href="../../d/Honoré de Balzac - A Start in Life.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Honoré de Balzac</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Honoré de Balzac - A Woman of Thirty</title>
     <id>urn:ebook-search:book:Honoré de Balzac - A Woman of Thirty</id>
-    <updated>2026-02-20T18:44:01.726411Z</updated>
+    <updated>2026-02-21T03:25:29.733606Z</updated>
     <link href="../../d/Honoré de Balzac - A Woman of Thirty.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Honoré de Balzac</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Honoré de Balzac - Albert Savarus</title>
     <id>urn:ebook-search:book:Honoré de Balzac - Albert Savarus</id>
-    <updated>2026-02-20T18:44:01.726411Z</updated>
+    <updated>2026-02-21T03:25:29.733606Z</updated>
     <link href="../../d/Honoré de Balzac - Albert Savarus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Honoré de Balzac</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Honoré de Balzac - Béatrix</title>
     <id>urn:ebook-search:book:Honoré de Balzac - Béatrix</id>
-    <updated>2026-02-20T18:44:01.726411Z</updated>
+    <updated>2026-02-21T03:25:29.733606Z</updated>
     <link href="../../d/Honoré de Balzac - Béatrix.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Honoré de Balzac</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Honoré de Balzac - Eugénie Grandet</title>
     <id>urn:ebook-search:book:Honoré de Balzac - Eugénie Grandet</id>
-    <updated>2026-02-20T18:44:01.726411Z</updated>
+    <updated>2026-02-21T03:25:29.733606Z</updated>
     <link href="../../d/Honoré de Balzac - Eugénie Grandet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Honoré de Balzac</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>Honoré de Balzac - Father Goriot</title>
     <id>urn:ebook-search:book:Honoré de Balzac - Father Goriot</id>
-    <updated>2026-02-20T18:44:01.726411Z</updated>
+    <updated>2026-02-21T03:25:29.733606Z</updated>
     <link href="../../d/Honoré de Balzac - Father Goriot.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Honoré de Balzac</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>Honoré de Balzac - Letters of Two Brides</title>
     <id>urn:ebook-search:book:Honoré de Balzac - Letters of Two Brides</id>
-    <updated>2026-02-20T18:44:01.726411Z</updated>
+    <updated>2026-02-21T03:25:29.733606Z</updated>
     <link href="../../d/Honoré de Balzac - Letters of Two Brides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Honoré de Balzac</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>Honoré de Balzac - Lost Illusions</title>
     <id>urn:ebook-search:book:Honoré de Balzac - Lost Illusions</id>
-    <updated>2026-02-20T18:44:01.726411Z</updated>
+    <updated>2026-02-21T03:25:29.733606Z</updated>
     <link href="../../d/Honoré de Balzac - Lost Illusions.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Honoré de Balzac</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>Honoré de Balzac - Modeste Mignon</title>
     <id>urn:ebook-search:book:Honoré de Balzac - Modeste Mignon</id>
-    <updated>2026-02-20T18:44:01.726411Z</updated>
+    <updated>2026-02-21T03:25:29.733606Z</updated>
     <link href="../../d/Honoré de Balzac - Modeste Mignon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Honoré de Balzac</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>Honoré de Balzac - Parisians in the Country</title>
     <id>urn:ebook-search:book:Honoré de Balzac - Parisians in the Country</id>
-    <updated>2026-02-20T18:44:01.726411Z</updated>
+    <updated>2026-02-21T03:25:29.733606Z</updated>
     <link href="../../d/Honoré de Balzac - Parisians in the Country.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Honoré de Balzac</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>Honoré de Balzac - Shorts from Scenes from Private Life</title>
     <id>urn:ebook-search:book:Honoré de Balzac - Shorts from Scenes from Private Life</id>
-    <updated>2026-02-20T18:44:01.726411Z</updated>
+    <updated>2026-02-21T03:25:29.733606Z</updated>
     <link href="../../d/Honoré de Balzac - Shorts from Scenes from Private Life.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Honoré de Balzac</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>Honoré de Balzac - The Celibates</title>
     <id>urn:ebook-search:book:Honoré de Balzac - The Celibates</id>
-    <updated>2026-02-20T18:44:01.726411Z</updated>
+    <updated>2026-02-21T03:25:29.733606Z</updated>
     <link href="../../d/Honoré de Balzac - The Celibates.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Honoré de Balzac</name>
@@ -134,7 +134,7 @@
   <entry>
     <title>Honoré de Balzac - The Jealousies of a Country Town</title>
     <id>urn:ebook-search:book:Honoré de Balzac - The Jealousies of a Country Town</id>
-    <updated>2026-02-20T18:44:01.726411Z</updated>
+    <updated>2026-02-21T03:25:29.733606Z</updated>
     <link href="../../d/Honoré de Balzac - The Jealousies of a Country Town.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Honoré de Balzac</name>
@@ -143,7 +143,7 @@
   <entry>
     <title>Honoré de Balzac - The Lily of the Valley</title>
     <id>urn:ebook-search:book:Honoré de Balzac - The Lily of the Valley</id>
-    <updated>2026-02-20T18:44:01.726411Z</updated>
+    <updated>2026-02-21T03:25:29.733606Z</updated>
     <link href="../../d/Honoré de Balzac - The Lily of the Valley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Honoré de Balzac</name>
@@ -152,7 +152,7 @@
   <entry>
     <title>Honoré de Balzac - Ursule Mirouët</title>
     <id>urn:ebook-search:book:Honoré de Balzac - Ursule Mirouët</id>
-    <updated>2026-02-20T18:44:01.726411Z</updated>
+    <updated>2026-02-21T03:25:29.733606Z</updated>
     <link href="../../d/Honoré de Balzac - Ursule Mirouët.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Honoré de Balzac</name>

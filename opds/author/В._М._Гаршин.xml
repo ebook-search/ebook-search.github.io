@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>В. М. Гаршин</title>
   <id>urn:ebook-search:author:В. М. Гаршин</id>
-  <updated>2026-02-20T18:44:01.798060Z</updated>
+  <updated>2026-02-21T03:25:29.794130Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>В. М. Гаршин - Attalea princeps</title>
     <id>urn:ebook-search:book:В. М. Гаршин - Attalea princeps</id>
-    <updated>2026-02-20T18:44:01.798060Z</updated>
+    <updated>2026-02-21T03:25:29.794130Z</updated>
     <link href="../../d/В. М. Гаршин - Attalea princeps.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. М. Гаршин</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>В. М. Гаршин - Встреча</title>
     <id>urn:ebook-search:book:В. М. Гаршин - Встреча</id>
-    <updated>2026-02-20T18:44:01.798060Z</updated>
+    <updated>2026-02-21T03:25:29.794130Z</updated>
     <link href="../../d/В. М. Гаршин - Встреча.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. М. Гаршин</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>В. М. Гаршин - Красный цветок</title>
     <id>urn:ebook-search:book:В. М. Гаршин - Красный цветок</id>
-    <updated>2026-02-20T18:44:01.798060Z</updated>
+    <updated>2026-02-21T03:25:29.794130Z</updated>
     <link href="../../d/В. М. Гаршин - Красный цветок.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. М. Гаршин</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>В. М. Гаршин - Лягушка-путешественница</title>
     <id>urn:ebook-search:book:В. М. Гаршин - Лягушка-путешественница</id>
-    <updated>2026-02-20T18:44:01.798060Z</updated>
+    <updated>2026-02-21T03:25:29.794130Z</updated>
     <link href="../../d/В. М. Гаршин - Лягушка-путешественница.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. М. Гаршин</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>В. М. Гаршин - Надежда Николаевна</title>
     <id>urn:ebook-search:book:В. М. Гаршин - Надежда Николаевна</id>
-    <updated>2026-02-20T18:44:01.798060Z</updated>
+    <updated>2026-02-21T03:25:29.794130Z</updated>
     <link href="../../d/В. М. Гаршин - Надежда Николаевна.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. М. Гаршин</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>В. М. Гаршин - Происшествие</title>
     <id>urn:ebook-search:book:В. М. Гаршин - Происшествие</id>
-    <updated>2026-02-20T18:44:01.798060Z</updated>
+    <updated>2026-02-21T03:25:29.794130Z</updated>
     <link href="../../d/В. М. Гаршин - Происшествие.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. М. Гаршин</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>В. М. Гаршин - Сигнал</title>
     <id>urn:ebook-search:book:В. М. Гаршин - Сигнал</id>
-    <updated>2026-02-20T18:44:01.798060Z</updated>
+    <updated>2026-02-21T03:25:29.794130Z</updated>
     <link href="../../d/В. М. Гаршин - Сигнал.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. М. Гаршин</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>В. М. Гаршин - Сказание о гордом Аггее</title>
     <id>urn:ebook-search:book:В. М. Гаршин - Сказание о гордом Аггее</id>
-    <updated>2026-02-20T18:44:01.798060Z</updated>
+    <updated>2026-02-21T03:25:29.794130Z</updated>
     <link href="../../d/В. М. Гаршин - Сказание о гордом Аггее.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. М. Гаршин</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>В. М. Гаршин - Сказка о жабе и розе</title>
     <id>urn:ebook-search:book:В. М. Гаршин - Сказка о жабе и розе</id>
-    <updated>2026-02-20T18:44:01.798060Z</updated>
+    <updated>2026-02-21T03:25:29.794130Z</updated>
     <link href="../../d/В. М. Гаршин - Сказка о жабе и розе.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. М. Гаршин</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>В. М. Гаршин - Трус</title>
     <id>urn:ebook-search:book:В. М. Гаршин - Трус</id>
-    <updated>2026-02-20T18:44:01.798060Z</updated>
+    <updated>2026-02-21T03:25:29.794130Z</updated>
     <link href="../../d/В. М. Гаршин - Трус.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. М. Гаршин</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>В. М. Гаршин - Художники</title>
     <id>urn:ebook-search:book:В. М. Гаршин - Художники</id>
-    <updated>2026-02-20T18:44:01.798060Z</updated>
+    <updated>2026-02-21T03:25:29.794130Z</updated>
     <link href="../../d/В. М. Гаршин - Художники.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. М. Гаршин</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>В. М. Гаршин - Четыре дня</title>
     <id>urn:ebook-search:book:В. М. Гаршин - Четыре дня</id>
-    <updated>2026-02-20T18:44:01.798060Z</updated>
+    <updated>2026-02-21T03:25:29.794130Z</updated>
     <link href="../../d/В. М. Гаршин - Четыре дня.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. М. Гаршин</name>

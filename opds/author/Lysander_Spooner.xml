@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Lysander Spooner</title>
   <id>urn:ebook-search:author:Lysander Spooner</id>
-  <updated>2026-02-20T18:44:01.731470Z</updated>
+  <updated>2026-02-21T03:25:29.736976Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Lysander Spooner - No Treason</title>
     <id>urn:ebook-search:book:Lysander Spooner - No Treason</id>
-    <updated>2026-02-20T18:44:01.731470Z</updated>
+    <updated>2026-02-21T03:25:29.736976Z</updated>
     <link href="../../d/Lysander Spooner - No Treason.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Lysander Spooner</name>

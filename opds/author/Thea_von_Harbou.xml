@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Thea von Harbou</title>
   <id>urn:ebook-search:author:Thea von Harbou</id>
-  <updated>2026-02-20T18:44:01.747346Z</updated>
+  <updated>2026-02-21T03:25:29.747980Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Thea von Harbou - Metropolis</title>
     <id>urn:ebook-search:book:Thea von Harbou - Metropolis</id>
-    <updated>2026-02-20T18:44:01.747346Z</updated>
+    <updated>2026-02-21T03:25:29.747980Z</updated>
     <link href="../../d/Thea von Harbou - Metropolis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Thea von Harbou</name>

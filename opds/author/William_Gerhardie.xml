@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>William Gerhardie</title>
   <id>urn:ebook-search:author:William Gerhardie</id>
-  <updated>2026-02-20T18:44:01.721815Z</updated>
+  <updated>2026-02-21T03:25:29.730443Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>William Gerhardie - Futility</title>
     <id>urn:ebook-search:book:William Gerhardie - Futility</id>
-    <updated>2026-02-20T18:44:01.721815Z</updated>
+    <updated>2026-02-21T03:25:29.730443Z</updated>
     <link href="../../d/William Gerhardie - Futility.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>William Gerhardie</name>

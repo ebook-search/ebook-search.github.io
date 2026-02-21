@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Richard Henry Dana Jr.</title>
   <id>urn:ebook-search:author:Richard Henry Dana Jr.</id>
-  <updated>2026-02-20T18:44:01.748898Z</updated>
+  <updated>2026-02-21T03:25:29.749335Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Richard Henry Dana Jr. - To Cuba and Back</title>
     <id>urn:ebook-search:book:Richard Henry Dana Jr. - To Cuba and Back</id>
-    <updated>2026-02-20T18:44:01.748898Z</updated>
+    <updated>2026-02-21T03:25:29.749335Z</updated>
     <link href="../../d/Richard Henry Dana Jr. - To Cuba and Back.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Richard Henry Dana Jr.</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Richard Henry Dana Jr. - Two Years Before the Mast</title>
     <id>urn:ebook-search:book:Richard Henry Dana Jr. - Two Years Before the Mast</id>
-    <updated>2026-02-20T18:44:01.748898Z</updated>
+    <updated>2026-02-21T03:25:29.749335Z</updated>
     <link href="../../d/Richard Henry Dana Jr. - Two Years Before the Mast.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Richard Henry Dana Jr.</name>

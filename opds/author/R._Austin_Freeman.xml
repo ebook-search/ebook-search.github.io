@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>R. Austin Freeman</title>
   <id>urn:ebook-search:author:R. Austin Freeman</id>
-  <updated>2026-02-20T18:44:01.723199Z</updated>
+  <updated>2026-02-21T03:25:29.731417Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>R. Austin Freeman - The D’Arblay Mystery</title>
     <id>urn:ebook-search:book:R. Austin Freeman - The D’Arblay Mystery</id>
-    <updated>2026-02-20T18:44:01.723199Z</updated>
+    <updated>2026-02-21T03:25:29.731417Z</updated>
     <link href="../../d/R. Austin Freeman - The D’Arblay Mystery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>R. Austin Freeman</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>R. Austin Freeman - The Eye of Osiris</title>
     <id>urn:ebook-search:book:R. Austin Freeman - The Eye of Osiris</id>
-    <updated>2026-02-20T18:44:01.723199Z</updated>
+    <updated>2026-02-21T03:25:29.731417Z</updated>
     <link href="../../d/R. Austin Freeman - The Eye of Osiris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>R. Austin Freeman</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>R. Austin Freeman - The Mystery of 31, New Inn</title>
     <id>urn:ebook-search:book:R. Austin Freeman - The Mystery of 31, New Inn</id>
-    <updated>2026-02-20T18:44:01.723199Z</updated>
+    <updated>2026-02-21T03:25:29.731417Z</updated>
     <link href="../../d/R. Austin Freeman - The Mystery of 31, New Inn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>R. Austin Freeman</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>R. Austin Freeman - The Red Thumbmark</title>
     <id>urn:ebook-search:book:R. Austin Freeman - The Red Thumbmark</id>
-    <updated>2026-02-20T18:44:01.723199Z</updated>
+    <updated>2026-02-21T03:25:29.731417Z</updated>
     <link href="../../d/R. Austin Freeman - The Red Thumbmark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>R. Austin Freeman</name>

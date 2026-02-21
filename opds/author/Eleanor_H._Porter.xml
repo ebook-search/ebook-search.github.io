@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Eleanor H. Porter</title>
   <id>urn:ebook-search:author:Eleanor H. Porter</id>
-  <updated>2026-02-20T18:44:01.766416Z</updated>
+  <updated>2026-02-21T03:25:29.761230Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Eleanor H. Porter - Pollyanna</title>
     <id>urn:ebook-search:book:Eleanor H. Porter - Pollyanna</id>
-    <updated>2026-02-20T18:44:01.766416Z</updated>
+    <updated>2026-02-21T03:25:29.761230Z</updated>
     <link href="../../d/Eleanor H. Porter - Pollyanna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Eleanor H. Porter</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Eleanor H. Porter - Pollyanna Grows Up</title>
     <id>urn:ebook-search:book:Eleanor H. Porter - Pollyanna Grows Up</id>
-    <updated>2026-02-20T18:44:01.766416Z</updated>
+    <updated>2026-02-21T03:25:29.761230Z</updated>
     <link href="../../d/Eleanor H. Porter - Pollyanna Grows Up.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Eleanor H. Porter</name>

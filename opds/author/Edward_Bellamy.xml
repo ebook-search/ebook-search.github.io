@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Edward Bellamy</title>
   <id>urn:ebook-search:author:Edward Bellamy</id>
-  <updated>2026-02-20T18:44:01.734936Z</updated>
+  <updated>2026-02-21T03:25:29.739296Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Edward Bellamy - Looking Backward</title>
     <id>urn:ebook-search:book:Edward Bellamy - Looking Backward</id>
-    <updated>2026-02-20T18:44:01.734936Z</updated>
+    <updated>2026-02-21T03:25:29.739296Z</updated>
     <link href="../../d/Edward Bellamy - Looking Backward.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edward Bellamy</name>

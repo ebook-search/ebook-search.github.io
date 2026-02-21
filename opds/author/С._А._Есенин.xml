@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>С. А. Есенин</title>
   <id>urn:ebook-search:author:С. А. Есенин</id>
-  <updated>2026-02-20T18:44:01.793823Z</updated>
+  <updated>2026-02-21T03:25:29.789023Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>С. А. Есенин - «Алый мрак в небесной черни...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Алый мрак в небесной черни...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Алый мрак в небесной черни...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>С. А. Есенин - «Белая свитка и алый кушак...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Белая свитка и алый кушак...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Белая свитка и алый кушак...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>С. А. Есенин - «В зеленой церкви за горой...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «В зеленой церкви за горой...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «В зеленой церкви за горой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>С. А. Есенин - «В лунном кружеве украдкой...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «В лунном кружеве украдкой...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «В лунном кружеве украдкой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>С. А. Есенин - «В том краю, где желтая крапива...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «В том краю, где желтая крапива...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «В том краю, где желтая крапива...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>С. А. Есенин - «Весна на радость не похожа...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Весна на радость не похожа...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Весна на радость не похожа...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>С. А. Есенин - «Вечер, как сажа...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Вечер, как сажа...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Вечер, как сажа...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>С. А. Есенин - «Вот уж вечер. Роса...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Вот уж вечер. Роса...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Вот уж вечер. Роса...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>С. А. Есенин - «Выткался на озере алый свет зари...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Выткался на озере алый свет зари...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Выткался на озере алый свет зари...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>С. А. Есенин - «Гаснут красные крылья заката...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Гаснут красные крылья заката...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Гаснут красные крылья заката...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>С. А. Есенин - «Гляну в поле, гляну в небо...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Гляну в поле, гляну в небо...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Гляну в поле, гляну в небо...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>С. А. Есенин - «Гой ты, Русь, моя родная...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Гой ты, Русь, моя родная...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Гой ты, Русь, моя родная...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>С. А. Есенин - «Грустно... Душевные муки...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Грустно... Душевные муки...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Грустно... Душевные муки...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>С. А. Есенин - «Да! Теперь решено. Без возврата...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Да! Теперь решено. Без возврата...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Да! Теперь решено. Без возврата...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -134,7 +134,7 @@
   <entry>
     <title>С. А. Есенин - «Даль подернулась туманом...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Даль подернулась туманом...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Даль подернулась туманом...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -143,7 +143,7 @@
   <entry>
     <title>С. А. Есенин - «День ушел, убавилась черта...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «День ушел, убавилась черта...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «День ушел, убавилась черта...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -152,7 +152,7 @@
   <entry>
     <title>С. А. Есенин - «До свиданья, друг мой, до свиданья...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «До свиданья, друг мой, до свиданья...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «До свиданья, друг мой, до свиданья...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -161,7 +161,7 @@
   <entry>
     <title>С. А. Есенин - «Дымом половодье...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Дымом половодье...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Дымом половодье...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -170,7 +170,7 @@
   <entry>
     <title>С. А. Есенин - «Есть светлая радость под сенью кустов...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Есть светлая радость под сенью кустов...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Есть светлая радость под сенью кустов...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -179,7 +179,7 @@
   <entry>
     <title>С. А. Есенин - «Еще не высох дождь вчерашний...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Еще не высох дождь вчерашний...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Еще не высох дождь вчерашний...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -188,7 +188,7 @@
   <entry>
     <title>С. А. Есенин - «За горами, за желтыми долами...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «За горами, за желтыми долами...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «За горами, за желтыми долами...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -197,7 +197,7 @@
   <entry>
     <title>С. А. Есенин - «За рекой горят огни...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «За рекой горят огни...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «За рекой горят огни...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -206,7 +206,7 @@
   <entry>
     <title>С. А. Есенин - «За темной прядью перелесиц...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «За темной прядью перелесиц...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «За темной прядью перелесиц...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -215,7 +215,7 @@
   <entry>
     <title>С. А. Есенин - «Заглушила засуха засевки...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Заглушила засуха засевки...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Заглушила засуха засевки...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -224,7 +224,7 @@
   <entry>
     <title>С. А. Есенин - «Задымился вечер, дремлет кот на брусе...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Задымился вечер, дремлет кот на брусе...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Задымился вечер, дремлет кот на брусе...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -233,7 +233,7 @@
   <entry>
     <title>С. А. Есенин - «Заиграй, сыграй, тальяночка, малиновы меха...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Заиграй, сыграй, тальяночка, малиновы меха...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Заиграй, сыграй, тальяночка, малиновы меха...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -242,7 +242,7 @@
   <entry>
     <title>С. А. Есенин - «Закружилась пряжа снежистого льна...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Закружилась пряжа снежистого льна...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Закружилась пряжа снежистого льна...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -251,7 +251,7 @@
   <entry>
     <title>С. А. Есенин - «Заметался пожар голубой...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Заметался пожар голубой...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Заметался пожар голубой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -260,7 +260,7 @@
   <entry>
     <title>С. А. Есенин - «Запели тесаные дроги...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Запели тесаные дроги...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Запели тесаные дроги...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -269,7 +269,7 @@
   <entry>
     <title>С. А. Есенин - «Заря над полем — как красный тын...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Заря над полем — как красный тын...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Заря над полем — как красный тын...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -278,7 +278,7 @@
   <entry>
     <title>С. А. Есенин - «Зашумели над затоном тростники...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Зашумели над затоном тростники...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Зашумели над затоном тростники...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -287,7 +287,7 @@
   <entry>
     <title>С. А. Есенин - «К теплому свету, на отчий порог...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «К теплому свету, на отчий порог...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «К теплому свету, на отчий порог...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -296,7 +296,7 @@
   <entry>
     <title>С. А. Есенин - «Какая ночь! Я не могу...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Какая ночь! Я не могу...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Какая ночь! Я не могу...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -305,7 +305,7 @@
   <entry>
     <title>С. А. Есенин - «Клен ты мой опавший, клен заледенелый...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Клен ты мой опавший, клен заледенелый...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Клен ты мой опавший, клен заледенелый...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -314,7 +314,7 @@
   <entry>
     <title>С. А. Есенин - «Колокол дремавший...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Колокол дремавший...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Колокол дремавший...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -323,7 +323,7 @@
   <entry>
     <title>С. А. Есенин - «Колокольчик среброзвонный...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Колокольчик среброзвонный...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Колокольчик среброзвонный...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -332,7 +332,7 @@
   <entry>
     <title>С. А. Есенин - «Край любимый! Сердцу снятся...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Край любимый! Сердцу снятся...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Край любимый! Сердцу снятся...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -341,7 +341,7 @@
   <entry>
     <title>С. А. Есенин - «Край ты мой заброшенный...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Край ты мой заброшенный...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Край ты мой заброшенный...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -350,7 +350,7 @@
   <entry>
     <title>С. А. Есенин - «Кто я? Что я? Только лишь мечтатель...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Кто я? Что я? Только лишь мечтатель...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Кто я? Что я? Только лишь мечтатель...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -359,7 +359,7 @@
   <entry>
     <title>С. А. Есенин - «Матушка в Купальницу по лесу ходила...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Матушка в Купальницу по лесу ходила...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Матушка в Купальницу по лесу ходила...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -368,7 +368,7 @@
   <entry>
     <title>С. А. Есенин - «Мелколесье. Степь и дали...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Мелколесье. Степь и дали...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Мелколесье. Степь и дали...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -377,7 +377,7 @@
   <entry>
     <title>С. А. Есенин - «Месяц рогом облако бодает...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Месяц рогом облако бодает...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Месяц рогом облако бодает...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -386,7 +386,7 @@
   <entry>
     <title>С. А. Есенин - «Мне грустно на тебя смотреть...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Мне грустно на тебя смотреть...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Мне грустно на тебя смотреть...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -395,7 +395,7 @@
   <entry>
     <title>С. А. Есенин - «Мне осталась одна забава...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Мне осталась одна забава...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Мне осталась одна забава...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -404,7 +404,7 @@
   <entry>
     <title>С. А. Есенин - «Может, поздно, может, слишком рано...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Может, поздно, может, слишком рано...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Может, поздно, может, слишком рано...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -413,7 +413,7 @@
   <entry>
     <title>С. А. Есенин - «Мы теперь уходим понемногу...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Мы теперь уходим понемногу...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Мы теперь уходим понемногу...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -422,7 +422,7 @@
   <entry>
     <title>С. А. Есенин - «На лазоревые ткани...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «На лазоревые ткани...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «На лазоревые ткани...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -431,7 +431,7 @@
   <entry>
     <title>С. А. Есенин - «На плетнях висят баранки...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «На плетнях висят баранки...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «На плетнях висят баранки...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -440,7 +440,7 @@
   <entry>
     <title>С. А. Есенин - «Над окошком месяц. Под окошком ветер...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Над окошком месяц. Под окошком ветер...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Над окошком месяц. Под окошком ветер...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -449,7 +449,7 @@
   <entry>
     <title>С. А. Есенин - «Наша вера не погасла...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Наша вера не погасла...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Наша вера не погасла...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -458,7 +458,7 @@
   <entry>
     <title>С. А. Есенин - «Не бродить, не мять в кустах багряных...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Не бродить, не мять в кустах багряных...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Не бродить, не мять в кустах багряных...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -467,7 +467,7 @@
   <entry>
     <title>С. А. Есенин - «Не в моего ты бога верила...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Не в моего ты бога верила...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Не в моего ты бога верила...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -476,7 +476,7 @@
   <entry>
     <title>С. А. Есенин - «Не ветры осыпают пущи...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Не ветры осыпают пущи...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Не ветры осыпают пущи...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -485,7 +485,7 @@
   <entry>
     <title>С. А. Есенин - «Не гляди на меня с упреком...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Не гляди на меня с упреком...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Не гляди на меня с упреком...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -494,7 +494,7 @@
   <entry>
     <title>С. А. Есенин - «Не жалею, не зову, не плачу...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Не жалею, не зову, не плачу...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Не жалею, не зову, не плачу...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -503,7 +503,7 @@
   <entry>
     <title>С. А. Есенин - «Не напрасно дули ветры...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Не напрасно дули ветры...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Не напрасно дули ветры...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -512,7 +512,7 @@
   <entry>
     <title>С. А. Есенин - «Не от холода рябинушка дрожит...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Не от холода рябинушка дрожит...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Не от холода рябинушка дрожит...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -521,7 +521,7 @@
   <entry>
     <title>С. А. Есенин - «Не ругайтесь. Такое дело!..»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Не ругайтесь. Такое дело!..»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Не ругайтесь. Такое дело!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -530,7 +530,7 @@
   <entry>
     <title>С. А. Есенин - «Небо ли такое белое...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Небо ли такое белое...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Небо ли такое белое...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -539,7 +539,7 @@
   <entry>
     <title>С. А. Есенин - «Небо сметаной обмазано...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Небо сметаной обмазано...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Небо сметаной обмазано...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -548,7 +548,7 @@
   <entry>
     <title>С. А. Есенин - «Неуютная жидкая лунность...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Неуютная жидкая лунность...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Неуютная жидкая лунность...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -557,7 +557,7 @@
   <entry>
     <title>С. А. Есенин - «Нивы сжаты, рощи голы...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Нивы сжаты, рощи голы...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Нивы сжаты, рощи голы...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -566,7 +566,7 @@
   <entry>
     <title>С. А. Есенин - «Низкий дом с голубыми ставнями...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Низкий дом с голубыми ставнями...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Низкий дом с голубыми ставнями...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -575,7 +575,7 @@
   <entry>
     <title>С. А. Есенин - «Нощь и поле, и крик петухов...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Нощь и поле, и крик петухов...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Нощь и поле, и крик петухов...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -584,7 +584,7 @@
   <entry>
     <title>С. А. Есенин - «О Русь, взмахни крылами...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «О Русь, взмахни крылами...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «О Русь, взмахни крылами...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -593,7 +593,7 @@
   <entry>
     <title>С. А. Есенин - «О дитя, я долго плакал над судьбой твоей...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «О дитя, я долго плакал над судьбой твоей...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «О дитя, я долго плакал над судьбой твоей...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -602,7 +602,7 @@
   <entry>
     <title>С. А. Есенин - «О край дождей и непогоды...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «О край дождей и непогоды...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «О край дождей и непогоды...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -611,7 +611,7 @@
   <entry>
     <title>С. А. Есенин - «О красном вечере задумалась дорога...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «О красном вечере задумалась дорога...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «О красном вечере задумалась дорога...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -620,7 +620,7 @@
   <entry>
     <title>С. А. Есенин - «О товарищах веселых...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «О товарищах веселых...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «О товарищах веселых...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -629,7 +629,7 @@
   <entry>
     <title>С. А. Есенин - «Опять раскинулся узорно...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Опять раскинулся узорно...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Опять раскинулся узорно...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -638,7 +638,7 @@
   <entry>
     <title>С. А. Есенин - «Отговорила роща золотая...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Отговорила роща золотая...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Отговорила роща золотая...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -647,7 +647,7 @@
   <entry>
     <title>С. А. Есенин - «По дороге идут богомолки...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «По дороге идут богомолки...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «По дороге идут богомолки...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -656,7 +656,7 @@
   <entry>
     <title>С. А. Есенин - «По лесу леший кричит на сову...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «По лесу леший кричит на сову...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «По лесу леший кричит на сову...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -665,7 +665,7 @@
   <entry>
     <title>С. А. Есенин - «По селу тропинкой кривенькой...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «По селу тропинкой кривенькой...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «По селу тропинкой кривенькой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -674,7 +674,7 @@
   <entry>
     <title>С. А. Есенин - «Под венком лесной ромашки...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Под венком лесной ромашки...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Под венком лесной ромашки...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -683,7 +683,7 @@
   <entry>
     <title>С. А. Есенин - «Под красным вязом крыльцо и двор...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Под красным вязом крыльцо и двор...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Под красным вязом крыльцо и двор...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -692,7 +692,7 @@
   <entry>
     <title>С. А. Есенин - «Поет зима — аукает...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Поет зима — аукает...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Поет зима — аукает...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -701,7 +701,7 @@
   <entry>
     <title>С. А. Есенин - «Пой же, пой. На проклятой гитаре...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Пой же, пой. На проклятой гитаре...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Пой же, пой. На проклятой гитаре...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -710,7 +710,7 @@
   <entry>
     <title>С. А. Есенин - «Пойду в скуфье смиренным иноком...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Пойду в скуфье смиренным иноком...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Пойду в скуфье смиренным иноком...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -719,7 +719,7 @@
   <entry>
     <title>С. А. Есенин - «Покраснела рябина...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Покраснела рябина...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Покраснела рябина...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -728,7 +728,7 @@
   <entry>
     <title>С. А. Есенин - «Проплясал, проплакал дождь весенний...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Проплясал, проплакал дождь весенний...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Проплясал, проплакал дождь весенний...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -737,7 +737,7 @@
   <entry>
     <title>С. А. Есенин - «Прощай, родная пуща...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Прощай, родная пуща...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Прощай, родная пуща...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -746,7 +746,7 @@
   <entry>
     <title>С. А. Есенин - «Прячет месяц за овинами...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Прячет месяц за овинами...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Прячет месяц за овинами...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -755,7 +755,7 @@
   <entry>
     <title>С. А. Есенин - «Разбуди меня завтра рано...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Разбуди меня завтра рано...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Разбуди меня завтра рано...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -764,7 +764,7 @@
   <entry>
     <title>С. А. Есенин - «Синее небо, цветная дуга...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Синее небо, цветная дуга...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Синее небо, цветная дуга...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -773,7 +773,7 @@
   <entry>
     <title>С. А. Есенин - «Скупались звезды в невидимом бреде...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Скупались звезды в невидимом бреде...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Скупались звезды в невидимом бреде...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -782,7 +782,7 @@
   <entry>
     <title>С. А. Есенин - «Снег, словно мед ноздреватый...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Снег, словно мед ноздреватый...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Снег, словно мед ноздреватый...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -791,7 +791,7 @@
   <entry>
     <title>С. А. Есенин - «Снова пьют здесь, дерутся и плачут...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Снова пьют здесь, дерутся и плачут...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Снова пьют здесь, дерутся и плачут...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -800,7 +800,7 @@
   <entry>
     <title>С. А. Есенин - «Сохнет стаявшая глина...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Сохнет стаявшая глина...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Сохнет стаявшая глина...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -809,7 +809,7 @@
   <entry>
     <title>С. А. Есенин - «Спит ковыль. Равнина дорогая...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Спит ковыль. Равнина дорогая...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Спит ковыль. Равнина дорогая...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -818,7 +818,7 @@
   <entry>
     <title>С. А. Есенин - «Сторона ль моя, сторонка...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Сторона ль моя, сторонка...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Сторона ль моя, сторонка...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -827,7 +827,7 @@
   <entry>
     <title>С. А. Есенин - «Сыплет черемуха снегом...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Сыплет черемуха снегом...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Сыплет черемуха снегом...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -836,7 +836,7 @@
   <entry>
     <title>С. А. Есенин - «Сыпь, гармоника. Скука... Скука...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Сыпь, гармоника. Скука... Скука...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Сыпь, гармоника. Скука... Скука...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -845,7 +845,7 @@
   <entry>
     <title>С. А. Есенин - «Там, где вечно дремлет тайна...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Там, где вечно дремлет тайна...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Там, где вечно дремлет тайна...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -854,7 +854,7 @@
   <entry>
     <title>С. А. Есенин - «Там, где капустные грядки...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Там, где капустные грядки...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Там, где капустные грядки...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -863,7 +863,7 @@
   <entry>
     <title>С. А. Есенин - «Твой глас незримый, как дым в избе...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Твой глас незримый, как дым в избе...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Твой глас незримый, как дым в избе...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -872,7 +872,7 @@
   <entry>
     <title>С. А. Есенин - «Тебе одной плету венок...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Тебе одной плету венок...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Тебе одной плету венок...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -881,7 +881,7 @@
   <entry>
     <title>С. А. Есенин - «Темна ноченька, не спится...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Темна ноченька, не спится...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Темна ноченька, не спится...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -890,7 +890,7 @@
   <entry>
     <title>С. А. Есенин - «То не тучи бродят за овином...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «То не тучи бродят за овином...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «То не тучи бродят за овином...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -899,7 +899,7 @@
   <entry>
     <title>С. А. Есенин - «Топи да болота...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Топи да болота...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Топи да болота...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -908,7 +908,7 @@
   <entry>
     <title>С. А. Есенин - «Троицыно утро, утренний канон...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Троицыно утро, утренний канон...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Троицыно утро, утренний канон...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -917,7 +917,7 @@
   <entry>
     <title>С. А. Есенин - «Туча кружево в роще связала...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Туча кружево в роще связала...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Туча кружево в роще связала...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -926,7 +926,7 @@
   <entry>
     <title>С. А. Есенин - «Тучи с ожереба...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Тучи с ожереба...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Тучи с ожереба...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -935,7 +935,7 @@
   <entry>
     <title>С. А. Есенин - «Ты меня не любишь, не жалеешь...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Ты меня не любишь, не жалеешь...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Ты меня не любишь, не жалеешь...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -944,7 +944,7 @@
   <entry>
     <title>С. А. Есенин - «Устал я жить в родном краю...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Устал я жить в родном краю...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Устал я жить в родном краю...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -953,7 +953,7 @@
   <entry>
     <title>С. А. Есенин - «Хороша была Танюша, краше не было в селе...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Хороша была Танюша, краше не было в селе...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Хороша была Танюша, краше не было в селе...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -962,7 +962,7 @@
   <entry>
     <title>С. А. Есенин - «Черная, потом пропахшая выть!..»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Черная, потом пропахшая выть!..»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Черная, потом пропахшая выть!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -971,7 +971,7 @@
   <entry>
     <title>С. А. Есенин - «Чую радуницу божью...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Чую радуницу божью...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Чую радуницу божью...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -980,7 +980,7 @@
   <entry>
     <title>С. А. Есенин - «Шаганэ ты моя, Шаганэ!..»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Шаганэ ты моя, Шаганэ!..»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Шаганэ ты моя, Шаганэ!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -989,7 +989,7 @@
   <entry>
     <title>С. А. Есенин - «Шел господь пытать людей в любови...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Шел господь пытать людей в любови...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Шел господь пытать людей в любови...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -998,7 +998,7 @@
   <entry>
     <title>С. А. Есенин - «Эта улица мне знакома...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Эта улица мне знакома...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Эта улица мне знакома...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1007,7 +1007,7 @@
   <entry>
     <title>С. А. Есенин - «Я иду долиной. На затылке кепи...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Я иду долиной. На затылке кепи...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Я иду долиной. На затылке кепи...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1016,7 +1016,7 @@
   <entry>
     <title>С. А. Есенин - «Я обманывать себя не стану...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Я обманывать себя не стану...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Я обманывать себя не стану...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1025,7 +1025,7 @@
   <entry>
     <title>С. А. Есенин - «Я покинул родимый дом...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Я покинул родимый дом...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Я покинул родимый дом...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1034,7 +1034,7 @@
   <entry>
     <title>С. А. Есенин - «Я помню, любимая, помню...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Я помню, любимая, помню...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Я помню, любимая, помню...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1043,7 +1043,7 @@
   <entry>
     <title>С. А. Есенин - «Я последний поэт деревни...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Я последний поэт деревни...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Я последний поэт деревни...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1052,7 +1052,7 @@
   <entry>
     <title>С. А. Есенин - «Я снова здесь, в семье родной...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Я снова здесь, в семье родной...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Я снова здесь, в семье родной...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1061,7 +1061,7 @@
   <entry>
     <title>С. А. Есенин - «Я странник убогий...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Я странник убогий...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Я странник убогий...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1070,7 +1070,7 @@
   <entry>
     <title>С. А. Есенин - «Я — пастух; мои палаты...»</title>
     <id>urn:ebook-search:book:С. А. Есенин - «Я — пастух; мои палаты...»</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - «Я — пастух; мои палаты...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1079,7 +1079,7 @@
   <entry>
     <title>С. А. Есенин - Анна Снегина</title>
     <id>urn:ebook-search:book:С. А. Есенин - Анна Снегина</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Анна Снегина.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1088,7 +1088,7 @@
   <entry>
     <title>С. А. Есенин - Бабушкины сказки («В зимний вечер по задворкам...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Бабушкины сказки («В зимний вечер по задворкам...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Бабушкины сказки («В зимний вечер по задворкам...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1097,7 +1097,7 @@
   <entry>
     <title>С. А. Есенин - Бельгия («Побеждена, но не рабыня...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Бельгия («Побеждена, но не рабыня...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Бельгия («Побеждена, но не рабыня...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1106,7 +1106,7 @@
   <entry>
     <title>С. А. Есенин - Береза («Белая береза...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Береза («Белая береза...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Береза («Белая береза...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1115,7 +1115,7 @@
   <entry>
     <title>С. А. Есенин - Богатырский посвист («Грянул гром. Чашка неба расколота...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Богатырский посвист («Грянул гром. Чашка неба расколота...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Богатырский посвист («Грянул гром. Чашка неба расколота...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1124,7 +1124,7 @@
   <entry>
     <title>С. А. Есенин - В хате («Пахнет рыхлыми дроченами...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - В хате («Пахнет рыхлыми дроченами...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - В хате («Пахнет рыхлыми дроченами...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1133,7 +1133,7 @@
   <entry>
     <title>С. А. Есенин - Воспоминание («За окном, у ворот...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Воспоминание («За окном, у ворот...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Воспоминание («За окном, у ворот...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1142,7 +1142,7 @@
   <entry>
     <title>С. А. Есенин - Восход солнца («Загорелась зорька красная...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Восход солнца («Загорелась зорька красная...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Восход солнца («Загорелась зорька красная...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1151,7 +1151,7 @@
   <entry>
     <title>С. А. Есенин - Восход солнца («Капли жемчужные, капли прекрасные...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Восход солнца («Капли жемчужные, капли прекрасные...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Восход солнца («Капли жемчужные, капли прекрасные...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1160,7 +1160,7 @@
   <entry>
     <title>С. А. Есенин - Голубень («В прозрачном холоде заголубели долы...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Голубень («В прозрачном холоде заголубели долы...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Голубень («В прозрачном холоде заголубели долы...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1169,7 +1169,7 @@
   <entry>
     <title>С. А. Есенин - Девичник («Я надену красное монисто...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Девичник («Я надену красное монисто...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Девичник («Я надену красное монисто...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1178,7 +1178,7 @@
   <entry>
     <title>С. А. Есенин - Дед («Сухлым войлоком по стежкам...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Дед («Сухлым войлоком по стежкам...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Дед («Сухлым войлоком по стежкам...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1187,7 +1187,7 @@
   <entry>
     <title>С. А. Есенин - Егорий («В синих далях плоскогорий...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Егорий («В синих далях плоскогорий...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Егорий («В синих далях плоскогорий...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1196,7 +1196,7 @@
   <entry>
     <title>С. А. Есенин - Звезды («Звездочки ясные, звезды высокие!..»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Звезды («Звездочки ясные, звезды высокие!..»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Звезды («Звездочки ясные, звезды высокие!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1205,7 +1205,7 @@
   <entry>
     <title>С. А. Есенин - Зима («Вот уж осень улетела...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Зима («Вот уж осень улетела...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Зима («Вот уж осень улетела...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1214,7 +1214,7 @@
   <entry>
     <title>С. А. Есенин - И. Д. Рудинскому («Солнца луч золотой...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - И. Д. Рудинскому («Солнца луч золотой...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - И. Д. Рудинскому («Солнца луч золотой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1223,7 +1223,7 @@
   <entry>
     <title>С. А. Есенин - Исповедь хулигана («Не каждый умеет петь...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Исповедь хулигана («Не каждый умеет петь...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Исповедь хулигана («Не каждый умеет петь...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1232,7 +1232,7 @@
   <entry>
     <title>С. А. Есенин - Исус-младенец («Собрала пречистая...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Исус-младенец («Собрала пречистая...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Исус-младенец («Собрала пречистая...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1241,7 +1241,7 @@
   <entry>
     <title>С. А. Есенин - К покойнику («Уж крышку туго закрывают...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - К покойнику («Уж крышку туго закрывают...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - К покойнику («Уж крышку туго закрывают...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1250,7 +1250,7 @@
   <entry>
     <title>С. А. Есенин - Калики («Проходили калики деревнями...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Калики («Проходили калики деревнями...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Калики («Проходили калики деревнями...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1259,7 +1259,7 @@
   <entry>
     <title>С. А. Есенин - Ключи Марии</title>
     <id>urn:ebook-search:book:С. А. Есенин - Ключи Марии</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Ключи Марии.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1268,7 +1268,7 @@
   <entry>
     <title>С. А. Есенин - Колдунья («Косы растрепаны, страшная, белая...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Колдунья («Косы растрепаны, страшная, белая...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Колдунья («Косы растрепаны, страшная, белая...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1277,7 +1277,7 @@
   <entry>
     <title>С. А. Есенин - Корова («Дряхлая, выпали зубы...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Корова («Дряхлая, выпали зубы...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Корова («Дряхлая, выпали зубы...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1286,7 +1286,7 @@
   <entry>
     <title>С. А. Есенин - Кузнец («Душно в кузнице угрюмой...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Кузнец («Душно в кузнице угрюмой...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Кузнец («Душно в кузнице угрюмой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1295,7 +1295,7 @@
   <entry>
     <title>С. А. Есенин - Лебедушка («Из-за леса, леса темного...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Лебедушка («Из-за леса, леса темного...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Лебедушка («Из-за леса, леса темного...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1304,7 +1304,7 @@
   <entry>
     <title>С. А. Есенин - Лисица («На раздробленной ноге приковыляла...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Лисица («На раздробленной ноге приковыляла...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Лисица («На раздробленной ноге приковыляла...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1313,7 +1313,7 @@
   <entry>
     <title>С. А. Есенин - Марфа Посадница</title>
     <id>urn:ebook-search:book:С. А. Есенин - Марфа Посадница</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Марфа Посадница.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1322,7 +1322,7 @@
   <entry>
     <title>С. А. Есенин - Мечта («В темной роще на зеленых елях...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Мечта («В темной роще на зеленых елях...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Мечта («В темной роще на зеленых елях...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1331,7 +1331,7 @@
   <entry>
     <title>С. А. Есенин - Микола («В шапке облачного скола...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Микола («В шапке облачного скола...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Микола («В шапке облачного скола...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1340,7 +1340,7 @@
   <entry>
     <title>С. А. Есенин - Молитва матери («На краю деревни старая избушка...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Молитва матери («На краю деревни старая избушка...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Молитва матери («На краю деревни старая избушка...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1349,7 +1349,7 @@
   <entry>
     <title>С. А. Есенин - Молотьба («Вышел зараня дед...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Молотьба («Вышел зараня дед...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Молотьба («Вышел зараня дед...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1358,7 +1358,7 @@
   <entry>
     <title>С. А. Есенин - Моя жизнь («Будто жизнь на страданья моя обречёна...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Моя жизнь («Будто жизнь на страданья моя обречёна...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Моя жизнь («Будто жизнь на страданья моя обречёна...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1367,7 +1367,7 @@
   <entry>
     <title>С. А. Есенин - Нищий с паперти («Глаза — как выцветший лопух...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Нищий с паперти («Глаза — как выцветший лопух...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Нищий с паперти («Глаза — как выцветший лопух...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1376,7 +1376,7 @@
   <entry>
     <title>С. А. Есенин - Ночь («Тихо дремлет река...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Ночь («Тихо дремлет река...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Ночь («Тихо дремлет река...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1385,7 +1385,7 @@
   <entry>
     <title>С. А. Есенин - Октоих</title>
     <id>urn:ebook-search:book:С. А. Есенин - Октоих</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Октоих.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1394,7 +1394,7 @@
   <entry>
     <title>С. А. Есенин - Осень («Тихо в чаще можжевеля по обрыву...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Осень («Тихо в чаще можжевеля по обрыву...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Осень («Тихо в чаще можжевеля по обрыву...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1403,7 +1403,7 @@
   <entry>
     <title>С. А. Есенин - Отчарь</title>
     <id>urn:ebook-search:book:С. А. Есенин - Отчарь</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Отчарь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1412,7 +1412,7 @@
   <entry>
     <title>С. А. Есенин - Певущий зов («Радуйтесь!..»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Певущий зов («Радуйтесь!..»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Певущий зов («Радуйтесь!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1421,7 +1421,7 @@
   <entry>
     <title>С. А. Есенин - Песнь о Евпатии Коловрате</title>
     <id>urn:ebook-search:book:С. А. Есенин - Песнь о Евпатии Коловрате</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Песнь о Евпатии Коловрате.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1430,7 +1430,7 @@
   <entry>
     <title>С. А. Есенин - Песнь о собаке («Утром в ржаном закуте...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Песнь о собаке («Утром в ржаном закуте...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Песнь о собаке («Утром в ржаном закуте...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1439,7 +1439,7 @@
   <entry>
     <title>С. А. Есенин - Песня старика разбойника («Угасла молодость моя...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Песня старика разбойника («Угасла молодость моя...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Песня старика разбойника («Угасла молодость моя...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1448,7 +1448,7 @@
   <entry>
     <title>С. А. Есенин - Письмо к женщине («Вы помните...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Письмо к женщине («Вы помните...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Письмо к женщине («Вы помните...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1457,7 +1457,7 @@
   <entry>
     <title>С. А. Есенин - Письмо матери («Ты жива еще, моя старушка?..»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Письмо матери («Ты жива еще, моя старушка?..»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Письмо матери («Ты жива еще, моя старушка?..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1466,7 +1466,7 @@
   <entry>
     <title>С. А. Есенин - Плясунья («Ты играй, гармонь, под трензель...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Плясунья («Ты играй, гармонь, под трензель...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Плясунья («Ты играй, гармонь, под трензель...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1475,7 +1475,7 @@
   <entry>
     <title>С. А. Есенин - Побирушка («Плачет девочка-малютка у окна больших хором...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Побирушка («Плачет девочка-малютка у окна больших хором...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Побирушка («Плачет девочка-малютка у окна больших хором...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1484,7 +1484,7 @@
   <entry>
     <title>С. А. Есенин - Подражанье песне («Ты поила коня из горстей в поводу...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Подражанье песне («Ты поила коня из горстей в поводу...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Подражанье песне («Ты поила коня из горстей в поводу...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1493,7 +1493,7 @@
   <entry>
     <title>С. А. Есенин - Поминки («Заслонили ветлы сиротливо...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Поминки («Заслонили ветлы сиротливо...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Поминки («Заслонили ветлы сиротливо...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1502,7 +1502,7 @@
   <entry>
     <title>С. А. Есенин - Пороша («Еду. Тихо. Слышны звоны...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Пороша («Еду. Тихо. Слышны звоны...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Пороша («Еду. Тихо. Слышны звоны...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1511,7 +1511,7 @@
   <entry>
     <title>С. А. Есенин - Поэт («Он бледен. Мыслит страшный путь...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Поэт («Он бледен. Мыслит страшный путь...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Поэт («Он бледен. Мыслит страшный путь...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1520,7 +1520,7 @@
   <entry>
     <title>С. А. Есенин - Поэт («Тот поэт, врагов кто губит...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Поэт («Тот поэт, врагов кто губит...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Поэт («Тот поэт, врагов кто губит...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1529,7 +1529,7 @@
   <entry>
     <title>С. А. Есенин - Пропавший месяц («Облак, как мышь...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Пропавший месяц («Облак, как мышь...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Пропавший месяц («Облак, как мышь...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1538,7 +1538,7 @@
   <entry>
     <title>С. А. Есенин - Прощание с Мариенгофом («Есть в дружбе счастье оголтелое...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Прощание с Мариенгофом («Есть в дружбе счастье оголтелое...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Прощание с Мариенгофом («Есть в дружбе счастье оголтелое...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1547,7 +1547,7 @@
   <entry>
     <title>С. А. Есенин - Пугачев</title>
     <id>urn:ebook-search:book:С. А. Есенин - Пугачев</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Пугачев.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1556,7 +1556,7 @@
   <entry>
     <title>С. А. Есенин - Пушкину («Мечтая о могучем даре...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Пушкину («Мечтая о могучем даре...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Пушкину («Мечтая о могучем даре...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1565,7 +1565,7 @@
   <entry>
     <title>С. А. Есенин - Разбойник («Стухнут звезды, стухнет месяц...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Разбойник («Стухнут звезды, стухнет месяц...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Разбойник («Стухнут звезды, стухнет месяц...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1574,7 +1574,7 @@
   <entry>
     <title>С. А. Есенин - Русалка под новый год («Ты не любишь меня, милый голубь...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Русалка под новый год («Ты не любишь меня, милый голубь...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Русалка под новый год («Ты не любишь меня, милый голубь...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1583,7 +1583,7 @@
   <entry>
     <title>С. А. Есенин - Русь («Потонула деревня в ухабинах...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Русь («Потонула деревня в ухабинах...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Русь («Потонула деревня в ухабинах...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1592,7 +1592,7 @@
   <entry>
     <title>С. А. Есенин - Русь бесприютная («Товарищи, сегодня в горе я...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Русь бесприютная («Товарищи, сегодня в горе я...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Русь бесприютная («Товарищи, сегодня в горе я...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1601,7 +1601,7 @@
   <entry>
     <title>С. А. Есенин - Русь советская («Тот ураган прошел. Нас мало уцелело...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Русь советская («Тот ураган прошел. Нас мало уцелело...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Русь советская («Тот ураган прошел. Нас мало уцелело...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1610,7 +1610,7 @@
   <entry>
     <title>С. А. Есенин - Русь уходящая («Мы многое еще не сознаем...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Русь уходящая («Мы многое еще не сознаем...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Русь уходящая («Мы многое еще не сознаем...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1619,7 +1619,7 @@
   <entry>
     <title>С. А. Есенин - С добрым утром! («Задремали звезды золотые...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - С добрым утром! («Задремали звезды золотые...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - С добрым утром! («Задремали звезды золотые...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1628,7 +1628,7 @@
   <entry>
     <title>С. А. Есенин - Село («Село! В душе моей покой...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Село («Село! В душе моей покой...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Село («Село! В душе моей покой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1637,7 +1637,7 @@
   <entry>
     <title>С. А. Есенин - Сиротка («Маша — круглая сиротка...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Сиротка («Маша — круглая сиротка...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Сиротка («Маша — круглая сиротка...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1646,7 +1646,7 @@
   <entry>
     <title>С. А. Есенин - Собаке Качалова («Дай, Джим, на счастье лапу мне...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Собаке Качалова («Дай, Джим, на счастье лапу мне...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Собаке Качалова («Дай, Джим, на счастье лапу мне...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1655,7 +1655,7 @@
   <entry>
     <title>С. А. Есенин - Сонет («Я плакал на заре, когда померкли дали...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Сонет («Я плакал на заре, когда померкли дали...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Сонет («Я плакал на заре, когда померкли дали...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1664,7 +1664,7 @@
   <entry>
     <title>С. А. Есенин - Сорокоуст («Трубит, трубит погибельный рог!..»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Сорокоуст («Трубит, трубит погибельный рог!..»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Сорокоуст («Трубит, трубит погибельный рог!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1673,7 +1673,7 @@
   <entry>
     <title>С. А. Есенин - Странник («Без шапки, с лыковой котомкой...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Странник («Без шапки, с лыковой котомкой...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Странник («Без шапки, с лыковой котомкой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1682,7 +1682,7 @@
   <entry>
     <title>С. А. Есенин - Товарищ («Он был сыном простого рабочего...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Товарищ («Он был сыном простого рабочего...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Товарищ («Он был сыном простого рабочего...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1691,7 +1691,7 @@
   <entry>
     <title>С. А. Есенин - У могилы («В этой могиле под скромными ивами...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - У могилы («В этой могиле под скромными ивами...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - У могилы («В этой могиле под скромными ивами...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1700,7 +1700,7 @@
   <entry>
     <title>С. А. Есенин - Удалец («Ой, мне дома не сидится...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Удалец («Ой, мне дома не сидится...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Удалец («Ой, мне дома не сидится...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1709,7 +1709,7 @@
   <entry>
     <title>С. А. Есенин - Узоры («Девушка в светлице вышивает ткани...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Узоры («Девушка в светлице вышивает ткани...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Узоры («Девушка в светлице вышивает ткани...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1718,7 +1718,7 @@
   <entry>
     <title>С. А. Есенин - Ус («Не белы снега по-над Доном...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Ус («Не белы снега по-над Доном...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Ус («Не белы снега по-над Доном...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1727,7 +1727,7 @@
   <entry>
     <title>С. А. Есенин - Хулиган («Дождик мокрыми метлами чистит...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Хулиган («Дождик мокрыми метлами чистит...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Хулиган («Дождик мокрыми метлами чистит...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1736,7 +1736,7 @@
   <entry>
     <title>С. А. Есенин - Чары («В цветах любви весна-царевна...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Чары («В цветах любви весна-царевна...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Чары («В цветах любви весна-царевна...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1745,7 +1745,7 @@
   <entry>
     <title>С. А. Есенин - Черемуха («Черемуха душистая...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Черемуха («Черемуха душистая...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Черемуха («Черемуха душистая...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1754,7 +1754,7 @@
   <entry>
     <title>С. А. Есенин - Черный человек («Друг мой, друг мой...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Черный человек («Друг мой, друг мой...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Черный человек («Друг мой, друг мой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1763,7 +1763,7 @@
   <entry>
     <title>С. А. Есенин - Что прошло — не вернуть («Не вернуть мне ту ночку прохладную...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Что прошло — не вернуть («Не вернуть мне ту ночку прохладную...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Что прошло — не вернуть («Не вернуть мне ту ночку прохладную...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1772,7 +1772,7 @@
   <entry>
     <title>С. А. Есенин - Что это такое? («В этот лес завороженный...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Что это такое? («В этот лес завороженный...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Что это такое? («В этот лес завороженный...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>
@@ -1781,7 +1781,7 @@
   <entry>
     <title>С. А. Есенин - Ямщик («За ухабины степные...»)</title>
     <id>urn:ebook-search:book:С. А. Есенин - Ямщик («За ухабины степные...»)</id>
-    <updated>2026-02-20T18:44:01.793823Z</updated>
+    <updated>2026-02-21T03:25:29.789023Z</updated>
     <link href="../../d/С. А. Есенин - Ямщик («За ухабины степные...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>С. А. Есенин</name>

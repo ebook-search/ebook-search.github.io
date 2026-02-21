@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>А. П. Гайдар</title>
   <id>urn:ebook-search:author:А. П. Гайдар</id>
-  <updated>2026-02-20T18:44:01.799640Z</updated>
+  <updated>2026-02-21T03:25:29.796439Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>А. П. Гайдар - Автобиография</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Автобиография</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Автобиография.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>А. П. Гайдар - Бандитское гнездо</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Бандитское гнездо</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Бандитское гнездо.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>А. П. Гайдар - Берись за оружие, комсомольское племя!</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Берись за оружие, комсомольское племя!</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Берись за оружие, комсомольское племя!.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>А. П. Гайдар - Бомба</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Бомба</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Бомба.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>А. П. Гайдар - В добрый путь!</title>
     <id>urn:ebook-search:book:А. П. Гайдар - В добрый путь!</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - В добрый путь!.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>А. П. Гайдар - Василий Крюков</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Василий Крюков</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Василий Крюков.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>А. П. Гайдар - Военная тайна</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Военная тайна</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Военная тайна.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>А. П. Гайдар - Война и дети</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Война и дети</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Война и дети.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>А. П. Гайдар - Гибель 4-й роты</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Гибель 4-й роты</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Гибель 4-й роты.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>А. П. Гайдар - Голубая чашка</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Голубая чашка</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Голубая чашка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>А. П. Гайдар - Горячий камень</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Горячий камень</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Горячий камень.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>А. П. Гайдар - Дальние страны</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Дальние страны</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Дальние страны.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>А. П. Гайдар - Дым в лесу</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Дым в лесу</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Дым в лесу.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>А. П. Гайдар - Из поэмы «Пулеметная пурга» («Еще и еще раз в эти метельные дни...»)</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Из поэмы «Пулеметная пурга» («Еще и еще раз в эти метельные дни...»)</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Из поэмы «Пулеметная пурга» («Еще и еще раз в эти метельные дни...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -134,7 +134,7 @@
   <entry>
     <title>А. П. Гайдар - Кавалерийская походная («Травы наземь клонятся...»)</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Кавалерийская походная («Травы наземь клонятся...»)</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Кавалерийская походная («Травы наземь клонятся...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -143,7 +143,7 @@
   <entry>
     <title>А. П. Гайдар - Клятва Тимура</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Клятва Тимура</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Клятва Тимура.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -152,7 +152,7 @@
   <entry>
     <title>А. П. Гайдар - Комендант снежной крепости</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Комендант снежной крепости</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Комендант снежной крепости.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -161,7 +161,7 @@
   <entry>
     <title>А. П. Гайдар - Конец Левки Демченко</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Конец Левки Демченко</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Конец Левки Демченко.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -170,7 +170,7 @@
   <entry>
     <title>А. П. Гайдар - Левка Демченко</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Левка Демченко</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Левка Демченко.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -179,7 +179,7 @@
   <entry>
     <title>А. П. Гайдар - Маруся</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Маруся</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Маруся.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -188,7 +188,7 @@
   <entry>
     <title>А. П. Гайдар - Мост</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Мост</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Мост.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -197,7 +197,7 @@
   <entry>
     <title>А. П. Гайдар - Наблюдатель («— Товарищ Сергеев, — сказал комбат...»)</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Наблюдатель («— Товарищ Сергеев, — сказал комбат...»)</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Наблюдатель («— Товарищ Сергеев, — сказал комбат...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -206,7 +206,7 @@
   <entry>
     <title>А. П. Гайдар - Наш отряд («Наша деревенька...»)</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Наш отряд («Наша деревенька...»)</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Наш отряд («Наша деревенька...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -215,7 +215,7 @@
   <entry>
     <title>А. П. Гайдар - Никчемная смерть</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Никчемная смерть</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Никчемная смерть.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -224,7 +224,7 @@
   <entry>
     <title>А. П. Гайдар - Ночь в карауле</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Ночь в карауле</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Ночь в карауле.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -233,7 +233,7 @@
   <entry>
     <title>А. П. Гайдар - Орудийный ключ</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Орудийный ключ</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Орудийный ключ.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -242,7 +242,7 @@
   <entry>
     <title>А. П. Гайдар - Патроны</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Патроны</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Патроны.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -251,7 +251,7 @@
   <entry>
     <title>А. П. Гайдар - Перебежчики</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Перебежчики</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Перебежчики.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -260,7 +260,7 @@
   <entry>
     <title>А. П. Гайдар - Письмо («Шелестел над речкой...»)</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Письмо («Шелестел над речкой...»)</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Письмо («Шелестел над речкой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -269,7 +269,7 @@
   <entry>
     <title>А. П. Гайдар - Поход</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Поход</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Поход.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -278,7 +278,7 @@
   <entry>
     <title>А. П. Гайдар - Проводы</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Проводы</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Проводы.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -287,7 +287,7 @@
   <entry>
     <title>А. П. Гайдар - Прохожий</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Прохожий</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Прохожий.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -296,7 +296,7 @@
   <entry>
     <title>А. П. Гайдар - Пусть светит</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Пусть светит</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Пусть светит.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -305,7 +305,7 @@
   <entry>
     <title>А. П. Гайдар - Р.В.С.</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Р.В.С.</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Р.В.С..epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -314,7 +314,7 @@
   <entry>
     <title>А. П. Гайдар - Ракеты и гранаты</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Ракеты и гранаты</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Ракеты и гранаты.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -323,7 +323,7 @@
   <entry>
     <title>А. П. Гайдар - Распущенность</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Распущенность</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Распущенность.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -332,7 +332,7 @@
   <entry>
     <title>А. П. Гайдар - Сережка Чубатов</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Сережка Чубатов</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Сережка Чубатов.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -341,7 +341,7 @@
   <entry>
     <title>А. П. Гайдар - Совесть</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Совесть</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Совесть.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -350,7 +350,7 @@
   <entry>
     <title>А. П. Гайдар - Советская площадь</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Советская площадь</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Советская площадь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -359,7 +359,7 @@
   <entry>
     <title>А. П. Гайдар - Судьба барабанщика</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Судьба барабанщика</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Судьба барабанщика.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -368,7 +368,7 @@
   <entry>
     <title>А. П. Гайдар - Тимур и его команда</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Тимур и его команда</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Тимур и его команда.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -377,7 +377,7 @@
   <entry>
     <title>А. П. Гайдар - У переднего края</title>
     <id>urn:ebook-search:book:А. П. Гайдар - У переднего края</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - У переднего края.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -386,7 +386,7 @@
   <entry>
     <title>А. П. Гайдар - У переправы</title>
     <id>urn:ebook-search:book:А. П. Гайдар - У переправы</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - У переправы.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -395,7 +395,7 @@
   <entry>
     <title>А. П. Гайдар - Ударник</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Ударник</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Ударник.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -404,7 +404,7 @@
   <entry>
     <title>А. П. Гайдар - Четвертый блиндаж</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Четвертый блиндаж</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Четвертый блиндаж.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -413,7 +413,7 @@
   <entry>
     <title>А. П. Гайдар - Чук и Гек</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Чук и Гек</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Чук и Гек.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>
@@ -422,7 +422,7 @@
   <entry>
     <title>А. П. Гайдар - Школа</title>
     <id>urn:ebook-search:book:А. П. Гайдар - Школа</id>
-    <updated>2026-02-20T18:44:01.799640Z</updated>
+    <updated>2026-02-21T03:25:29.796439Z</updated>
     <link href="../../d/А. П. Гайдар - Школа.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Гайдар</name>

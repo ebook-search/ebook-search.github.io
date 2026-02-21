@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>М. Е. Салтыков-Щедрин</title>
   <id>urn:ebook-search:author:М. Е. Салтыков-Щедрин</id>
-  <updated>2026-02-20T18:44:01.793358Z</updated>
+  <updated>2026-02-21T03:25:29.788460Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>М. Е. Салтыков-Щедрин - Богатырь</title>
     <id>urn:ebook-search:book:М. Е. Салтыков-Щедрин - Богатырь</id>
-    <updated>2026-02-20T18:44:01.793358Z</updated>
+    <updated>2026-02-21T03:25:29.788460Z</updated>
     <link href="../../d/М. Е. Салтыков-Щедрин - Богатырь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. Е. Салтыков-Щедрин</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>М. Е. Салтыков-Щедрин - Господа Головлевы</title>
     <id>urn:ebook-search:book:М. Е. Салтыков-Щедрин - Господа Головлевы</id>
-    <updated>2026-02-20T18:44:01.793358Z</updated>
+    <updated>2026-02-21T03:25:29.788460Z</updated>
     <link href="../../d/М. Е. Салтыков-Щедрин - Господа Головлевы.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. Е. Салтыков-Щедрин</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>М. Е. Салтыков-Щедрин - Дикий помещик</title>
     <id>urn:ebook-search:book:М. Е. Салтыков-Щедрин - Дикий помещик</id>
-    <updated>2026-02-20T18:44:01.793358Z</updated>
+    <updated>2026-02-21T03:25:29.788460Z</updated>
     <link href="../../d/М. Е. Салтыков-Щедрин - Дикий помещик.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. Е. Салтыков-Щедрин</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>М. Е. Салтыков-Щедрин - Дурак</title>
     <id>urn:ebook-search:book:М. Е. Салтыков-Щедрин - Дурак</id>
-    <updated>2026-02-20T18:44:01.793358Z</updated>
+    <updated>2026-02-21T03:25:29.788460Z</updated>
     <link href="../../d/М. Е. Салтыков-Щедрин - Дурак.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. Е. Салтыков-Щедрин</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>М. Е. Салтыков-Щедрин - История одного города</title>
     <id>urn:ebook-search:book:М. Е. Салтыков-Щедрин - История одного города</id>
-    <updated>2026-02-20T18:44:01.793358Z</updated>
+    <updated>2026-02-21T03:25:29.788460Z</updated>
     <link href="../../d/М. Е. Салтыков-Щедрин - История одного города.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. Е. Салтыков-Щедрин</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>М. Е. Салтыков-Щедрин - Карась-идеалист</title>
     <id>urn:ebook-search:book:М. Е. Салтыков-Щедрин - Карась-идеалист</id>
-    <updated>2026-02-20T18:44:01.793358Z</updated>
+    <updated>2026-02-21T03:25:29.788460Z</updated>
     <link href="../../d/М. Е. Салтыков-Щедрин - Карась-идеалист.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. Е. Салтыков-Щедрин</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>М. Е. Салтыков-Щедрин - Кисель</title>
     <id>urn:ebook-search:book:М. Е. Салтыков-Щедрин - Кисель</id>
-    <updated>2026-02-20T18:44:01.793358Z</updated>
+    <updated>2026-02-21T03:25:29.788460Z</updated>
     <link href="../../d/М. Е. Салтыков-Щедрин - Кисель.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. Е. Салтыков-Щедрин</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>М. Е. Салтыков-Щедрин - Коняга</title>
     <id>urn:ebook-search:book:М. Е. Салтыков-Щедрин - Коняга</id>
-    <updated>2026-02-20T18:44:01.793358Z</updated>
+    <updated>2026-02-21T03:25:29.788460Z</updated>
     <link href="../../d/М. Е. Салтыков-Щедрин - Коняга.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. Е. Салтыков-Щедрин</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>М. Е. Салтыков-Щедрин - Либерал</title>
     <id>urn:ebook-search:book:М. Е. Салтыков-Щедрин - Либерал</id>
-    <updated>2026-02-20T18:44:01.793358Z</updated>
+    <updated>2026-02-21T03:25:29.788460Z</updated>
     <link href="../../d/М. Е. Салтыков-Щедрин - Либерал.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. Е. Салтыков-Щедрин</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>М. Е. Салтыков-Щедрин - Медведь на воеводстве</title>
     <id>urn:ebook-search:book:М. Е. Салтыков-Щедрин - Медведь на воеводстве</id>
-    <updated>2026-02-20T18:44:01.793358Z</updated>
+    <updated>2026-02-21T03:25:29.788460Z</updated>
     <link href="../../d/М. Е. Салтыков-Щедрин - Медведь на воеводстве.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. Е. Салтыков-Щедрин</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>М. Е. Салтыков-Щедрин - Повесть о том, как один мужик двух генералов прокормил</title>
     <id>urn:ebook-search:book:М. Е. Салтыков-Щедрин - Повесть о том, как один мужик двух генералов прокормил</id>
-    <updated>2026-02-20T18:44:01.793358Z</updated>
+    <updated>2026-02-21T03:25:29.788460Z</updated>
     <link href="../../d/М. Е. Салтыков-Щедрин - Повесть о том, как один мужик двух генералов прокормил.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. Е. Салтыков-Щедрин</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>М. Е. Салтыков-Щедрин - Премудрый пискарь</title>
     <id>urn:ebook-search:book:М. Е. Салтыков-Щедрин - Премудрый пискарь</id>
-    <updated>2026-02-20T18:44:01.793358Z</updated>
+    <updated>2026-02-21T03:25:29.788460Z</updated>
     <link href="../../d/М. Е. Салтыков-Щедрин - Премудрый пискарь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. Е. Салтыков-Щедрин</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>М. Е. Салтыков-Щедрин - Пропала  совесть</title>
     <id>urn:ebook-search:book:М. Е. Салтыков-Щедрин - Пропала  совесть</id>
-    <updated>2026-02-20T18:44:01.793358Z</updated>
+    <updated>2026-02-21T03:25:29.788460Z</updated>
     <link href="../../d/М. Е. Салтыков-Щедрин - Пропала  совесть.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. Е. Салтыков-Щедрин</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>М. Е. Салтыков-Щедрин - Самоотверженный  заяц</title>
     <id>urn:ebook-search:book:М. Е. Салтыков-Щедрин - Самоотверженный  заяц</id>
-    <updated>2026-02-20T18:44:01.793358Z</updated>
+    <updated>2026-02-21T03:25:29.788460Z</updated>
     <link href="../../d/М. Е. Салтыков-Щедрин - Самоотверженный  заяц.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>М. Е. Салтыков-Щедрин</name>

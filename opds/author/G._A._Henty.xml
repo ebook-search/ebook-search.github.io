@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>G. A. Henty</title>
   <id>urn:ebook-search:author:G. A. Henty</id>
-  <updated>2026-02-20T18:44:01.719193Z</updated>
+  <updated>2026-02-21T03:25:29.728456Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>G. A. Henty - Beric the Briton</title>
     <id>urn:ebook-search:book:G. A. Henty - Beric the Briton</id>
-    <updated>2026-02-20T18:44:01.719193Z</updated>
+    <updated>2026-02-21T03:25:29.728456Z</updated>
     <link href="../../d/G. A. Henty - Beric the Briton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>G. A. Henty</name>

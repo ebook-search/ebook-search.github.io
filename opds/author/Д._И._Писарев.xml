@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Д. И. Писарев</title>
   <id>urn:ebook-search:author:Д. И. Писарев</id>
-  <updated>2026-02-20T18:44:01.798522Z</updated>
+  <updated>2026-02-21T03:25:29.794766Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Д. И. Писарев - Базаров</title>
     <id>urn:ebook-search:book:Д. И. Писарев - Базаров</id>
-    <updated>2026-02-20T18:44:01.798522Z</updated>
+    <updated>2026-02-21T03:25:29.794766Z</updated>
     <link href="../../d/Д. И. Писарев - Базаров.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Д. И. Писарев</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Д. И. Писарев - Мотивы русской драмы</title>
     <id>urn:ebook-search:book:Д. И. Писарев - Мотивы русской драмы</id>
-    <updated>2026-02-20T18:44:01.798522Z</updated>
+    <updated>2026-02-21T03:25:29.794766Z</updated>
     <link href="../../d/Д. И. Писарев - Мотивы русской драмы.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Д. И. Писарев</name>

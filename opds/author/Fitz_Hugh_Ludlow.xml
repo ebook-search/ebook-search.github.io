@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Fitz Hugh Ludlow</title>
   <id>urn:ebook-search:author:Fitz Hugh Ludlow</id>
-  <updated>2026-02-20T18:44:01.755238Z</updated>
+  <updated>2026-02-21T03:25:29.753243Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Fitz Hugh Ludlow - The Hashish Eater</title>
     <id>urn:ebook-search:book:Fitz Hugh Ludlow - The Hashish Eater</id>
-    <updated>2026-02-20T18:44:01.755238Z</updated>
+    <updated>2026-02-21T03:25:29.753243Z</updated>
     <link href="../../d/Fitz Hugh Ludlow - The Hashish Eater.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Fitz Hugh Ludlow</name>

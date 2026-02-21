@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>А. Н. Майков</title>
   <id>urn:ebook-search:author:А. Н. Майков</id>
-  <updated>2026-02-20T18:44:01.797725Z</updated>
+  <updated>2026-02-21T03:25:29.793717Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>А. Н. Майков - Renaissance («В светлой греческой одежде...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Renaissance («В светлой греческой одежде...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Renaissance («В светлой греческой одежде...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>А. Н. Майков - «Блестит салон княгини Зины...»</title>
     <id>urn:ebook-search:book:А. Н. Майков - «Блестит салон княгини Зины...»</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - «Блестит салон княгини Зины...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>А. Н. Майков - «Боже мой! Вчера — ненастье...»</title>
     <id>urn:ebook-search:book:А. Н. Майков - «Боже мой! Вчера — ненастье...»</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - «Боже мой! Вчера — ненастье...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>А. Н. Майков - «Весна! Выставляется первая рама...»</title>
     <id>urn:ebook-search:book:А. Н. Майков - «Весна! Выставляется первая рама...»</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - «Весна! Выставляется первая рама...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>А. Н. Майков - «Вот бедная чья-то могила...»</title>
     <id>urn:ebook-search:book:А. Н. Майков - «Вот бедная чья-то могила...»</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - «Вот бедная чья-то могила...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>А. Н. Майков - «Всё вокруг меня, как прежде...»</title>
     <id>urn:ebook-search:book:А. Н. Майков - «Всё вокруг меня, как прежде...»</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - «Всё вокруг меня, как прежде...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>А. Н. Майков - «Высокая пальма...»</title>
     <id>urn:ebook-search:book:А. Н. Майков - «Высокая пальма...»</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - «Высокая пальма...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>А. Н. Майков - «Дорог мне, перед иконой...»</title>
     <id>urn:ebook-search:book:А. Н. Майков - «Дорог мне, перед иконой...»</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - «Дорог мне, перед иконой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>А. Н. Майков - «И город вот опять! Опять сияет бал...»</title>
     <id>urn:ebook-search:book:А. Н. Майков - «И город вот опять! Опять сияет бал...»</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - «И город вот опять! Опять сияет бал...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>А. Н. Майков - «Ласточка примчалась...»</title>
     <id>urn:ebook-search:book:А. Н. Майков - «Ласточка примчалась...»</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - «Ласточка примчалась...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>А. Н. Майков - «Маститые, ветвистые дубы...»</title>
     <id>urn:ebook-search:book:А. Н. Майков - «Маститые, ветвистые дубы...»</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - «Маститые, ветвистые дубы...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>А. Н. Майков - «Народный вождь вступает в город...»</title>
     <id>urn:ebook-search:book:А. Н. Майков - «Народный вождь вступает в город...»</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - «Народный вождь вступает в город...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>А. Н. Майков - «Окончена война. Подписан подлый мир...»</title>
     <id>urn:ebook-search:book:А. Н. Майков - «Окончена война. Подписан подлый мир...»</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - «Окончена война. Подписан подлый мир...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>А. Н. Майков - «Осенние листья по ветру кружат...»</title>
     <id>urn:ebook-search:book:А. Н. Майков - «Осенние листья по ветру кружат...»</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - «Осенние листья по ветру кружат...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -134,7 +134,7 @@
   <entry>
     <title>А. Н. Майков - «Поле зыблется цветами...»</title>
     <id>urn:ebook-search:book:А. Н. Майков - «Поле зыблется цветами...»</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - «Поле зыблется цветами...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -143,7 +143,7 @@
   <entry>
     <title>А. Н. Майков - «Ты веришь ей, поэт! Ты думаешь, твой гений...»</title>
     <id>urn:ebook-search:book:А. Н. Майков - «Ты веришь ей, поэт! Ты думаешь, твой гений...»</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - «Ты веришь ей, поэт! Ты думаешь, твой гений...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -152,7 +152,7 @@
   <entry>
     <title>А. Н. Майков - «Уж побелели неба своды...»</title>
     <id>urn:ebook-search:book:А. Н. Майков - «Уж побелели неба своды...»</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - «Уж побелели неба своды...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -161,7 +161,7 @@
   <entry>
     <title>А. Н. Майков - Арлекин («Меня всю ночь промучил сплин...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Арлекин («Меня всю ночь промучил сплин...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Арлекин («Меня всю ночь промучил сплин...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -170,7 +170,7 @@
   <entry>
     <title>А. Н. Майков - Болото («Я целый час болотом занялся...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Болото («Я целый час болотом занялся...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Болото («Я целый час болотом занялся...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -179,7 +179,7 @@
   <entry>
     <title>А. Н. Майков - В лесу («Шумит, звенит ручей лесной...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - В лесу («Шумит, звенит ручей лесной...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - В лесу («Шумит, звенит ручей лесной...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -188,7 +188,7 @@
   <entry>
     <title>А. Н. Майков - В степях, 1—5</title>
     <id>urn:ebook-search:book:А. Н. Майков - В степях, 1—5</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - В степях, 1—5.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -197,7 +197,7 @@
   <entry>
     <title>А. Н. Майков - Вакх («В том гроте сумрачном, покрытом виноградом...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Вакх («В том гроте сумрачном, покрытом виноградом...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Вакх («В том гроте сумрачном, покрытом виноградом...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -206,7 +206,7 @@
   <entry>
     <title>А. Н. Майков - Весна («Голубенький, чистый...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Весна («Голубенький, чистый...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Весна («Голубенький, чистый...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -215,7 +215,7 @@
   <entry>
     <title>А. Н. Майков - Весна («Уходи, зима седая!..»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Весна («Уходи, зима седая!..»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Весна («Уходи, зима седая!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -224,7 +224,7 @@
   <entry>
     <title>А. Н. Майков - Вихрь («Полн черных дум, я в поле проходил...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Вихрь («Полн черных дум, я в поле проходил...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Вихрь («Полн черных дум, я в поле проходил...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -233,7 +233,7 @@
   <entry>
     <title>А. Н. Майков - Встреча («Случается порой, в весенний ясный день...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Встреча («Случается порой, в весенний ясный день...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Встреча («Случается порой, в весенний ясный день...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -242,7 +242,7 @@
   <entry>
     <title>А. Н. Майков - Голос в лесу («Давно какой-то девы пенье...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Голос в лесу («Давно какой-то девы пенье...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Голос в лесу («Давно какой-то девы пенье...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -251,7 +251,7 @@
   <entry>
     <title>А. Н. Майков - Гроза («Кругом царила жизнь и радость...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Гроза («Кругом царила жизнь и радость...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Гроза («Кругом царила жизнь и радость...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -260,7 +260,7 @@
   <entry>
     <title>А. Н. Майков - Дума («Жизнь без тревог — прекрасный, светлый день...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Дума («Жизнь без тревог — прекрасный, светлый день...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Дума («Жизнь без тревог — прекрасный, светлый день...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -269,7 +269,7 @@
   <entry>
     <title>А. Н. Майков - Е. А. Шеншиной («Как резвым нимфам, спутницам Дианы...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Е. А. Шеншиной («Как резвым нимфам, спутницам Дианы...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Е. А. Шеншиной («Как резвым нимфам, спутницам Дианы...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -278,7 +278,7 @@
   <entry>
     <title>А. Н. Майков - Жанна д’Арк («Бой кипел... Она скакала...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Жанна д’Арк («Бой кипел... Она скакала...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Жанна д’Арк («Бой кипел... Она скакала...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -287,7 +287,7 @@
   <entry>
     <title>А. Н. Майков - Журавли («От грустных дум очнувшись, очи...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Журавли («От грустных дум очнувшись, очи...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Журавли («От грустных дум очнувшись, очи...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -296,7 +296,7 @@
   <entry>
     <title>А. Н. Майков - Звуки ночи («О ночь безлунная!.. Стою я, как влюбленный...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Звуки ночи («О ночь безлунная!.. Стою я, как влюбленный...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Звуки ночи («О ночь безлунная!.. Стою я, как влюбленный...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -305,7 +305,7 @@
   <entry>
     <title>А. Н. Майков - Зимнее утро («Морозит. Снег хрустит. Туманы над полями...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Зимнее утро («Морозит. Снег хрустит. Туманы над полями...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Зимнее утро («Морозит. Снег хрустит. Туманы над полями...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -314,7 +314,7 @@
   <entry>
     <title>А. Н. Майков - Колыбельная песня («Спи, дитя мое, усни!..»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Колыбельная песня («Спи, дитя мое, усни!..»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Колыбельная песня («Спи, дитя мое, усни!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -323,7 +323,7 @@
   <entry>
     <title>А. Н. Майков - Ласточки («Мой сад с каждым днем увядает...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Ласточки («Мой сад с каждым днем увядает...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Ласточки («Мой сад с каждым днем увядает...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -332,7 +332,7 @@
   <entry>
     <title>А. Н. Майков - Летний дождь («„Золото, золото падает с неба!“...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Летний дождь («„Золото, золото падает с неба!“...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Летний дождь («„Золото, золото падает с неба!“...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -341,7 +341,7 @@
   <entry>
     <title>А. Н. Майков - Мать («„Бедный мальчик! Весь в огне...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Мать («„Бедный мальчик! Весь в огне...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Мать («„Бедный мальчик! Весь в огне...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -350,7 +350,7 @@
   <entry>
     <title>А. Н. Майков - Мать и дети («„Что ты, мама, беспрестанно...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Мать и дети («„Что ты, мама, беспрестанно...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Мать и дети («„Что ты, мама, беспрестанно...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -359,7 +359,7 @@
   <entry>
     <title>А. Н. Майков - Мечтания («Пусть пасмурный октябрь осенней дышит стужей...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Мечтания («Пусть пасмурный октябрь осенней дышит стужей...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Мечтания («Пусть пасмурный октябрь осенней дышит стужей...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -368,7 +368,7 @@
   <entry>
     <title>А. Н. Майков - На Чамлиджи («Как дышится легко на этих высотах...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - На Чамлиджи («Как дышится легко на этих высотах...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - На Чамлиджи («Как дышится легко на этих высотах...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -377,7 +377,7 @@
   <entry>
     <title>А. Н. Майков - На пути по берегу Коринфского залива («Всё время — реки без воды...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - На пути по берегу Коринфского залива («Всё время — реки без воды...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - На пути по берегу Коринфского залива («Всё время — реки без воды...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -386,7 +386,7 @@
   <entry>
     <title>А. Н. Майков - Нива («По ниве прохожу я узкою межой...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Нива («По ниве прохожу я узкою межой...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Нива («По ниве прохожу я узкою межой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -395,7 +395,7 @@
   <entry>
     <title>А. Н. Майков - Ночь на жнитве («Густеет сумрак, и с полей...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Ночь на жнитве («Густеет сумрак, и с полей...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Ночь на жнитве («Густеет сумрак, и с полей...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -404,7 +404,7 @@
   <entry>
     <title>А. Н. Майков - Облачка («В легких нитях, белой дымкой...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Облачка («В легких нитях, белой дымкой...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Облачка («В легких нитях, белой дымкой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -413,7 +413,7 @@
   <entry>
     <title>А. Н. Майков - Олимпийские игры («Всё готово. Мусикийский...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Олимпийские игры («Всё готово. Мусикийский...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Олимпийские игры («Всё готово. Мусикийский...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -422,7 +422,7 @@
   <entry>
     <title>А. Н. Майков - Осень («Два раза снег уж выпадал...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Осень («Два раза снег уж выпадал...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Осень («Два раза снег уж выпадал...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -431,7 +431,7 @@
   <entry>
     <title>А. Н. Майков - Осень («Кроет уж лист золотой...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Осень («Кроет уж лист золотой...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Осень («Кроет уж лист золотой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -440,7 +440,7 @@
   <entry>
     <title>А. Н. Майков - Пан («Он спит, он спит...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Пан («Он спит, он спит...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Пан («Он спит, он спит...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -449,7 +449,7 @@
   <entry>
     <title>А. Н. Майков - Пастух («Ох, дорога ль моя, ты дороженька!..»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Пастух («Ох, дорога ль моя, ты дороженька!..»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Пастух («Ох, дорога ль моя, ты дороженька!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -458,7 +458,7 @@
   <entry>
     <title>А. Н. Майков - Пейзаж («Люблю дорожкою лесною...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Пейзаж («Люблю дорожкою лесною...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Пейзаж («Люблю дорожкою лесною...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -467,7 +467,7 @@
   <entry>
     <title>А. Н. Майков - Плющ («Зачем, о плющ, лозой своей...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Плющ («Зачем, о плющ, лозой своей...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Плющ («Зачем, о плющ, лозой своей...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -476,7 +476,7 @@
   <entry>
     <title>А. Н. Майков - Под дождем («Помнишь: мы не ждали ни дождя, ни грома...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Под дождем («Помнишь: мы не ждали ни дождя, ни грома...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Под дождем («Помнишь: мы не ждали ни дождя, ни грома...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -485,7 +485,7 @@
   <entry>
     <title>А. Н. Майков - Прощание с деревней («О други! прежде чем покинем мирный кров...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Прощание с деревней («О други! прежде чем покинем мирный кров...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Прощание с деревней («О други! прежде чем покинем мирный кров...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -494,7 +494,7 @@
   <entry>
     <title>А. Н. Майков - Сенокос («Пахнет сеном над лугами...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Сенокос («Пахнет сеном над лугами...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Сенокос («Пахнет сеном над лугами...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -503,7 +503,7 @@
   <entry>
     <title>А. Н. Майков - Сомнение («Пусть говорят: поэзия — мечта...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Сомнение («Пусть говорят: поэзия — мечта...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Сомнение («Пусть говорят: поэзия — мечта...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -512,7 +512,7 @@
   <entry>
     <title>А. Н. Майков - У Мраморного моря, 1—3</title>
     <id>urn:ebook-search:book:А. Н. Майков - У Мраморного моря, 1—3</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - У Мраморного моря, 1—3.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -521,7 +521,7 @@
   <entry>
     <title>А. Н. Майков - Утро («Близко, близко солнце!..»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - Утро («Близко, близко солнце!..»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - Утро («Близко, близко солнце!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>
@@ -530,7 +530,7 @@
   <entry>
     <title>А. Н. Майков - ⟨Коляска⟩ («Когда по улице, в откинутой коляске...»)</title>
     <id>urn:ebook-search:book:А. Н. Майков - ⟨Коляска⟩ («Когда по улице, в откинутой коляске...»)</id>
-    <updated>2026-02-20T18:44:01.797725Z</updated>
+    <updated>2026-02-21T03:25:29.793717Z</updated>
     <link href="../../d/А. Н. Майков - ⟨Коляска⟩ («Когда по улице, в откинутой коляске...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. Н. Майков</name>

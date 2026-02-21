@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>И. С. Тургенев</title>
   <id>urn:ebook-search:author:И. С. Тургенев</id>
-  <updated>2026-02-20T18:44:01.790308Z</updated>
+  <updated>2026-02-21T03:25:29.784910Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>И. С. Тургенев - Senilia. Стихотворения в прозе</title>
     <id>urn:ebook-search:book:И. С. Тургенев - Senilia. Стихотворения в прозе</id>
-    <updated>2026-02-20T18:44:01.790308Z</updated>
+    <updated>2026-02-21T03:25:29.784910Z</updated>
     <link href="../../d/И. С. Тургенев - Senilia. Стихотворения в прозе.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Тургенев</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>И. С. Тургенев - «В ночь летнюю, когда, тревожной грусти полный...»</title>
     <id>urn:ebook-search:book:И. С. Тургенев - «В ночь летнюю, когда, тревожной грусти полный...»</id>
-    <updated>2026-02-20T18:44:01.790308Z</updated>
+    <updated>2026-02-21T03:25:29.784910Z</updated>
     <link href="../../d/И. С. Тургенев - «В ночь летнюю, когда, тревожной грусти полный...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Тургенев</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>И. С. Тургенев - Андрей Колосов</title>
     <id>urn:ebook-search:book:И. С. Тургенев - Андрей Колосов</id>
-    <updated>2026-02-20T18:44:01.790308Z</updated>
+    <updated>2026-02-21T03:25:29.784910Z</updated>
     <link href="../../d/И. С. Тургенев - Андрей Колосов.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Тургенев</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>И. С. Тургенев - Ася</title>
     <id>urn:ebook-search:book:И. С. Тургенев - Ася</id>
-    <updated>2026-02-20T18:44:01.790308Z</updated>
+    <updated>2026-02-21T03:25:29.784910Z</updated>
     <link href="../../d/И. С. Тургенев - Ася.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Тургенев</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>И. С. Тургенев - Вариации, I—III</title>
     <id>urn:ebook-search:book:И. С. Тургенев - Вариации, I—III</id>
-    <updated>2026-02-20T18:44:01.790308Z</updated>
+    <updated>2026-02-21T03:25:29.784910Z</updated>
     <link href="../../d/И. С. Тургенев - Вариации, I—III.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Тургенев</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>И. С. Тургенев - Весенний вечер («Гуляют тучи золотые...»)</title>
     <id>urn:ebook-search:book:И. С. Тургенев - Весенний вечер («Гуляют тучи золотые...»)</id>
-    <updated>2026-02-20T18:44:01.790308Z</updated>
+    <updated>2026-02-21T03:25:29.784910Z</updated>
     <link href="../../d/И. С. Тургенев - Весенний вечер («Гуляют тучи золотые...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Тургенев</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>И. С. Тургенев - Вешние воды</title>
     <id>urn:ebook-search:book:И. С. Тургенев - Вешние воды</id>
-    <updated>2026-02-20T18:44:01.790308Z</updated>
+    <updated>2026-02-21T03:25:29.784910Z</updated>
     <link href="../../d/И. С. Тургенев - Вешние воды.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Тургенев</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>И. С. Тургенев - Дворянское гнездо</title>
     <id>urn:ebook-search:book:И. С. Тургенев - Дворянское гнездо</id>
-    <updated>2026-02-20T18:44:01.790308Z</updated>
+    <updated>2026-02-21T03:25:29.784910Z</updated>
     <link href="../../d/И. С. Тургенев - Дворянское гнездо.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Тургенев</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>И. С. Тургенев - Записки охотника</title>
     <id>urn:ebook-search:book:И. С. Тургенев - Записки охотника</id>
-    <updated>2026-02-20T18:44:01.790308Z</updated>
+    <updated>2026-02-21T03:25:29.784910Z</updated>
     <link href="../../d/И. С. Тургенев - Записки охотника.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Тургенев</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>И. С. Тургенев - Муму</title>
     <id>urn:ebook-search:book:И. С. Тургенев - Муму</id>
-    <updated>2026-02-20T18:44:01.790308Z</updated>
+    <updated>2026-02-21T03:25:29.784910Z</updated>
     <link href="../../d/И. С. Тургенев - Муму.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Тургенев</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>И. С. Тургенев - Накануне</title>
     <id>urn:ebook-search:book:И. С. Тургенев - Накануне</id>
-    <updated>2026-02-20T18:44:01.790308Z</updated>
+    <updated>2026-02-21T03:25:29.784910Z</updated>
     <link href="../../d/И. С. Тургенев - Накануне.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Тургенев</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>И. С. Тургенев - Отцы и дети</title>
     <id>urn:ebook-search:book:И. С. Тургенев - Отцы и дети</id>
-    <updated>2026-02-20T18:44:01.790308Z</updated>
+    <updated>2026-02-21T03:25:29.784910Z</updated>
     <link href="../../d/И. С. Тургенев - Отцы и дети.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Тургенев</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>И. С. Тургенев - Первая любовь</title>
     <id>urn:ebook-search:book:И. С. Тургенев - Первая любовь</id>
-    <updated>2026-02-20T18:44:01.790308Z</updated>
+    <updated>2026-02-21T03:25:29.784910Z</updated>
     <link href="../../d/И. С. Тургенев - Первая любовь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Тургенев</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>И. С. Тургенев - Рудин</title>
     <id>urn:ebook-search:book:И. С. Тургенев - Рудин</id>
-    <updated>2026-02-20T18:44:01.790308Z</updated>
+    <updated>2026-02-21T03:25:29.784910Z</updated>
     <link href="../../d/И. С. Тургенев - Рудин.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Тургенев</name>
@@ -134,7 +134,7 @@
   <entry>
     <title>И. С. Тургенев - Собака</title>
     <id>urn:ebook-search:book:И. С. Тургенев - Собака</id>
-    <updated>2026-02-20T18:44:01.790308Z</updated>
+    <updated>2026-02-21T03:25:29.784910Z</updated>
     <link href="../../d/И. С. Тургенев - Собака.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Тургенев</name>
@@ -143,7 +143,7 @@
   <entry>
     <title>И. С. Тургенев - Три встречи</title>
     <id>urn:ebook-search:book:И. С. Тургенев - Три встречи</id>
-    <updated>2026-02-20T18:44:01.790308Z</updated>
+    <updated>2026-02-21T03:25:29.784910Z</updated>
     <link href="../../d/И. С. Тургенев - Три встречи.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Тургенев</name>

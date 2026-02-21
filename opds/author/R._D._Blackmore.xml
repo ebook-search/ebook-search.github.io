@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>R. D. Blackmore</title>
   <id>urn:ebook-search:author:R. D. Blackmore</id>
-  <updated>2026-02-20T18:44:01.737805Z</updated>
+  <updated>2026-02-21T03:25:29.741262Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>R. D. Blackmore - Lorna Doone</title>
     <id>urn:ebook-search:book:R. D. Blackmore - Lorna Doone</id>
-    <updated>2026-02-20T18:44:01.737805Z</updated>
+    <updated>2026-02-21T03:25:29.741262Z</updated>
     <link href="../../d/R. D. Blackmore - Lorna Doone.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>R. D. Blackmore</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>R. D. Blackmore - The Maid of Sker</title>
     <id>urn:ebook-search:book:R. D. Blackmore - The Maid of Sker</id>
-    <updated>2026-02-20T18:44:01.737805Z</updated>
+    <updated>2026-02-21T03:25:29.741262Z</updated>
     <link href="../../d/R. D. Blackmore - The Maid of Sker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>R. D. Blackmore</name>

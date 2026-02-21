@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Н. М. Карамзин</title>
   <id>urn:ebook-search:author:Н. М. Карамзин</id>
-  <updated>2026-02-20T18:44:01.791236Z</updated>
+  <updated>2026-02-21T03:25:29.786089Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Н. М. Карамзин - Бедная Лиза</title>
     <id>urn:ebook-search:book:Н. М. Карамзин - Бедная Лиза</id>
-    <updated>2026-02-20T18:44:01.791236Z</updated>
+    <updated>2026-02-21T03:25:29.786089Z</updated>
     <link href="../../d/Н. М. Карамзин - Бедная Лиза.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Н. М. Карамзин</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Н. М. Карамзин - Марфа-Посадница, или Покорение Новагорода</title>
     <id>urn:ebook-search:book:Н. М. Карамзин - Марфа-Посадница, или Покорение Новагорода</id>
-    <updated>2026-02-20T18:44:01.791236Z</updated>
+    <updated>2026-02-21T03:25:29.786089Z</updated>
     <link href="../../d/Н. М. Карамзин - Марфа-Посадница, или Покорение Новагорода.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Н. М. Карамзин</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Н. М. Карамзин - Остров Борнгольм</title>
     <id>urn:ebook-search:book:Н. М. Карамзин - Остров Борнгольм</id>
-    <updated>2026-02-20T18:44:01.791236Z</updated>
+    <updated>2026-02-21T03:25:29.786089Z</updated>
     <link href="../../d/Н. М. Карамзин - Остров Борнгольм.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Н. М. Карамзин</name>

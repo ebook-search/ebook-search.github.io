@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Edgar Rice Burroughs</title>
   <id>urn:ebook-search:author:Edgar Rice Burroughs</id>
-  <updated>2026-02-20T18:44:01.721540Z</updated>
+  <updated>2026-02-21T03:25:29.730227Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Edgar Rice Burroughs - A Princess of Mars</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - A Princess of Mars</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - A Princess of Mars.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Edgar Rice Burroughs - At the Earth’s Core</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - At the Earth’s Core</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - At the Earth’s Core.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Edgar Rice Burroughs - Beyond Thirty</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - Beyond Thirty</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - Beyond Thirty.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Edgar Rice Burroughs - Jungle Tales of Tarzan</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - Jungle Tales of Tarzan</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - Jungle Tales of Tarzan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Edgar Rice Burroughs - Pellucidar</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - Pellucidar</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - Pellucidar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Edgar Rice Burroughs - Tarzan and the Ant Men</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - Tarzan and the Ant Men</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - Tarzan and the Ant Men.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Edgar Rice Burroughs - Tarzan and the Golden Lion</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - Tarzan and the Golden Lion</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - Tarzan and the Golden Lion.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>Edgar Rice Burroughs - Tarzan and the Jewels of Opar</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - Tarzan and the Jewels of Opar</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - Tarzan and the Jewels of Opar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>Edgar Rice Burroughs - Tarzan of the Apes</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - Tarzan of the Apes</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - Tarzan of the Apes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>Edgar Rice Burroughs - Tarzan the Terrible</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - Tarzan the Terrible</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - Tarzan the Terrible.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>Edgar Rice Burroughs - Tarzan the Untamed</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - Tarzan the Untamed</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - Tarzan the Untamed.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>Edgar Rice Burroughs - Tarzan, Lord of the Jungle</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - Tarzan, Lord of the Jungle</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - Tarzan, Lord of the Jungle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>Edgar Rice Burroughs - The Beasts of Tarzan</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - The Beasts of Tarzan</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - The Beasts of Tarzan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>Edgar Rice Burroughs - The Chessmen of Mars</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - The Chessmen of Mars</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - The Chessmen of Mars.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -134,7 +134,7 @@
   <entry>
     <title>Edgar Rice Burroughs - The Gods of Mars</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - The Gods of Mars</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - The Gods of Mars.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -143,7 +143,7 @@
   <entry>
     <title>Edgar Rice Burroughs - The Land That Time Forgot</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - The Land That Time Forgot</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - The Land That Time Forgot.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -152,7 +152,7 @@
   <entry>
     <title>Edgar Rice Burroughs - The Master Mind of Mars</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - The Master Mind of Mars</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - The Master Mind of Mars.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -161,7 +161,7 @@
   <entry>
     <title>Edgar Rice Burroughs - The Moon Maid</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - The Moon Maid</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - The Moon Maid.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -170,7 +170,7 @@
   <entry>
     <title>Edgar Rice Burroughs - The Mucker</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - The Mucker</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - The Mucker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -179,7 +179,7 @@
   <entry>
     <title>Edgar Rice Burroughs - The Outlaw of Torn</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - The Outlaw of Torn</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - The Outlaw of Torn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -188,7 +188,7 @@
   <entry>
     <title>Edgar Rice Burroughs - The Return of Tarzan</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - The Return of Tarzan</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - The Return of Tarzan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -197,7 +197,7 @@
   <entry>
     <title>Edgar Rice Burroughs - The Son of Tarzan</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - The Son of Tarzan</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - The Son of Tarzan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -206,7 +206,7 @@
   <entry>
     <title>Edgar Rice Burroughs - The Warlord of Mars</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - The Warlord of Mars</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - The Warlord of Mars.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>
@@ -215,7 +215,7 @@
   <entry>
     <title>Edgar Rice Burroughs - Thuvia, Maid of Mars</title>
     <id>urn:ebook-search:book:Edgar Rice Burroughs - Thuvia, Maid of Mars</id>
-    <updated>2026-02-20T18:44:01.721540Z</updated>
+    <updated>2026-02-21T03:25:29.730227Z</updated>
     <link href="../../d/Edgar Rice Burroughs - Thuvia, Maid of Mars.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Edgar Rice Burroughs</name>

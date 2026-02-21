@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>В. Я. Брюсов</title>
   <id>urn:ebook-search:author:В. Я. Брюсов</id>
-  <updated>2026-02-20T18:44:01.795080Z</updated>
+  <updated>2026-02-21T03:25:29.790618Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>В. Я. Брюсов - Stephanos</title>
     <id>urn:ebook-search:book:В. Я. Брюсов - Stephanos</id>
-    <updated>2026-02-20T18:44:01.795080Z</updated>
+    <updated>2026-02-21T03:25:29.790618Z</updated>
     <link href="../../d/В. Я. Брюсов - Stephanos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. Я. Брюсов</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>В. Я. Брюсов - «...и, покинув людей, я ушел в тишину...»</title>
     <id>urn:ebook-search:book:В. Я. Брюсов - «...и, покинув людей, я ушел в тишину...»</id>
-    <updated>2026-02-20T18:44:01.795080Z</updated>
+    <updated>2026-02-21T03:25:29.790618Z</updated>
     <link href="../../d/В. Я. Брюсов - «...и, покинув людей, я ушел в тишину...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. Я. Брюсов</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>В. Я. Брюсов - «Как царство белого снега...»</title>
     <id>urn:ebook-search:book:В. Я. Брюсов - «Как царство белого снега...»</id>
-    <updated>2026-02-20T18:44:01.795080Z</updated>
+    <updated>2026-02-21T03:25:29.790618Z</updated>
     <link href="../../d/В. Я. Брюсов - «Как царство белого снега...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. Я. Брюсов</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>В. Я. Брюсов - «Я действительности нашей не вижу...»</title>
     <id>urn:ebook-search:book:В. Я. Брюсов - «Я действительности нашей не вижу...»</id>
-    <updated>2026-02-20T18:44:01.795080Z</updated>
+    <updated>2026-02-21T03:25:29.790618Z</updated>
     <link href="../../d/В. Я. Брюсов - «Я действительности нашей не вижу...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. Я. Брюсов</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>В. Я. Брюсов - Сумерки («Горят электричеством луны...»)</title>
     <id>urn:ebook-search:book:В. Я. Брюсов - Сумерки («Горят электричеством луны...»)</id>
-    <updated>2026-02-20T18:44:01.795080Z</updated>
+    <updated>2026-02-21T03:25:29.790618Z</updated>
     <link href="../../d/В. Я. Брюсов - Сумерки («Горят электричеством луны...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. Я. Брюсов</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>В. Я. Брюсов - У гроба дня («День обессилел, и запад багряный...»)</title>
     <id>urn:ebook-search:book:В. Я. Брюсов - У гроба дня («День обессилел, и запад багряный...»)</id>
-    <updated>2026-02-20T18:44:01.795080Z</updated>
+    <updated>2026-02-21T03:25:29.790618Z</updated>
     <link href="../../d/В. Я. Брюсов - У гроба дня («День обессилел, и запад багряный...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. Я. Брюсов</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>В. Я. Брюсов - Февраль («Свежей и светлой прохладой...»)</title>
     <id>urn:ebook-search:book:В. Я. Брюсов - Февраль («Свежей и светлой прохладой...»)</id>
-    <updated>2026-02-20T18:44:01.795080Z</updated>
+    <updated>2026-02-21T03:25:29.790618Z</updated>
     <link href="../../d/В. Я. Брюсов - Февраль («Свежей и светлой прохладой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. Я. Брюсов</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>В. Я. Брюсов - Юному поэту («Юноша бледный со взором горящим...»)</title>
     <id>urn:ebook-search:book:В. Я. Брюсов - Юному поэту («Юноша бледный со взором горящим...»)</id>
-    <updated>2026-02-20T18:44:01.795080Z</updated>
+    <updated>2026-02-21T03:25:29.790618Z</updated>
     <link href="../../d/В. Я. Брюсов - Юному поэту («Юноша бледный со взором горящим...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>В. Я. Брюсов</name>

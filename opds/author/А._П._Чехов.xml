@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>А. П. Чехов</title>
   <id>urn:ebook-search:author:А. П. Чехов</id>
-  <updated>2026-02-20T18:44:01.783314Z</updated>
+  <updated>2026-02-21T03:25:29.777138Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>А. П. Чехов - «Свидание хотя и состоялось, но...»</title>
     <id>urn:ebook-search:book:А. П. Чехов - «Свидание хотя и состоялось, но...»</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - «Свидание хотя и состоялось, но...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>А. П. Чехов - Агафья</title>
     <id>urn:ebook-search:book:А. П. Чехов - Агафья</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Агафья.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>А. П. Чехов - Альбом</title>
     <id>urn:ebook-search:book:А. П. Чехов - Альбом</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Альбом.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>А. П. Чехов - Анна на шее</title>
     <id>urn:ebook-search:book:А. П. Чехов - Анна на шее</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Анна на шее.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>А. П. Чехов - Анюта</title>
     <id>urn:ebook-search:book:А. П. Чехов - Анюта</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Анюта.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>А. П. Чехов - Аптекарша</title>
     <id>urn:ebook-search:book:А. П. Чехов - Аптекарша</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Аптекарша.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>А. П. Чехов - Ариадна</title>
     <id>urn:ebook-search:book:А. П. Чехов - Ариадна</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Ариадна.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>А. П. Чехов - Архиерей</title>
     <id>urn:ebook-search:book:А. П. Чехов - Архиерей</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Архиерей.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>А. П. Чехов - Ах, зубы!</title>
     <id>urn:ebook-search:book:А. П. Чехов - Ах, зубы!</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Ах, зубы!.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>А. П. Чехов - Бабы</title>
     <id>urn:ebook-search:book:А. П. Чехов - Бабы</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Бабы.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>А. П. Чехов - Баран и барышня</title>
     <id>urn:ebook-search:book:А. П. Чехов - Баран и барышня</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Баран и барышня.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>А. П. Чехов - Барыня</title>
     <id>urn:ebook-search:book:А. П. Чехов - Барыня</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Барыня.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>А. П. Чехов - Беглец</title>
     <id>urn:ebook-search:book:А. П. Чехов - Беглец</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Беглец.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>А. П. Чехов - Беда &lt;1886&gt;</title>
     <id>urn:ebook-search:book:А. П. Чехов - Беда &lt;1886&gt;</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Беда &lt;1886&gt;.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -134,7 +134,7 @@
   <entry>
     <title>А. П. Чехов - Беда &lt;1887&gt;</title>
     <id>urn:ebook-search:book:А. П. Чехов - Беда &lt;1887&gt;</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Беда &lt;1887&gt;.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -143,7 +143,7 @@
   <entry>
     <title>А. П. Чехов - Беззащитное существо</title>
     <id>urn:ebook-search:book:А. П. Чехов - Беззащитное существо</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Беззащитное существо.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -152,7 +152,7 @@
   <entry>
     <title>А. П. Чехов - Белолобый</title>
     <id>urn:ebook-search:book:А. П. Чехов - Белолобый</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Белолобый.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -161,7 +161,7 @@
   <entry>
     <title>А. П. Чехов - Беседа пьяного с трезвым чёртом</title>
     <id>urn:ebook-search:book:А. П. Чехов - Беседа пьяного с трезвым чёртом</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Беседа пьяного с трезвым чёртом.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -170,7 +170,7 @@
   <entry>
     <title>А. П. Чехов - Брак по расчету</title>
     <id>urn:ebook-search:book:А. П. Чехов - Брак по расчету</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Брак по расчету.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -179,7 +179,7 @@
   <entry>
     <title>А. П. Чехов - Брожение умов</title>
     <id>urn:ebook-search:book:А. П. Чехов - Брожение умов</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Брожение умов.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -188,7 +188,7 @@
   <entry>
     <title>А. П. Чехов - Бумажник</title>
     <id>urn:ebook-search:book:А. П. Чехов - Бумажник</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Бумажник.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -197,7 +197,7 @@
   <entry>
     <title>А. П. Чехов - В аптеке</title>
     <id>urn:ebook-search:book:А. П. Чехов - В аптеке</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - В аптеке.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -206,7 +206,7 @@
   <entry>
     <title>А. П. Чехов - В вагоне</title>
     <id>urn:ebook-search:book:А. П. Чехов - В вагоне</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - В вагоне.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -215,7 +215,7 @@
   <entry>
     <title>А. П. Чехов - В овраге</title>
     <id>urn:ebook-search:book:А. П. Чехов - В овраге</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - В овраге.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -224,7 +224,7 @@
   <entry>
     <title>А. П. Чехов - В потемках</title>
     <id>urn:ebook-search:book:А. П. Чехов - В потемках</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - В потемках.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -233,7 +233,7 @@
   <entry>
     <title>А. П. Чехов - В ссылке</title>
     <id>urn:ebook-search:book:А. П. Чехов - В ссылке</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - В ссылке.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -242,7 +242,7 @@
   <entry>
     <title>А. П. Чехов - В суде</title>
     <id>urn:ebook-search:book:А. П. Чехов - В суде</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - В суде.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -251,7 +251,7 @@
   <entry>
     <title>А. П. Чехов - Ванька</title>
     <id>urn:ebook-search:book:А. П. Чехов - Ванька</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Ванька.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -260,7 +260,7 @@
   <entry>
     <title>А. П. Чехов - Ведьма</title>
     <id>urn:ebook-search:book:А. П. Чехов - Ведьма</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Ведьма.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -269,7 +269,7 @@
   <entry>
     <title>А. П. Чехов - Верочка</title>
     <id>urn:ebook-search:book:А. П. Чехов - Верочка</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Верочка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -278,7 +278,7 @@
   <entry>
     <title>А. П. Чехов - Винт</title>
     <id>urn:ebook-search:book:А. П. Чехов - Винт</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Винт.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -287,7 +287,7 @@
   <entry>
     <title>А. П. Чехов - Вишневый сад</title>
     <id>urn:ebook-search:book:А. П. Чехов - Вишневый сад</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Вишневый сад.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -296,7 +296,7 @@
   <entry>
     <title>А. П. Чехов - Водевиль</title>
     <id>urn:ebook-search:book:А. П. Чехов - Водевиль</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Водевиль.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -305,7 +305,7 @@
   <entry>
     <title>А. П. Чехов - Володя</title>
     <id>urn:ebook-search:book:А. П. Чехов - Володя</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Володя.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -314,7 +314,7 @@
   <entry>
     <title>А. П. Чехов - Восклицательный знак</title>
     <id>urn:ebook-search:book:А. П. Чехов - Восклицательный знак</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Восклицательный знак.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -323,7 +323,7 @@
   <entry>
     <title>А. П. Чехов - Враги</title>
     <id>urn:ebook-search:book:А. П. Чехов - Враги</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Враги.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -332,7 +332,7 @@
   <entry>
     <title>А. П. Чехов - Встреча весны</title>
     <id>urn:ebook-search:book:А. П. Чехов - Встреча весны</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Встреча весны.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -341,7 +341,7 @@
   <entry>
     <title>А. П. Чехов - Выигрышный билет</title>
     <id>urn:ebook-search:book:А. П. Чехов - Выигрышный билет</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Выигрышный билет.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -350,7 +350,7 @@
   <entry>
     <title>А. П. Чехов - Глупый француз</title>
     <id>urn:ebook-search:book:А. П. Чехов - Глупый француз</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Глупый француз.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -359,7 +359,7 @@
   <entry>
     <title>А. П. Чехов - Горе</title>
     <id>urn:ebook-search:book:А. П. Чехов - Горе</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Горе.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -368,7 +368,7 @@
   <entry>
     <title>А. П. Чехов - Гость</title>
     <id>urn:ebook-search:book:А. П. Чехов - Гость</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Гость.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -377,7 +377,7 @@
   <entry>
     <title>А. П. Чехов - Грешник из Толедо</title>
     <id>urn:ebook-search:book:А. П. Чехов - Грешник из Толедо</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Грешник из Толедо.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -386,7 +386,7 @@
   <entry>
     <title>А. П. Чехов - Гриша</title>
     <id>urn:ebook-search:book:А. П. Чехов - Гриша</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Гриша.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -395,7 +395,7 @@
   <entry>
     <title>А. П. Чехов - Гусев</title>
     <id>urn:ebook-search:book:А. П. Чехов - Гусев</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Гусев.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -404,7 +404,7 @@
   <entry>
     <title>А. П. Чехов - Дама с собачкой</title>
     <id>urn:ebook-search:book:А. П. Чехов - Дама с собачкой</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Дама с собачкой.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -413,7 +413,7 @@
   <entry>
     <title>А. П. Чехов - Дачники</title>
     <id>urn:ebook-search:book:А. П. Чехов - Дачники</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Дачники.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -422,7 +422,7 @@
   <entry>
     <title>А. П. Чехов - Дачница</title>
     <id>urn:ebook-search:book:А. П. Чехов - Дачница</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Дачница.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -431,7 +431,7 @@
   <entry>
     <title>А. П. Чехов - Два скандала</title>
     <id>urn:ebook-search:book:А. П. Чехов - Два скандала</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Два скандала.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -440,7 +440,7 @@
   <entry>
     <title>А. П. Чехов - Двадцать девятое июня</title>
     <id>urn:ebook-search:book:А. П. Чехов - Двадцать девятое июня</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Двадцать девятое июня.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -449,7 +449,7 @@
   <entry>
     <title>А. П. Чехов - День за городом</title>
     <id>urn:ebook-search:book:А. П. Чехов - День за городом</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - День за городом.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -458,7 +458,7 @@
   <entry>
     <title>А. П. Чехов - Детвора</title>
     <id>urn:ebook-search:book:А. П. Чехов - Детвора</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Детвора.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -467,7 +467,7 @@
   <entry>
     <title>А. П. Чехов - Дипломат</title>
     <id>urn:ebook-search:book:А. П. Чехов - Дипломат</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Дипломат.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -476,7 +476,7 @@
   <entry>
     <title>А. П. Чехов - Добрый знакомый</title>
     <id>urn:ebook-search:book:А. П. Чехов - Добрый знакомый</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Добрый знакомый.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -485,7 +485,7 @@
   <entry>
     <title>А. П. Чехов - Дом с мезонином</title>
     <id>urn:ebook-search:book:А. П. Чехов - Дом с мезонином</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Дом с мезонином.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -494,7 +494,7 @@
   <entry>
     <title>А. П. Чехов - Дома</title>
     <id>urn:ebook-search:book:А. П. Чехов - Дома</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Дома.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -503,7 +503,7 @@
   <entry>
     <title>А. П. Чехов - Дополнительные вопросы</title>
     <id>urn:ebook-search:book:А. П. Чехов - Дополнительные вопросы</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Дополнительные вопросы.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -512,7 +512,7 @@
   <entry>
     <title>А. П. Чехов - Дорогая собака</title>
     <id>urn:ebook-search:book:А. П. Чехов - Дорогая собака</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Дорогая собака.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -521,7 +521,7 @@
   <entry>
     <title>А. П. Чехов - Дорогие уроки</title>
     <id>urn:ebook-search:book:А. П. Чехов - Дорогие уроки</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Дорогие уроки.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -530,7 +530,7 @@
   <entry>
     <title>А. П. Чехов - Дочь Альбиона</title>
     <id>urn:ebook-search:book:А. П. Чехов - Дочь Альбиона</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Дочь Альбиона.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -539,7 +539,7 @@
   <entry>
     <title>А. П. Чехов - Драма &lt;1886&gt;</title>
     <id>urn:ebook-search:book:А. П. Чехов - Драма &lt;1886&gt;</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Драма &lt;1886&gt;.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -548,7 +548,7 @@
   <entry>
     <title>А. П. Чехов - Драма &lt;1887&gt;</title>
     <id>urn:ebook-search:book:А. П. Чехов - Драма &lt;1887&gt;</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Драма &lt;1887&gt;.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -557,7 +557,7 @@
   <entry>
     <title>А. П. Чехов - Драма на охоте</title>
     <id>urn:ebook-search:book:А. П. Чехов - Драма на охоте</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Драма на охоте.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -566,7 +566,7 @@
   <entry>
     <title>А. П. Чехов - Душечка</title>
     <id>urn:ebook-search:book:А. П. Чехов - Душечка</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Душечка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -575,7 +575,7 @@
   <entry>
     <title>А. П. Чехов - Дуэль</title>
     <id>urn:ebook-search:book:А. П. Чехов - Дуэль</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Дуэль.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -584,7 +584,7 @@
   <entry>
     <title>А. П. Чехов - Дядя Ваня</title>
     <id>urn:ebook-search:book:А. П. Чехов - Дядя Ваня</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Дядя Ваня.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -593,7 +593,7 @@
   <entry>
     <title>А. П. Чехов - Егерь</title>
     <id>urn:ebook-search:book:А. П. Чехов - Егерь</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Егерь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -602,7 +602,7 @@
   <entry>
     <title>А. П. Чехов - Жалобная книга</title>
     <id>urn:ebook-search:book:А. П. Чехов - Жалобная книга</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Жалобная книга.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -611,7 +611,7 @@
   <entry>
     <title>А. П. Чехов - Жена</title>
     <id>urn:ebook-search:book:А. П. Чехов - Жена</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Жена.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -620,7 +620,7 @@
   <entry>
     <title>А. П. Чехов - Жених</title>
     <id>urn:ebook-search:book:А. П. Чехов - Жених</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Жених.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -629,7 +629,7 @@
   <entry>
     <title>А. П. Чехов - Жених и папенька</title>
     <id>urn:ebook-search:book:А. П. Чехов - Жених и папенька</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Жених и папенька.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -638,7 +638,7 @@
   <entry>
     <title>А. П. Чехов - Жены артистов</title>
     <id>urn:ebook-search:book:А. П. Чехов - Жены артистов</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Жены артистов.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -647,7 +647,7 @@
   <entry>
     <title>А. П. Чехов - Живой товар</title>
     <id>urn:ebook-search:book:А. П. Чехов - Живой товар</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Живой товар.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -656,7 +656,7 @@
   <entry>
     <title>А. П. Чехов - Жизнь в вопросах и восклицаниях</title>
     <id>urn:ebook-search:book:А. П. Чехов - Жизнь в вопросах и восклицаниях</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Жизнь в вопросах и восклицаниях.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -665,7 +665,7 @@
   <entry>
     <title>А. П. Чехов - Жизнь прекрасна!</title>
     <id>urn:ebook-search:book:А. П. Чехов - Жизнь прекрасна!</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Жизнь прекрасна!.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -674,7 +674,7 @@
   <entry>
     <title>А. П. Чехов - Житейская мелочь</title>
     <id>urn:ebook-search:book:А. П. Чехов - Житейская мелочь</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Житейская мелочь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -683,7 +683,7 @@
   <entry>
     <title>А. П. Чехов - За двумя зайцами погонишься, ни одного не поймаешь</title>
     <id>urn:ebook-search:book:А. П. Чехов - За двумя зайцами погонишься, ни одного не поймаешь</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - За двумя зайцами погонишься, ни одного не поймаешь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -692,7 +692,7 @@
   <entry>
     <title>А. П. Чехов - За яблочки</title>
     <id>urn:ebook-search:book:А. П. Чехов - За яблочки</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - За яблочки.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -701,7 +701,7 @@
   <entry>
     <title>А. П. Чехов - Забыл!!</title>
     <id>urn:ebook-search:book:А. П. Чехов - Забыл!!</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Забыл!!.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -710,7 +710,7 @@
   <entry>
     <title>А. П. Чехов - Загадочная натура</title>
     <id>urn:ebook-search:book:А. П. Чехов - Загадочная натура</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Загадочная натура.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -719,7 +719,7 @@
   <entry>
     <title>А. П. Чехов - Задача</title>
     <id>urn:ebook-search:book:А. П. Чехов - Задача</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Задача.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -728,7 +728,7 @@
   <entry>
     <title>А. П. Чехов - Задачи сумасшедшего математика</title>
     <id>urn:ebook-search:book:А. П. Чехов - Задачи сумасшедшего математика</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Задачи сумасшедшего математика.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -737,7 +737,7 @@
   <entry>
     <title>А. П. Чехов - Зеленая коса</title>
     <id>urn:ebook-search:book:А. П. Чехов - Зеленая коса</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Зеленая коса.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -746,7 +746,7 @@
   <entry>
     <title>А. П. Чехов - Зеркало</title>
     <id>urn:ebook-search:book:А. П. Чехов - Зеркало</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Зеркало.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -755,7 +755,7 @@
   <entry>
     <title>А. П. Чехов - Зиночка</title>
     <id>urn:ebook-search:book:А. П. Чехов - Зиночка</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Зиночка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -764,7 +764,7 @@
   <entry>
     <title>А. П. Чехов - Злой мальчик</title>
     <id>urn:ebook-search:book:А. П. Чехов - Злой мальчик</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Злой мальчик.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -773,7 +773,7 @@
   <entry>
     <title>А. П. Чехов - Злоумышленник</title>
     <id>urn:ebook-search:book:А. П. Чехов - Злоумышленник</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Злоумышленник.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -782,7 +782,7 @@
   <entry>
     <title>А. П. Чехов - Злоумышленники</title>
     <id>urn:ebook-search:book:А. П. Чехов - Злоумышленники</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Злоумышленники.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -791,7 +791,7 @@
   <entry>
     <title>А. П. Чехов - И то и се</title>
     <id>urn:ebook-search:book:А. П. Чехов - И то и се</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - И то и се.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -800,7 +800,7 @@
   <entry>
     <title>А. П. Чехов - Иванов</title>
     <id>urn:ebook-search:book:А. П. Чехов - Иванов</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Иванов.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -809,7 +809,7 @@
   <entry>
     <title>А. П. Чехов - Идиллия — увы и ах!</title>
     <id>urn:ebook-search:book:А. П. Чехов - Идиллия — увы и ах!</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Идиллия — увы и ах!.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -818,7 +818,7 @@
   <entry>
     <title>А. П. Чехов - Из записной книжки старого педагога</title>
     <id>urn:ebook-search:book:А. П. Чехов - Из записной книжки старого педагога</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Из записной книжки старого педагога.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -827,7 +827,7 @@
   <entry>
     <title>А. П. Чехов - Именины</title>
     <id>urn:ebook-search:book:А. П. Чехов - Именины</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Именины.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -836,7 +836,7 @@
   <entry>
     <title>А. П. Чехов - Ионыч</title>
     <id>urn:ebook-search:book:А. П. Чехов - Ионыч</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Ионыч.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -845,7 +845,7 @@
   <entry>
     <title>А. П. Чехов - Исповедь, или Оля, Женя, Зоя</title>
     <id>urn:ebook-search:book:А. П. Чехов - Исповедь, или Оля, Женя, Зоя</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Исповедь, или Оля, Женя, Зоя.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -854,7 +854,7 @@
   <entry>
     <title>А. П. Чехов - История одного торгового предприятия</title>
     <id>urn:ebook-search:book:А. П. Чехов - История одного торгового предприятия</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - История одного торгового предприятия.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -863,7 +863,7 @@
   <entry>
     <title>А. П. Чехов - Казак</title>
     <id>urn:ebook-search:book:А. П. Чехов - Казак</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Казак.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -872,7 +872,7 @@
   <entry>
     <title>А. П. Чехов - Календарь «Будильника»</title>
     <id>urn:ebook-search:book:А. П. Чехов - Календарь «Будильника»</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Календарь «Будильника».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -881,7 +881,7 @@
   <entry>
     <title>А. П. Чехов - Каникулярные работы институтки Наденьки N</title>
     <id>urn:ebook-search:book:А. П. Чехов - Каникулярные работы институтки Наденьки N</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Каникулярные работы институтки Наденьки N.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -890,7 +890,7 @@
   <entry>
     <title>А. П. Чехов - Канитель</title>
     <id>urn:ebook-search:book:А. П. Чехов - Канитель</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Канитель.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -899,7 +899,7 @@
   <entry>
     <title>А. П. Чехов - Каштанка</title>
     <id>urn:ebook-search:book:А. П. Чехов - Каштанка</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Каштанка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -908,7 +908,7 @@
   <entry>
     <title>А. П. Чехов - Княгиня</title>
     <id>urn:ebook-search:book:А. П. Чехов - Княгиня</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Княгиня.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -917,7 +917,7 @@
   <entry>
     <title>А. П. Чехов - Коллекция</title>
     <id>urn:ebook-search:book:А. П. Чехов - Коллекция</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Коллекция.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -926,7 +926,7 @@
   <entry>
     <title>А. П. Чехов - Комические рекламы и объявления</title>
     <id>urn:ebook-search:book:А. П. Чехов - Комические рекламы и объявления</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Комические рекламы и объявления.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -935,7 +935,7 @@
   <entry>
     <title>А. П. Чехов - Контора объявлений Антоши Ч.</title>
     <id>urn:ebook-search:book:А. П. Чехов - Контора объявлений Антоши Ч.</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Контора объявлений Антоши Ч..epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -944,7 +944,7 @@
   <entry>
     <title>А. П. Чехов - Корреспондент</title>
     <id>urn:ebook-search:book:А. П. Чехов - Корреспондент</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Корреспондент.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -953,7 +953,7 @@
   <entry>
     <title>А. П. Чехов - Кот</title>
     <id>urn:ebook-search:book:А. П. Чехов - Кот</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Кот.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -962,7 +962,7 @@
   <entry>
     <title>А. П. Чехов - Который из трех?</title>
     <id>urn:ebook-search:book:А. П. Чехов - Который из трех?</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Который из трех?.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -971,7 +971,7 @@
   <entry>
     <title>А. П. Чехов - Кошмар</title>
     <id>urn:ebook-search:book:А. П. Чехов - Кошмар</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Кошмар.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -980,7 +980,7 @@
   <entry>
     <title>А. П. Чехов - Красавицы</title>
     <id>urn:ebook-search:book:А. П. Чехов - Красавицы</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Красавицы.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -989,7 +989,7 @@
   <entry>
     <title>А. П. Чехов - Крыжовник</title>
     <id>urn:ebook-search:book:А. П. Чехов - Крыжовник</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Крыжовник.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -998,7 +998,7 @@
   <entry>
     <title>А. П. Чехов - Кухарка женится</title>
     <id>urn:ebook-search:book:А. П. Чехов - Кухарка женится</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Кухарка женится.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1007,7 +1007,7 @@
   <entry>
     <title>А. П. Чехов - Летающие острова</title>
     <id>urn:ebook-search:book:А. П. Чехов - Летающие острова</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Летающие острова.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1016,7 +1016,7 @@
   <entry>
     <title>А. П. Чехов - Леший</title>
     <id>urn:ebook-search:book:А. П. Чехов - Леший</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Леший.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1025,7 +1025,7 @@
   <entry>
     <title>А. П. Чехов - Лошадиная фамилия</title>
     <id>urn:ebook-search:book:А. П. Чехов - Лошадиная фамилия</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Лошадиная фамилия.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1034,7 +1034,7 @@
   <entry>
     <title>А. П. Чехов - Любовь</title>
     <id>urn:ebook-search:book:А. П. Чехов - Любовь</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Любовь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1043,7 +1043,7 @@
   <entry>
     <title>А. П. Чехов - Маленькая трилогия</title>
     <id>urn:ebook-search:book:А. П. Чехов - Маленькая трилогия</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Маленькая трилогия.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1052,7 +1052,7 @@
   <entry>
     <title>А. П. Чехов - Мальчики</title>
     <id>urn:ebook-search:book:А. П. Чехов - Мальчики</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Мальчики.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1061,7 +1061,7 @@
   <entry>
     <title>А. П. Чехов - Маска</title>
     <id>urn:ebook-search:book:А. П. Чехов - Маска</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Маска.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1070,7 +1070,7 @@
   <entry>
     <title>А. П. Чехов - Медведь</title>
     <id>urn:ebook-search:book:А. П. Чехов - Медведь</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Медведь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1079,7 +1079,7 @@
   <entry>
     <title>А. П. Чехов - Мелюзга</title>
     <id>urn:ebook-search:book:А. П. Чехов - Мелюзга</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Мелюзга.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1088,7 +1088,7 @@
   <entry>
     <title>А. П. Чехов - Мертвое тело</title>
     <id>urn:ebook-search:book:А. П. Чехов - Мертвое тело</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Мертвое тело.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1097,7 +1097,7 @@
   <entry>
     <title>А. П. Чехов - Месть</title>
     <id>urn:ebook-search:book:А. П. Чехов - Месть</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Месть.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1106,7 +1106,7 @@
   <entry>
     <title>А. П. Чехов - Мечты</title>
     <id>urn:ebook-search:book:А. П. Чехов - Мечты</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Мечты.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1115,7 +1115,7 @@
   <entry>
     <title>А. П. Чехов - Мой юбилей</title>
     <id>urn:ebook-search:book:А. П. Чехов - Мой юбилей</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Мой юбилей.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1124,7 +1124,7 @@
   <entry>
     <title>А. П. Чехов - Моя жизнь</title>
     <id>urn:ebook-search:book:А. П. Чехов - Моя жизнь</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Моя жизнь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1133,7 +1133,7 @@
   <entry>
     <title>А. П. Чехов - Муж</title>
     <id>urn:ebook-search:book:А. П. Чехов - Муж</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Муж.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1142,7 +1142,7 @@
   <entry>
     <title>А. П. Чехов - Мужики</title>
     <id>urn:ebook-search:book:А. П. Чехов - Мужики</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Мужики.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1151,7 +1151,7 @@
   <entry>
     <title>А. П. Чехов - На большой дороге</title>
     <id>urn:ebook-search:book:А. П. Чехов - На большой дороге</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - На большой дороге.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1160,7 +1160,7 @@
   <entry>
     <title>А. П. Чехов - На волчьей садке</title>
     <id>urn:ebook-search:book:А. П. Чехов - На волчьей садке</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - На волчьей садке.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1169,7 +1169,7 @@
   <entry>
     <title>А. П. Чехов - На гвозде</title>
     <id>urn:ebook-search:book:А. П. Чехов - На гвозде</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - На гвозде.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1178,7 +1178,7 @@
   <entry>
     <title>А. П. Чехов - На даче</title>
     <id>urn:ebook-search:book:А. П. Чехов - На даче</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - На даче.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1187,7 +1187,7 @@
   <entry>
     <title>А. П. Чехов - На мельнице</title>
     <id>urn:ebook-search:book:А. П. Чехов - На мельнице</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - На мельнице.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1196,7 +1196,7 @@
   <entry>
     <title>А. П. Чехов - На охоте</title>
     <id>urn:ebook-search:book:А. П. Чехов - На охоте</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - На охоте.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1205,7 +1205,7 @@
   <entry>
     <title>А. П. Чехов - На пути</title>
     <id>urn:ebook-search:book:А. П. Чехов - На пути</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - На пути.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1214,7 +1214,7 @@
   <entry>
     <title>А. П. Чехов - Налим</title>
     <id>urn:ebook-search:book:А. П. Чехов - Налим</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Налим.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1223,7 +1223,7 @@
   <entry>
     <title>А. П. Чехов - Нарвался</title>
     <id>urn:ebook-search:book:А. П. Чехов - Нарвался</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Нарвался.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1232,7 +1232,7 @@
   <entry>
     <title>А. П. Чехов - Не в духе</title>
     <id>urn:ebook-search:book:А. П. Чехов - Не в духе</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Не в духе.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1241,7 +1241,7 @@
   <entry>
     <title>А. П. Чехов - Невеста</title>
     <id>urn:ebook-search:book:А. П. Чехов - Невеста</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Невеста.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1250,7 +1250,7 @@
   <entry>
     <title>А. П. Чехов - Ненастье</title>
     <id>urn:ebook-search:book:А. П. Чехов - Ненастье</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Ненастье.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1259,7 +1259,7 @@
   <entry>
     <title>А. П. Чехов - Ненужная победа</title>
     <id>urn:ebook-search:book:А. П. Чехов - Ненужная победа</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Ненужная победа.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1268,7 +1268,7 @@
   <entry>
     <title>А. П. Чехов - Неудача</title>
     <id>urn:ebook-search:book:А. П. Чехов - Неудача</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Неудача.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1277,7 +1277,7 @@
   <entry>
     <title>А. П. Чехов - Неудачный визит</title>
     <id>urn:ebook-search:book:А. П. Чехов - Неудачный визит</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Неудачный визит.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1286,7 +1286,7 @@
   <entry>
     <title>А. П. Чехов - Нищий</title>
     <id>urn:ebook-search:book:А. П. Чехов - Нищий</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Нищий.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1295,7 +1295,7 @@
   <entry>
     <title>А. П. Чехов - Ночь перед судом</title>
     <id>urn:ebook-search:book:А. П. Чехов - Ночь перед судом</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Ночь перед судом.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1304,7 +1304,7 @@
   <entry>
     <title>А. П. Чехов - О вреде табака</title>
     <id>urn:ebook-search:book:А. П. Чехов - О вреде табака</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - О вреде табака.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1313,7 +1313,7 @@
   <entry>
     <title>А. П. Чехов - О женщины, женщины!..</title>
     <id>urn:ebook-search:book:А. П. Чехов - О женщины, женщины!..</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - О женщины, женщины!...epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1322,7 +1322,7 @@
   <entry>
     <title>А. П. Чехов - О любви</title>
     <id>urn:ebook-search:book:А. П. Чехов - О любви</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - О любви.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1331,7 +1331,7 @@
   <entry>
     <title>А. П. Чехов - Огни</title>
     <id>urn:ebook-search:book:А. П. Чехов - Огни</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Огни.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1340,7 +1340,7 @@
   <entry>
     <title>А. П. Чехов - Он и она</title>
     <id>urn:ebook-search:book:А. П. Чехов - Он и она</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Он и она.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1349,7 +1349,7 @@
   <entry>
     <title>А. П. Чехов - Орден</title>
     <id>urn:ebook-search:book:А. П. Чехов - Орден</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Орден.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1358,7 +1358,7 @@
   <entry>
     <title>А. П. Чехов - Отец семейства</title>
     <id>urn:ebook-search:book:А. П. Чехов - Отец семейства</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Отец семейства.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1367,7 +1367,7 @@
   <entry>
     <title>А. П. Чехов - Отрывок</title>
     <id>urn:ebook-search:book:А. П. Чехов - Отрывок</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Отрывок.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1376,7 +1376,7 @@
   <entry>
     <title>А. П. Чехов - Палата № 6</title>
     <id>urn:ebook-search:book:А. П. Чехов - Палата № 6</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Палата № 6.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1385,7 +1385,7 @@
   <entry>
     <title>А. П. Чехов - Папаша</title>
     <id>urn:ebook-search:book:А. П. Чехов - Папаша</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Папаша.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1394,7 +1394,7 @@
   <entry>
     <title>А. П. Чехов - Пари</title>
     <id>urn:ebook-search:book:А. П. Чехов - Пари</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Пари.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1403,7 +1403,7 @@
   <entry>
     <title>А. П. Чехов - Певчие</title>
     <id>urn:ebook-search:book:А. П. Чехов - Певчие</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Певчие.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1412,7 +1412,7 @@
   <entry>
     <title>А. П. Чехов - Перед свадьбой</title>
     <id>urn:ebook-search:book:А. П. Чехов - Перед свадьбой</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Перед свадьбой.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1421,7 +1421,7 @@
   <entry>
     <title>А. П. Чехов - Пережитое</title>
     <id>urn:ebook-search:book:А. П. Чехов - Пережитое</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Пережитое.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1430,7 +1430,7 @@
   <entry>
     <title>А. П. Чехов - Переполох</title>
     <id>urn:ebook-search:book:А. П. Чехов - Переполох</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Переполох.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1439,7 +1439,7 @@
   <entry>
     <title>А. П. Чехов - Пересолил</title>
     <id>urn:ebook-search:book:А. П. Чехов - Пересолил</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Пересолил.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1448,7 +1448,7 @@
   <entry>
     <title>А. П. Чехов - Петров день</title>
     <id>urn:ebook-search:book:А. П. Чехов - Петров день</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Петров день.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1457,7 +1457,7 @@
   <entry>
     <title>А. П. Чехов - Письма</title>
     <id>urn:ebook-search:book:А. П. Чехов - Письма</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Письма.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1466,7 +1466,7 @@
   <entry>
     <title>А. П. Чехов - Письмо</title>
     <id>urn:ebook-search:book:А. П. Чехов - Письмо</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Письмо.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1475,7 +1475,7 @@
   <entry>
     <title>А. П. Чехов - Письмо к ученому соседу</title>
     <id>urn:ebook-search:book:А. П. Чехов - Письмо к ученому соседу</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Письмо к ученому соседу.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1484,7 +1484,7 @@
   <entry>
     <title>А. П. Чехов - По-американски</title>
     <id>urn:ebook-search:book:А. П. Чехов - По-американски</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - По-американски.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1493,7 +1493,7 @@
   <entry>
     <title>А. П. Чехов - Попрыгунья</title>
     <id>urn:ebook-search:book:А. П. Чехов - Попрыгунья</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Попрыгунья.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1502,7 +1502,7 @@
   <entry>
     <title>А. П. Чехов - После театра</title>
     <id>urn:ebook-search:book:А. П. Чехов - После театра</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - После театра.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1511,7 +1511,7 @@
   <entry>
     <title>А. П. Чехов - Поцелуй</title>
     <id>urn:ebook-search:book:А. П. Чехов - Поцелуй</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Поцелуй.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1520,7 +1520,7 @@
   <entry>
     <title>А. П. Чехов - Предложение</title>
     <id>urn:ebook-search:book:А. П. Чехов - Предложение</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Предложение.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1529,7 +1529,7 @@
   <entry>
     <title>А. П. Чехов - Припадок</title>
     <id>urn:ebook-search:book:А. П. Чехов - Припадок</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Припадок.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1538,7 +1538,7 @@
   <entry>
     <title>А. П. Чехов - Пропащее дело</title>
     <id>urn:ebook-search:book:А. П. Чехов - Пропащее дело</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Пропащее дело.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1547,7 +1547,7 @@
   <entry>
     <title>А. П. Чехов - Радость</title>
     <id>urn:ebook-search:book:А. П. Чехов - Радость</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Радость.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1556,7 +1556,7 @@
   <entry>
     <title>А. П. Чехов - Размазня</title>
     <id>urn:ebook-search:book:А. П. Чехов - Размазня</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Размазня.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1565,7 +1565,7 @@
   <entry>
     <title>А. П. Чехов - Рассказ госпожи NN</title>
     <id>urn:ebook-search:book:А. П. Чехов - Рассказ госпожи NN</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Рассказ госпожи NN.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1574,7 +1574,7 @@
   <entry>
     <title>А. П. Чехов - Рассказ неизвестного человека</title>
     <id>urn:ebook-search:book:А. П. Чехов - Рассказ неизвестного человека</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Рассказ неизвестного человека.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1583,7 +1583,7 @@
   <entry>
     <title>А. П. Чехов - Репетитор</title>
     <id>urn:ebook-search:book:А. П. Чехов - Репетитор</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Репетитор.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1592,7 +1592,7 @@
   <entry>
     <title>А. П. Чехов - Речь и ремешок</title>
     <id>urn:ebook-search:book:А. П. Чехов - Речь и ремешок</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Речь и ремешок.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1601,7 +1601,7 @@
   <entry>
     <title>А. П. Чехов - Розовый чулок</title>
     <id>urn:ebook-search:book:А. П. Чехов - Розовый чулок</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Розовый чулок.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1610,7 +1610,7 @@
   <entry>
     <title>А. П. Чехов - Роман адвоката</title>
     <id>urn:ebook-search:book:А. П. Чехов - Роман адвоката</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Роман адвоката.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1619,7 +1619,7 @@
   <entry>
     <title>А. П. Чехов - Роман с контрабасом</title>
     <id>urn:ebook-search:book:А. П. Чехов - Роман с контрабасом</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Роман с контрабасом.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1628,7 +1628,7 @@
   <entry>
     <title>А. П. Чехов - Рыбья любовь</title>
     <id>urn:ebook-search:book:А. П. Чехов - Рыбья любовь</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Рыбья любовь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1637,7 +1637,7 @@
   <entry>
     <title>А. П. Чехов - С женой поссорился</title>
     <id>urn:ebook-search:book:А. П. Чехов - С женой поссорился</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - С женой поссорился.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1646,7 +1646,7 @@
   <entry>
     <title>А. П. Чехов - Салон де варьете</title>
     <id>urn:ebook-search:book:А. П. Чехов - Салон де варьете</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Салон де варьете.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1655,7 +1655,7 @@
   <entry>
     <title>А. П. Чехов - Сапоги</title>
     <id>urn:ebook-search:book:А. П. Чехов - Сапоги</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Сапоги.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1664,7 +1664,7 @@
   <entry>
     <title>А. П. Чехов - Свадьба</title>
     <id>urn:ebook-search:book:А. П. Чехов - Свадьба</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Свадьба.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1673,7 +1673,7 @@
   <entry>
     <title>А. П. Чехов - Свирель</title>
     <id>urn:ebook-search:book:А. П. Чехов - Свирель</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Свирель.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1682,7 +1682,7 @@
   <entry>
     <title>А. П. Чехов - Святою ночью</title>
     <id>urn:ebook-search:book:А. П. Чехов - Святою ночью</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Святою ночью.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1691,7 +1691,7 @@
   <entry>
     <title>А. П. Чехов - Сельские эскулапы</title>
     <id>urn:ebook-search:book:А. П. Чехов - Сельские эскулапы</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Сельские эскулапы.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1700,7 +1700,7 @@
   <entry>
     <title>А. П. Чехов - Сирена</title>
     <id>urn:ebook-search:book:А. П. Чехов - Сирена</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Сирена.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1709,7 +1709,7 @@
   <entry>
     <title>А. П. Чехов - Сказка</title>
     <id>urn:ebook-search:book:А. П. Чехов - Сказка</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Сказка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1718,7 +1718,7 @@
   <entry>
     <title>А. П. Чехов - Скверная история</title>
     <id>urn:ebook-search:book:А. П. Чехов - Скверная история</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Скверная история.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1727,7 +1727,7 @@
   <entry>
     <title>А. П. Чехов - Скрипка Ротшильда</title>
     <id>urn:ebook-search:book:А. П. Чехов - Скрипка Ротшильда</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Скрипка Ротшильда.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1736,7 +1736,7 @@
   <entry>
     <title>А. П. Чехов - Скучная история</title>
     <id>urn:ebook-search:book:А. П. Чехов - Скучная история</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Скучная история.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1745,7 +1745,7 @@
   <entry>
     <title>А. П. Чехов - Случай из практики</title>
     <id>urn:ebook-search:book:А. П. Чехов - Случай из практики</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Случай из практики.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1754,7 +1754,7 @@
   <entry>
     <title>А. П. Чехов - Смерть чиновника</title>
     <id>urn:ebook-search:book:А. П. Чехов - Смерть чиновника</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Смерть чиновника.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1763,7 +1763,7 @@
   <entry>
     <title>А. П. Чехов - Событие</title>
     <id>urn:ebook-search:book:А. П. Чехов - Событие</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Событие.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1772,7 +1772,7 @@
   <entry>
     <title>А. П. Чехов - Соседи</title>
     <id>urn:ebook-search:book:А. П. Чехов - Соседи</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Соседи.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1781,7 +1781,7 @@
   <entry>
     <title>А. П. Чехов - Спать хочется</title>
     <id>urn:ebook-search:book:А. П. Чехов - Спать хочется</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Спать хочется.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1790,7 +1790,7 @@
   <entry>
     <title>А. П. Чехов - Справка</title>
     <id>urn:ebook-search:book:А. П. Чехов - Справка</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Справка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1799,7 +1799,7 @@
   <entry>
     <title>А. П. Чехов - Старый дом</title>
     <id>urn:ebook-search:book:А. П. Чехов - Старый дом</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Старый дом.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1808,7 +1808,7 @@
   <entry>
     <title>А. П. Чехов - Степь</title>
     <id>urn:ebook-search:book:А. П. Чехов - Степь</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Степь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1817,7 +1817,7 @@
   <entry>
     <title>А. П. Чехов - Страх</title>
     <id>urn:ebook-search:book:А. П. Чехов - Страх</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Страх.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1826,7 +1826,7 @@
   <entry>
     <title>А. П. Чехов - Страшная ночь</title>
     <id>urn:ebook-search:book:А. П. Чехов - Страшная ночь</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Страшная ночь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1835,7 +1835,7 @@
   <entry>
     <title>А. П. Чехов - Студент</title>
     <id>urn:ebook-search:book:А. П. Чехов - Студент</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Студент.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1844,7 +1844,7 @@
   <entry>
     <title>А. П. Чехов - Суд</title>
     <id>urn:ebook-search:book:А. П. Чехов - Суд</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Суд.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1853,7 +1853,7 @@
   <entry>
     <title>А. П. Чехов - Супруга</title>
     <id>urn:ebook-search:book:А. П. Чехов - Супруга</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Супруга.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1862,7 +1862,7 @@
   <entry>
     <title>А. П. Чехов - Счастье</title>
     <id>urn:ebook-search:book:А. П. Чехов - Счастье</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Счастье.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1871,7 +1871,7 @@
   <entry>
     <title>А. П. Чехов - Съезд естествоиспытателей в Филадельфии</title>
     <id>urn:ebook-search:book:А. П. Чехов - Съезд естествоиспытателей в Филадельфии</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Съезд естествоиспытателей в Филадельфии.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1880,7 +1880,7 @@
   <entry>
     <title>А. П. Чехов - Татьяна Репина</title>
     <id>urn:ebook-search:book:А. П. Чехов - Татьяна Репина</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Татьяна Репина.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1889,7 +1889,7 @@
   <entry>
     <title>А. П. Чехов - Темпераменты</title>
     <id>urn:ebook-search:book:А. П. Чехов - Темпераменты</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Темпераменты.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1898,7 +1898,7 @@
   <entry>
     <title>А. П. Чехов - Тина</title>
     <id>urn:ebook-search:book:А. П. Чехов - Тина</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Тина.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1907,7 +1907,7 @@
   <entry>
     <title>А. П. Чехов - Тиф</title>
     <id>urn:ebook-search:book:А. П. Чехов - Тиф</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Тиф.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1916,7 +1916,7 @@
   <entry>
     <title>А. П. Чехов - Толстый и тонкий</title>
     <id>urn:ebook-search:book:А. П. Чехов - Толстый и тонкий</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Толстый и тонкий.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1925,7 +1925,7 @@
   <entry>
     <title>А. П. Чехов - Торжество победителя</title>
     <id>urn:ebook-search:book:А. П. Чехов - Торжество победителя</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Торжество победителя.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1934,7 +1934,7 @@
   <entry>
     <title>А. П. Чехов - Тоска</title>
     <id>urn:ebook-search:book:А. П. Чехов - Тоска</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Тоска.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1943,7 +1943,7 @@
   <entry>
     <title>А. П. Чехов - Трагик поневоле</title>
     <id>urn:ebook-search:book:А. П. Чехов - Трагик поневоле</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Трагик поневоле.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1952,7 +1952,7 @@
   <entry>
     <title>А. П. Чехов - Три года</title>
     <id>urn:ebook-search:book:А. П. Чехов - Три года</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Три года.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1961,7 +1961,7 @@
   <entry>
     <title>А. П. Чехов - Три сестры</title>
     <id>urn:ebook-search:book:А. П. Чехов - Три сестры</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Три сестры.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1970,7 +1970,7 @@
   <entry>
     <title>А. П. Чехов - Тряпка</title>
     <id>urn:ebook-search:book:А. П. Чехов - Тряпка</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Тряпка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1979,7 +1979,7 @@
   <entry>
     <title>А. П. Чехов - Тысяча одна страсть или страшная ночь</title>
     <id>urn:ebook-search:book:А. П. Чехов - Тысяча одна страсть или страшная ночь</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Тысяча одна страсть или страшная ночь.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1988,7 +1988,7 @@
   <entry>
     <title>А. П. Чехов - Унтер Пришибеев</title>
     <id>urn:ebook-search:book:А. П. Чехов - Унтер Пришибеев</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Унтер Пришибеев.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -1997,7 +1997,7 @@
   <entry>
     <title>А. П. Чехов - Устрицы</title>
     <id>urn:ebook-search:book:А. П. Чехов - Устрицы</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Устрицы.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2006,7 +2006,7 @@
   <entry>
     <title>А. П. Чехов - Учитель</title>
     <id>urn:ebook-search:book:А. П. Чехов - Учитель</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Учитель.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2015,7 +2015,7 @@
   <entry>
     <title>А. П. Чехов - Учитель словесности</title>
     <id>urn:ebook-search:book:А. П. Чехов - Учитель словесности</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Учитель словесности.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2024,7 +2024,7 @@
   <entry>
     <title>А. П. Чехов - Ушла</title>
     <id>urn:ebook-search:book:А. П. Чехов - Ушла</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Ушла.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2033,7 +2033,7 @@
   <entry>
     <title>А. П. Чехов - Философские определения жизни</title>
     <id>urn:ebook-search:book:А. П. Чехов - Философские определения жизни</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Философские определения жизни.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2042,7 +2042,7 @@
   <entry>
     <title>А. П. Чехов - Хамелеон</title>
     <id>urn:ebook-search:book:А. П. Чехов - Хамелеон</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Хамелеон.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2051,7 +2051,7 @@
   <entry>
     <title>А. П. Чехов - Хирургия</title>
     <id>urn:ebook-search:book:А. П. Чехов - Хирургия</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Хирургия.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2060,7 +2060,7 @@
   <entry>
     <title>А. П. Чехов - Хористка</title>
     <id>urn:ebook-search:book:А. П. Чехов - Хористка</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Хористка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2069,7 +2069,7 @@
   <entry>
     <title>А. П. Чехов - Хорошие люди</title>
     <id>urn:ebook-search:book:А. П. Чехов - Хорошие люди</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Хорошие люди.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2078,7 +2078,7 @@
   <entry>
     <title>А. П. Чехов - Цветы запоздалые</title>
     <id>urn:ebook-search:book:А. П. Чехов - Цветы запоздалые</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Цветы запоздалые.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2087,7 +2087,7 @@
   <entry>
     <title>А. П. Чехов - Чайка</title>
     <id>urn:ebook-search:book:А. П. Чехов - Чайка</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Чайка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2096,7 +2096,7 @@
   <entry>
     <title>А. П. Чехов - Человек</title>
     <id>urn:ebook-search:book:А. П. Чехов - Человек</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Человек.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2105,7 +2105,7 @@
   <entry>
     <title>А. П. Чехов - Человек в футляре</title>
     <id>urn:ebook-search:book:А. П. Чехов - Человек в футляре</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Человек в футляре.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2114,7 +2114,7 @@
   <entry>
     <title>А. П. Чехов - Черный монах</title>
     <id>urn:ebook-search:book:А. П. Чехов - Черный монах</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Черный монах.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2123,7 +2123,7 @@
   <entry>
     <title>А. П. Чехов - Что чаще всего встречается в романах, повестях и т.п.?</title>
     <id>urn:ebook-search:book:А. П. Чехов - Что чаще всего встречается в романах, повестях и т.п.?</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Что чаще всего встречается в романах, повестях и т.п.?.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2132,7 +2132,7 @@
   <entry>
     <title>А. П. Чехов - Шампанское</title>
     <id>urn:ebook-search:book:А. П. Чехов - Шампанское</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Шампанское.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2141,7 +2141,7 @@
   <entry>
     <title>А. П. Чехов - Шведская спичка</title>
     <id>urn:ebook-search:book:А. П. Чехов - Шведская спичка</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Шведская спичка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2150,7 +2150,7 @@
   <entry>
     <title>А. П. Чехов - Шуточка</title>
     <id>urn:ebook-search:book:А. П. Чехов - Шуточка</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Шуточка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2159,7 +2159,7 @@
   <entry>
     <title>А. П. Чехов - Экзамен</title>
     <id>urn:ebook-search:book:А. П. Чехов - Экзамен</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Экзамен.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2168,7 +2168,7 @@
   <entry>
     <title>А. П. Чехов - Экзамен на чин</title>
     <id>urn:ebook-search:book:А. П. Чехов - Экзамен на чин</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Экзамен на чин.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2177,7 +2177,7 @@
   <entry>
     <title>А. П. Чехов - Юбилей</title>
     <id>urn:ebook-search:book:А. П. Чехов - Юбилей</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Юбилей.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>
@@ -2186,7 +2186,7 @@
   <entry>
     <title>А. П. Чехов - Ярмарка</title>
     <id>urn:ebook-search:book:А. П. Чехов - Ярмарка</id>
-    <updated>2026-02-20T18:44:01.783314Z</updated>
+    <updated>2026-02-21T03:25:29.777138Z</updated>
     <link href="../../d/А. П. Чехов - Ярмарка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>А. П. Чехов</name>

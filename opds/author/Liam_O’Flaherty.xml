@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Liam O’Flaherty</title>
   <id>urn:ebook-search:author:Liam O’Flaherty</id>
-  <updated>2026-02-20T18:44:01.734476Z</updated>
+  <updated>2026-02-21T03:25:29.738958Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Liam O’Flaherty - The Informer</title>
     <id>urn:ebook-search:book:Liam O’Flaherty - The Informer</id>
-    <updated>2026-02-20T18:44:01.734476Z</updated>
+    <updated>2026-02-21T03:25:29.738958Z</updated>
     <link href="../../d/Liam O’Flaherty - The Informer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Liam O’Flaherty</name>

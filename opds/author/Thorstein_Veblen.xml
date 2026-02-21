@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Thorstein Veblen</title>
   <id>urn:ebook-search:author:Thorstein Veblen</id>
-  <updated>2026-02-20T18:44:01.763062Z</updated>
+  <updated>2026-02-21T03:25:29.758646Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Thorstein Veblen - The Theory of the Leisure Class</title>
     <id>urn:ebook-search:book:Thorstein Veblen - The Theory of the Leisure Class</id>
-    <updated>2026-02-20T18:44:01.763062Z</updated>
+    <updated>2026-02-21T03:25:29.758646Z</updated>
     <link href="../../d/Thorstein Veblen - The Theory of the Leisure Class.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Thorstein Veblen</name>

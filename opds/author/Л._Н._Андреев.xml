@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Л. Н. Андреев</title>
   <id>urn:ebook-search:author:Л. Н. Андреев</id>
-  <updated>2026-02-20T18:44:01.791349Z</updated>
+  <updated>2026-02-21T03:25:29.786294Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Л. Н. Андреев - Ангелочек</title>
     <id>urn:ebook-search:book:Л. Н. Андреев - Ангелочек</id>
-    <updated>2026-02-20T18:44:01.791349Z</updated>
+    <updated>2026-02-21T03:25:29.786294Z</updated>
     <link href="../../d/Л. Н. Андреев - Ангелочек.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Андреев</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Л. Н. Андреев - Баргамот и Гараська</title>
     <id>urn:ebook-search:book:Л. Н. Андреев - Баргамот и Гараська</id>
-    <updated>2026-02-20T18:44:01.791349Z</updated>
+    <updated>2026-02-21T03:25:29.786294Z</updated>
     <link href="../../d/Л. Н. Андреев - Баргамот и Гараська.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Андреев</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Л. Н. Андреев - Большой шлем</title>
     <id>urn:ebook-search:book:Л. Н. Андреев - Большой шлем</id>
-    <updated>2026-02-20T18:44:01.791349Z</updated>
+    <updated>2026-02-21T03:25:29.786294Z</updated>
     <link href="../../d/Л. Н. Андреев - Большой шлем.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Андреев</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Л. Н. Андреев - Жизнь человека</title>
     <id>urn:ebook-search:book:Л. Н. Андреев - Жизнь человека</id>
-    <updated>2026-02-20T18:44:01.791349Z</updated>
+    <updated>2026-02-21T03:25:29.786294Z</updated>
     <link href="../../d/Л. Н. Андреев - Жизнь человека.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Андреев</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Л. Н. Андреев - Иуда Искариот</title>
     <id>urn:ebook-search:book:Л. Н. Андреев - Иуда Искариот</id>
-    <updated>2026-02-20T18:44:01.791349Z</updated>
+    <updated>2026-02-21T03:25:29.786294Z</updated>
     <link href="../../d/Л. Н. Андреев - Иуда Искариот.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Андреев</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Л. Н. Андреев - Красный смех</title>
     <id>urn:ebook-search:book:Л. Н. Андреев - Красный смех</id>
-    <updated>2026-02-20T18:44:01.791349Z</updated>
+    <updated>2026-02-21T03:25:29.786294Z</updated>
     <link href="../../d/Л. Н. Андреев - Красный смех.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Андреев</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Л. Н. Андреев - Кусака</title>
     <id>urn:ebook-search:book:Л. Н. Андреев - Кусака</id>
-    <updated>2026-02-20T18:44:01.791349Z</updated>
+    <updated>2026-02-21T03:25:29.786294Z</updated>
     <link href="../../d/Л. Н. Андреев - Кусака.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Андреев</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>Л. Н. Андреев - Петька на даче</title>
     <id>urn:ebook-search:book:Л. Н. Андреев - Петька на даче</id>
-    <updated>2026-02-20T18:44:01.791349Z</updated>
+    <updated>2026-02-21T03:25:29.786294Z</updated>
     <link href="../../d/Л. Н. Андреев - Петька на даче.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Л. Н. Андреев</name>

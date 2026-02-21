@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>И. С. Никитин</title>
   <id>urn:ebook-search:author:И. С. Никитин</id>
-  <updated>2026-02-20T18:44:01.798190Z</updated>
+  <updated>2026-02-21T03:25:29.794343Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>И. С. Никитин - 19 октября («Что это за утро! Серебряный иней...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - 19 октября («Что это за утро! Серебряный иней...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - 19 октября («Что это за утро! Серебряный иней...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>И. С. Никитин - «Ах! признаюся, воля Ваша...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Ах! признаюся, воля Ваша...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Ах! признаюся, воля Ваша...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>И. С. Никитин - «Бывают светлые мгновенья...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Бывают светлые мгновенья...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Бывают светлые мгновенья...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>И. С. Никитин - «Вечер ясен и тих...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Вечер ясен и тих...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Вечер ясен и тих...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>И. С. Никитин - «Взгляни: небесный свод безоблачен над нами...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Взгляни: небесный свод безоблачен над нами...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Взгляни: небесный свод безоблачен над нами...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>И. С. Никитин - «День и ночь с тобой жду встречи...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «День и ночь с тобой жду встречи...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «День и ночь с тобой жду встречи...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>И. С. Никитин - «За какую ж вину и беду...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «За какую ж вину и беду...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «За какую ж вину и беду...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>И. С. Никитин - «Затеплились звезды одна за другою...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Затеплились звезды одна за другою...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Затеплились звезды одна за другою...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>И. С. Никитин - «Над полями вечерняя зорька горит...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Над полями вечерняя зорька горит...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Над полями вечерняя зорька горит...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>И. С. Никитин - «Над светлым озером пурпуровой зари...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Над светлым озером пурпуровой зари...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Над светлым озером пурпуровой зари...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -98,7 +98,7 @@
   <entry>
     <title>И. С. Никитин - «Наскучив роскошью блистательных забав...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Наскучив роскошью блистательных забав...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Наскучив роскошью блистательных забав...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -107,7 +107,7 @@
   <entry>
     <title>И. С. Никитин - «Не вини одинокую долю...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Не вини одинокую долю...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Не вини одинокую долю...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -116,7 +116,7 @@
   <entry>
     <title>И. С. Никитин - «Не повторяй холодной укоризны...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Не повторяй холодной укоризны...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Не повторяй холодной укоризны...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -125,7 +125,7 @@
   <entry>
     <title>И. С. Никитин - «Не смейся, родимый кормилец!..»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Не смейся, родимый кормилец!..»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Не смейся, родимый кормилец!..».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -134,7 +134,7 @@
   <entry>
     <title>И. С. Никитин - «Не широк мой двор...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Не широк мой двор...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Не широк мой двор...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -143,7 +143,7 @@
   <entry>
     <title>И. С. Никитин - «О, сколько раз я проклинал...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «О, сколько раз я проклинал...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «О, сколько раз я проклинал...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -152,7 +152,7 @@
   <entry>
     <title>И. С. Никитин - «Отвяжися, тоска...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Отвяжися, тоска...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Отвяжися, тоска...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -161,7 +161,7 @@
   <entry>
     <title>И. С. Никитин - «Погуляла вода...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Погуляла вода...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Погуляла вода...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -170,7 +170,7 @@
   <entry>
     <title>И. С. Никитин - «Помню я: бывало, няня...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Помню я: бывало, няня...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Помню я: бывало, няня...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -179,7 +179,7 @@
   <entry>
     <title>И. С. Никитин - «Пошутила я — и другу слово молвила...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Пошутила я — и другу слово молвила...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Пошутила я — и другу слово молвила...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -188,7 +188,7 @@
   <entry>
     <title>И. С. Никитин - «Привет мой вам, угрюмый мрак ночей...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Привет мой вам, угрюмый мрак ночей...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Привет мой вам, угрюмый мрак ночей...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -197,7 +197,7 @@
   <entry>
     <title>И. С. Никитин - «С суровой долею я рано подружился...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «С суровой долею я рано подружился...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «С суровой долею я рано подружился...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -206,7 +206,7 @@
   <entry>
     <title>И. С. Никитин - «С тех пор как мир наш необъятный...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «С тех пор как мир наш необъятный...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «С тех пор как мир наш необъятный...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -215,7 +215,7 @@
   <entry>
     <title>И. С. Никитин - «Село замолчало; безлюдны дороги...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Село замолчало; безлюдны дороги...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Село замолчало; безлюдны дороги...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -224,7 +224,7 @@
   <entry>
     <title>И. С. Никитин - «Сибирь!.. Напишешь это слово...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Сибирь!.. Напишешь это слово...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Сибирь!.. Напишешь это слово...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -233,7 +233,7 @@
   <entry>
     <title>И. С. Никитин - «Суровый холод жизни строгой...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Суровый холод жизни строгой...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Суровый холод жизни строгой...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -242,7 +242,7 @@
   <entry>
     <title>И. С. Никитин - «У кого нет думы...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «У кого нет думы...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «У кого нет думы...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -251,7 +251,7 @@
   <entry>
     <title>И. С. Никитин - «Чуть сошлись мы — друг друга узнали...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Чуть сошлись мы — друг друга узнали...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Чуть сошлись мы — друг друга узнали...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -260,7 +260,7 @@
   <entry>
     <title>И. С. Никитин - «Я помню счастливые годы...»</title>
     <id>urn:ebook-search:book:И. С. Никитин - «Я помню счастливые годы...»</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - «Я помню счастливые годы...».epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -269,7 +269,7 @@
   <entry>
     <title>И. С. Никитин - В лесу («Привет тебе, знакомец мой кудрявый!..»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - В лесу («Привет тебе, знакомец мой кудрявый!..»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - В лесу («Привет тебе, знакомец мой кудрявый!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -278,7 +278,7 @@
   <entry>
     <title>И. С. Никитин - Война за веру («Как волны грозные, встают сыны Востока...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Война за веру («Как волны грозные, встают сыны Востока...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Война за веру («Как волны грозные, встают сыны Востока...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -287,7 +287,7 @@
   <entry>
     <title>И. С. Никитин - Встреча зимы («Поутру вчера дождь...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Встреча зимы («Поутру вчера дождь...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Встреча зимы («Поутру вчера дождь...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -296,7 +296,7 @@
   <entry>
     <title>И. С. Никитин - Выезд троечника («Ну, кажись, я готов...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Выезд троечника («Ну, кажись, я готов...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Выезд троечника («Ну, кажись, я готов...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -305,7 +305,7 @@
   <entry>
     <title>И. С. Никитин - Дележ («Да, сударь мой, нередко вот бывает...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Дележ («Да, сударь мой, нередко вот бывает...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Дележ («Да, сударь мой, нередко вот бывает...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -314,7 +314,7 @@
   <entry>
     <title>И. С. Никитин - Друг («Пусть снова дни мои мне горе принесут...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Друг («Пусть снова дни мои мне горе принесут...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Друг («Пусть снова дни мои мне горе принесут...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -323,7 +323,7 @@
   <entry>
     <title>И. С. Никитин - Елка («Одиноко вырастала...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Елка («Одиноко вырастала...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Елка («Одиноко вырастала...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -332,7 +332,7 @@
   <entry>
     <title>И. С. Никитин - Жена ямщика («Жгуч мороз трескучий...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Жена ямщика («Жгуч мороз трескучий...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Жена ямщика («Жгуч мороз трескучий...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -341,7 +341,7 @@
   <entry>
     <title>И. С. Никитин - Жизнь и смерть («Невидимой цепью...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Жизнь и смерть («Невидимой цепью...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Жизнь и смерть («Невидимой цепью...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -350,7 +350,7 @@
   <entry>
     <title>И. С. Никитин - Засохшая береза («В глуши на почве раскаленной...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Засохшая береза («В глуши на почве раскаленной...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Засохшая береза («В глуши на почве раскаленной...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -359,7 +359,7 @@
   <entry>
     <title>И. С. Никитин - Зимняя ночь в деревне («Весело сияет...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Зимняя ночь в деревне («Весело сияет...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Зимняя ночь в деревне («Весело сияет...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -368,7 +368,7 @@
   <entry>
     <title>И. С. Никитин - Измена («Ты взойди, взойди...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Измена («Ты взойди, взойди...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Измена («Ты взойди, взойди...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -377,7 +377,7 @@
   <entry>
     <title>И. С. Никитин - Кладбище («Как часто я с глубокой думой...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Кладбище («Как часто я с глубокой думой...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Кладбище («Как часто я с глубокой думой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -386,7 +386,7 @@
   <entry>
     <title>И. С. Никитин - Моление о чаше («День ясный тихо догорает...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Моление о чаше («День ясный тихо догорает...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Моление о чаше («День ясный тихо догорает...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -395,7 +395,7 @@
   <entry>
     <title>И. С. Никитин - Молитва («О боже! дай мне воли силу...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Молитва («О боже! дай мне воли силу...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Молитва («О боже! дай мне воли силу...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -404,7 +404,7 @@
   <entry>
     <title>И. С. Никитин - Молитва дитяти («Молись, дитя: сомненья камень...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Молитва дитяти («Молись, дитя: сомненья камень...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Молитва дитяти («Молись, дитя: сомненья камень...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -413,7 +413,7 @@
   <entry>
     <title>И. С. Никитин - Музыка леса («Без конца поля...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Музыка леса («Без конца поля...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Музыка леса («Без конца поля...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -422,7 +422,7 @@
   <entry>
     <title>И. С. Никитин - Мщение («Поднялась, шумит...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Мщение («Поднялась, шумит...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Мщение («Поднялась, шумит...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -431,7 +431,7 @@
   <entry>
     <title>И. С. Никитин - На взятие Карса («Во храмы, братьи! на колени!..»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - На взятие Карса («Во храмы, братьи! на колени!..»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - На взятие Карса («Во храмы, братьи! на колени!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -440,7 +440,7 @@
   <entry>
     <title>И. С. Никитин - Наследство («Не осталося...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Наследство («Не осталося...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Наследство («Не осталося...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -449,7 +449,7 @@
   <entry>
     <title>И. С. Никитин - Николаю Ивановичу Второву («Как другу милому, единственному другу...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Николаю Ивановичу Второву («Как другу милому, единственному другу...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Николаю Ивановичу Второву («Как другу милому, единственному другу...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -458,7 +458,7 @@
   <entry>
     <title>И. С. Никитин - Новая борьба («Опять призыв к войне! Еще на Русь святую...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Новая борьба («Опять призыв к войне! Еще на Русь святую...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Новая борьба («Опять призыв к войне! Еще на Русь святую...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -467,7 +467,7 @@
   <entry>
     <title>И. С. Никитин - Новая утрата («Давно ль повеселел мой уголок печальный...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Новая утрата («Давно ль повеселел мой уголок печальный...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Новая утрата («Давно ль повеселел мой уголок печальный...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -476,7 +476,7 @@
   <entry>
     <title>И. С. Никитин - Новый завет («Измученный жизнью суровой...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Новый завет («Измученный жизнью суровой...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Новый завет («Измученный жизнью суровой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -485,7 +485,7 @@
   <entry>
     <title>И. С. Никитин - Ночлег извозчиков («Далёко, далёко раскинулось поле...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Ночлег извозчиков («Далёко, далёко раскинулось поле...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Ночлег извозчиков («Далёко, далёко раскинулось поле...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -494,7 +494,7 @@
   <entry>
     <title>И. С. Никитин - Нужда («В худой час, не спросясь...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Нужда («В худой час, не спросясь...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Нужда («В худой час, не спросясь...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -503,7 +503,7 @@
   <entry>
     <title>И. С. Никитин - Пахарь («Солнце за день нагулялося...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Пахарь («Солнце за день нагулялося...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Пахарь («Солнце за день нагулялося...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -512,7 +512,7 @@
   <entry>
     <title>И. С. Никитин - Певцу («Не пой о счастии, певец, не утешай...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Певцу («Не пой о счастии, певец, не утешай...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Певцу («Не пой о счастии, певец, не утешай...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -521,7 +521,7 @@
   <entry>
     <title>И. С. Никитин - Песня («Зашумела, разгулялась...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Песня («Зашумела, разгулялась...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Песня («Зашумела, разгулялась...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -530,7 +530,7 @@
   <entry>
     <title>И. С. Никитин - Песня («Ковыль, моя травушка, ковыль бесприютная...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Песня («Ковыль, моя травушка, ковыль бесприютная...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Песня («Ковыль, моя травушка, ковыль бесприютная...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -539,7 +539,7 @@
   <entry>
     <title>И. С. Никитин - Последнее свиданье («„Зачем это ты, матушка...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Последнее свиданье («„Зачем это ты, матушка...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Последнее свиданье («„Зачем это ты, матушка...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -548,7 +548,7 @@
   <entry>
     <title>И. С. Никитин - Поэту («Не говори, что жизнь ничтожна...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Поэту («Не говори, что жизнь ничтожна...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Поэту («Не говори, что жизнь ничтожна...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -557,7 +557,7 @@
   <entry>
     <title>И. С. Никитин - Развалины («Как безыменная могила...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Развалины («Как безыменная могила...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Развалины («Как безыменная могила...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -566,7 +566,7 @@
   <entry>
     <title>И. С. Никитин - Рассказ моего знакомого («Позвольте-ко... Сысой... Сысой...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Рассказ моего знакомого («Позвольте-ко... Сысой... Сысой...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Рассказ моего знакомого («Позвольте-ко... Сысой... Сысой...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -575,7 +575,7 @@
   <entry>
     <title>И. С. Никитин - Русь («Под большим шатром...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Русь («Под большим шатром...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Русь («Под большим шатром...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -584,7 +584,7 @@
   <entry>
     <title>И. С. Никитин - Сладость молитвы («Бывают минуты, — тоскою убитый...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Сладость молитвы («Бывают минуты, — тоскою убитый...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Сладость молитвы («Бывают минуты, — тоскою убитый...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -593,7 +593,7 @@
   <entry>
     <title>И. С. Никитин - Слепой гусляр («Давно уж не вижу я солнца и неба...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Слепой гусляр («Давно уж не вижу я солнца и неба...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Слепой гусляр («Давно уж не вижу я солнца и неба...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -602,7 +602,7 @@
   <entry>
     <title>И. С. Никитин - Ссора («„Не пора ль, Пантелей, постыдиться людей...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Ссора («„Не пора ль, Пантелей, постыдиться людей...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Ссора («„Не пора ль, Пантелей, постыдиться людей...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -611,7 +611,7 @@
   <entry>
     <title>И. С. Никитин - Старик другоженец («Удружил ты мне, сват, молодою женой!..»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Старик другоженец («Удружил ты мне, сват, молодою женой!..»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Старик другоженец («Удружил ты мне, сват, молодою женой!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -620,7 +620,7 @@
   <entry>
     <title>И. С. Никитин - Степная дорога («Спокойно небо голубое...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Степная дорога («Спокойно небо голубое...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Степная дорога («Спокойно небо голубое...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -629,7 +629,7 @@
   <entry>
     <title>И. С. Никитин - Три встречи («Помню я вечер весенний...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Три встречи («Помню я вечер весенний...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Три встречи («Помню я вечер весенний...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -638,7 +638,7 @@
   <entry>
     <title>И. С. Никитин - Уличная встреча («Словно безлюдный, спокоен весь город...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Уличная встреча («Словно безлюдный, спокоен весь город...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Уличная встреча («Словно безлюдный, спокоен весь город...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -647,7 +647,7 @@
   <entry>
     <title>И. С. Никитин - Упрямый отец («„Ты хоть плачь, хоть не плачь — быть по-моему!..»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Упрямый отец («„Ты хоть плачь, хоть не плачь — быть по-моему!..»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Упрямый отец («„Ты хоть плачь, хоть не плачь — быть по-моему!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -656,7 +656,7 @@
   <entry>
     <title>И. С. Никитин - Успокоение («О, ум мой холодный!..»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Успокоение («О, ум мой холодный!..»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Успокоение («О, ум мой холодный!..»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -665,7 +665,7 @@
   <entry>
     <title>И. С. Никитин - Утро («Звезды меркнут и гаснут. В огне облака...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Утро («Звезды меркнут и гаснут. В огне облака...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Утро («Звезды меркнут и гаснут. В огне облака...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -674,7 +674,7 @@
   <entry>
     <title>И. С. Никитин - Утро на берегу озера («Ясно утро. Тихо веет...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Утро на берегу озера («Ясно утро. Тихо веет...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Утро на берегу озера («Ясно утро. Тихо веет...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -683,7 +683,7 @@
   <entry>
     <title>И. С. Никитин - Художнику («Я знаю час невыразимой муки...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - Художнику («Я знаю час невыразимой муки...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - Художнику («Я знаю час невыразимой муки...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -692,7 +692,7 @@
   <entry>
     <title>И. С. Никитин - ⟨В альбом М. И. Жюно⟩ («И дик и невесел наш север холодный...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - ⟨В альбом М. И. Жюно⟩ («И дик и невесел наш север холодный...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - ⟨В альбом М. И. Жюно⟩ («И дик и невесел наш север холодный...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -701,7 +701,7 @@
   <entry>
     <title>И. С. Никитин - ⟨В альбом Н. В. Плотниковой⟩ («Прохладно. Все окна открыты...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - ⟨В альбом Н. В. Плотниковой⟩ («Прохладно. Все окна открыты...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - ⟨В альбом Н. В. Плотниковой⟩ («Прохладно. Все окна открыты...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>
@@ -710,7 +710,7 @@
   <entry>
     <title>И. С. Никитин - ⟨П. И. Савостьянову⟩ («Не спится мне. Окно отворено...»)</title>
     <id>urn:ebook-search:book:И. С. Никитин - ⟨П. И. Савостьянову⟩ («Не спится мне. Окно отворено...»)</id>
-    <updated>2026-02-20T18:44:01.798190Z</updated>
+    <updated>2026-02-21T03:25:29.794343Z</updated>
     <link href="../../d/И. С. Никитин - ⟨П. И. Савостьянову⟩ («Не спится мне. Окно отворено...»).epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>И. С. Никитин</name>

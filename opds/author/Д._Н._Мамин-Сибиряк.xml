@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Д. Н. Мамин-Сибиряк</title>
   <id>urn:ebook-search:author:Д. Н. Мамин-Сибиряк</id>
-  <updated>2026-02-20T18:44:01.798448Z</updated>
+  <updated>2026-02-21T03:25:29.794669Z</updated>
   <link rel="start" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <link rel="up" href="../index.xml" type="application/atom+xml;profile=opds-catalog"/>
   <entry>
     <title>Д. Н. Мамин-Сибиряк - Ак-Бозат</title>
     <id>urn:ebook-search:book:Д. Н. Мамин-Сибиряк - Ак-Бозат</id>
-    <updated>2026-02-20T18:44:01.798448Z</updated>
+    <updated>2026-02-21T03:25:29.794669Z</updated>
     <link href="../../d/Д. Н. Мамин-Сибиряк - Ак-Бозат.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Д. Н. Мамин-Сибиряк</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Д. Н. Мамин-Сибиряк - Богач и Еремка</title>
     <id>urn:ebook-search:book:Д. Н. Мамин-Сибиряк - Богач и Еремка</id>
-    <updated>2026-02-20T18:44:01.798448Z</updated>
+    <updated>2026-02-21T03:25:29.794669Z</updated>
     <link href="../../d/Д. Н. Мамин-Сибиряк - Богач и Еремка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Д. Н. Мамин-Сибиряк</name>
@@ -26,7 +26,7 @@
   <entry>
     <title>Д. Н. Мамин-Сибиряк - В глуши</title>
     <id>urn:ebook-search:book:Д. Н. Мамин-Сибиряк - В глуши</id>
-    <updated>2026-02-20T18:44:01.798448Z</updated>
+    <updated>2026-02-21T03:25:29.794669Z</updated>
     <link href="../../d/Д. Н. Мамин-Сибиряк - В глуши.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Д. Н. Мамин-Сибиряк</name>
@@ -35,7 +35,7 @@
   <entry>
     <title>Д. Н. Мамин-Сибиряк - Вертел</title>
     <id>urn:ebook-search:book:Д. Н. Мамин-Сибиряк - Вертел</id>
-    <updated>2026-02-20T18:44:01.798448Z</updated>
+    <updated>2026-02-21T03:25:29.794669Z</updated>
     <link href="../../d/Д. Н. Мамин-Сибиряк - Вертел.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Д. Н. Мамин-Сибиряк</name>
@@ -44,7 +44,7 @@
   <entry>
     <title>Д. Н. Мамин-Сибиряк - Емеля-охотник</title>
     <id>urn:ebook-search:book:Д. Н. Мамин-Сибиряк - Емеля-охотник</id>
-    <updated>2026-02-20T18:44:01.798448Z</updated>
+    <updated>2026-02-21T03:25:29.794669Z</updated>
     <link href="../../d/Д. Н. Мамин-Сибиряк - Емеля-охотник.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Д. Н. Мамин-Сибиряк</name>
@@ -53,7 +53,7 @@
   <entry>
     <title>Д. Н. Мамин-Сибиряк - Зимовье на Студеной</title>
     <id>urn:ebook-search:book:Д. Н. Мамин-Сибиряк - Зимовье на Студеной</id>
-    <updated>2026-02-20T18:44:01.798448Z</updated>
+    <updated>2026-02-21T03:25:29.794669Z</updated>
     <link href="../../d/Д. Н. Мамин-Сибиряк - Зимовье на Студеной.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Д. Н. Мамин-Сибиряк</name>
@@ -62,7 +62,7 @@
   <entry>
     <title>Д. Н. Мамин-Сибиряк - Постойко</title>
     <id>urn:ebook-search:book:Д. Н. Мамин-Сибиряк - Постойко</id>
-    <updated>2026-02-20T18:44:01.798448Z</updated>
+    <updated>2026-02-21T03:25:29.794669Z</updated>
     <link href="../../d/Д. Н. Мамин-Сибиряк - Постойко.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Д. Н. Мамин-Сибиряк</name>
@@ -71,7 +71,7 @@
   <entry>
     <title>Д. Н. Мамин-Сибиряк - Приемыш</title>
     <id>urn:ebook-search:book:Д. Н. Мамин-Сибиряк - Приемыш</id>
-    <updated>2026-02-20T18:44:01.798448Z</updated>
+    <updated>2026-02-21T03:25:29.794669Z</updated>
     <link href="../../d/Д. Н. Мамин-Сибиряк - Приемыш.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Д. Н. Мамин-Сибиряк</name>
@@ -80,7 +80,7 @@
   <entry>
     <title>Д. Н. Мамин-Сибиряк - Серая шейка</title>
     <id>urn:ebook-search:book:Д. Н. Мамин-Сибиряк - Серая шейка</id>
-    <updated>2026-02-20T18:44:01.798448Z</updated>
+    <updated>2026-02-21T03:25:29.794669Z</updated>
     <link href="../../d/Д. Н. Мамин-Сибиряк - Серая шейка.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Д. Н. Мамин-Сибиряк</name>
@@ -89,7 +89,7 @@
   <entry>
     <title>Д. Н. Мамин-Сибиряк - Старый воробей</title>
     <id>urn:ebook-search:book:Д. Н. Мамин-Сибиряк - Старый воробей</id>
-    <updated>2026-02-20T18:44:01.798448Z</updated>
+    <updated>2026-02-21T03:25:29.794669Z</updated>
     <link href="../../d/Д. Н. Мамин-Сибиряк - Старый воробей.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
     <author>
       <name>Д. Н. Мамин-Сибиряк</name>
