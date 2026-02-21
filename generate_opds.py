@@ -3,8 +3,8 @@ from argparse import ArgumentParser
 from collections import defaultdict
 from xml.etree import ElementTree as ET
 from datetime import datetime
-import logging
 from pathlib import Path
+import shutil
 
 ATOM_NS = "http://www.w3.org/2005/Atom"
 OPDS_NS = "http://opds-spec.org/2010/catalog"
@@ -83,7 +83,7 @@ def generate_author_feeds(output_dir, books_by_author):
         feed = create_feed_element(author, f"urn:ebook-search:author:{author}")
 
         ET.SubElement(feed, "link", rel="start", href="../index.xml", type=CATALOG_MEDIA_TYPE)
-        ET.SubElement(feed, "link", rel="up", href="../index.xml", type=CATALOG_MEDIA_TYPE)
+        ET.SubElement(feed, "link", rel="up", href="index.xml", type=CATALOG_MEDIA_TYPE)
 
         for title, meta in sorted(books, key=lambda x: x[0]):
             filename = truncate_filename(f"{title}.epub")
@@ -107,7 +107,7 @@ def generate_source_feeds(output_dir, books_by_source):
         feed = create_feed_element(source.value, f"urn:ebook-search:source:{source.value}")
 
         ET.SubElement(feed, "link", rel="start", href="../index.xml", type=CATALOG_MEDIA_TYPE)
-        ET.SubElement(feed, "link", rel="up", href="../index.xml", type=CATALOG_MEDIA_TYPE)
+        ET.SubElement(feed, "link", rel="up", href="index.xml", type=CATALOG_MEDIA_TYPE)
 
         for title, meta in sorted(books, key=lambda x: x[0]):
             filename = truncate_filename(f"{title}.epub")
@@ -122,20 +122,18 @@ def generate_source_feeds(output_dir, books_by_source):
 
         print(f"Generated source feed: {output_file}")
 
-def generate_nav_feed(output_file, groups, section_type):
+def generate_nav_feed(output_file):
     feed = create_feed_element("Книги", "urn:ebook-search:nav")
 
     ET.SubElement(feed, "link", rel="start", href="index.xml", type=CATALOG_MEDIA_TYPE)
 
-    for name in sorted(groups.keys()):
-        slug = slugify(name)
-        href = f"{section_type}/{slug}.xml"
-        ET.SubElement(feed, "link", href=href, title=name, type=CATALOG_MEDIA_TYPE, rel="subsection")
+    ET.SubElement(feed, "link", href="author/index.xml", title="By author", type=CATALOG_MEDIA_TYPE, rel="subsection")
+    ET.SubElement(feed, "link", href="source/index.xml", title="By source", type=CATALOG_MEDIA_TYPE, rel="subsection")
 
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(feed_to_xml_string(feed))
 
-    print(f"Generated navigation feed: {output_file}")
+    print(f"Generated top-level navigation: {output_file}")
 
 db = Database.load(args.db)
 print(f"Loaded database from {args.db} ({len(db.books)} books)")
@@ -146,8 +144,14 @@ books_by_source = group_books_by_source(db)
 output_dir = Path(args.output)
 output_dir.mkdir(parents=True, exist_ok=True)
 
-generate_nav_feed(output_dir / "index.xml", books_by_author, "author")
+generate_nav_feed(output_dir / "index.xml")
+
+author_dir = output_dir / "author"
+author_dir.mkdir(parents=True, exist_ok=True)
 generate_author_feeds(output_dir, books_by_author)
+
+source_dir = output_dir / "source"
+source_dir.mkdir(parents=True, exist_ok=True)
 generate_source_feeds(output_dir, books_by_source)
 
 print(f"OPDS generation complete: {len(books_by_author)} authors, {len(books_by_source)} sources")
